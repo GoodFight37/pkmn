@@ -1,0 +1,374 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4549756905088414999
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5501790225210157139
+  },
+  "m_Name": "",
+  "_swingEffects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2411729937543989993
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6148896980250528489
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 667783069694495465
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6708297990764885271
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3027505783106177769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1030869011209975063
+    }
+  ],
+  "_swingRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7424968541893429993
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7364489884586543849
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2910781948222769897
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5907026621905106199
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4614209751200560407
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8851215811773003031
+    }
+  ],
+  "_pinchFinger1": {
+    "m_FileID": 0,
+    "m_PathID": -3822766527081936151
+  },
+  "_pinchFinger2": {
+    "m_FileID": 0,
+    "m_PathID": -9020064659520877847
+  },
+  "_swingColor": {
+    "m_Mode": 1,
+    "m_GradientMin": {
+      "key0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 0,
+      "ctime3": 0,
+      "ctime4": 0,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_ColorSpace": -1,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    },
+    "m_GradientMax": {
+      "key0": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.908308,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.07823324,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.97092485,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "key4": {
+        "r": 0.01234436,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 1.0,
+        "g": 0.97356844,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 1.0,
+        "g": 0.56433904,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 10478,
+      "ctime2": 24004,
+      "ctime3": 35054,
+      "ctime4": 46484,
+      "ctime5": 55629,
+      "ctime6": 65535,
+      "ctime7": 65535,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 0,
+      "atime3": 0,
+      "atime4": 0,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_ColorSpace": -1,
+      "m_NumColorKeys": 7,
+      "m_NumAlphaKeys": 2
+    },
+    "m_ColorMin": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "m_ColorMax": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    }
+  },
+  "_swingColorDuration": 5.0,
+  "_backPackLight": {
+    "m_FileID": 0,
+    "m_PathID": 242490694415092457
+  },
+  "_packLightAddCurve": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 1.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 34.75177,
+          "outSlope": 34.75177,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.033333335
+        },
+        {
+          "time": 0.029767217,
+          "value": 0.8814601,
+          "inSlope": 4.628834,
+          "outSlope": 4.628834,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.335543
+        },
+        {
+          "time": 0.1,
+          "value": 1.0,
+          "inSlope": 0.29096246,
+          "outSlope": 0.29096246,
+          "weightedMode": 0,
+          "inWeight": 0.40249154,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 1.0
+  },
+  "_backPackLightFadeIn": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 1.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 34.75177,
+          "outSlope": 34.75177,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.033333335
+        },
+        {
+          "time": 0.029767217,
+          "value": 0.8814601,
+          "inSlope": 4.628834,
+          "outSlope": 4.628834,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.335543
+        },
+        {
+          "time": 0.1,
+          "value": 1.0,
+          "inSlope": 0.29096246,
+          "outSlope": 0.29096246,
+          "weightedMode": 0,
+          "inWeight": 0.40249154,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 0.4
+  },
+  "_backPackLightFadeOut": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 1.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": -1.0,
+          "outSlope": -1.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inSlope": -1.0,
+          "outSlope": -1.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 0.2
+  },
+  "_finishLine": {
+    "m_FileID": 0,
+    "m_PathID": -1181998763525928215
+  },
+  "_parameters": {
+    "m_FileID": 3,
+    "m_PathID": 3816147812738210372
+  },
+  "_blackBackView": {
+    "m_FileID": 0,
+    "m_PathID": 5414144759447685865
+  },
+  "_pinchFingerZOffset": 0.0
+}

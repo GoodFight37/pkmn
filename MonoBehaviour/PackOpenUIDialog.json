@@ -1,0 +1,169 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2352183081297078276
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8466108827457965546
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7048692365383538684
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_skipButton": {
+    "m_FileID": 0,
+    "m_PathID": 7953442668370892796
+  },
+  "_fastForwardButton": {
+    "m_FileID": 0,
+    "m_PathID": 1030422145876531196
+  },
+  "_tapTextObject": {
+    "m_FileID": 0,
+    "m_PathID": -1724554856964777988
+  },
+  "_openTextObject": {
+    "m_FileID": 0,
+    "m_PathID": 407873662104868860
+  },
+  "_textShowAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -3200717577255281097
+  },
+  "_textHideAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -8697131181576735291
+  },
+  "_loadingIcon": {
+    "m_FileID": 0,
+    "m_PathID": 34352722989520892
+  },
+  "_rarityView1": {
+    "m_FileID": 0,
+    "m_PathID": 8830512536757901308
+  },
+  "_rarityView2": {
+    "m_FileID": 0,
+    "m_PathID": -1450839661209806852
+  },
+  "_rarityView3": {
+    "m_FileID": 0,
+    "m_PathID": -7587950173255264260
+  },
+  "_rarityView4": {
+    "m_FileID": 0,
+    "m_PathID": 1302212283068749820
+  },
+  "_badgeTimeline": {
+    "m_FileID": 0,
+    "m_PathID": -6423022339740493828
+  },
+  "_rarityTimelineC": {
+    "m_FileID": 0,
+    "m_PathID": 1791625748425447420
+  },
+  "_rarityTimelineU": {
+    "m_FileID": 0,
+    "m_PathID": -2728798468959594500
+  },
+  "_rarityTimelineR": {
+    "m_FileID": 0,
+    "m_PathID": 2245379285751994364
+  },
+  "_rarityTimelineRR": {
+    "m_FileID": 0,
+    "m_PathID": 5805942429745518588
+  },
+  "_rarityTimelineSA": {
+    "m_FileID": 0,
+    "m_PathID": -2812206524221319172
+  },
+  "_rarityTimelineSSA": {
+    "m_FileID": 0,
+    "m_PathID": 4435946675593451516
+  },
+  "_rarityTimelineSR": {
+    "m_FileID": 0,
+    "m_PathID": 3427805505870534652
+  },
+  "_rarityTimelineIM": {
+    "m_FileID": 0,
+    "m_PathID": 8257606650216749052
+  },
+  "_rarityTimelineUR": {
+    "m_FileID": 0,
+    "m_PathID": -259468863707441156
+  },
+  "_rarityTimelineS": {
+    "m_FileID": 0,
+    "m_PathID": -4260160724107880452
+  },
+  "_rarityTimelineSSR": {
+    "m_FileID": 0,
+    "m_PathID": -6082463615800207364
+  },
+  "_newMarkView": {
+    "m_FileID": 0,
+    "m_PathID": -6465845276325799940
+  },
+  "_packCardCountView": {
+    "m_FileID": 0,
+    "m_PathID": 1163164815142590460
+  },
+  "_swipeGuideObject": {
+    "m_FileID": 0,
+    "m_PathID": 3280440754680141820
+  },
+  "_tutorialSwipeGuideObject": {
+    "m_FileID": 0,
+    "m_PathID": 1753319870280013820
+  },
+  "_immersiveCardView": {
+    "m_FileID": 0,
+    "m_PathID": 7382563094905198588
+  },
+  "_footer": {
+    "m_FileID": 0,
+    "m_PathID": -5374591969074767876
+  },
+  "_immersiveControlView": {
+    "m_FileID": 0,
+    "m_PathID": 8053557072429684732
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -272097595775640186
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2149394891710168003
+  },
+  "m_Name": "",
+  "_animCurveSettings": {
+    "m_FileID": 3,
+    "m_PathID": 6433345847792838671
+  },
+  "_animCurveScale": 0.73,
+  "_animStartDelayRangeA": 0.0,
+  "_animStartDelayRangeB": 0.01,
+  "_changeRangeStart": 0.01,
+  "_changeRangeEnd": 0.015,
+  "_zuzuGoalAnimThreshold": 0.033,
+  "_goalThreshold": 0.006,
+  "_scrolls": [
+    0.7,
+    -0.5,
+    0.9,
+    -0.8,
+    0.5,
+    -0.3,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "_scrollLength": 0.32,
+  "_shapeChangeSpeed": 0.3,
+  "_dot2Multiply": 0.35,
+  "_accellRatio": 7.1,
+  "_diffOffset": 0.17,
+  "_shakeAIntensity": {
+    "x": 0.02,
+    "y": 0.02
+  },
+  "_shakeAFrequency": {
+    "x": 0.1,
+    "y": 0.02
+  },
+  "_shakeBIntensity": {
+    "x": 0.025,
+    "y": 0.025
+  },
+  "_shakeBFrequency": {
+    "x": 0.05,
+    "y": 0.01
+  },
+  "_shakeSpeed": 200.0,
+  "_noiseScale": 100.0,
+  "_sandParticleSystems": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "_sand2ParticleSystems": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "_frictionScale": 2.2,
+  "_maxFriction": 1.9,
+  "_startSandBaseEmissionRate": 10.0,
+  "_middleSandBaseEmissionRate": 3.0,
+  "_endSandBaseEmissionRate": 3.0
+}

@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_AttachEnergyFromZone",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4453996639566229016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4101527326922960408
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 130456637062442520
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7253072845910446568
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

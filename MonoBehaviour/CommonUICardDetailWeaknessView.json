@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2315767955494083614
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7017019808838471067
+  },
+  "m_Name": "",
+  "_pokemonWeaknessImage": {
+    "m_FileID": 0,
+    "m_PathID": 8658283074888721378
+  },
+  "_additionalDamageText": {
+    "m_FileID": 0,
+    "m_PathID": -1343977045137824798
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8397986687791907994
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2677829897415049531
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_buttonToggleGroup": {
+    "m_FileID": 0,
+    "m_PathID": -7700055182642723686
+  },
+  "_homeButton": {
+    "m_FileID": 0,
+    "m_PathID": -6183995702377986918
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": -4967143686159416166
+  },
+  "_socialButton": {
+    "m_FileID": 0,
+    "m_PathID": 3347359799833642138
+  },
+  "_battleButton": {
+    "m_FileID": 0,
+    "m_PathID": 247214082244789402
+  },
+  "_menuButton": {
+    "m_FileID": 0,
+    "m_PathID": -4000230660227480422
+  },
+  "_homeNewArrivalIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6243946025945217894
+  },
+  "_socialNewArrivalIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2119846568811707238
+  },
+  "_battleNewArrivalIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2474978149832997734
+  },
+  "_tradeNotificationIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4258259614617582438
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": 6847099225260016794
+  }
+}

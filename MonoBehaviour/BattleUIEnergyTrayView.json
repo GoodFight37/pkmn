@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7944138062519422692
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -9187297064870922325
+  },
+  "m_Name": "",
+  "_lineRoots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3206146850797367580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 640871795988909796
+    }
+  ],
+  "_cellCountPerLine": 5,
+  "_cellPrefab": {
+    "m_FileID": 13,
+    "m_PathID": -105220743405868141
+  },
+  "_droppableArea": {
+    "m_FileID": 0,
+    "m_PathID": -5461884288621588764
+  },
+  "_attentionElement": {
+    "m_FileID": 0,
+    "m_PathID": -6094559139239997724
+  },
+  "_baseImage": {
+    "m_FileID": 0,
+    "m_PathID": -6390162055723200796
+  },
+  "_onCardTraySprite": {
+    "m_FileID": 2,
+    "m_PathID": -8739839273558210531
+  },
+  "_outOfCardTraySprite": {
+    "m_FileID": 2,
+    "m_PathID": 4824314304104303084
+  }
+}

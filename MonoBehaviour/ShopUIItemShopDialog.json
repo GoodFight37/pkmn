@@ -1,0 +1,271 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6080096024391700501
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2678273933910498069
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -732174819555422187
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -732174819555422187
+  },
+  "_noticeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6085374911352590357
+  },
+  "_pokeGoldShopButton": {
+    "m_FileID": 0,
+    "m_PathID": -7545742585172209643
+  },
+  "_currResourceElm": {
+    "m_FileID": 0,
+    "m_PathID": 2103199114928836629
+  },
+  "_currResourceImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -5727471368331603947
+  },
+  "_currResourceTxt": {
+    "m_FileID": 0,
+    "m_PathID": -7411116362284150763
+  },
+  "_resourceDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 5710466032607416341
+  },
+  "_mainTabButton": {
+    "m_FileID": 0,
+    "m_PathID": -1089613537903128555
+  },
+  "_limitTabButton": {
+    "m_FileID": 0,
+    "m_PathID": 2208462274392936469
+  },
+  "_mainTabView": {
+    "m_FileID": 0,
+    "m_PathID": -2994558781025693675
+  },
+  "_limitTabView": {
+    "m_FileID": 0,
+    "m_PathID": 3087953188604596245
+  },
+  "_goldShopBadge": {
+    "m_FileID": 0,
+    "m_PathID": 8049306463188733973
+  },
+  "_mainTabBadge": {
+    "m_FileID": 0,
+    "m_PathID": 5927158558066987029
+  },
+  "_limitTabBadge": {
+    "m_FileID": 0,
+    "m_PathID": 4840193519884685333
+  },
+  "_loadedElm": {
+    "m_FileID": 0,
+    "m_PathID": 4173437568997183509
+  },
+  "_loadingElm": {
+    "m_FileID": 0,
+    "m_PathID": -1811782358013849579
+  },
+  "_loadingChildTabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4932627086023405547
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8427380442393858069
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1057656998585159701
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7255358925956042773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3411375460965363691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -779235962294775787
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5335445249015951339
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7331317115610476523
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3526165271766708203
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7126958556574765077
+    }
+  ],
+  "_loadedAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -3981378868476456939
+  },
+  "_loadedClip": {
+    "m_FileID": 4,
+    "m_PathID": -4183412194848518430
+  },
+  "_showLoadingClip": {
+    "m_FileID": 4,
+    "m_PathID": -5740603906699428132
+  },
+  "_hideDialogClip": {
+    "m_FileID": 4,
+    "m_PathID": -5210877173395680518
+  },
+  "_showSameLayerClip": {
+    "m_FileID": 4,
+    "m_PathID": 480214160024349637
+  },
+  "_hideSameLayerClip": {
+    "m_FileID": 4,
+    "m_PathID": -2144330011657772867
+  },
+  "_coverElm": {
+    "m_FileID": 0,
+    "m_PathID": -8080885491244871659
+  },
+  "_viewPortMainTabObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1075299449639587861
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6268171086905749483
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1571915831606104085
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7924480513816801259
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2621265217735569387
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5366232212064882709
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1060982715048013803
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2067609892073779179
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7322164499790680085
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1376737980072931307
+    }
+  ],
+  "_viewPortLimitedTabObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8571911516531994603
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2817982222375964693
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2514529285206192107
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6404551078377017365
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6549242032233328619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 928950341998727189
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4646105921507872789
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5634237867548069909
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4222909910569373717
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8679208889849950187
+    }
+  ],
+  "_hiddenEventListCell": {
+    "m_FileID": 0,
+    "m_PathID": -3780787329412706283
+  }
+}

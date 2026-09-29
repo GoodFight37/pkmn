@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -760952556397390526
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3929226509426210700
+  },
+  "m_Name": "",
+  "showMaskGraphic": 0,
+  "overrideTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideOffsetPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "overrideOffsetSize": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

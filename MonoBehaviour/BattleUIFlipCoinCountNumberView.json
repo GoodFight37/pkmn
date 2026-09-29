@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4806852715377495376
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1129604938351159352
+  },
+  "m_Name": "",
+  "_countText": {
+    "m_FileID": 0,
+    "m_PathID": -8176482856663282352
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -4032836383920845488
+  },
+  "_countChangeAnimationKey": "battle_ui_coin_flip_count_num",
+  "_colorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 5392264951875079504
+  },
+  "_animationObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7504747958786945712
+    }
+  ],
+  "_notZeroColorElementKey": "WHITE_100"
+}

@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 748770038652778971
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6200366978092834179
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6027020876925090267
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_startButton": {
+    "m_FileID": 0,
+    "m_PathID": -533726036492240421
+  },
+  "_subMenuButton": {
+    "m_FileID": 0,
+    "m_PathID": -7320044261867341349
+  },
+  "_versionText": {
+    "m_FileID": 0,
+    "m_PathID": -7026457341821404709
+  },
+  "_supportIdText": {
+    "m_FileID": 0,
+    "m_PathID": -4301243867766933029
+  },
+  "_titleLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": -1523875191696868901
+  },
+  "_overlayAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -1443473879527540261
+  },
+  "_overlayShowClip": {
+    "m_FileID": 2,
+    "m_PathID": -1811933022203111469
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3805502316367934944
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 557008925577652216
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 5643350152927671776
+  },
+  "_popupShow": {
+    "m_FileID": 4,
+    "m_PathID": 8237801511924270173
+  },
+  "_popupHide": {
+    "m_FileID": 4,
+    "m_PathID": 2893298286361703687
+  },
+  "_iconAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 2057253483740689888
+  },
+  "_iconIdle": {
+    "m_FileID": 4,
+    "m_PathID": 6142571956978661882
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": -3494013386693839392
+  },
+  "_startPoint": {
+    "m_FileID": 0,
+    "m_PathID": -179653095241255456
+  },
+  "_endPoint": {
+    "m_FileID": 0,
+    "m_PathID": -2473384777943779872
+  },
+  "_cardRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2953679744693073376
+  },
+  "_cardTemplate": {
+    "m_FileID": 0,
+    "m_PathID": 3178576837148046816
+  },
+  "_fade": {
+    "m_FileID": 0,
+    "m_PathID": -2299501385833744928
+  },
+  "_touchObject": {
+    "m_FileID": 0,
+    "m_PathID": 8334842700309231072
+  },
+  "_startSe": {
+    "_value": "BOOK_SE_CARD_INHALE"
+  },
+  "_popupSe": {
+    "_value": "BOOK_SE_SPEECHBUBBLE"
+  }
+}

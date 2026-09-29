@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -244755867674241028
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 588728234432790519
+  },
+  "m_Name": "",
+  "_packCountText": {
+    "m_FileID": 0,
+    "m_PathID": -8932061482124404740
+  },
+  "_cardCountText": {
+    "m_FileID": 0,
+    "m_PathID": -7355036106675283972
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 2961327169370101756
+  },
+  "_showAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -7857243360025961117
+  },
+  "_hideAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": 3265811573027495594
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8272042188470997214
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2677805337578651893
+  },
+  "m_Name": "",
+  "_currentText": {
+    "m_FileID": 0,
+    "m_PathID": 6715841059906203426
+  },
+  "_maxText": {
+    "m_FileID": 0,
+    "m_PathID": -5754949177574674654
+  },
+  "_maxTextBase": {
+    "m_FileID": 0,
+    "m_PathID": -6276861111569535198
+  },
+  "_minButton": {
+    "m_FileID": 0,
+    "m_PathID": 1147272396166803234
+  },
+  "_minusButton": {
+    "m_FileID": 0,
+    "m_PathID": 734320541394874146
+  },
+  "_plusButton": {
+    "m_FileID": 0,
+    "m_PathID": -8815054708123619550
+  },
+  "_maxButton": {
+    "m_FileID": 0,
+    "m_PathID": -1379561767464194270
+  },
+  "_buttonBase": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_continuousInputIntervalMilliSec": 60.0,
+  "_maxDisplayValue": 2147483647
+}

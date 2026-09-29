@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7209846078145911840
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2109225431782318165
+  },
+  "m_Name": "",
+  "_scrollRects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9203300811120073760
+    }
+  ],
+  "_scrollslider": {
+    "m_FileID": 0,
+    "m_PathID": -1370081502550776864
+  },
+  "_scrollRectByPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_minSizeRate": 0.343,
+  "_linkedObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_linkedObjectAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_linkedObjectAnimationClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

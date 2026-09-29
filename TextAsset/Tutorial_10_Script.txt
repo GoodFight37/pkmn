@@ -1,0 +1,52 @@
+############
+# ステージ10: にげる
+############
+
+- sys_wait: OnWipeEnd
+
+# > にげるを使ってみよう！
+- title: battle_tutorial_retreat_telop_001
+
+# > バトルポケモンとベンチポケモンを入れ替える事ができます。
+# > この事を　にげる　と言います。
+- msg_c:
+    - battle_tutorial_retreat_message_00100
+    - battle_tutorial_retreat_message_00200
+
+# カード詳細を開く
+- open_field_detail: [ Auto, SelfActiveField ]
+
+# > ピカチュウの　にげる　を見てください。
+- msg_b: battle_tutorial_retreat_message_00300
+
+# > にげる　に必要なエネルギーは1個です。
+- msg_c: battle_tutorial_retreat_message_00500
+  focus: CardDetailRetreatCost
+
+# カード詳細を自動で閉じる  
+- sys_neutral:
+
+# > にげる　を使ってピカチュウとライチュウを入れ替えましょう。
+- msg_b: battle_tutorial_retreat_message_00600
+
+- input: [ Auto, OnOpenAttackUIInput, Control_OpenAttack ]
+  tap: [ SelfActiveField, Center, TopLeft ]
+- input: [ OnOpenAttackUI, OnEnterInputRetreatSelectBench, Control_SelectRetreat ]
+  tap: [ DetermineRetreatButton, Center, TopLeft ]
+- input: [ Auto, OnCompleteInputWithAction, Control_SelectField ]
+  tap: [ SelfBench2Field, Center, TopLeft ]
+- sys_wait: OnRetreated
+
+# > にげるを使うと、にげるに必要なエネルギーがそのポケモンからトラッシュされます。
+- msg_c: battle_tutorial_retreat_message_00700
+  focus: SelfBench2Field
+
+# > にげる　は自分の番ごとに1回だけ使えます。
+# > にげる　を使ったターンでも、ワザを使うことができます。
+- msg_c:
+    - battle_tutorial_retreat_message_00800
+    - battle_tutorial_retreat_message_00900
+
+- attack: Auto
+
+- sys_end:  

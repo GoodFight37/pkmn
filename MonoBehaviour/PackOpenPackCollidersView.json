@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3219040303010947027
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4170629665422602565
+  },
+  "m_Name": "",
+  "_bodyCollider": {
+    "m_FileID": 0,
+    "m_PathID": 6457233560839708717
+  },
+  "_openingColliders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7781355844173766611
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 780593516918726701
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8259300177354498003
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3711420959808348205
+    }
+  ],
+  "_openingColliders01": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4107804414123778003
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -136190042593697747
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8753571988508909523
+    }
+  ]
+}

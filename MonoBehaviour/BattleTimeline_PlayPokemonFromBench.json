@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_PlayPokemonFromBench",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8707401534463426847
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6766431382497804575
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2481338763690393887
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6387884164038442721
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6297519854150008545
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7488379766417408287
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4545707293974380257
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

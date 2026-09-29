@@ -1,0 +1,48 @@
+############
+# ステージ12: 特性
+############
+
+- sys_wait: OnWipeEnd
+
+# > 特性を使おう
+- title: battle_tutorial_ability_telop_001
+
+# > バトル場のゲッコウガをよく見てください。  
+- msg_b: battle_tutorial_ability_message_00100
+
+# カード詳細を開く
+- open_field_detail: [ Auto, SelfActiveField ]
+
+# > 特性はワザとはちがう、ポケモンが持っている特別な能力です。
+# > ワザとはちがって、使っても番は終わりになりません。
+# > また、自動的に使われる特性もあります。
+# > ゲッコウガの特性は「みずしゅりけん」です。
+# > ワザのダメージとは別に、追加でダメージを与えられる強力な特性です。
+- msg_b: 
+    - battle_tutorial_ability_message_00200
+    - battle_tutorial_ability_message_00300
+    - battle_tutorial_ability_message_00400
+    - battle_tutorial_ability_message_00500
+    - battle_tutorial_ability_message_00600
+  focus: CardDetailAbilityDescription
+
+- sys_neutral:
+
+# > ゲッコウガの特性を使ってみましょう。
+- msg_b: battle_tutorial_ability_message_00700
+
+- input: [ Auto, OnOpenAttackUIInput, Control_OpenAttack ]
+  tap: [ SelfActiveField, Center, TopLeft ]
+- input: [ OnOpenAttackUI, OnCompleteInputWithAction, Control_SelectAbility ]
+  tap: [ DetermineAbilityButton, Center, TopLeft ]
+
+- attach_energy: [ OnAbilityDamageApplied, SelfActiveField ]
+- sys_wait: OnAttachEnergyFromPool
+
+# > これでゲッコウガがワザを撃って、ルージュラを気絶させられるようになりました。
+- msg_b: battle_tutorial_ability_message_00800
+  focus: SelfActiveField
+
+- attack: Auto
+
+- sys_end:  

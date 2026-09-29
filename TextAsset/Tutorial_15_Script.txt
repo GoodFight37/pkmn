@@ -1,0 +1,72 @@
+############
+# ステージ15: スタジアム
+############
+- sys_wait: OnWipeEnd
+
+# > スタジアムを使おう！
+- title: battle_tutorial_stadium_telop_001
+
+# > 手札にトレーナーズが1枚あります。
+# > よく見てみましょう。
+- msg_c:
+    - battle_tutorial_stadium_message_00100
+    - battle_tutorial_stadium_message_00200
+  focus: SelfHandFirstCard
+# 手札のカード詳細を開く
+- open_hand_detail: Auto
+
+# > このカードは「スタジアム」の「トレーニングエリア」です
+# > 「スタジアム」は場に出すことでおたがいのプレイヤーやポケモンに効果を与え続けるトレーナーズです
+# > 自分の番に1枚だけ手札から場に出すことができ　手札から出したスタジアムは場に置いたままにします
+# > スタジアムは場に1枚しか置くことはできません
+# > 別の名前のスタジアムを場に出したときは　それまで出ていたスタジアムをトラッシュして入れ替えます
+# > 出ているスタジアムと同じ名前のスタジアムは出せません
+- msg_b:
+    - battle_tutorial_stadium_message_00300
+    - battle_tutorial_stadium_message_00400
+    - battle_tutorial_stadium_message_00500
+    - battle_tutorial_stadium_message_00600
+    - battle_tutorial_stadium_message_00700
+    - battle_tutorial_stadium_message_00800
+  focus: CardDetailTrainersCardName
+
+# > このカードはおたがいの場の1進化ポケモンが使うワザの相手のバトルポケモンへのダメージを+10します
+- msg_b:
+    - battle_tutorial_stadium_message_00900
+  focus: CardDetailGoodsDescription
+
+- sys_neutral:
+
+# > リザードのカードをよく見てみましょう
+- msg_b:
+    - battle_tutorial_stadium_message_01000
+  focus: SelfActiveField
+
+# カード詳細を開く
+- open_field_detail: [ Auto, SelfActiveField ]
+
+# > リザードは1進化ポケモンなのでトレーニングエリアの効果を受けてワザのダメージを増やすことができます
+# > トレーニングエリアを場に出してみましょう
+- msg_b:
+    - battle_tutorial_stadium_message_01100
+    - battle_tutorial_stadium_message_01200
+  focus: CardDetailEvolutionStage
+
+# カード詳細を自動で閉じる
+- sys_neutral:
+
+# スタジアムを場に出す
+- play_trainers: [ Auto, NoTargetTrainersDropArea ]
+- sys_wait: OnStable
+
+# > 相手が場に出していたスタジアムをトラッシュしてトレーニングエリアと入れ替えました
+# > これでリザードのワザでカメールをきぜつさせられるようになりました
+- msg_b:
+    - battle_tutorial_stadium_message_01300
+    - battle_tutorial_stadium_message_01400
+
+# エネ付与誘導
+- attach_energy: [ Auto, SelfActiveField ]
+- attack: OnAttachEnergyFromPool
+
+- sys_end:

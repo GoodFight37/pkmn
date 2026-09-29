@@ -1,0 +1,160 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6538562503696654291
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -9222710740073926578
+  },
+  "m_Name": "",
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": 1991661275965153325
+  },
+  "_cardBundleView": {
+    "m_FileID": 0,
+    "m_PathID": 7192674187465187373
+  },
+  "_placementTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 1918434261058183213
+  },
+  "_frontPackSwipeTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -6976929252135804883
+  },
+  "_frontOpeningTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -2574916241677557715
+  },
+  "_cardSwipeTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -8743649291773878227
+  },
+  "_frontCardDisclosureTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2868325590791692243
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5330461716290150355
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3745602407276224467
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 108621789822574637
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3848947353179725779
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819487013865185325
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3858262481303953453
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6392791354187063251
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1341200046984798163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3182236452324253651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 27858188933193773
+    }
+  ],
+  "_frontCardBundleSwapTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 209424181383913517
+  },
+  "_packViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8616514902138740781
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2337869272568242131
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3348219474264989651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7230074418588016685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4998404763535466541
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8705281351128391635
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6970457603262848979
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7161655369029590995
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4612655051357806637
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8675824721461583827
+    }
+  ],
+  "_guideLineEffectView": {
+    "m_FileID": 0,
+    "m_PathID": 8720057960046387245
+  },
+  "_auraEffectObject": {
+    "m_FileID": 0,
+    "m_PathID": -7483013416683970515
+  },
+  "_playSeSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 1201831471194693677
+  },
+  "_playBgmSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": -1142167502137139155
+  },
+  "_playBgEffectSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": -5665823381959811027
+  },
+  "_cardDisclosureSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 772305397342658605
+  },
+  "_skipFlagView": {
+    "m_FileID": 0,
+    "m_PathID": -945052025626173395
+  },
+  "_cardAnchorView": {
+    "m_FileID": 0,
+    "m_PathID": -462661386619592659
+  }
+}

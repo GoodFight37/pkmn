@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3770819457356549860
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3659336370092307817
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 3102386220574396132
+  },
+  "_showAnimation": {
+    "m_FileID": 4,
+    "m_PathID": 894070483597503321
+  },
+  "_hideAnimation": {
+    "m_FileID": 4,
+    "m_PathID": -3357141695089910323
+  },
+  "_attention": {
+    "m_FileID": 0,
+    "m_PathID": -5761198733418410268
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": -236041293525594396
+  },
+  "_attentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6606403387524428060
+  },
+  "_attentionClip": {
+    "m_FileID": 4,
+    "m_PathID": -7214735547380510516
+  },
+  "_attentionTextEffect": {
+    "m_FileID": 0,
+    "m_PathID": -794479627863699740
+  },
+  "_text": {
+    "m_FileID": 0,
+    "m_PathID": 5752596749941231332
+  },
+  "_tutorialFocusTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8273597950898228964
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1017272083561336548
+  }
+}

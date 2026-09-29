@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4335051430135156452
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3900233903642798718
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 7384631260640792292
+  },
+  "_disableButton": {
+    "m_FileID": 0,
+    "m_PathID": -1500968490191728924
+  },
+  "_requiredEnergy": {
+    "m_FileID": 0,
+    "m_PathID": 4774835903079272164
+  },
+  "_requiredEnergy2Root": {
+    "m_FileID": 0,
+    "m_PathID": 229744258939047652
+  },
+  "_requiredEnergy2Text": {
+    "m_FileID": 0,
+    "m_PathID": -3462810494684672284
+  },
+  "_cardTextRawImage": {
+    "m_FileID": 0,
+    "m_PathID": -8942115774061719836
+  },
+  "_attentionElement": {
+    "m_FileID": 0,
+    "m_PathID": 6150987427350400740
+  },
+  "_attentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 232737196421631716
+  },
+  "_attentionIdleClip": {
+    "m_FileID": 4,
+    "m_PathID": -5006085743621979118
+  },
+  "_selectElement": {
+    "m_FileID": 0,
+    "m_PathID": -6974348005697761564
+  },
+  "_selectAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -7908499373333328156
+  },
+  "_selectSelectableClip": {
+    "m_FileID": 4,
+    "m_PathID": 144023420977708876
+  },
+  "<TutorialFocusTransform>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -1935847910438449436
+  }
+}

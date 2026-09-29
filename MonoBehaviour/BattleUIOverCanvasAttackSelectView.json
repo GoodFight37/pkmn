@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1602653464711001756
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3812181312680473552
+  },
+  "m_Name": "",
+  "_pokemonToolParent": {
+    "m_FileID": 0,
+    "m_PathID": -5886076562761714020
+  },
+  "_pokemonToolView": {
+    "m_FileID": 0,
+    "m_PathID": -1807558713716312420
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 5131052337280513692
+  }
+}

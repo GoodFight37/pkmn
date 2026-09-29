@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6905137524489027240
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1347775913282903904
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -7940657506457846104
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": 2929337807967190696
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 1499116713448734376
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 7301491128443436712
+  },
+  "_contentsContainer": {
+    "m_FileID": 0,
+    "m_PathID": 2810250703495659176
+  },
+  "_staminaElement": {
+    "m_FileID": 0,
+    "m_PathID": -5528652434380194136
+  },
+  "_staminaAddButton": {
+    "m_FileID": 0,
+    "m_PathID": 449853088232865448
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": -9117191278297710936
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": 6240825278335123112
+  },
+  "_feedSnoopNoticeImg": {
+    "m_FileID": 0,
+    "m_PathID": -7143481359078228312
+  },
+  "_bgFeedSnoopImg": {
+    "m_FileID": 0,
+    "m_PathID": 8261021527045144232
+  }
+}

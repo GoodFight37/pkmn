@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8122781327516123914
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9152930520994747351
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -6086517720448089334
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 5822947107542745866
+  },
+  "_tabView": {
+    "m_FileID": 0,
+    "m_PathID": -8663709227093834998
+  }
+}

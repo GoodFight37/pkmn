@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2336955359942165345
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8912810924776782903
+  },
+  "m_Name": "",
+  "_btnLeft": {
+    "m_FileID": 0,
+    "m_PathID": -7705390836809024353
+  },
+  "_btnRight": {
+    "m_FileID": 0,
+    "m_PathID": 4269952894657674399
+  },
+  "_phase": {
+    "m_FileID": 0,
+    "m_PathID": 2701340240099785887
+  },
+  "_energies": {
+    "m_FileID": 0,
+    "m_PathID": 3508627261944609951
+  },
+  "_btnStatusEffect": {
+    "m_FileID": 0,
+    "m_PathID": 1139456021347286175
+  },
+  "_allowButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 1832877055574523039
+  },
+  "_allowButtonAnimationClip": {
+    "m_FileID": 2,
+    "m_PathID": -7444430543890827751
+  },
+  "_pokemonToolView": {
+    "m_FileID": 0,
+    "m_PathID": -1123337441905623905
+  },
+  "_predictionDamageView": {
+    "m_FileID": 0,
+    "m_PathID": -960606154159571809
+  }
+}

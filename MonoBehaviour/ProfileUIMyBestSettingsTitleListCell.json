@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7175981111594388310
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7713419817951335064
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -5694438626738828458
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": -7780596814918513834
+  }
+}

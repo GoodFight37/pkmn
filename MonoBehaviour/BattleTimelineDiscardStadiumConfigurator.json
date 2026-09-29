@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1355695425249283061
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5749731067273095595
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": -3044795697232081931
+  },
+  "_useVirtualCameraType": 0,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_viewArranger": {
+    "m_FileID": 0,
+    "m_PathID": 1207411441691266037
+  },
+  "_seSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 1511031674368953333
+  },
+  "_se": {
+    "_value": "BATTLE_SE_CONDITION_DEATH_00"
+  }
+}

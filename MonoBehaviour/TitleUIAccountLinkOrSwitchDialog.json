@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5124356611712387173
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4669057358889963017
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 1783291315924797541
+  },
+  "_linkDescriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 8873666293250164837
+  },
+  "_switchDescriptionText": {
+    "m_FileID": 0,
+    "m_PathID": -6778332097923479451
+  },
+  "_appleButtonRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -7291830674105923483
+  },
+  "_googleButtonRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -6867289632143996827
+  },
+  "_appleButton": {
+    "m_FileID": 0,
+    "m_PathID": -2962734167851628443
+  },
+  "_googleButton": {
+    "m_FileID": 0,
+    "m_PathID": -6085177672755869595
+  },
+  "_nintendoButton": {
+    "m_FileID": 0,
+    "m_PathID": -2386985535061784475
+  },
+  "_skipLinkButton": {
+    "m_FileID": 0,
+    "m_PathID": -90703720770467739
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": -4542483665640388507
+  }
+}

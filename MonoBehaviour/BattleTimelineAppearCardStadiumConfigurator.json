@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8674493615156194008
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2116960217730800550
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": 5920463400321903320
+  },
+  "_useVirtualCameraType": 1,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_viewArranger": {
+    "m_FileID": 0,
+    "m_PathID": -422107910356374824
+  },
+  "_interpolateTrackName": "Move Position",
+  "_interpolateClipNames": [
+    "Move Stadium"
+  ]
+}

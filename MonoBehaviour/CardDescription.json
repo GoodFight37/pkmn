@@ -1,0 +1,164 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5387662659111202956
+  },
+  "m_Name": "CardDescription",
+  "_textTypeFontConditions": [
+    {
+      "_type": 1,
+      "_conditions": [
+        {
+          "_isDefault": 1,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 8884153184787638352
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -8649989426673538992
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 8163795205098350844
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -3945054721683969796
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 7,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 1482346930774817996
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -4848402987123262260
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 6,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -4080393176190516637
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 9201361646025998947
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 10,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -2144999671638427524
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -3776850198537865092
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_type": 2,
+      "_conditions": [
+        {
+          "_isDefault": 1,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -396364928729778045
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -3728308693272659837
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 7997069833075654224
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -7490950863985017264
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 7,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 8286394459813532775
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 4153242979261961319
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 6,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -2594834333922463316
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 9215654393425129900
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 10,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 1727227129298798752
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -9058677790128289632
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

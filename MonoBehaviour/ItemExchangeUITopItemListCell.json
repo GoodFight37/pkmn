@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8530105534305647919
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7018844530889757512
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3771833772986942161
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_imageCell": {
+    "m_FileID": 0,
+    "m_PathID": 5451401327587443409
+  },
+  "_exchangeEnableBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -8661987278681914671
+  },
+  "_hasPeriodBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 2558615956466778833
+  },
+  "_periodTimer": {
+    "m_FileID": 0,
+    "m_PathID": -4529292793097338159
+  },
+  "_loopWaitSeconds": 2.0
+}

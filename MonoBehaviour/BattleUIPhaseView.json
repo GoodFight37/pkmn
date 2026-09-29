@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1287318202310045980
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8612107079885487953
+  },
+  "m_Name": "",
+  "_selfRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2656735147524469020
+  },
+  "_opponentRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2042518759737372956
+  },
+  "_selfAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -3783681886608470300
+  },
+  "_selfTurnClip": {
+    "m_FileID": 4,
+    "m_PathID": 8713236781259644004
+  },
+  "_selfTurnWithRemainingClip": {
+    "m_FileID": 4,
+    "m_PathID": 8789176493032703577
+  },
+  "_selfTurnNumText": {
+    "m_FileID": 0,
+    "m_PathID": 2728337403837828836
+  },
+  "_opponentAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8118753477761650404
+  },
+  "_opponentTurnClip": {
+    "m_FileID": 4,
+    "m_PathID": 7120639438193598755
+  },
+  "_opponentTurnWithRemainingClip": {
+    "m_FileID": 4,
+    "m_PathID": -8839306732189436846
+  },
+  "_opponentTurnNumText": {
+    "m_FileID": 0,
+    "m_PathID": 839456384959270628
+  }
+}

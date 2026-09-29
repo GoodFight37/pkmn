@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3260563304825256687
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2864471312898733047
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 3586244244287358225
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_reorderableReusedScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 1498574669397918993
+  },
+  "_headerBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -4019218113092221679
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 3586244244287358225
+  },
+  "_deckNum": {
+    "m_FileID": 0,
+    "m_PathID": -7525585193722739439
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": 2814196735215961361
+  },
+  "_editButton": {
+    "m_FileID": 0,
+    "m_PathID": 1364726254669235473
+  },
+  "_editOkButton": {
+    "m_FileID": 0,
+    "m_PathID": 4940977310580901137
+  },
+  "_normalModeGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8931047140172790511
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1610669432456379119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 796150730256909585
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8914603863977327343
+    }
+  ],
+  "_editModeGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7730119688438381295
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1169430996695349999
+    }
+  ],
+  "_modeAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4664728866489989871
+  },
+  "_normalModeClip": {
+    "m_FileID": 3,
+    "m_PathID": -1473878741383805599
+  },
+  "_editModeClip": {
+    "m_FileID": 3,
+    "m_PathID": -3696740458487713823
+  },
+  "_editOkButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3667782855707428113
+  },
+  "_toEditModeEditOkButtonClip": {
+    "m_FileID": 3,
+    "m_PathID": -4627942295233814962
+  }
+}

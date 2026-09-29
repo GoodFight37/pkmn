@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3617631920458866115
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1624744914307946451
+  },
+  "m_Name": "",
+  "_flickDotGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1228498633302827581
+  },
+  "_prevButton": {
+    "m_FileID": 0,
+    "m_PathID": 7476092064047063613
+  },
+  "_nextButton": {
+    "m_FileID": 0,
+    "m_PathID": -8917732359885987267
+  },
+  "_lastPageObjects": []
+}

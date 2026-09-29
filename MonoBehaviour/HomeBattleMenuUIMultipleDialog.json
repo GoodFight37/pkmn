@@ -1,0 +1,145 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9059689139170589113
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2343712347750928379
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_privateMatchBadges": {
+    "NewBadge": {
+      "m_FileID": 0,
+      "m_PathID": 8135870466557003335
+    },
+    "EventBadge": {
+      "m_FileID": 0,
+      "m_PathID": -5598269355993151929
+    },
+    "LockBadge": {
+      "m_FileID": 0,
+      "m_PathID": 6921245468258453063
+    }
+  },
+  "_casualBadges": {
+    "NewBadge": {
+      "m_FileID": 0,
+      "m_PathID": 3970453864381662791
+    },
+    "EventBadge": {
+      "m_FileID": 0,
+      "m_PathID": 5708265873737041479
+    },
+    "LockBadge": {
+      "m_FileID": 0,
+      "m_PathID": 7866217057251018311
+    }
+  },
+  "_eventBadges": {
+    "NewBadge": {
+      "m_FileID": 0,
+      "m_PathID": 7925765466209961543
+    },
+    "EventBadge": {
+      "m_FileID": 0,
+      "m_PathID": 1085878966286534215
+    },
+    "LockBadge": {
+      "m_FileID": 0,
+      "m_PathID": 4989359624592737863
+    }
+  },
+  "_rankMatchBadges": {
+    "NewBadge": {
+      "m_FileID": 0,
+      "m_PathID": -722542909739841977
+    },
+    "EventBadge": {
+      "m_FileID": 0,
+      "m_PathID": -5108939986767460793
+    },
+    "LockBadge": {
+      "m_FileID": 0,
+      "m_PathID": -1187208886124755385
+    }
+  },
+  "_rankMatchClosedElement": {
+    "m_FileID": 0,
+    "m_PathID": -9015192533124004281
+  },
+  "_eventText": {
+    "m_FileID": 0,
+    "m_PathID": -7428720904664136121
+  },
+  "_rankMatchOpenedText": {
+    "m_FileID": 0,
+    "m_PathID": 2479523357104916039
+  },
+  "_rankMatchClosedText": {
+    "m_FileID": 0,
+    "m_PathID": 631568079953053255
+  },
+  "_privateMatchButton": {
+    "m_FileID": 0,
+    "m_PathID": -757112104056535481
+  },
+  "_casualButton": {
+    "m_FileID": 0,
+    "m_PathID": -5892719017219078585
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 618399175382255175
+  },
+  "_eventButton": {
+    "m_FileID": 0,
+    "m_PathID": -1232077197703068089
+  },
+  "_rankMatchButton": {
+    "m_FileID": 0,
+    "m_PathID": -7540688476913482169
+  },
+  "_rankMatchTutorialRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -7479340264440478137
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 80307768782177527
+  },
+  "m_Name": "LogoSettings",
+  "_id": "DropEvent",
+  "_designSettings": {
+    "m_FileID": 0,
+    "m_PathID": 8135452121736051587
+  }
+}

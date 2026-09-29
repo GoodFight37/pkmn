@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3224936526195608267
+  },
+  "m_Name": "CardDexRegisterConfig",
+  "_showWait": 0.5,
+  "_scrollSpan": 0.7,
+  "_waitAfterScroll": 0.125,
+  "_waitCompleteMissionAnimation": 0.25,
+  "_waitHideCompleteMissionBadge": 1.0,
+  "_overlapMissionBadgeSize": 28.0,
+  "_waitPerCardAnimation": 0.4,
+  "_waitAfterAll": 0.5,
+  "_scrollMargin": 0.076,
+  "_viewPortBottomMargin": 182.0,
+  "_waitBeforeProgress": 0.25,
+  "_waitPerProgressAnimation": 0.02,
+  "_waitAfterProgress": 0.6,
+  "_waitProgressInfo": 0.75
+}

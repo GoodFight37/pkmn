@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -856895050504259091
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -93193179097772910
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 674225997884439021
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -9218462510115571219
+  },
+  "_normalIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -8981293283808232979
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 3546538092563282413
+  },
+  "_favoriteOffGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1419861419780291053
+  },
+  "_favoriteOnGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4333536591145584147
+  }
+}

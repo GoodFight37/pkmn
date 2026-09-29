@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1248804296795992348
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1132251936425470181
+  },
+  "m_Name": "",
+  "_emptyElement": {
+    "m_FileID": 0,
+    "m_PathID": -3459279425457926428
+  },
+  "_emptyNumberText": {
+    "m_FileID": 0,
+    "m_PathID": 2844677912896163556
+  },
+  "_emptyPlusMark": {
+    "m_FileID": 0,
+    "m_PathID": 8732573128051871460
+  },
+  "_iconView": {
+    "m_FileID": 0,
+    "m_PathID": -5332498831807197468
+  },
+  "_shadowImage": {
+    "m_FileID": 0,
+    "m_PathID": 7854936598455013092
+  },
+  "_attachedCountText": {
+    "m_FileID": 0,
+    "m_PathID": 2508050758496767716
+  },
+  "_extraUsableCountIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8525000056636616988
+  },
+  "_disabledImage": {
+    "m_FileID": 0,
+    "m_PathID": -3885636933949305116
+  },
+  "_attentionElement": {
+    "m_FileID": 0,
+    "m_PathID": -7988893093687701788
+  },
+  "_droppableElement": {
+    "m_FileID": 0,
+    "m_PathID": 3441444994026262244
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -733018438453276956
+  },
+  "_tapAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": 5611543809125453540
+  },
+  "_putAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": 5611543809125453540
+  },
+  "_banishAnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_attentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 299965007417396964
+  },
+  "_attentionIdleAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -7214735547380510516
+  },
+  "_draggingAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 771929918126051044
+  },
+  "_draggingIdleAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": 6719033859035834910
+  }
+}

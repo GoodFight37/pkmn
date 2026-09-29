@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3148104468898779703
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3534997050359595492
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5238163795414478281
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2059402267692765751
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_boardImage": {
+    "m_FileID": 0,
+    "m_PathID": 2269770503195520457
+  },
+  "_cardImage1": {
+    "m_FileID": 0,
+    "m_PathID": 2530207688496115145
+  },
+  "_cardImage2": {
+    "m_FileID": 0,
+    "m_PathID": 9181206550399348169
+  },
+  "_cardImage3": {
+    "m_FileID": 0,
+    "m_PathID": 4435672123465657801
+  },
+  "_disableObject": {
+    "m_FileID": 0,
+    "m_PathID": 7265214217936170441
+  },
+  "_lockImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -4695474718373450295
+  },
+  "_friendOnlyImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 4954916212769811913
+  },
+  "_friendOnlyText": {
+    "m_FileID": 0,
+    "m_PathID": -3018130914963165751
+  },
+  "_privateText": {
+    "m_FileID": 0,
+    "m_PathID": -3178781673952776759
+  },
+  "_selectedImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 3206562473177640393
+  },
+  "_hashTagCell": {
+    "m_FileID": 0,
+    "m_PathID": -7235721580416209463
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 5238163795414478281
+  }
+}

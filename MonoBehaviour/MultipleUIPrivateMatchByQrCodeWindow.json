@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4254475607152404564
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6699887372757615817
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_readQrCodeButton": {
+    "m_FileID": 0,
+    "m_PathID": 4524844631098337364
+  },
+  "_showQrCodeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5619760847916574804
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 815026698354370644
+  },
+  "_switcher": {
+    "m_FileID": 0,
+    "m_PathID": 5108000267944077396
+  },
+  "_currentDeckElement": {
+    "m_FileID": 0,
+    "m_PathID": -724981528994174892
+  }
+}

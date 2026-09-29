@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7935230707265357224
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5539275690438560076
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9214242819474965928
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -5969608253734962600
+  },
+  "_normalItemRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 831154642183141976
+  },
+  "_secondaryItemRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -893586123087267240
+  },
+  "_item2Name": {
+    "m_FileID": 0,
+    "m_PathID": -1790280608880313768
+  },
+  "_item2FreePokegoldObject": {
+    "m_FileID": 0,
+    "m_PathID": 6395490881519827544
+  },
+  "_item2Num": {
+    "m_FileID": 0,
+    "m_PathID": -8676487224692819368
+  },
+  "_item2Name2": {
+    "m_FileID": 0,
+    "m_PathID": -840287262068688296
+  },
+  "_item2PaidPokegoldObject": {
+    "m_FileID": 0,
+    "m_PathID": 5426493934321547864
+  },
+  "_item2Num2": {
+    "m_FileID": 0,
+    "m_PathID": 9213711586859891288
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 96898426345044568
+  },
+  "_itemName": {
+    "m_FileID": 0,
+    "m_PathID": 1405877740145162840
+  },
+  "_itemNum": {
+    "m_FileID": 0,
+    "m_PathID": 5289296233663969880
+  }
+}

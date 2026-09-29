@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3857145911511495453
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 160106371100192722
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_cursorTargetPositionSetter": {
+    "m_FileID": 0,
+    "m_PathID": 1254287876258778339
+  },
+  "_cursorRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5043041302233953053
+  },
+  "_cursorTargetAnchorFitter": {
+    "m_FileID": 0,
+    "m_PathID": 2165838021196631267
+  },
+  "_cursorRotationFitter": {
+    "m_FileID": 0,
+    "m_PathID": -3120498337902048029
+  },
+  "_longCursorRotationFitter": {
+    "m_FileID": 0,
+    "m_PathID": 2194899548616183011
+  },
+  "_normalRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2518746256832344861
+  },
+  "_normalTargetPointerObject": {
+    "m_FileID": 0,
+    "m_PathID": 974320479895997667
+  },
+  "_longRoot": {
+    "m_FileID": 0,
+    "m_PathID": 8030065637644029155
+  },
+  "_longTargetPointerObject": {
+    "m_FileID": 0,
+    "m_PathID": -5402566836043133725
+  },
+  "_longText": {
+    "m_FileID": 0,
+    "m_PathID": 4527599504446442723
+  }
+}

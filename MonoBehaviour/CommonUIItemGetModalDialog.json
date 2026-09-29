@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3459309095867232020
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4685927191928027997
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -1032055852236165356
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_bodyText": {
+    "m_FileID": 0,
+    "m_PathID": -5919757515150217452
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -1032055852236165356
+  },
+  "_battleButton": {
+    "m_FileID": 0,
+    "m_PathID": 4656184174036168468
+  },
+  "_shopLockBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 2394275495760473876
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -3116369203056300268
+  },
+  "_warningObject": {
+    "m_FileID": 0,
+    "m_PathID": 9128395902731792148
+  },
+  "_warningText": {
+    "m_FileID": 0,
+    "m_PathID": -4049807549910438124
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -673748219613444493
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 96618585147116372
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8243627362990982771
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 513602977638090355
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -4532762419810761101
+  },
+  "_skipButton": {
+    "m_FileID": 0,
+    "m_PathID": -1239416258128279949
+  },
+  "_fixedLayoutParent": {
+    "m_FileID": 0,
+    "m_PathID": 6936519444096583283
+  },
+  "_fixedLayoutElement": {
+    "m_FileID": 0,
+    "m_PathID": -3108832120740870541
+  },
+  "_backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 8016455326750574195
+  },
+  "_frameAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -7817052073143925133
+  },
+  "_frameAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": -3622925136880015786
+  },
+  "_themeCollectionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 6670649091130951283
+  },
+  "_themeCollectionShowAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": -1896539996635811665
+  },
+  "_themeCollectionHideAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": 3870527073409502229
+  },
+  "_cardEffectForegroundCanvasList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6213012400496477811
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2790596232064304755
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -709018928315726221
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9151794972885354099
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5326177049503431053
+    }
+  ],
+  "_columnScrollContents": [
+    {
+      "DetailType": 1,
+      "ColumnObject": {
+        "m_FileID": 0,
+        "m_PathID": 3026365407530288755
+      },
+      "ScrollContent": {
+        "m_FileID": 0,
+        "m_PathID": -4274587404800391565
+      }
+    },
+    {
+      "DetailType": 2,
+      "ColumnObject": {
+        "m_FileID": 0,
+        "m_PathID": 907269230545831539
+      },
+      "ScrollContent": {
+        "m_FileID": 0,
+        "m_PathID": 1016486896598025843
+      }
+    },
+    {
+      "DetailType": 3,
+      "ColumnObject": {
+        "m_FileID": 0,
+        "m_PathID": 4374435670735029875
+      },
+      "ScrollContent": {
+        "m_FileID": 0,
+        "m_PathID": 513602977638090355
+      }
+    }
+  ]
+}

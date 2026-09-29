@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5869428360216441766
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5296927337387458231
+  },
+  "m_Name": "",
+  "_limitedDateText": {
+    "m_FileID": 0,
+    "m_PathID": 2528086802432193446
+  },
+  "_rarityIcons": [
+    {
+      "_rarity": 100,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": 6460111824780325798
+      }
+    },
+    {
+      "_rarity": 200,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": 6377328649238934438
+      }
+    },
+    {
+      "_rarity": 300,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": -1046429642798468186
+      }
+    },
+    {
+      "_rarity": 400,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": 6009377629281776550
+      }
+    },
+    {
+      "_rarity": 500,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": 315995197512610726
+      }
+    },
+    {
+      "_rarity": 600,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": -8824987499831757914
+      }
+    },
+    {
+      "_rarity": 800,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": -7426844711544687706
+      }
+    },
+    {
+      "_rarity": 830,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": -7722001506674674778
+      }
+    },
+    {
+      "_rarity": 860,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": -4025523036270169178
+      }
+    },
+    {
+      "_rarity": 900,
+      "_iconObject": {
+        "m_FileID": 0,
+        "m_PathID": -8260589818065718362
+      }
+    }
+  ],
+  "_expansionTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8057607621462061990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -325276798761045082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8534930294250271654
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6281132961889121190
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2266822553395530842
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1700846690294697050
+    }
+  ]
+}

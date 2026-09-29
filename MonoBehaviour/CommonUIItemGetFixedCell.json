@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3074361158714503648
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6842747926601943389
+  },
+  "m_Name": "",
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 8578818295464243680
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 469188629849813472
+  },
+  "_skinCardImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -2167367706139708960
+  },
+  "_skinCardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -6796989717528464928
+  }
+}

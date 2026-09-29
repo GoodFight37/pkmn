@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1352233748867721858
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1214587820364605677
+  },
+  "m_Name": "",
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": 6867878822893835646
+  },
+  "_cardContainerRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3056721774367419010
+  },
+  "_cardRoots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5542242703690967682
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5695533870192601730
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6569460321541827202
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4408882790351841922
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5566176278333150590
+    }
+  ],
+  "_emptyCardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3183184124964973186
+  },
+  "_timelineView": {
+    "m_FileID": 0,
+    "m_PathID": 1188248970792195454
+  },
+  "_cardSlideSe": {
+    "_value": "PACK_SE_PACK_SLIDE"
+  },
+  "_cardFlickSe": {
+    "_value": "PACK_SE_CARD_FLICK"
+  }
+}

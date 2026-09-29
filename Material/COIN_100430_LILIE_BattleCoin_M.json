@@ -1,0 +1,249 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 8117624018694224351,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 2269775964105675245,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -8800496851397952837,
+          "Name": "COIN_100430_LILIE_BattleCoin_MM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCHologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCPhaseMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCPhaseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCRampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCRampTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -1067849138627844406,
+          "Name": "COIN_100430_LILIE_BattleCoin_AM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 1736488779922103103,
+          "Name": "COIN_100430_LILIE_BattleCoin_NM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseMaskTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -6072566655421358781,
+          "Name": "BattleCoin_Phasemask_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -4512929616724587943,
+          "Name": "BattleCoin_Phase_Color6",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -310755646103889845,
+          "Name": "BattleCoin_RampMask_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 2013446620505071313,
+          "Name": "BattleCoin_RMP_Color2",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BaseColorIntensity": 0.8,
+      "_DiffractionIntensity": 0.5,
+      "_DiffractionPower": 16.0,
+      "_LCDiffractionIntensity": 0.5,
+      "_LCDiffractionPower": 64.0,
+      "_LCRampInterval": 0.0,
+      "_LCRampOffset": 0.0,
+      "_LCRampRepeat": 0.1,
+      "_LCRampSpeed": 0.1,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.28,
+      "_RampRepeat": 1.0,
+      "_RampSpeed": 4.0,
+      "_RemoveMetallic": 0.0,
+      "_Shininess": 30.0,
+      "_SpecularIntensity": 0.2
+    },
+    "m_Colors": {
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "COIN_100430_LILIE_BattleCoin_M",
+  "Name": "COIN_100430_LILIE_BattleCoin_M"
+}

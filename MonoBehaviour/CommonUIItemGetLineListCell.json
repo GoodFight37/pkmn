@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4138034224103694790
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6852274541654798627
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6392153765219672518
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8864019750094774726
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4255799595928789446
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_itemGetListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3145254998671482426
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5418960575966010938
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3675305594809557446
+    }
+  ],
+  "_horizontalLayoutGroup": {
+    "m_FileID": 0,
+    "m_PathID": 8540783490999311930
+  }
+}

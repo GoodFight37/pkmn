@@ -1,0 +1,209 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6862499200130681767
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3408999116658764782
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2152285383070518183
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 6095119818576497575
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2152285383070518183
+  },
+  "_uiCardView": {
+    "m_FileID": 0,
+    "m_PathID": 2227315436126931879
+  },
+  "_uiAcquireView": {
+    "m_FileID": 0,
+    "m_PathID": -5960586681645331545
+  },
+  "_selectedSkinCell": {
+    "m_FileID": 0,
+    "m_PathID": -8171965221010994265
+  },
+  "_cardDetailView": {
+    "m_FileID": 0,
+    "m_PathID": -82127035295462489
+  },
+  "_showUIAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": 1269137468493308808
+  },
+  "_hideUIAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -6142949756268673154
+  },
+  "_uiAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5602210037470792615
+  },
+  "_boardImage": {
+    "m_FileID": 0,
+    "m_PathID": -7356739241577477209
+  },
+  "_cardBoardButton": {
+    "m_FileID": 0,
+    "m_PathID": 8503889277123103655
+  },
+  "_headerCardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 4496418844427160487
+  },
+  "_headerItemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -4678226083115889753
+  },
+  "_headerCardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -894365464703136857
+  },
+  "_headerItemDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -5366848155769107545
+  },
+  "_headerItemNumText": {
+    "m_FileID": 0,
+    "m_PathID": 1265908699313802151
+  },
+  "_needCardNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4214528596138259545
+  },
+  "_needCardNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -3412672245117744217
+  },
+  "_needItemNumText": {
+    "m_FileID": 0,
+    "m_PathID": 2242750886164171687
+  },
+  "_needItemNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 1073667551450500007
+  },
+  "_needItemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6610901106410851239
+  },
+  "_alertRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 5124892523929471911
+  },
+  "_alertText": {
+    "m_FileID": 0,
+    "m_PathID": 6355070101645888423
+  },
+  "_itemDetailButton2": {
+    "m_FileID": 0,
+    "m_PathID": -7974327160572081241
+  },
+  "_topRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -3215616798079972441
+  },
+  "_detailRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 2958852543299849127
+  },
+  "_exchangeButtonRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -114919722648532057
+  },
+  "_exchangeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3994750896368579673
+  },
+  "_openConditionMessageText": {
+    "m_FileID": 0,
+    "m_PathID": 5286984483107441575
+  },
+  "_openConditionEffectNameText": {
+    "m_FileID": 0,
+    "m_PathID": 6403029227588357031
+  },
+  "_cardImageRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 1840804358500977575
+  },
+  "_itemImageRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -3717174352174707801
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -9046768828902601817
+  },
+  "_itemImage": {
+    "m_FileID": 0,
+    "m_PathID": 4918941392494201767
+  },
+  "_itemDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 1626664703166581671
+  },
+  "_skinNameText": {
+    "m_FileID": 0,
+    "m_PathID": 5345396581503536039
+  },
+  "_pokemonNameText": {
+    "m_FileID": 0,
+    "m_PathID": 707247991490415527
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 9185334089710504871
+  },
+  "_messageRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 331136834251590567
+  },
+  "_exchangeItemDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 8817152953176689575
+  }
+}

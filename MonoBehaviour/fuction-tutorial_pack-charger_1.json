@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5947388167468348925
+  },
+  "m_Name": "fuction-tutorial_pack-charger_1",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_18_page_01",
+      "_imagePath": "function_pack_hourglass_01",
+      "_isLocalizeImage": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8887219199895307701
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -565966890273452551
+  },
+  "m_Name": "",
+  "_self": {
+    "m_FileID": 0,
+    "m_PathID": -1508271991500339787
+  },
+  "_opponent": {
+    "m_FileID": 0,
+    "m_PathID": 8216779622054266293
+  }
+}

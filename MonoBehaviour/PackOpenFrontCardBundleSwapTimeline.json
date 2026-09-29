@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenFrontCardBundleSwapTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4709855583581481905
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3822696383248880719
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5225397049970152527
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2037848406791509071
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1436521153330785201
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5452749294103516239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6886422698314935217
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3578175635110472625
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2329913746394622897
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6185150206249948239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8194041260926653519
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4744689784343931825
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2662611941582678961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5872499201938992049
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8234621423174636623
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6907573807090674609
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4826953738682127439
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9184349012432694193
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6431736788234447793
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5093442240197274545
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4185204913212773455
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4192659277199616945
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 898942665827308623
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

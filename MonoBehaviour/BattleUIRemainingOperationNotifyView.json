@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1735986292902164652
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 544685559456837107
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -5601331404770736300
+  },
+  "_showClip": {
+    "m_FileID": 2,
+    "m_PathID": -1915202731549918307
+  },
+  "_hideClip": {
+    "m_FileID": 2,
+    "m_PathID": 4688328329437029043
+  },
+  "_cells": [
+    {
+      "operationType": 5,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1395221992139294548
+      }
+    },
+    {
+      "operationType": 1,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -1047501290791139500
+      }
+    },
+    {
+      "operationType": 3,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6579476727985047380
+      }
+    },
+    {
+      "operationType": 0,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6206509720862816428
+      }
+    }
+  ],
+  "_dontShowAgainButton": {
+    "m_FileID": 0,
+    "m_PathID": -2945170262493132972
+  },
+  "_yesButton": {
+    "m_FileID": 0,
+    "m_PathID": -5823729435170797740
+  },
+  "_noButton": {
+    "m_FileID": 0,
+    "m_PathID": -4795792960771225772
+  }
+}

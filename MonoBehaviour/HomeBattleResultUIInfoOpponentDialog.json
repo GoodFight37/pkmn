@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6642503523358767015
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2538716751438677015
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_mvpCardView": {
+    "m_FileID": 0,
+    "m_PathID": 2484001672357578841
+  },
+  "_mvpCardDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 4261520871319373913
+  },
+  "_opponentIconImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 8244794618526206041
+  },
+  "_npcIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 5604016484322936921
+  },
+  "_showNextAnimClip": {
+    "m_FileID": 5,
+    "m_PathID": -6627553228154739639
+  },
+  "_footerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 1492908599122298969
+  }
+}

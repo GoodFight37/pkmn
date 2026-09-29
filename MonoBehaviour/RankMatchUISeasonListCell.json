@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8550990615397975430
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3496372210549378535
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5575777967884715398
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_seasonName": {
+    "m_FileID": 0,
+    "m_PathID": -5513351678848386438
+  },
+  "_period": {
+    "m_FileID": 0,
+    "m_PathID": 8000128782615591546
+  },
+  "_gradientEffect": {
+    "m_FileID": 0,
+    "m_PathID": 1071734284881246842
+  }
+}

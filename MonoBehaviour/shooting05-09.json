@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1101229750744939834
+  },
+  "m_Name": "shooting05-09",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 4543049705051731670
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5628952594764609238
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 180463304412837590
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9049202680404298026
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5109483676149954262
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5637208765161682646
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

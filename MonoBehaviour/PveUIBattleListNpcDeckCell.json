@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4380685805859910152
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8480403442502545865
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6641075782342528504
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -3032315468276052488
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 800733771971153400
+  },
+  "_specificCardObject": {
+    "m_FileID": 0,
+    "m_PathID": 3655482272591498744
+  },
+  "_unknownCardObject": {
+    "m_FileID": 0,
+    "m_PathID": 6222433401506090488
+  },
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": 1162400822327234040
+  },
+  "_clearObj": {
+    "m_FileID": 0,
+    "m_PathID": 2487569354727345656
+  },
+  "_newObj": {
+    "m_FileID": 0,
+    "m_PathID": -7251919780725142024
+  },
+  "_resourceObj": {
+    "m_FileID": 0,
+    "m_PathID": 1258731209958084088
+  },
+  "_resourceText": {
+    "m_FileID": 0,
+    "m_PathID": 7997978314791046648
+  },
+  "_battleTryView": {
+    "m_FileID": 0,
+    "m_PathID": -6992307520490517000
+  },
+  "_rewardCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1868097063669412360
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4777834359257222648
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5226682603337534968
+    }
+  ],
+  "_listMarkView": {
+    "m_FileID": 0,
+    "m_PathID": -7755643423281197576
+  },
+  "_randomBaseImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 6961853264236957176
+  },
+  "_difficultyIcons": [
+    {
+      "Difficulty": 1,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": -2691229229036941832
+      }
+    },
+    {
+      "Difficulty": 2,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 2605370627387280888
+      }
+    },
+    {
+      "Difficulty": 3,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": -354488715927368200
+      }
+    },
+    {
+      "Difficulty": 4,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": -7595545060159205896
+      }
+    }
+  ]
+}

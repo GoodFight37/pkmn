@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5413368404009665393
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6480277216565547445
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1365831899445345423
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_tab": {
+    "m_FileID": 0,
+    "m_PathID": -5722299743148557169
+  },
+  "_scrollMoveTabView": {
+    "m_FileID": 0,
+    "m_PathID": -6155515156344980337
+  },
+  "_rematchButton": {
+    "m_FileID": 0,
+    "m_PathID": -2988248030930191217
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 1365831899445345423
+  },
+  "_deckRuleSpecialImage": {
+    "m_FileID": 0,
+    "m_PathID": -22645762678309745
+  },
+  "_deckRuleButton": {
+    "m_FileID": 0,
+    "m_PathID": -3046246234864206705
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": 1000817517643447439
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": 1532135445910207631
+  },
+  "_filterButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8945088992558302065
+  },
+  "_sortButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5849251848149154959
+  },
+  "_filterButtonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -6911538675240518513
+  },
+  "_sortButtonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -8689673629528736625
+  },
+  "_buttonFadeShowAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": -3945218433532225602
+  },
+  "_buttonFadeHideAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 3667689567446492069
+  },
+  "_newBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 3132829260541803663
+  },
+  "_scrollRectTabList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8650554165798945649
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3809470807266542449
+    }
+  ]
+}

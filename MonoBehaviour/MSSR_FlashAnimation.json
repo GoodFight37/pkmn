@@ -1,0 +1,175 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8993736477655133024
+  },
+  "m_Name": "MSSR_FlashAnimation",
+  "EffSwitchColor": {
+    "m_Curve": [
+      {
+        "time": 0.20319596,
+        "value": 2.3026992E-05,
+        "inSlope": -0.02431616,
+        "outSlope": -0.02431616,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.4141496
+      },
+      {
+        "time": 0.41561913,
+        "value": 0.019978995,
+        "inSlope": 1.0748882,
+        "outSlope": 1.0748882,
+        "weightedMode": 3,
+        "inWeight": 0.07863405,
+        "outWeight": 0.55780405
+      },
+      {
+        "time": 0.7350215,
+        "value": 0.5647061,
+        "inSlope": 0.47816274,
+        "outSlope": 0.47816274,
+        "weightedMode": 3,
+        "inWeight": 0.40962258,
+        "outWeight": 0.324369
+      },
+      {
+        "time": 0.8494792,
+        "value": 0.57984924,
+        "inSlope": -0.0013956199,
+        "outSlope": -0.0013956199,
+        "weightedMode": 3,
+        "inWeight": 0.33485126,
+        "outWeight": 0.80003357
+      },
+      {
+        "time": 1.2,
+        "value": 0.0,
+        "inSlope": 0.004888311,
+        "outSlope": 0.004888311,
+        "weightedMode": 1,
+        "inWeight": 0.7299469,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "EffAdditiveIntensity": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "EffColor3Blend": {
+    "m_Curve": [
+      {
+        "time": 0.20319596,
+        "value": 2.3026992E-05,
+        "inSlope": 0.019775135,
+        "outSlope": 0.019775135,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.44153568
+      },
+      {
+        "time": 0.53095376,
+        "value": 1.0,
+        "inSlope": 0.022820458,
+        "outSlope": 0.022820458,
+        "weightedMode": 3,
+        "inWeight": 0.4687274,
+        "outWeight": 0.390589
+      },
+      {
+        "time": 0.7127354,
+        "value": 0.9847625,
+        "inSlope": -0.16393584,
+        "outSlope": -0.16393584,
+        "weightedMode": 3,
+        "inWeight": 0.27982676,
+        "outWeight": 0.72953343
+      },
+      {
+        "time": 1.4592404,
+        "value": 0.0,
+        "inSlope": -0.09236918,
+        "outSlope": -0.09236918,
+        "weightedMode": 1,
+        "inWeight": 0.69687855,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "EffEmissiveIntensity": {
+    "m_Curve": [
+      {
+        "time": 0.20319596,
+        "value": 1.711832E-05,
+        "inSlope": 0.009196306,
+        "outSlope": 0.009196306,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.60419863
+      },
+      {
+        "time": 0.44409722,
+        "value": 0.5879381,
+        "inSlope": 0.14478642,
+        "outSlope": 0.14478642,
+        "weightedMode": 3,
+        "inWeight": 0.43842265,
+        "outWeight": 0.3904027
+      },
+      {
+        "time": 0.64286405,
+        "value": 0.5742476,
+        "inSlope": -0.19491531,
+        "outSlope": -0.19491531,
+        "weightedMode": 3,
+        "inWeight": 0.26043195,
+        "outWeight": 0.6749913
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.31828576,
+        "outSlope": -0.31828576,
+        "weightedMode": 1,
+        "inWeight": 0.21880113,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9141752687058766196
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3959991545325558588
+  },
+  "m_Name": "",
+  "_animationTexFrameCount": 240,
+  "_animationFrameCount": 9,
+  "_animSwitchSpeed": 5.0,
+  "_animFrameOffset": 39,
+  "_skipAnimThreshold": 4,
+  "_accellRatio": 5.0,
+  "<IsAnimationStopped>k__BackingField": 0
+}

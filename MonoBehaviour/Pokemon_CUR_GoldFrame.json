@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2028130241607373086
+  },
+  "m_Name": "Pokemon_CUR_GoldFrame",
+  "_uiBasePrefab": {
+    "m_FileID": 3,
+    "m_PathID": 4706921335200617661
+  },
+  "_templatePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 851123582909163902
+  },
+  "_renderers": [
+    {
+      "_renderer": {
+        "m_FileID": 0,
+        "m_PathID": 4668683750684830078
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 4,
+            "m_PathID": 5041642811640600942
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 5,
+            "m_PathID": 3414234141896966352
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 6,
+            "m_PathID": -973451362924139007
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 5,
+            "m_PathID": 3414234141896966352
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 7,
+            "m_PathID": -6503822316906939454
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 5,
+            "m_PathID": 3414234141896966352
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 0,
+        "m_PathID": -9094818211301283458
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 2,
+            "m_PathID": 7633757897034958788
+          },
+          "_override": 1,
+          "_overrideType": 1,
+          "_overrideMaterialConditions": {
+            "m_FileID": 8,
+            "m_PathID": -7553575158843545477
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_dynamicUIs": [
+    {
+      "_key": {
+        "m_FileID": 3,
+        "m_PathID": 602274457335108797
+      },
+      "_gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "_fonts": {
+    "m_FileID": 9,
+    "m_PathID": -642452921627321170
+  }
+}

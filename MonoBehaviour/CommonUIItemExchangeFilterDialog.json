@@ -1,0 +1,139 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3325502011118402340
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5142966947954051663
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -7303227109089426212
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 6927948606149346524
+  },
+  "_inputField": {
+    "m_FileID": 0,
+    "m_PathID": -6274240927557303076
+  },
+  "_colorTypeToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1778376913637721308
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6281282812683470044
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6425829550775352100
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7053006883205233444
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6833145724500559068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4098350935536057124
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6928385530944210140
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -14961802740841252
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6587484981514257628
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5827166356371653852
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1481045691410662620
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2864234126377499428
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5609942227380091684
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 664623994993755356
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7208521056175078180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7401003718034996004
+    }
+  ],
+  "_clearButton": {
+    "m_FileID": 0,
+    "m_PathID": -8924972897884977956
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7303227109089426212
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 6989721532070610140
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -8645345247832193828
+  }
+}

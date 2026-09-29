@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2454267741338096994
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2738841836769392357
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 5170829223220368738
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_beforeSendTipRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4622626855359108450
+  },
+  "_afterSendTipRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4096529360984102242
+  },
+  "_friendRoot": {
+    "m_FileID": 0,
+    "m_PathID": -106279544598276766
+  },
+  "_heartImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -6571731948982807198
+  },
+  "_friendText": {
+    "m_FileID": 0,
+    "m_PathID": -3009161687654050462
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": 3294005449290241378
+  },
+  "_profileIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 9206415478949565794
+  },
+  "_profileButton": {
+    "m_FileID": 0,
+    "m_PathID": -2209074648173292190
+  },
+  "_sendTipButton": {
+    "m_FileID": 0,
+    "m_PathID": 1505068028658406754
+  },
+  "_friendRequestButton": {
+    "m_FileID": 0,
+    "m_PathID": 1514323904475059554
+  },
+  "_friendCancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 7750923812090828130
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5170829223220368738
+  },
+  "_progressTextEffect": {
+    "m_FileID": 0,
+    "m_PathID": 915273378772964706
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -1692033375666612894
+  },
+  "_tipSendAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7323565648479475042
+  },
+  "_tipSendAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": -5041247296425795193
+  },
+  "_avaterElementTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3388986986393479838
+  },
+  "_effectCircleAndImage": {
+    "m_FileID": 0,
+    "m_PathID": -304783316878731934
+  },
+  "_effectCircleAndImage02": {
+    "m_FileID": 0,
+    "m_PathID": 9146617903217268066
+  },
+  "_effectFlareImage": {
+    "m_FileID": 0,
+    "m_PathID": 9141265380456158562
+  },
+  "_profileDetailElement": {
+    "m_FileID": 0,
+    "m_PathID": -52404071502621342
+  }
+}

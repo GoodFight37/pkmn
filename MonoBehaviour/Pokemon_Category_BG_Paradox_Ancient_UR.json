@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6621602161769933796
+  },
+  "m_Name": "Pokemon_Category_BG_Paradox_Ancient_UR",
+  "_conditions": [
+    {
+      "_conditionType": 0,
+      "_cardType": 0,
+      "_energyType": 12,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 2,
+        "m_PathID": -2872101789380021011
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6240539940743786780
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 710890183456003870
+  },
+  "m_Name": "",
+  "_scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -6413083723783319836
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -9089389549638103324
+  },
+  "_viewArea": {
+    "m_FileID": 0,
+    "m_PathID": 8507089495653240548
+  },
+  "_automaticScrollDuration": 0.5,
+  "<ScrollThreshold>k__BackingField": {
+    "_value": 20.0
+  },
+  "<DragThreshold>k__BackingField": {
+    "_value": 10.0
+  },
+  "<TapSlideThreshold>k__BackingField": {
+    "_value": 2.0
+  },
+  "<ScrollRate>k__BackingField": {
+    "_value": 1.2
+  }
+}

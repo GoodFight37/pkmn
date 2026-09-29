@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7262437807553372836
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1232149001107583096
+  },
+  "m_Name": "",
+  "_offScreenRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5364269085125894820
+  },
+  "_handleRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6973145723207410340
+  },
+  "_drawer": 0,
+  "_touchGuardObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2028130241607373086
+  },
+  "m_Name": "Pokemon_UR_Paradox_Future_V02",
+  "_uiBasePrefab": {
+    "m_FileID": 2,
+    "m_PathID": 4706921335200617661
+  },
+  "_templatePrefab": {
+    "m_FileID": 3,
+    "m_PathID": -2944572684099354127
+  },
+  "_renderers": [
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 5128205812324401649
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 4,
+            "m_PathID": 898611635634795531
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -3708873113111789071
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 5,
+            "m_PathID": 659084912445889493
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 5489340918371484145
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 6,
+            "m_PathID": 174687182836645551
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 7,
+            "m_PathID": 1183712015125087068
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 6866476648535851505
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 8,
+            "m_PathID": -1925665542676805310
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 9,
+            "m_PathID": 3979138985348574288
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -4622125980946955791
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 10,
+            "m_PathID": -1781298788681584146
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 11,
+            "m_PathID": -475066128411194647
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -7076385389678132751
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 12,
+            "m_PathID": 1829165847230682055
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -5233723818186669583
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 13,
+            "m_PathID": -8235161576882919586
+          },
+          "_override": 1,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 14,
+            "m_PathID": 5615246248062466068
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 4154413011868615153
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 15,
+            "m_PathID": -5289940276455780354
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 16,
+            "m_PathID": -3601850367217838025
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 17,
+            "m_PathID": -973451362924139007
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 16,
+            "m_PathID": -3601850367217838025
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 18,
+            "m_PathID": -6503822316906939454
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 16,
+            "m_PathID": -3601850367217838025
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -4351393701934366223
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 19,
+            "m_PathID": 311239597850265459
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 20,
+            "m_PathID": -7586761606378719246
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -3964599843283631631
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 21,
+            "m_PathID": 1290296136370174394
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 22,
+            "m_PathID": 3809595564648923601
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 4611692846238695921
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 23,
+            "m_PathID": -2240243326259826747
+          },
+          "_override": 1,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 24,
+            "m_PathID": -564815680457219424
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 8077918470940230129
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 25,
+            "m_PathID": 5995690155914252346
+          },
+          "_override": 1,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 26,
+            "m_PathID": -5241972532994925204
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 1509855005230072305
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 27,
+            "m_PathID": 6039773746863815016
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -9192912239981854223
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 28,
+            "m_PathID": 7633757897034958788
+          },
+          "_override": 1,
+          "_overrideType": 1,
+          "_overrideMaterialConditions": {
+            "m_FileID": 29,
+            "m_PathID": 4148150052978473776
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 1492828345628787185
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 30,
+            "m_PathID": -1608412159671436234
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 7116682391876960753
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 30,
+            "m_PathID": -1608412159671436234
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 3964572341408006641
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 31,
+            "m_PathID": -2653420540558705266
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 32,
+            "m_PathID": 4068578414022587272
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": 1650913619545326065
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 33,
+            "m_PathID": -2872101789380021011
+          },
+          "_override": 1,
+          "_overrideType": 1,
+          "_overrideMaterialConditions": {
+            "m_FileID": 34,
+            "m_PathID": 5531171182293401696
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 3,
+        "m_PathID": -167996981340306959
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 35,
+            "m_PathID": -7403577547463159741
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_dynamicUIs": [
+    {
+      "_key": {
+        "m_FileID": 2,
+        "m_PathID": 602274457335108797
+      },
+      "_gameObject": {
+        "m_FileID": 2,
+        "m_PathID": 750838892751492285
+      }
+    }
+  ],
+  "_fonts": {
+    "m_FileID": 36,
+    "m_PathID": 5291661627354468761
+  }
+}

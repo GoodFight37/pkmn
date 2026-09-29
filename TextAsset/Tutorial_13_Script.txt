@@ -1,0 +1,64 @@
+############
+# ステージ13: 特殊状態
+############
+
+- skip_opponent_attack: true
+- skip_opponent_attach_energy: true
+- sys_wait: OnWipeEnd
+
+# > 特殊状態を使いこなそう
+- title: battle_tutorial_special_condition_telop_001
+
+# > バトル場のベトベターをよく見てください。
+- msg_b: battle_tutorial_special_condition_message_00100
+
+# カード詳細を開く
+- open_field_detail: [ Auto, SelfActiveField ]
+
+# > 相手のバトルポケモンをどくにする。　と書いてあります。
+# > ワザにはこのように、ダメージだけでなくいろいろな効果をもつものがあります。
+# > このワザは相手のポケモンを【どく】状態にすることができます。
+- msg_b: 
+    - battle_tutorial_special_condition_message_00200
+    - battle_tutorial_special_condition_message_00300
+    - battle_tutorial_special_condition_message_00400
+  focus: CardDetailSkillDescription
+
+# カード詳細を自動で閉じる  
+- sys_neutral:
+
+# > どくガスで相手のポケモンを【どく】にしましょう。
+- msg_b: battle_tutorial_special_condition_message_00500
+
+- attack: Auto
+
+- sys_wait: OnSpecialConditionApplied
+
+# > あいてのキャタピーを【どく】状態にしました。
+# > 【どく】はポケモンチェックのたびに10ダメージをポケモンに与えます。
+- msg_b: 
+    - battle_tutorial_special_condition_message_00600
+    - battle_tutorial_special_condition_message_00700
+  focus: OpponentActiveField
+
+- sys_wait: OnSelfTurnPlayPhaseBegin
+
+# > 【どく】などの特殊状態のポケモンは、<br>ベンチにもどると特殊状態が回復します。
+# > 特殊状態は【どく】の他にもマヒ、ねむりなどがあります。
+# > それぞれの詳しい説明は「バトルの遊び方」を見てみましょう。
+- msg_b:
+    - battle_tutorial_special_condition_message_00800
+    - battle_tutorial_special_condition_message_00900
+    - battle_tutorial_special_condition_message_01000
+
+# ターン終了ボタン表示
+- show_turn_end_button:
+
+# ターン終了
+- input: [ Auto, OnDetermineTurnEndInput, Control_DetermineTurnEnd ]
+  tap: [ DetermineTurnEndButton, Center, TopRight ]
+
+# ターン終了ボタン非表示
+- hide_turn_end_button:
+
+- sys_end:  

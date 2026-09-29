@@ -1,0 +1,182 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4763492310698644796
+  },
+  "m_Name": "FuturaLTPro-Heavy SDF_FontSettings",
+  "<FontName>k__BackingField": "FuturaLTPro-Heavy SDF",
+  "_glyphTableSettings": [
+    {
+      "<Unicode>k__BackingField": 49,
+      "<Index>k__BackingField": 20,
+      "<HorizontalAdvance>k__BackingField": 20.0
+    }
+  ],
+  "_glyphAdjustmentTableSettings": [
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 48,
+        "<Index>k__BackingField": 19,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 50,
+        "<Index>k__BackingField": 21,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 51,
+        "<Index>k__BackingField": 22,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 52,
+        "<Index>k__BackingField": 23,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 53,
+        "<Index>k__BackingField": 24,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 54,
+        "<Index>k__BackingField": 25,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 55,
+        "<Index>k__BackingField": 26,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 56,
+        "<Index>k__BackingField": 27,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    },
+    {
+      "<FirstGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 57,
+        "<Index>k__BackingField": 28,
+        "<HorizontalAdvance>k__BackingField": -3.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      },
+      "<SecondGlyph>k__BackingField": {
+        "<Unicode>k__BackingField": 49,
+        "<Index>k__BackingField": 20,
+        "<HorizontalAdvance>k__BackingField": 0.0,
+        "<HorizontalOffset>k__BackingField": 0.0,
+        "<VerticalOffset>k__BackingField": 0.0
+      }
+    }
+  ]
+}

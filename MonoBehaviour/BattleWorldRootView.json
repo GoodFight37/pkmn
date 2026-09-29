@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 829191112759226075
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2782651118550806269
+  },
+  "m_Name": "",
+  "_self": {
+    "m_FileID": 0,
+    "m_PathID": 3177811185176260315
+  },
+  "_opponent": {
+    "m_FileID": 0,
+    "m_PathID": -4493324342821015845
+  },
+  "_flipCoinView": {
+    "m_FileID": 0,
+    "m_PathID": -4873633501091156261
+  },
+  "_playGround": {
+    "m_FileID": 0,
+    "m_PathID": -2436410978262602021
+  },
+  "_goalPool": {
+    "m_FileID": 0,
+    "m_PathID": -4949432934291231013
+  }
+}

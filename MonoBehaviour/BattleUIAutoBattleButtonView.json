@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4619805133160009444
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1450276056698615673
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -1502023080051912988
+  },
+  "_showClip": {
+    "m_FileID": 4,
+    "m_PathID": 894070483597503321
+  },
+  "_hideClip": {
+    "m_FileID": 4,
+    "m_PathID": -3357141695089910323
+  },
+  "_buttonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -5348261432299860252
+  },
+  "_enableClip": {
+    "m_FileID": 4,
+    "m_PathID": -6432385271568895961
+  },
+  "_disableClip": {
+    "m_FileID": 4,
+    "m_PathID": -5817500908913566024
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": -8971676786445889820
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -2770609340275667228
+  }
+}

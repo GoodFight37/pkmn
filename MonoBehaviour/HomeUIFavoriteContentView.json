@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8648914937966361661
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3278791239529830554
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_noSettingRootTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8960027843393092669
+  },
+  "_boardRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7739497707352753091
+  },
+  "_goToBoardButton": {
+    "m_FileID": 0,
+    "m_PathID": 6647145091726181315
+  },
+  "_fileRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2730983384445486019
+  },
+  "_goToFileButton": {
+    "m_FileID": 0,
+    "m_PathID": 7713081032963523523
+  },
+  "_fileLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -146781341197859901
+  },
+  "_boardLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4389017015071081411
+  }
+}

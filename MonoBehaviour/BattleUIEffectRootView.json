@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2314336032646506777
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2511792322983712956
+  },
+  "m_Name": "",
+  "_battleUiGameStartView": {
+    "m_FileID": 0,
+    "m_PathID": -8816180835335809305
+  },
+  "_battleUIGameStartTelopView": {
+    "m_FileID": 0,
+    "m_PathID": 3082260042703754983
+  },
+  "_battleUiSkillCutInView": {
+    "m_FileID": 0,
+    "m_PathID": -7212997710830774553
+  },
+  "_battleUiStartFlipCoinView": {
+    "m_FileID": 0,
+    "m_PathID": -4773940948506192153
+  }
+}

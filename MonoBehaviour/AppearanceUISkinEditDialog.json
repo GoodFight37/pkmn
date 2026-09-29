@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1653449612889577282
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6935251161603261326
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -5293206953109137598
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_tab": {
+    "m_FileID": 0,
+    "m_PathID": -8579611708430330046
+  },
+  "_languageSelectButton": {
+    "m_FileID": 0,
+    "m_PathID": -5709307635476179134
+  },
+  "_uiCardView": {
+    "m_FileID": 0,
+    "m_PathID": -5420564659407923390
+  },
+  "_uiAcquireView": {
+    "m_FileID": 0,
+    "m_PathID": -9051663295792261310
+  },
+  "_cardDetailView": {
+    "m_FileID": 0,
+    "m_PathID": -7739705232668928190
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -3310802175293696190
+  },
+  "_skinNameRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2669528372580559038
+  },
+  "_skinNameText": {
+    "m_FileID": 0,
+    "m_PathID": 5815031132936820546
+  },
+  "_getSkinButton": {
+    "m_FileID": 0,
+    "m_PathID": -4297642640331614398
+  },
+  "_getSkinButtonBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 6946151876948219714
+  },
+  "_completionButton": {
+    "m_FileID": 0,
+    "m_PathID": -5567690280071440574
+  },
+  "_completionButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2217284851289860286
+  },
+  "_dialogHeader": {
+    "m_FileID": 0,
+    "m_PathID": -3034136687710283966
+  },
+  "_dialogHeaderWithoutLanguageEdit": {
+    "m_FileID": 0,
+    "m_PathID": 4704587537257617218
+  },
+  "_tabRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 1062076426577663810
+  },
+  "_cardFramePageRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -6732807740274616510
+  }
+}

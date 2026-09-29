@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7872059084337144846
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1777209510171999449
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -8640614136874755086
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 570792760748055538
+  },
+  "_mostWishCard1Button": {
+    "m_FileID": 0,
+    "m_PathID": -4137767021954360334
+  },
+  "_mostWishCard2Button": {
+    "m_FileID": 0,
+    "m_PathID": -3795114258340668430
+  },
+  "_mostWishCard3Button": {
+    "m_FileID": 0,
+    "m_PathID": -6825763928082375694
+  },
+  "_mostWishCardListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4337266358799000590
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6603163624470569998
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3341576875454798834
+    }
+  ],
+  "_allRemoveButton": {
+    "m_FileID": 0,
+    "m_PathID": -5386850216269079566
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 6118561610129382386
+  },
+  "_viewPortRectMask2D": {
+    "m_FileID": 0,
+    "m_PathID": 6805683279069748210
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 5201257868151790578
+  },
+  "_releaseButton": {
+    "m_FileID": 0,
+    "m_PathID": -4428773362918646798
+  },
+  "_mostWishCardRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -5376837617236075534
+  },
+  "_libraryButton": {
+    "m_FileID": 0,
+    "m_PathID": 4655540085175131122
+  },
+  "_uiScrollSlider": {
+    "m_FileID": 0,
+    "m_PathID": 7896777006158027762
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -918606057279036414
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1020135846319329336
+  },
+  "m_Name": "",
+  "_selfTimerIconView": {
+    "m_FileID": 0,
+    "m_PathID": 3733722953025741826
+  },
+  "_opponentTimerIconView": {
+    "m_FileID": 0,
+    "m_PathID": -2683138758191717374
+  },
+  "_preparationTimerIconView": {
+    "m_FileID": 0,
+    "m_PathID": -5874631271756569598
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4903441137645019875
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8040464333800362899
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": -6484668763282775325
+  },
+  "_useVirtualCameraType": 0,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_activeToBenchAnimTrackName": "ActiveToBench Animation",
+  "_activeToBenchMoveTrackName": "ActiveToBench Move",
+  "_activeToBenchMoveClipName": "Move"
+}

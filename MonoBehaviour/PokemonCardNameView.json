@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3297387468871494467
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5704742700175387613
+  },
+  "m_Name": "",
+  "_key": 100,
+  "_text": {
+    "m_FileID": 0,
+    "m_PathID": -3949155630699047747
+  },
+  "_elementTagFontSize": 0.0,
+  "_exTagFontSize": 0.0,
+  "_inactivateOnEmpty": [],
+  "_autoSizeConditions": [],
+  "_ex": {
+    "m_FileID": 0,
+    "m_PathID": 1658598963339007165
+  },
+  "_textMaxWidthForEx": 300.0,
+  "_textMaxWidthForRocketPt": 390.0,
+  "_lineType": 1,
+  "_additionalText": {
+    "m_FileID": 0,
+    "m_PathID": 2332460415830398141
+  },
+  "_exWidth": 100.0,
+  "_minWidth": 10.0,
+  "_spaceLeftCenter": 10.0,
+  "_spaceCenterRight": 0.0
+}

@@ -1,0 +1,99 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3115955062050952917
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6114697672497124572
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -7972219537445852885
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -5007660291433535189
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -7972219537445852885
+  },
+  "_pokemonTypeButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 240670327858817323
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9216823529871403307
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3172645355498280661
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8716236549669218603
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3095798328121071317
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3689655643048732971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7014165919484897579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8632494009174812971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8049998490841606443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7209780563298511147
+    }
+  ]
+}

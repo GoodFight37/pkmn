@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 505152012783890139
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7469491248152728751
+  },
+  "m_Name": "",
+  "_directionField": {
+    "m_FileID": 0,
+    "m_PathID": -8952871263642734885
+  },
+  "_directionTop": {
+    "m_FileID": 0,
+    "m_PathID": 6504567576914865883
+  },
+  "_directionUI": {
+    "m_FileID": 0,
+    "m_PathID": 8315835668582149851
+  },
+  "_hud": {
+    "m_FileID": 0,
+    "m_PathID": -5923899633081864485
+  },
+  "_hand": {
+    "m_FileID": 0,
+    "m_PathID": 8749382513761169115
+  },
+  "_overWorld": {
+    "m_FileID": 0,
+    "m_PathID": -6739907301871931685
+  }
+}

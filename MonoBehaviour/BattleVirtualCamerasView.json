@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4843582860050452773
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1335198538849806152
+  },
+  "m_Name": "",
+  "_cameras": [
+    {
+      "_type": 1,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": 554136254752009947
+      }
+    },
+    {
+      "_type": 2,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": 4014292566598397659
+      }
+    },
+    {
+      "_type": 3,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": 6834509416693477083
+      }
+    },
+    {
+      "_type": 4,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": -1818747055891566885
+      }
+    },
+    {
+      "_type": 5,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": -7326230401846432037
+      }
+    },
+    {
+      "_type": 6,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": 4791611170316529371
+      }
+    },
+    {
+      "_type": 7,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": -1770762932916212005
+      }
+    },
+    {
+      "_type": 8,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": 8949971141179059931
+      }
+    },
+    {
+      "_type": 9,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": -5852917707035070757
+      }
+    },
+    {
+      "_type": 10,
+      "_camera": {
+        "m_FileID": 0,
+        "m_PathID": -1174860758795178277
+      }
+    }
+  ],
+  "_battleStartCameraClip": {
+    "m_FileID": 5,
+    "m_PathID": -2655799292671942840
+  },
+  "_defaultCameraLwAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 65186245499399899
+  }
+}

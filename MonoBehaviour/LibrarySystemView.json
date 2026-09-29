@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2170087226852893146
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6326528215577524230
+  },
+  "m_Name": "",
+  "_objectRootView": {
+    "m_FileID": 0,
+    "m_PathID": 4264972558497341914
+  },
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": 4907282699405222362
+  },
+  "_tempCameraView": {
+    "m_FileID": 0,
+    "m_PathID": 8952501193165496794
+  }
+}

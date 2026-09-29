@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1340315682957055107
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -196413076314358745
+  },
+  "m_Name": "",
+  "_loadedContentsObject": {
+    "m_FileID": 0,
+    "m_PathID": -4356530117984365437
+  },
+  "_grayScaleLoadedContentsObject": {
+    "m_FileID": 0,
+    "m_PathID": -1485254490585082749
+  },
+  "_placeHolderObject": {
+    "m_FileID": 0,
+    "m_PathID": -5801850198097701757
+  },
+  "_loadingCardObject": {
+    "m_FileID": 0,
+    "m_PathID": -5801850198097701757
+  },
+  "_cardShadowObject": {
+    "m_FileID": 0,
+    "m_PathID": -3395315323202087805
+  },
+  "_commonItemObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_itemImage": {
+    "m_FileID": 0,
+    "m_PathID": 1044131775586129027
+  },
+  "_grayScaleItemImage": {
+    "m_FileID": 0,
+    "m_PathID": 7187350295571289219
+  },
+  "_itemSmallImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_collectionFileItemImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_collectionFileItemImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_collectionBoardItemImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_collectionBoardItemImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectItemImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectItemImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_deckItemCell": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_numElm": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_selectFrameImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_snoopSelectImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_emblem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9066969743605404915
+  },
+  "m_Name": "Common_SBM_SimpleOpaque_Outer",
+  "_shader": {
+    "m_FileID": 2,
+    "m_PathID": -1926954714643589246
+  },
+  "_prefix": "SBM",
+  "_properties": [
+    {
+      "_shaderPropertyName": "_MainTex",
+      "_unique": 1,
+      "_prefix": "AM",
+      "_floatValue": 0.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_Stencil",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RenderQueue",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 2400.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    }
+  ]
+}

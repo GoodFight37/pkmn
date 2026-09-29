@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7022120180965390021
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -9132499047344878334
+  },
+  "m_Name": "",
+  "_message": {
+    "m_FileID": 0,
+    "m_PathID": 5044933441866043
+  },
+  "_prizeRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1033521494214719173
+  },
+  "_prizeBefore": {
+    "m_FileID": 0,
+    "m_PathID": 8460847707688192315
+  },
+  "_prizeAfter": {
+    "m_FileID": 0,
+    "m_PathID": 1643210313147730235
+  },
+  "_coinHeadCountRoot": {
+    "m_FileID": 0,
+    "m_PathID": 820163690390604091
+  },
+  "_coinHeadCount": {
+    "m_FileID": 0,
+    "m_PathID": -3238457380626183877
+  },
+  "_coinSingleRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3758070018036189499
+  },
+  "_coinSingleResultText": {
+    "m_FileID": 0,
+    "m_PathID": 738481494773451067
+  },
+  "_energyRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5450010957598635717
+  },
+  "_energyElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4072044588330464965
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4266338642917312827
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2898338348515248443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5237055422486230725
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5122445880501221061
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5291772728837093061
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9098679384084891963
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2855124353641100997
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -837029073621104325
+    }
+  ],
+  "_nextEnergyChangeRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4514800698644351291
+  },
+  "_nextEnergyChangeView": {
+    "m_FileID": 0,
+    "m_PathID": 1522591874105264443
+  }
+}

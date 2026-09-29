@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7440334956634441922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 269150259002054316
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9117369166456752322
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2342505483997939906
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6685425952960673598
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8385075817092151102
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8500614891772639038
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9023393727234635582
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7848785215877150526
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6194491523302099138
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_levelText": {
+    "m_FileID": 0,
+    "m_PathID": 8286176443592083650
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": 5930309026650261698
+  },
+  "_lastLoginAtText": {
+    "m_FileID": 0,
+    "m_PathID": 2460926149252024514
+  },
+  "_profileIconImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 5895388887515400386
+  },
+  "_applyButton": {
+    "m_FileID": 0,
+    "m_PathID": 2342505483997939906
+  },
+  "_applyingButton": {
+    "m_FileID": 0,
+    "m_PathID": -6685425952960673598
+  },
+  "_approvalRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 6384559430276221122
+  },
+  "_myBestButton": {
+    "m_FileID": 0,
+    "m_PathID": -9023393727234635582
+  },
+  "_friendButton": {
+    "m_FileID": 0,
+    "m_PathID": -7848785215877150526
+  },
+  "_loginIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -2308847237000656702
+  },
+  "_emblemImage1": {
+    "m_FileID": 0,
+    "m_PathID": 3772092129394886850
+  },
+  "_emblemImage2": {
+    "m_FileID": 0,
+    "m_PathID": 6549080145587275970
+  },
+  "_emblemImage3": {
+    "m_FileID": 0,
+    "m_PathID": 5262375278781204674
+  },
+  "_newBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -4120722942104500030
+  },
+  "_privateText": {
+    "m_FileID": 0,
+    "m_PathID": -1942913012057306942
+  },
+  "_favoriteIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1384654942448318270
+  },
+  "_favoriteToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 6194491523302099138
+  }
+}

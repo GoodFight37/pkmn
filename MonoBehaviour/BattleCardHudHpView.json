@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3433211447739340589
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9115401397718575264
+  },
+  "m_Name": "",
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3808741461758957357
+  },
+  "_hpValueText": {
+    "m_FileID": 0,
+    "m_PathID": -1994389644775401683
+  },
+  "_hpGauge": {
+    "m_FileID": 0,
+    "m_PathID": -773050015036614867
+  },
+  "_backgroundRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3330474162646538029
+  },
+  "_backgroundColorPalette": {
+    "m_FileID": 0,
+    "m_PathID": 2837641205921601325
+  },
+  "_skillViewBackgroundRoot": {
+    "m_FileID": 0,
+    "m_PathID": -914423359583234259
+  },
+  "_skillViewBackgroundColorPalette": {
+    "m_FileID": 0,
+    "m_PathID": -1637099563023476947
+  },
+  "_benchCardHpHudScale": 0.67,
+  "_gaugeColorPalette": {
+    "m_FileID": 0,
+    "m_PathID": -5495907601586399443
+  },
+  "_hpViewAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -2780725957565491411
+  },
+  "_hpViewShowClip": "battle_ui_hp_view_show",
+  "_hpViewHideClip": "battle_ui_hp_view_hide",
+  "_hpValueAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3266619584640440109
+  },
+  "_hpValueDamageClip": "battle_ui_hp_dmg_txt",
+  "_hpValueBuffedDamageClip": "battle_ui_hp_dmg_buffed_txt",
+  "_hpValueDebuffedDamageClip": "battle_ui_hp_dmg_debuffed_txt",
+  "_hpValueRecoverClip": "battle_ui_hp_recovery_txt",
+  "_hpValueBuffedRecoverClip": "battle_ui_hp_recovery_buffed_txt",
+  "_hpValueDebuffedRecoverClip": "battle_ui_hp_recovery_debuffed_txt",
+  "_normalTextColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_buffedTextColor": {
+    "r": 1.0,
+    "g": 0.5882353,
+    "b": 0.33333334,
+    "a": 1.0
+  },
+  "_debuffedTextColor": {
+    "r": 0.39607844,
+    "g": 0.72156864,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_fadeShowAnimClip": {
+    "m_FileID": 3,
+    "m_PathID": -4219689457476871370
+  },
+  "_fadeHideAnimClip": {
+    "m_FileID": 3,
+    "m_PathID": -5118284681709859866
+  },
+  "_offset": {
+    "<SelfActive>k__BackingField": {
+      "x": 0.0,
+      "y": 18.0
+    },
+    "<SelfBench>k__BackingField": {
+      "x": 2.0,
+      "y": 9.0
+    },
+    "<OpponentActive>k__BackingField": {
+      "x": 0.0,
+      "y": 22.0
+    },
+    "<OpponentBench>k__BackingField": {
+      "x": 2.0,
+      "y": 16.0
+    }
+  },
+  "_maxHpBuffedIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2931634342950217939
+  },
+  "_maxHpDebuffedIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8929782282688014547
+  },
+  "_maxHpBuffedClip": "battle_ui_hp_buffed_txt",
+  "_maxHpDebuffedClip": "battle_ui_hp_debuffed_txt",
+  "_hpValueCountDownTypeThreshold": 50,
+  "_hpValueCountDownValue": 10,
+  "_hpValueCountDownDurationMilliSecond": 100,
+  "_hpValueCountDownTotalFrame": 14.0,
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -7196235724447951059
+  }
+}

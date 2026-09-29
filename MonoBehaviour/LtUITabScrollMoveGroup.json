@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1062076426577663810
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -994750433226837816
+  },
+  "m_Name": "",
+  "Tabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6141540422232266562
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5464725149300840258
+    }
+  ],
+  "ParentScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -685772407714261182
+  },
+  "_tabScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_pages": [],
+  "_scrollRectByPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_horizontalScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_scrollBars": []
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7031000714943529002
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6556620971281724333
+  },
+  "m_Name": "",
+  "ParentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -4895099515869724714
+  },
+  "EmptyBase": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ScrollableButtons": [],
+  "ScrollableObjects": []
+}

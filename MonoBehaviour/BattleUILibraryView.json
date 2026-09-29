@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2748715064932454116
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2564499844117855539
+  },
+  "m_Name": "",
+  "_view": {
+    "m_FileID": 0,
+    "m_PathID": 2748715064932454116
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 8584850913786875620
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 5856654191335722724
+  },
+  "_showClip": {
+    "m_FileID": 4,
+    "m_PathID": -7145352492167407290
+  },
+  "_hideClip": {
+    "m_FileID": 4,
+    "m_PathID": -2669159059089590292
+  },
+  "_showSe": {
+    "_value": "COMN_SE_SELECT"
+  }
+}

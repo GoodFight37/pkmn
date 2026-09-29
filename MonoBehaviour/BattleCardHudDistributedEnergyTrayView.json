@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4515789815830175291
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7510222610168311080
+  },
+  "m_Name": "",
+  "_lineRoots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3583448752228311493
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2309747062358302267
+    }
+  ],
+  "_cellCountPerLine": 5,
+  "_cellPrefab": {
+    "m_FileID": 3,
+    "m_PathID": -4204637239522591477
+  },
+  "_droppableArea": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1501903393573151173
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": -4515789815830175291
+  },
+  "_activeScale": 1.0,
+  "_benchScale": 0.8
+}

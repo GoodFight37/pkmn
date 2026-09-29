@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7929913194782369701
+  },
+  "m_Name": "トースト表示(NotEnoughEnergy)",
+  "m_Time": 0.0,
+  "MessageKind": 2,
+  "MessageType": 1,
+  "OverrideKey": ""
+}

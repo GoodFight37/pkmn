@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_FrameInHandOpponent",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7782829909882478504
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8010206422524862376
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 354966037523226712
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 390033116867485784
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

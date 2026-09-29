@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5933361746761817019
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1407405456247237901
+  },
+  "m_Name": "",
+  "mImage": {
+    "m_FileID": 0,
+    "m_PathID": 5288391774094550085
+  },
+  "mRectSoftMask": {
+    "m_FileID": 0,
+    "m_PathID": -7005302925996727227
+  }
+}

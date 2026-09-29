@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2053067059767433189
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7602083639357483537
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -6702940066108319771
+  },
+  "_playerIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -921011375380736027
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": 4374298244419508197
+  },
+  "_friendIdText": {
+    "m_FileID": 0,
+    "m_PathID": -1548684298006013979
+  },
+  "_profileNotificationObject": {
+    "m_FileID": 0,
+    "m_PathID": 4439926064464877541
+  },
+  "_profileButton": {
+    "m_FileID": 0,
+    "m_PathID": 4701962783470278629
+  },
+  "_friendIdCopyButton": {
+    "m_FileID": 0,
+    "m_PathID": 2402074079992960997
+  },
+  "_shopButton": {
+    "m_FileID": 0,
+    "m_PathID": 6205389057882544101
+  },
+  "_playerResourcesButton": {
+    "m_FileID": 0,
+    "m_PathID": 6822878795454175205
+  },
+  "_gameHintButton": {
+    "m_FileID": 0,
+    "m_PathID": 9078610119324424165
+  },
+  "_otherButton": {
+    "m_FileID": 0,
+    "m_PathID": 6349568171540502501
+  },
+  "_notificationButton": {
+    "m_FileID": 0,
+    "m_PathID": 119131201575540709
+  },
+  "_presentBoxButton": {
+    "m_FileID": 0,
+    "m_PathID": 518455051916892133
+  },
+  "_shopBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 6995209127491688421
+  },
+  "_notificationBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 7814420974526224357
+  },
+  "_presentBoxBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -7426971000183564315
+  },
+  "_normalSubscriptionButton": {
+    "m_FileID": 0,
+    "m_PathID": -6233042503299934235
+  },
+  "_premiumSubscriptionButton": {
+    "m_FileID": 0,
+    "m_PathID": 6049253803555313637
+  }
+}

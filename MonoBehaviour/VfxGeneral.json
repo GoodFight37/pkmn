@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4283955490509252131
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -622321075850754835
+  },
+  "m_Name": "",
+  "_canUsePoolCapacity": 0,
+  "_poolCapacity": 0,
+  "_lifeTime": {
+    "_wrapMode": 0,
+    "_duration": 2.0
+  }
+}

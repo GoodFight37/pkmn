@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3617631920458866115
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -648794893590959082
+  },
+  "m_Name": "",
+  "ParentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 2105156739888603709
+  },
+  "EmptyBase": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemPrefab": {
+    "m_FileID": 3,
+    "m_PathID": 7146962333623087121
+  },
+  "Layout": 0,
+  "AdditionalLayout": 0,
+  "HorizontalCellOffset": 0.0,
+  "VerticalCellOffset": 0.0,
+  "DivideCount": 1,
+  "Spacing": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "TopMargin": 30.0,
+  "BottomMargin": 30.0,
+  "LeftMargin": 0.0,
+  "RightMargin": 0.0,
+  "Infinity": 0,
+  "_topCellPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_bottomCellPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

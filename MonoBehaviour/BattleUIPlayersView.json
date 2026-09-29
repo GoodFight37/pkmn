@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5206709148286417646
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3518156384398995380
+  },
+  "m_Name": "",
+  "_self": {
+    "m_FileID": 0,
+    "m_PathID": -3131066892330698002
+  },
+  "_opponent": {
+    "m_FileID": 0,
+    "m_PathID": 6800103409643780846
+  },
+  "_selfPrizeTelopView": {
+    "m_FileID": 0,
+    "m_PathID": -981171346208359698
+  },
+  "_opponentPrizeTelopView": {
+    "m_FileID": 0,
+    "m_PathID": 7645772301547305710
+  },
+  "_prizeAcquireLabelView": {
+    "m_FileID": 0,
+    "m_PathID": 1826416420521868014
+  }
+}

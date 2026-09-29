@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8360284866589220909
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4541621919248014591
+  },
+  "m_Name": "",
+  "_loopPowder": {
+    "m_FileID": 0,
+    "m_PathID": -8778244227736805331
+  },
+  "_burstPowder": {
+    "m_FileID": 0,
+    "m_PathID": 5022244973103276077
+  }
+}

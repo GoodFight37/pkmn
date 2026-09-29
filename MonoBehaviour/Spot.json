@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1101229750744939834
+  },
+  "m_Name": "Spot",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": -6491559385166341610
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8471814188657108458
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8347332804762769942
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7206447375914867222
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2985001916169755158
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2340698970529359338
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7761861348032551446
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1306391016646104163
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -107349949864355140
+  },
+  "m_Name": "",
+  "_cardRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5267182488250297245
+  },
+  "_cardContainer": {
+    "m_FileID": 0,
+    "m_PathID": -6625190038036272227
+  },
+  "_acquireCameraView": {
+    "m_FileID": 0,
+    "m_PathID": 3726316633177205661
+  },
+  "_cardAcquireTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6001126554428363875
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1135878555439213469
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7978423661449849757
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2029631465106363491
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7348948021024445539
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -541047916384539747
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8850928432089410461
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3877860553351965597
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3171152268980900963
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5242404114494335901
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4990253491755537507
+    }
+  ],
+  "_receiverRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6892259326373538717
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": 7517485901631335325
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 5653288787734637469
+  }
+}

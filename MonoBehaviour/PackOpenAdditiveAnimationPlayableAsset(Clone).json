@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3352212838369611798
+  },
+  "m_Name": "PackOpenAdditiveAnimationPlayableAsset(Clone)",
+  "_targetDirector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_targetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_additiveClip": {
+    "m_FileID": 3,
+    "m_PathID": -3146117578454385028
+  },
+  "_startOffset": 0.0
+}

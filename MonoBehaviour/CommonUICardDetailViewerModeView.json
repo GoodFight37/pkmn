@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6862499200130681767
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5358525425654206429
+  },
+  "m_Name": "",
+  "_contentRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6862499200130681767
+  },
+  "_uiCardView": {
+    "m_FileID": 0,
+    "m_PathID": 2227315436126931879
+  },
+  "_cardViewerUIShowAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": 2997612941486820759
+  },
+  "_cardViewerUIHideAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": 7872233684226794907
+  },
+  "_cardViewerCenterObject": {
+    "m_FileID": 0,
+    "m_PathID": -8409402922279695449
+  },
+  "_layoutRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7425361950308299865
+  },
+  "_cardViewerHiddenGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5149642179976361049
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9126549222315717721
+    }
+  ]
+}

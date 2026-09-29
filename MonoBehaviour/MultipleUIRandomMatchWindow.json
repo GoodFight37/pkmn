@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4254475607152404564
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1593948701963512193
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_battleButton": {
+    "m_FileID": 0,
+    "m_PathID": 7318736348807768148
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": -7342902418003515308
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 815026698354370644
+  },
+  "_switcher": {
+    "m_FileID": 0,
+    "m_PathID": 5108000267944077396
+  },
+  "_settingStanceButton": {
+    "m_FileID": 0,
+    "m_PathID": -4545960602760304556
+  },
+  "_settingStanceText": {
+    "m_FileID": 0,
+    "m_PathID": 7634761653258561620
+  },
+  "_settingStanceNoticeBadge": {
+    "m_FileID": 0,
+    "m_PathID": 4263398824364353620
+  },
+  "_currentDeckElement": {
+    "m_FileID": 0,
+    "m_PathID": -724981528994174892
+  },
+  "_deckCardsElement": {
+    "m_FileID": 0,
+    "m_PathID": 8396861689198553172
+  }
+}

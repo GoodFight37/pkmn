@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1158192569713810046
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6537478726186365770
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4237358151550098046
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 4237358151550098046
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -373014821353301378
+  },
+  "_warningIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2785785758946876030
+  },
+  "_icons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6301487809777621630
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7227181805862987138
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4066766769816741250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2358524962347997822
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7973771220559013250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7087125538630720126
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2787943487445476738
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3449301087187576194
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4471673943387069054
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7968705360295175554
+    }
+  ],
+  "_normalIconBase": {
+    "m_FileID": 0,
+    "m_PathID": -1649764041517966722
+  },
+  "_normalPackPowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7352192333422798210
+  },
+  "_normalChallengePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -9103993630910064002
+  },
+  "_normalPvePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6573208375995278722
+  },
+  "_normalPvpPowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 696896448249387646
+  },
+  "_normalTradePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4062909898357725822
+  },
+  "_disabledIconBase": {
+    "m_FileID": 0,
+    "m_PathID": 3183521721562290814
+  },
+  "_disabledPackPowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7708863935405172098
+  },
+  "_disabledChallengePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8725550243122174590
+  },
+  "_disabledPvePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -9216685377483580802
+  },
+  "_disabledPvpPowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -818421436103009666
+  },
+  "_disabledTradePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8472158498029296254
+  },
+  "_normalResourceBase": {
+    "m_FileID": 0,
+    "m_PathID": -2157055514479371650
+  },
+  "_disabledResourceBase": {
+    "m_FileID": 0,
+    "m_PathID": -7051558184949523842
+  },
+  "_recommendBadgeBase": {
+    "m_FileID": 0,
+    "m_PathID": 574528463783320190
+  }
+}

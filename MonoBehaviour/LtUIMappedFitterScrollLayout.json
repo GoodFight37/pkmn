@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6444147484215601182
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6268089299415679955
+  },
+  "m_Name": "",
+  "DividedCount": 1,
+  "Alignment": 1,
+  "MinCellSize": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "Margin": {
+    "Top": 42.0,
+    "Bottom": 42.0,
+    "Left": 0.0,
+    "Right": 0.0
+  },
+  "CellSpacing": {
+    "x": 0.0,
+    "y": 24.0
+  },
+  "AdditionalSafeAreaInsetsBottom": 0
+}

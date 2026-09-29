@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4561955044445790318
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7539290004806752553
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1977241721468542866
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_battleButton": {
+    "m_FileID": 0,
+    "m_PathID": -8508962476907634798
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": 6532083167713025938
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": -1456064645542322286
+  },
+  "_rankingButton": {
+    "m_FileID": 0,
+    "m_PathID": -7362406141429948526
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 1977241721468542866
+  },
+  "_currentDeckElement": {
+    "m_FileID": 0,
+    "m_PathID": 3225883456516251538
+  },
+  "_rankBgElements": {
+    "_beginner": {
+      "m_FileID": 0,
+      "m_PathID": 4526666315292991378
+    },
+    "_monsterBall": {
+      "m_FileID": 0,
+      "m_PathID": -6386445268582015086
+    },
+    "_superBall": {
+      "m_FileID": 0,
+      "m_PathID": 8948378200439447442
+    },
+    "_hyperBall": {
+      "m_FileID": 0,
+      "m_PathID": -3143139569525792878
+    },
+    "_masterBall": {
+      "m_FileID": 0,
+      "m_PathID": -2892373765247017070
+    }
+  },
+  "_rankIconElement": {
+    "m_FileID": 0,
+    "m_PathID": 4240628881240154002
+  },
+  "_rankNameElement": {
+    "m_FileID": 0,
+    "m_PathID": -737606660497219694
+  },
+  "_seasonNameText": {
+    "m_FileID": 0,
+    "m_PathID": 7720441737842384786
+  },
+  "_pointText": {
+    "m_FileID": 0,
+    "m_PathID": 3097433980301205394
+  },
+  "_pointToNextRankGauge": {
+    "m_FileID": 0,
+    "m_PathID": 8309112357377007506
+  },
+  "_gaugeDetailText": {
+    "m_FileID": 0,
+    "m_PathID": -6980284624810025070
+  },
+  "_rankUpElement": {
+    "m_FileID": 0,
+    "m_PathID": 7787749572670250898
+  },
+  "_winningStreakElement": {
+    "m_FileID": 0,
+    "m_PathID": 3699119141771141010
+  },
+  "_winningStreakText": {
+    "m_FileID": 0,
+    "m_PathID": -3451733593293463662
+  },
+  "_rankingBadgeElement": {
+    "m_FileID": 0,
+    "m_PathID": 5569230148055850898
+  }
+}

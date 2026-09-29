@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7352442745421779443
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9192945290325411421
+  },
+  "m_Name": "",
+  "_cardTextConfigs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5474179650021380595
+    }
+  ],
+  "_cardDynamicUIViews": [],
+  "_cardConditionViews": [],
+  "_pokemonCardNameViews": [],
+  "PokemonCardMegaEvolutionFromNameViews": [],
+  "_cardTextViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 968488359121956365
+    }
+  ],
+  "_cardSpriteViews": [],
+  "_cardEnergyViews": [],
+  "_cardContainerViews": [],
+  "_skillContainerViews": [],
+  "_skillViews": [],
+  "_captureAreas": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1561006940387365363
+    }
+  ]
+}

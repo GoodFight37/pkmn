@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8389865899254746658
+  },
+  "m_Name": "",
+  "m_Resolution": 20,
+  "m_Appearance": {
+    "pathColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "inactivePathColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5,
+      "a": 1.0
+    },
+    "width": 0.0
+  },
+  "m_Looped": 0,
+  "m_Waypoints": [
+    {
+      "position": {
+        "x": -0.5,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "roll": 0.0
+    },
+    {
+      "position": {
+        "x": -0.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "roll": 0.0
+    },
+    {
+      "position": {
+        "x": -0.5,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "roll": 0.0
+    }
+  ]
+}

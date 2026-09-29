@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1037321057111429093
+  },
+  "m_Name": "Trainers_Normal_Paradox",
+  "_fonts": [
+    {
+      "_key": 200,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": 3913222942201191114
+      }
+    },
+    {
+      "_key": 201,
+      "_font": {
+        "m_FileID": 3,
+        "m_PathID": -1786185556352031625
+      }
+    },
+    {
+      "_key": 203,
+      "_font": {
+        "m_FileID": 4,
+        "m_PathID": -8045644990403380734
+      }
+    },
+    {
+      "_key": 204,
+      "_font": {
+        "m_FileID": 5,
+        "m_PathID": 6601986703115559721
+      }
+    },
+    {
+      "_key": 1,
+      "_font": {
+        "m_FileID": 6,
+        "m_PathID": -7789891820486265095
+      }
+    },
+    {
+      "_key": 0,
+      "_font": {
+        "m_FileID": 6,
+        "m_PathID": -7789891820486265095
+      }
+    },
+    {
+      "_key": 2,
+      "_font": {
+        "m_FileID": 6,
+        "m_PathID": -7789891820486265095
+      }
+    },
+    {
+      "_key": 3,
+      "_font": {
+        "m_FileID": 6,
+        "m_PathID": -7789891820486265095
+      }
+    },
+    {
+      "_key": 4,
+      "_font": {
+        "m_FileID": 6,
+        "m_PathID": -7789891820486265095
+      }
+    },
+    {
+      "_key": 202,
+      "_font": {
+        "m_FileID": 5,
+        "m_PathID": 6601986703115559721
+      }
+    },
+    {
+      "_key": 103,
+      "_font": {
+        "m_FileID": 7,
+        "m_PathID": -6220052053907558318
+      }
+    },
+    {
+      "_key": 117,
+      "_font": {
+        "m_FileID": 8,
+        "m_PathID": -5035559725271761733
+      }
+    },
+    {
+      "_key": 101,
+      "_font": {
+        "m_FileID": 8,
+        "m_PathID": -5035559725271761733
+      }
+    }
+  ],
+  "_default": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_imgTagFontType": 3
+}

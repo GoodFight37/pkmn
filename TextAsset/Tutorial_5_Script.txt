@@ -1,0 +1,63 @@
+############
+# ステージ5: ターンを終了する
+############
+
+- sys_wait: OnWipeEnd
+
+# > ターンを終了しよう！
+- title: battle_tutorial_turn_end_telop_001
+
+# > カビゴンに雷エネルギーを付けましょう。
+- msg_b: battle_tutorial_turn_end_message_00100
+
+# ドラッグ誘導・入力待機
+- attach_energy: [ Auto, SelfActiveField ]
+- sys_wait: OnAttachEnergyFromPool
+
+# > カビゴンのカードをよく見てみましょう。
+- msg_b: battle_tutorial_turn_end_message_00200
+
+# カード詳細を開く
+- open_field_detail: [ Auto, SelfActiveField ]
+
+# > カビゴンのワザを見てください。
+- msg_b: battle_tutorial_turn_end_message_00300
+
+# > ワザ　に必要なエネルギーは4個です。
+# > これらは無色エネルギーといって どのタイプでもいいというマークです
+- msg_b: 
+    - battle_tutorial_turn_end_message_00400
+    - battle_tutorial_turn_end_message_00450
+  focus: CardDetailRequiredEnergy
+
+# カード詳細を自動で閉じる  
+- sys_neutral:
+
+# ターン終了ボタン表示
+- show_turn_end_button:
+
+# > ワザが使えないときは、ターン終了ボタンを押して自分の番を終わります。
+- msg_b: battle_tutorial_turn_end_message_00500
+  focus: DetermineTurnEndButton
+
+# ターン終了
+- input: [ Auto, OnDetermineTurnEndInput, Control_DetermineTurnEnd ]
+  tap: [ DetermineTurnEndButton, Center, TopRight ]
+
+# ターン終了ボタン非表示
+- hide_turn_end_button:
+
+# 自分のターンになるまで待機
+- sys_wait: OnSelfTurnPlayPhaseBegin
+
+# > 自分の番になるとエネルギーゾーンにエネルギーが発生します。
+# > カビゴンにエネルギーを付けてワザを使いましょう。
+- msg_c: 
+    - battle_tutorial_turn_end_message_00600
+    - battle_tutorial_turn_end_message_00700
+  focus: SelfEnergyZone
+
+- attach_energy: [ Auto, SelfActiveField ]
+- attack: OnAttachEnergyFromPool
+
+- sys_end:  

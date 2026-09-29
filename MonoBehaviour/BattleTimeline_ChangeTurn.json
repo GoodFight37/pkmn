@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_ChangeTurn",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4703607496353303114
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2912459319945278902
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6362790538335172022
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1697139719583905206
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1413469027216116298
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9068292812112579146
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9205649660911864394
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -480190823316141494
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6462976987201942966
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -4763222522705622454
+  }
+}

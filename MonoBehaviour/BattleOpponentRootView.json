@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6171367689630756571
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3304167858876462976
+  },
+  "m_Name": "",
+  "_opponentHand": {
+    "m_FileID": 0,
+    "m_PathID": 424152671058964187
+  },
+  "_opponentActiveField": {
+    "m_FileID": 0,
+    "m_PathID": 3846672606908296923
+  },
+  "_opponentBenchField": {
+    "m_FileID": 0,
+    "m_PathID": -1790836090833162533
+  },
+  "_opponentLibraryGroupView": {
+    "m_FileID": 0,
+    "m_PathID": -3277578038285455653
+  },
+  "_opponentDiscardPile": {
+    "m_FileID": 0,
+    "m_PathID": 4140149450056576731
+  },
+  "_energyPool": {
+    "m_FileID": 0,
+    "m_PathID": -1527432674466681125
+  },
+  "_opponentStadiumField": {
+    "m_FileID": 0,
+    "m_PathID": -3033979860791808293
+  }
+}

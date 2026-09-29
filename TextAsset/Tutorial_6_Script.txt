@@ -1,0 +1,49 @@
+############
+# ステージ6: 進化
+############
+
+- sys_wait: OnWipeEnd
+
+# > ポケモンを進化させよう
+- title: battle_tutorial_evolve_telop_001
+
+# > ポケモンを進化させてバトルしてみましょう。
+# > 手札のカードをよく見てください。
+- msg_c:
+    - battle_tutorial_evolve_message_00100
+    - battle_tutorial_evolve_message_00200
+
+# 手札のカード詳細を開く
+- open_hand_detail: Auto
+
+# > ここにリザードから進化と書いてあります。
+# > 進化ポケモンはここに書かれたポケモンを進化させることができます。
+- msg_b: 
+    - battle_tutorial_evolve_message_00300
+    - battle_tutorial_evolve_message_00400
+  focus: HandCardDetailPhaseCondition
+
+- sys_neutral:
+
+# > バトル場のポケモンはリザードです。
+- msg_b: battle_tutorial_evolve_message_00500
+
+# > 手札の進化ポケモンを場のポケモンに重ねると進化できます。
+- msg_b: battle_tutorial_evolve_message_00600
+  focus: SelfActiveField
+
+- play_evolve: [ Auto, SelfActiveField ]
+
+# > 進化するとHPが上がったり、強力なワザが使えるようになります。
+# > 進化しても受けていたダメージやついているエネルギーはそのままです。
+# > また、進化は1度の番で何回でもすることができます。
+# > ただし、場に出したばかりのポケモンや<br>自分の最初の番では進化できません。
+- msg_b: 
+    - battle_tutorial_evolve_message_00700
+    - battle_tutorial_evolve_message_00800
+    - battle_tutorial_evolve_message_00900
+    - battle_tutorial_evolve_message_01000
+
+- attack2: Auto
+
+- sys_end:    

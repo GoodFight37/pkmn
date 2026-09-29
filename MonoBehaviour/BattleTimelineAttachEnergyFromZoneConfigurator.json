@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4154857209331747483
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5773486040461069438
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": 6645007072448771429
+  },
+  "_useVirtualCameraType": 0,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_effectTrackName": "Lt Particle Track",
+  "_hudAnimationTrackName": "Legacy Animation Track",
+  "_hudSignalTrackName": "HUD Signal Track",
+  "_energyVfxUpdater": {
+    "m_FileID": 0,
+    "m_PathID": -4631348156871379611
+  }
+}

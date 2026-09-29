@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4139817146552468889
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -37564587671937770
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_currentEmblemImage": {
+    "m_FileID": 0,
+    "m_PathID": -7028594291311101337
+  },
+  "_emptyTrophyObject": {
+    "m_FileID": 0,
+    "m_PathID": 5159370554803042919
+  },
+  "_nextEmblemImage": {
+    "m_FileID": 0,
+    "m_PathID": 2674938482491210343
+  },
+  "_progressGauge": {
+    "m_FileID": 0,
+    "m_PathID": 5241725066038688359
+  },
+  "_counterTypeText": {
+    "m_FileID": 0,
+    "m_PathID": 7314751158345874023
+  },
+  "_counterText": {
+    "m_FileID": 0,
+    "m_PathID": 4575113299772717671
+  },
+  "_progressGaugeMinText": {
+    "m_FileID": 0,
+    "m_PathID": 4806155774331599463
+  },
+  "_progressGaugeMaxText": {
+    "m_FileID": 0,
+    "m_PathID": 535488147917126247
+  },
+  "_progressElm": {
+    "m_FileID": 0,
+    "m_PathID": 4929117503440501351
+  },
+  "_completeElm": {
+    "m_FileID": 0,
+    "m_PathID": 6228956127099697767
+  },
+  "_showNextAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -6627553228154739639
+  },
+  "_footerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 63856577884404327
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3023216233504802862
+  },
+  "m_Name": "常在型特性エフェクト 表示制御",
+  "m_Time": 0.48333333333333334,
+  "<Type>k__BackingField": 2
+}

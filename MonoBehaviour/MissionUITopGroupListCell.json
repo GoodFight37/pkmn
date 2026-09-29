@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4261253637541509979
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7754249561129459317
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3054161990164331355
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -4019988723697761115
+  },
+  "_progressNumText": {
+    "m_FileID": 0,
+    "m_PathID": -6664025705030925147
+  },
+  "_completeImage": {
+    "m_FileID": 0,
+    "m_PathID": 1507928768628409509
+  },
+  "_newImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 7744170194985698469
+  },
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": -7987522900568882011
+  },
+  "_packSetImage": {
+    "m_FileID": 0,
+    "m_PathID": 6120854161078305957
+  },
+  "_packLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": -1110873844845165403
+  },
+  "_bgGradientEffect": {
+    "m_FileID": 0,
+    "m_PathID": -3275812249672137563
+  },
+  "_expansionElm": {
+    "m_FileID": 0,
+    "m_PathID": -7386097653717252955
+  },
+  "_seriesElm": {
+    "m_FileID": 0,
+    "m_PathID": 222746422178235557
+  },
+  "_seriesNameText": {
+    "m_FileID": 0,
+    "m_PathID": -3686754906461551451
+  }
+}

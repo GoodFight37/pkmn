@@ -1,0 +1,177 @@
+{
+  "m_Shader": {
+    "m_FileID": 8,
+    "m_PathID": -1881755638251284055,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 2269775964105675245,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -5983188190957284131,
+          "Name": "COIN_100350_GLACIA_RNB_BattleCoin_RM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCPhaseTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 2212280784465702044,
+          "Name": "BattleCoin_Common_R5_02_HPH",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LCRampTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4408116112557298087,
+          "Name": "BattleCoin_R5_Rainbow_RMP",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 4739004715069626886,
+          "Name": "COIN_100350_GLACIA_RNB_BattleCoin_AM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -1714016852591360418,
+          "Name": "COIN_100350_GLACIA_RNB_BattleCoin_MM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -2191297417982872684,
+          "Name": "COIN_100350_GLACIA_RNB_BattleCoin_NM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -1124216959489705895,
+          "Name": "BattleCoin_Common_R5_01_HPH",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 6015022093390018240,
+          "Name": "BattleCoin_R5_RMP",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BaseColorIntensity": 0.9,
+      "_ChangeSpeed": 1.8,
+      "_DiffractionIntensity": 0.08,
+      "_DiffractionPower": 2.0,
+      "_LCChangeSpeed": 2.8,
+      "_LCDiffractionIntensity": 0.75,
+      "_LCDiffractionPower": 2.0,
+      "_LCOrientationU": -0.625,
+      "_LCOrientationV": 0.5,
+      "_LCRampOffset": 0.2,
+      "_OrientationU": 1.0,
+      "_OrientationV": 1.0,
+      "_RampOffset": -0.28,
+      "_Shininess": 16.0,
+      "_SpecularIntensity": 0.2
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "COIN_100350_GLACIA_RNB_BattleCoin_M",
+  "Name": "COIN_100350_GLACIA_RNB_BattleCoin_M"
+}

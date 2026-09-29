@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9066357336608779995
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5441591039687126286
+  },
+  "m_Name": "",
+  "<SpecialConditionPseudoEndDuration>k__BackingField": 1.0,
+  "_healSpecialConditionSe": {
+    "_value": "BATTLE_SE_CONDITION_RECOVERY"
+  },
+  "_paralyzedSe": {
+    "_value": "BATTLE_SE_CONDITION_PARALYSIS"
+  },
+  "_burnedSe": {
+    "_value": "BATTLE_SE_CONDITION_BURN"
+  },
+  "_confusedSe": {
+    "_value": "BATTLE_SE_CONDITION_CONFUSION"
+  },
+  "_asleepSe": {
+    "_value": "BATTLE_SE_CONDITION_SLEEP"
+  },
+  "_poisonedSe": {
+    "_value": "BATTLE_SE_CONDITION_POISON"
+  }
+}

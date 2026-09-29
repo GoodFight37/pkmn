@@ -1,0 +1,142 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6535078162093431540
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6925552910597998799
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -135813858464113932
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5854630791746430220
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2998494153836143884
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5765803268705606388
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 8384199295535602420
+  },
+  "_cornerPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 2200317059801537268
+  },
+  "_cornerMultiple": {
+    "m_FileID": 0,
+    "m_PathID": -6248539915578778892
+  },
+  "_cornerDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -2677981352665556236
+  },
+  "_deckNoText": {
+    "m_FileID": 0,
+    "m_PathID": 3506051840907598580
+  },
+  "_rentalLimitElement": {
+    "m_FileID": 0,
+    "m_PathID": 218500345378691828
+  },
+  "_limitUsedCountText": {
+    "m_FileID": 0,
+    "m_PathID": -2793253285561246988
+  },
+  "_noLimitText": {
+    "m_FileID": 0,
+    "m_PathID": -2608027503030773004
+  },
+  "_recipeImage": {
+    "m_FileID": 0,
+    "m_PathID": -769324001998152972
+  },
+  "_deckNameText": {
+    "m_FileID": 0,
+    "m_PathID": -2353247855664047372
+  },
+  "_deckCardsElement": {
+    "m_FileID": 0,
+    "m_PathID": 8678175713583356660
+  },
+  "_favoriteElm": {
+    "m_FileID": 0,
+    "m_PathID": -4859994879088469260
+  },
+  "_badgeNotAvailable": {
+    "m_FileID": 0,
+    "m_PathID": 2293530399700933364
+  },
+  "_badgeSocial": {
+    "m_FileID": 0,
+    "m_PathID": 1631055940280900340
+  },
+  "_badgeNew": {
+    "m_FileID": 0,
+    "m_PathID": 5701088623887112948
+  },
+  "_deckObj": {
+    "m_FileID": 0,
+    "m_PathID": -8374968939691844876
+  },
+  "_deckCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -1667991965910770956
+  },
+  "_createObj": {
+    "m_FileID": 0,
+    "m_PathID": 5154394117499706100
+  },
+  "_disableObj": {
+    "m_FileID": 0,
+    "m_PathID": 2907099482744740596
+  },
+  "_selectedObject": {
+    "m_FileID": 0,
+    "m_PathID": 5198612953938451188
+  },
+  "_deleteButtonGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7732873678221007604
+  },
+  "_rootCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -637154171447551244
+  },
+  "_dragStartClip": {
+    "m_FileID": 6,
+    "m_PathID": -4861980349324632862
+  },
+  "_dragEndClip": {
+    "m_FileID": 6,
+    "m_PathID": -8674173052811302630
+  },
+  "_subCard1Buffer": {
+    "m_FileID": 0,
+    "m_PathID": 1193877534443625204
+  },
+  "_subCard2Buffer": {
+    "m_FileID": 0,
+    "m_PathID": 7804471493233335028
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 8166351669830933236
+  },
+  "_disableButton": {
+    "m_FileID": 0,
+    "m_PathID": -2998494153836143884
+  }
+}

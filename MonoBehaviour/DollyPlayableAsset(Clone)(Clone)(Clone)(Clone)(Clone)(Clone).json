@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7496253752104931791
+  },
+  "m_Name": "DollyPlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+  "_progress": 0.46080002,
+  "_progressCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0040219845,
+        "outSlope": 0.14400001,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.42859197
+      },
+      {
+        "time": 4.1666665,
+        "value": 0.6,
+        "inSlope": 0.14400001,
+        "outSlope": -0.14400001,
+        "weightedMode": 0,
+        "inWeight": 0.44096696,
+        "outWeight": 0.0
+      },
+      {
+        "time": 8.333333,
+        "value": 0.0,
+        "inSlope": -0.14400001,
+        "outSlope": 0.002300683,
+        "weightedMode": 0,
+        "inWeight": 0.7860814,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

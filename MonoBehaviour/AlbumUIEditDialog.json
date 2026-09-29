@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 503187339784252032
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9072721881434864390
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -945118856150553984
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 5027434679830342272
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 4615205188781107840
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": -2416777054968583552
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -2092321546904049024
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5027434679830342272
+  },
+  "_completionButton": {
+    "m_FileID": 0,
+    "m_PathID": -7096119551538075008
+  },
+  "_titleBgColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -5299091743114958208
+  },
+  "_bodyBgColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -4540540048790820224
+  },
+  "_appearancePublicSettingButton": {
+    "m_FileID": 0,
+    "m_PathID": 2157768726284298880
+  },
+  "_fileNameText": {
+    "m_FileID": 0,
+    "m_PathID": 2893303741267339904
+  },
+  "_editFileNameButton": {
+    "m_FileID": 0,
+    "m_PathID": -2177421412092712320
+  },
+  "_stickyHeaderElement": {
+    "m_FileID": 0,
+    "m_PathID": 380997727402617472
+  },
+  "_customCoverButton": {
+    "m_FileID": 0,
+    "m_PathID": 577020459327187584
+  },
+  "_plusButton": {
+    "m_FileID": 0,
+    "m_PathID": 4129871742502464128
+  },
+  "_notSetHashTagGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2565443936704173440
+  },
+  "_setHashTagGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6892081098961884544
+  }
+}

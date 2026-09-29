@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5936850989498913061
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 555302613902388778
+  },
+  "m_Name": "",
+  "_selfCoinAppearTransform": {
+    "m_FileID": 0,
+    "m_PathID": -7958905695418011941
+  },
+  "_coinResultTransform": {
+    "m_FileID": 0,
+    "m_PathID": -1684197995194044709
+  },
+  "_opponentCoinAppearSingleTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2006578676711379237
+  },
+  "_opponentCoinAppearMultipleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4581031108166201051
+  },
+  "_multipleResultCoinGap": {
+    "x": 0.35,
+    "y": 0.35
+  },
+  "_multipleResultRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7049477026617839909
+  },
+  "_config": {
+    "FirstCoinMoveDuration": 0.3,
+    "RowMoveDuration": 0.3,
+    "NextTossDelayDuration": 0.1,
+    "FinishMultipleTossDelayDuration": 1.5,
+    "MaxTossAngleDigree": 15,
+    "MaxCoinMovableRadius": {
+      "_value": 0.15
+    },
+    "MaxCoinTouchEnableRadius": {
+      "_value": 100.0
+    },
+    "MaxCoinDragEnableRadius": {
+      "_value": 500.0
+    },
+    "MaxCoinDragEnableDepth": {
+      "_value": 1500.0
+    },
+    "MaxCoinDragEnableOnlyRectFrame": {
+      "_value": 15
+    }
+  }
+}

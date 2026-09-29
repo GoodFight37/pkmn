@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenBackPinchOutOpeningPackTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2092136712616826701
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1666072641144117069
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1421727001803642701
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3032169562716481715
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2655058287258937523
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5688610910412166989
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5630458232417200307
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2768231353658464077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5849015755156138163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8440782249704380237
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6883486069736188083
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8237467068928186189
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6166712778042660685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6459877636488124237
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7963437030578411341
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8992599308074964813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3005253189848311987
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2540615601341442227
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7989477344859105459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7968135096114304845
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2472698324241307469
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

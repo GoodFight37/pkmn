@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5835433508236456957
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6636147106034761221
+  },
+  "m_Name": "",
+  "_selfAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -514444935950273539
+  },
+  "_selfShowAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": -767402413044252085
+  },
+  "_selfHideAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 7127200570482024025
+  },
+  "_selfLoadingAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4405316391316917251
+  },
+  "_opponentAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7008747959460459517
+  },
+  "_opponentShowAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 894070483597503321
+  },
+  "_opponentHideAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": -3357141695089910323
+  },
+  "_selfModal": {
+    "m_FileID": 0,
+    "m_PathID": 1744661779123172349
+  },
+  "_opponentModal": {
+    "m_FileID": 0,
+    "m_PathID": 8765532412478190589
+  },
+  "_opponentLoadingAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3911882853681492989
+  },
+  "_loadingAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 6653570253969184995
+  }
+}

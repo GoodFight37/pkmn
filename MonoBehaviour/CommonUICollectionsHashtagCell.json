@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5913404225973234557
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3034853858999359360
+  },
+  "m_Name": "",
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 2076908934391616643
+  },
+  "_hashTagDetailButtonArea": {
+    "m_FileID": 0,
+    "m_PathID": -4607012027911940989
+  },
+  "_notSetHashTagGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3583085150537536643
+  },
+  "_setHashTagGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1525141565885950845
+  },
+  "_hashTagText": {
+    "m_FileID": 0,
+    "m_PathID": -8955242883697191805
+  },
+  "_hashTagDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 7435991003391612035
+  }
+}

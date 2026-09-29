@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2902101134214648182
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3916380512388706349
+  },
+  "m_Name": "",
+  "_iconImage": {
+    "m_FileID": 0,
+    "m_PathID": -5936554193763872394
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -8752010485016604298
+  },
+  "_attachAnimationName": "battle_ui_icn_ene_attach",
+  "_attachedEnergyView": {
+    "m_FileID": 0,
+    "m_PathID": -1277143043222843018
+  }
+}

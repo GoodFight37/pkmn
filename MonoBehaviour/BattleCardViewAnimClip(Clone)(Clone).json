@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9114050979059067473
+  },
+  "m_Name": "BattleCardViewAnimClip(Clone)(Clone)",
+  "_clip": {
+    "m_FileID": 2,
+    "m_PathID": 5680885597147890010
+  },
+  "_se": {
+    "_value": "未選択"
+  },
+  "_seDelayFrame": 0,
+  "_disableRootMotion": 0,
+  "_applyOriginOnStart": 1,
+  "_originOnStart": {
+    "exposedName": "-610106772",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_originPosOnStartConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_originRotOnStartConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_setParentOnStart": 1,
+  "_parentOnStart": {
+    "exposedName": "862657815",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_activateOnStart": 1,
+  "_applyOriginOnEnd": 0,
+  "_originOnEnd": {
+    "exposedName": "1912171906",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_originPosOnEndConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_originRotOnEndConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_setParentOnEnd": 1,
+  "_parentOnEnd": {
+    "exposedName": "-643451977",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_inactivateOnEnd": 1,
+  "_trashIdleOnEnd": 0,
+  "_intervalFrame": 0,
+  "_skipRemainingOnLastAnimFinished": 0
+}

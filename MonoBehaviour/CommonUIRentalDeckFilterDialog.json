@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3589304136692816801
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4101326294943102400
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -7415760224120560545
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 4830746691582796895
+  },
+  "_expansionButton": {
+    "m_FileID": 0,
+    "m_PathID": 2356998533851685983
+  },
+  "_expansionButtonText": {
+    "m_FileID": 0,
+    "m_PathID": -4757847986038332321
+  },
+  "_deckCaseTypeToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4786329446256434081
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4917117641586400161
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7717031080674829407
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -727151812072725409
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2464905354620853153
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4726133084871416737
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7380093591864321119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1652824643084330079
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5338152644955626401
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7927980094101496927
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4534009881225372767
+    }
+  ],
+  "_clearButton": {
+    "m_FileID": 0,
+    "m_PathID": -153864947115908001
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7415760224120560545
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -6095726159286590369
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 1739496466200306783
+  },
+  "_allPokemonTypeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8422875927974618207
+  }
+}

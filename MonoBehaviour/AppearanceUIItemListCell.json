@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -282215444255732825
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3924571482070333435
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 8817152953176689575
+  },
+  "_skinImage": {
+    "m_FileID": 0,
+    "m_PathID": -1397054992862016601
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 6347852627709856679
+  },
+  "_numRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 2189399674481347495
+  },
+  "_cardExchangeNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 4433911465495104423
+  },
+  "_cardExchangeNumText": {
+    "m_FileID": 0,
+    "m_PathID": -5554108531607991385
+  },
+  "_costRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -2815131563371197529
+  },
+  "_tagAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8071554804081751129
+  },
+  "_initBadgeAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -7258759649922050299
+  },
+  "_loopBadgeAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -9145341137453530400
+  },
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": 4483473506094549927
+  },
+  "_canExchangeBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 8254935723724311463
+  },
+  "_timerBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 1574487482518670247
+  },
+  "_cardNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -5672610987919733849
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": -6583643227008332889
+  },
+  "_itemNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 7382654433793149863
+  },
+  "_itemNumText": {
+    "m_FileID": 0,
+    "m_PathID": -8757647751033844825
+  },
+  "_lockIconObject": {
+    "m_FileID": 0,
+    "m_PathID": 7677208611742288807
+  },
+  "_unLockAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6066435739309306969
+  },
+  "_unLockAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -6520145413114357777
+  },
+  "_isNewBadge": {
+    "m_FileID": 0,
+    "m_PathID": -4436465050406679641
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 2668861454441253799
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6881011530021997479
+  },
+  "_exchangeGetNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 1283015765725547431
+  },
+  "_exchangeGetNumText": {
+    "m_FileID": 0,
+    "m_PathID": -2823845142537434201
+  }
+}

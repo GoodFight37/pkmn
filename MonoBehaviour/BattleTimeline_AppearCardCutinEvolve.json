@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_AppearCardCutinEvolve",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4700608055454954176
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3884417535036525888
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4291955179970654912
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8656515869539339584
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5671165964148575552
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7096849727236902208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7746932241462227648
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7680380971461472960
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6427365883454590272
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7633587657227727552
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1561292657381248320
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 331708854722130624
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6041682867594752704
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9083961148953759040
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4953108951730582208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3805968755824095936
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8318022898411343168
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3109806342310359744
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6671943673264042688
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

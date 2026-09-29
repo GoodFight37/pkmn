@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8569369596663374587
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2084169134356912280
+  },
+  "m_Name": "",
+  "_expansionLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": 4010869911465024773
+  },
+  "_completeColorElementKey": "CYAN_200",
+  "_diamondRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8479673064101847803
+  },
+  "_diamondNumeratorNumText": {
+    "m_FileID": 0,
+    "m_PathID": -3859975438037885691
+  },
+  "_diamondDenominatorNumText": {
+    "m_FileID": 0,
+    "m_PathID": -8500955594434224891
+  },
+  "_diamondColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 4351769732034649349
+  },
+  "_starRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2655615831730627323
+  },
+  "_starNumText": {
+    "m_FileID": 0,
+    "m_PathID": -8312987650442404603
+  },
+  "_starColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -6894497365713101563
+  },
+  "_crownRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6106149338553244933
+  },
+  "_crownNumText": {
+    "m_FileID": 0,
+    "m_PathID": -7311711285991514875
+  },
+  "_crownColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -7945652300569584379
+  },
+  "_shinyRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5507302897564310789
+  },
+  "_shinyNumText": {
+    "m_FileID": 0,
+    "m_PathID": 2412683157889277189
+  },
+  "_shinyColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 4146823919988694277
+  },
+  "_promoRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6489018191403736325
+  },
+  "_promoNumText": {
+    "m_FileID": 0,
+    "m_PathID": 8189991218532441349
+  }
+}

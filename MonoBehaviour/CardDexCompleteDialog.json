@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2244362958891659202
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5998595169933809166
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1849466014776438722
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_expansionLogo": {
+    "m_FileID": 0,
+    "m_PathID": -1745432039502893118
+  },
+  "_expansionImage": {
+    "m_FileID": 0,
+    "m_PathID": -6634332046871482430
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 1849466014776438722
+  },
+  "_bgGold": {
+    "m_FileID": 0,
+    "m_PathID": -4137350909280243774
+  },
+  "_bgSilver": {
+    "m_FileID": 0,
+    "m_PathID": -642217367563128894
+  },
+  "_stampGold": {
+    "m_FileID": 0,
+    "m_PathID": -8903087536993718334
+  },
+  "_stampSilver": {
+    "m_FileID": 0,
+    "m_PathID": 524782740981362626
+  },
+  "_message": {
+    "m_FileID": 0,
+    "m_PathID": -9007107966216818750
+  },
+  "_effect": {
+    "m_FileID": 0,
+    "m_PathID": 6509600627912355778
+  }
+}

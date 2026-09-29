@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9139834159776305867
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2274565691470471559
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 3238917749487276747
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_useButton": {
+    "m_FileID": 0,
+    "m_PathID": 8183528097331581643
+  },
+  "_infoButton": {
+    "m_FileID": 0,
+    "m_PathID": 4579427500500423371
+  },
+  "_newBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 7493787855016727243
+  },
+  "_consumeItemIcon": {
+    "m_FileID": 0,
+    "m_PathID": -9058813874117831989
+  },
+  "_resourceElement": {
+    "m_FileID": 0,
+    "m_PathID": -5442113347659066677
+  },
+  "_possessionItemView": {
+    "m_FileID": 0,
+    "m_PathID": -4743416268268793141
+  },
+  "_possessionGoldView": {
+    "m_FileID": 0,
+    "m_PathID": -1324138052772064565
+  },
+  "_requiredItemBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": 4686112786725507787
+  },
+  "_requiredGoldBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -1349955742635748661
+  },
+  "_requiredItemNumText": {
+    "m_FileID": 0,
+    "m_PathID": 3646402007608562379
+  },
+  "_requiredGoldNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4432414618085125429
+  },
+  "_packOpenText": {
+    "m_FileID": 0,
+    "m_PathID": 7271410636437885643
+  },
+  "_packGaugeText": {
+    "m_FileID": 0,
+    "m_PathID": -8121875851246202165
+  },
+  "_webviewPSButton": {
+    "m_FileID": 0,
+    "m_PathID": -8122506127954898229
+  },
+  "_webviewSCTButton": {
+    "m_FileID": 0,
+    "m_PathID": -7981875119362501941
+  },
+  "_webviewSCTKoreanButton": {
+    "m_FileID": 0,
+    "m_PathID": -5434310284562623797
+  },
+  "_webviewSCT2Button": {
+    "m_FileID": 0,
+    "m_PathID": -8827756381769067829
+  },
+  "_webviewCaliforniaElm": {
+    "m_FileID": 0,
+    "m_PathID": -6620265540263177525
+  },
+  "_webviewCaliforniaButton": {
+    "m_FileID": 0,
+    "m_PathID": 7470390527078535883
+  },
+  "_attentionText": {
+    "m_FileID": 0,
+    "m_PathID": -9077006491111681333
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6464924236611853342
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8200489830405264315
+  },
+  "m_Name": "",
+  "_exchangeShopButton": {
+    "m_FileID": 0,
+    "m_PathID": 2018801880561345506
+  },
+  "_exchangeShopBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 7213741731164906466
+  },
+  "_cardAmountText": {
+    "m_FileID": 0,
+    "m_PathID": 6549494326518080482
+  },
+  "_cardAmountRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 6111622421868110818
+  },
+  "_stepperRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 2102360094210647010
+  },
+  "_stepperPossessionNumObject": {
+    "m_FileID": 0,
+    "m_PathID": 4796522598678782946
+  },
+  "_stepperPossessionNumText": {
+    "m_FileID": 0,
+    "m_PathID": 5136539233909662690
+  },
+  "_steppers": {
+    "m_FileID": 0,
+    "m_PathID": 8664828381673087970
+  },
+  "_cardFrameAmountObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8104394483264119778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9189269428242932706
+    }
+  ],
+  "_cardFrameAmountText": {
+    "m_FileID": 0,
+    "m_PathID": -3393165822119779358
+  }
+}

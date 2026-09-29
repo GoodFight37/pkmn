@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3972452286646837293
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8255429419911412791
+  },
+  "m_Name": "",
+  "_cardContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7166497930643709907
+  },
+  "_cardCollider": {
+    "m_FileID": 0,
+    "m_PathID": -5304171203569393619
+  },
+  "_mediumCardContainer": {
+    "m_FileID": 0,
+    "m_PathID": 1221465332721311789
+  },
+  "_largeCardContainer": {
+    "m_FileID": 0,
+    "m_PathID": -856944683020328915
+  }
+}

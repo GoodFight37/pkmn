@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3824971390350122554
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3753513258940102545
+  },
+  "m_Name": "",
+  "_typeElm": {
+    "m_FileID": 0,
+    "m_PathID": -5594513834864943558
+  },
+  "_otherElm": {
+    "m_FileID": 0,
+    "m_PathID": -506620634616897990
+  },
+  "_themeCollectionElm": {
+    "m_FileID": 0,
+    "m_PathID": -9206559403595735494
+  },
+  "_rarityElm": {
+    "m_FileID": 0,
+    "m_PathID": 1738810349825089082
+  },
+  "_blockImage": {
+    "m_FileID": 0,
+    "m_PathID": -2260968463947801030
+  },
+  "_otherImage": {
+    "m_FileID": 0,
+    "m_PathID": 8733295658400210490
+  },
+  "_inNumberCompleteElm": {
+    "m_FileID": 0,
+    "m_PathID": -7018755598471537094
+  },
+  "_typeBadgeList": [
+    {
+      "PokemonType": 1,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -7294424108120285638
+      }
+    },
+    {
+      "PokemonType": 2,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -1492093751001227718
+      }
+    },
+    {
+      "PokemonType": 3,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": 2138145240033910330
+      }
+    },
+    {
+      "PokemonType": 4,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": 2690694064716373562
+      }
+    },
+    {
+      "PokemonType": 5,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -5716154989888414150
+      }
+    },
+    {
+      "PokemonType": 6,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -2324266093677322694
+      }
+    },
+    {
+      "PokemonType": 7,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -7720430726972711366
+      }
+    },
+    {
+      "PokemonType": 8,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -5960068037330280902
+      }
+    },
+    {
+      "PokemonType": 10,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": -843845390094049734
+      }
+    },
+    {
+      "PokemonType": 11,
+      "TypeBadgeImage": {
+        "m_FileID": 0,
+        "m_PathID": 5880735779946946106
+      }
+    }
+  ],
+  "_typeText": {
+    "m_FileID": 0,
+    "m_PathID": -6453315968455745990
+  },
+  "_otherText": {
+    "m_FileID": 0,
+    "m_PathID": -8403305399598195142
+  },
+  "_themeCollectionText": {
+    "m_FileID": 0,
+    "m_PathID": -5942089701743534534
+  },
+  "_commonUIRarityView": {
+    "m_FileID": 0,
+    "m_PathID": 4067429335282802234
+  }
+}

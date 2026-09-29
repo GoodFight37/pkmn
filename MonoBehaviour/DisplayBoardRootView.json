@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5267646933469533817
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5553724278655474753
+  },
+  "m_Name": "",
+  "_cardSlotsHolder": {
+    "m_FileID": 0,
+    "m_PathID": -6246866220565436025
+  },
+  "_animationDirector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_snapTime": 1.0,
+  "hideSlotOnFinishEditing": 0
+}

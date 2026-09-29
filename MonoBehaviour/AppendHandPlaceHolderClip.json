@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 200549551948831256
+  },
+  "m_Name": "AppendHandPlaceHolderClip",
+  "_count": 0,
+  "_removeAtEnd": 0,
+  "OverrideCount": {
+    "exposedName": "38399724",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "OverrideHandIndex": {
+    "exposedName": "-1062256114",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  }
+}

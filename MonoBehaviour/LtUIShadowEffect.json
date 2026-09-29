@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3820505367167697228
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2834355580113542345
+  },
+  "m_Name": "",
+  "shadowStyle": 1,
+  "effectDistance": {
+    "x": 2.0,
+    "y": -2.0
+  },
+  "effectColor": {
+    "r": 0.0,
+    "g": 0.21568628,
+    "b": 0.5137255,
+    "a": 0.29803923
+  },
+  "useGraphicAlpha": 1,
+  "blurFactor": 1.0
+}

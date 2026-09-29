@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3746139155623398393
+  },
+  "m_Name": "PackOpenCardSwipePlayableAsset",
+  "_targetDirector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_keys": [
+    "up",
+    "down",
+    "left",
+    "right"
+  ],
+  "_clips": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6641390806433192640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -445332595313827801
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5687338016507292619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8638097915524742088
+    }
+  ]
+}

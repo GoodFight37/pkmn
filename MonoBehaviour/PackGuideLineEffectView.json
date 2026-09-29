@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1117717712490471379
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8955848343236628823
+  },
+  "m_Name": "",
+  "_swingEffects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2097385128639012819
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -694039969714347987
+    }
+  ],
+  "_guidLine": {
+    "m_FileID": 0,
+    "m_PathID": -3068406852044136403
+  },
+  "_cuttingLinesRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4475801289389121491
+  },
+  "_cuttingLinesHorizontal": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6297349382928998355
+    }
+  ],
+  "_cuttingLinesLeftUp": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5411270998588006355
+    }
+  ],
+  "_cuttingLinesRightUp": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8941171266425987027
+    }
+  ],
+  "_cuttingLinesLeftDown": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 518288028012240941
+    }
+  ],
+  "_cuttingLinesRightDown": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5268220673174282195
+    }
+  ],
+  "_cuttingBack": {
+    "m_FileID": 0,
+    "m_PathID": -7267362616771420115
+  },
+  "_finishLineHorizontal": {
+    "m_FileID": 0,
+    "m_PathID": 2715570291180232749
+  },
+  "_parameters": {
+    "m_FileID": 0,
+    "m_PathID": 3816147812738210372
+  },
+  "_pullStartEndPositions": {
+    "x": 0.0,
+    "y": 2.72
+  },
+  "_pullupAdjustAlphaTargets": [],
+  "_pullupMoveTargets": []
+}

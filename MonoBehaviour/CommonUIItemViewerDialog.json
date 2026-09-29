@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 958248412118976167
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8081097247822491164
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2424519157736474279
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": 29673867161437863
+  },
+  "_coinView": {
+    "m_FileID": 0,
+    "m_PathID": 5794954951846266535
+  },
+  "_shieldView": {
+    "m_FileID": 0,
+    "m_PathID": 8621176749911508647
+  },
+  "_fieldView": {
+    "m_FileID": 0,
+    "m_PathID": 1193900205304579751
+  },
+  "_boardView": {
+    "m_FileID": 0,
+    "m_PathID": -2343573176287230297
+  },
+  "_fileView": {
+    "m_FileID": 0,
+    "m_PathID": -4423589767065172313
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2424519157736474279
+  }
+}

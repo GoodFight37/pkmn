@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8775130015141676958
+  },
+  "m_Name": "LibrarySystemConfig",
+  "_pinchInCoef": 0.3,
+  "_pinchOutCoef": 0.2,
+  "_pinchInDistanceLimit": 3.0,
+  "_pinchOutDistanceLimit": 0.5,
+  "_pinchNormalFactorScale": 1.0,
+  "_pinchFactorScaleToLimit": 0.5,
+  "_pinchSmoothing": 0.6,
+  "_scrollDecelerationRate": 0.135,
+  "_scrollStopThreshold": 0.25
+}

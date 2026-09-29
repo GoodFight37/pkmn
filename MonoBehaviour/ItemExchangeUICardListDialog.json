@@ -1,0 +1,149 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7743419615240019621
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3774760082843355212
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -7817374810952982181
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 5642753806359896411
+  },
+  "_brightSandNumText": {
+    "m_FileID": 0,
+    "m_PathID": 8024750074823352667
+  },
+  "_specialShopTicketObject": {
+    "m_FileID": 0,
+    "m_PathID": -6381003247645515429
+  },
+  "_specialShopTicketNumText": {
+    "m_FileID": 0,
+    "m_PathID": -1515580375013351077
+  },
+  "_brightSandButton": {
+    "m_FileID": 0,
+    "m_PathID": 1375517937098662235
+  },
+  "_specialShopTicketButton": {
+    "m_FileID": 0,
+    "m_PathID": 7606945218937987419
+  },
+  "_exchangeCountText": {
+    "m_FileID": 0,
+    "m_PathID": 5436311428803174747
+  },
+  "_exchangeCountTextPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -4539951586962005669
+  },
+  "_currentSelectedNumObject": {
+    "m_FileID": 0,
+    "m_PathID": -2566910523523817125
+  },
+  "_currentSelectedNumText": {
+    "m_FileID": 0,
+    "m_PathID": 5436311428803174747
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7817374810952982181
+  },
+  "_effectTargetSortButton": {
+    "m_FileID": 0,
+    "m_PathID": 6440506146376687963
+  },
+  "_notEnoughWaringObj": {
+    "m_FileID": 0,
+    "m_PathID": 3426040510388019547
+  },
+  "_totalCardCountText": {
+    "m_FileID": 0,
+    "m_PathID": -3068852750633623205
+  },
+  "_totalBrightSandCountText": {
+    "m_FileID": 0,
+    "m_PathID": -2171564849235189413
+  },
+  "_totalBrightSandCountTextPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -858432497527840421
+  },
+  "_totalCountAreaCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 8571172675213959515
+  },
+  "_totalImageCellObject": {
+    "m_FileID": 0,
+    "m_PathID": 1539297739449868635
+  },
+  "_totalExchangeEffectImageCellObject": {
+    "m_FileID": 0,
+    "m_PathID": -5742414504388484773
+  },
+  "_totalExchangeEffectImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -4690770994402516645
+  },
+  "_totalExchangeItemImageCellObject": {
+    "m_FileID": 0,
+    "m_PathID": -2876404193045929637
+  },
+  "_totalExchangeItemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 4489790467215958363
+  },
+  "_totalExchangeProductCountText": {
+    "m_FileID": 0,
+    "m_PathID": 6148984608886137179
+  },
+  "_exchangeButton": {
+    "m_FileID": 0,
+    "m_PathID": -5641780736441409189
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": 3859331715657867611
+  }
+}

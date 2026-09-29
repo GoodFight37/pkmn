@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8616431716054875919
+  },
+  "m_Name": "TransformTweenClip(Clone)(Clone)(Clone)(Clone)",
+  "template": {
+    "startLocation": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "endLocation": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "tweenPosition": 1,
+    "tweenRotation": 0,
+    "tweenType": 0,
+    "customCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 1.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 1.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "startingPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "startingRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    }
+  },
+  "startLocation": {
+    "exposedName": "742445404",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "endLocation": {
+    "exposedName": "2002261650",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  }
+}

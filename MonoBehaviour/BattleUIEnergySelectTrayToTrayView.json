@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4789518179920228636
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7218051472144809853
+  },
+  "m_Name": "",
+  "_rootCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -6658556077469380892
+  },
+  "_srcTray": {
+    "m_FileID": 0,
+    "m_PathID": -4088515961668481308
+  },
+  "_dstTray": {
+    "m_FileID": 0,
+    "m_PathID": 8104200151333293796
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 6531405966785793764
+  },
+  "_attachedEnergyListView": {
+    "m_FileID": 0,
+    "m_PathID": -4015222183810871580
+  },
+  "_submitButton": {
+    "m_FileID": 0,
+    "m_PathID": 1355161784916070116
+  },
+  "_arrowAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4784555293741330716
+  },
+  "_arrowAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": -7851888650263823799
+  },
+  "_cardRectForTrash": {
+    "m_FileID": 0,
+    "m_PathID": -7914836438325571868
+  },
+  "_cardRectForAttach": {
+    "m_FileID": 0,
+    "m_PathID": 7043258772645498596
+  },
+  "_movingSlotView": {
+    "m_FileID": 0,
+    "m_PathID": -47042539274416412
+  },
+  "_movingSlotParent": {
+    "m_FileID": 0,
+    "m_PathID": 432860011448389348
+  },
+  "_dragHandlerView": {
+    "m_FileID": 0,
+    "m_PathID": -1344786859778486556
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 5606430907879345892
+  },
+  "_showClip": {
+    "m_FileID": 4,
+    "m_PathID": 2339135137393371610
+  },
+  "_hideClip": {
+    "m_FileID": 4,
+    "m_PathID": -2893400272697482353
+  },
+  "_submitButtonAttentionElement": {
+    "m_FileID": 0,
+    "m_PathID": -2495989469919621404
+  },
+  "_submitButtonAttentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -1477084030022234396
+  },
+  "_submitButtonAttentionIdleAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -7214735547380510516
+  },
+  "_putAnimDuration": 0.05,
+  "_putAnimCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

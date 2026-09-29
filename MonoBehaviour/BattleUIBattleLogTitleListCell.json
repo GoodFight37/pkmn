@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 120228415572761310
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7872932816006307475
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_self": {
+    "m_FileID": 0,
+    "m_PathID": -9215425719584597282
+  },
+  "_opponent": {
+    "m_FileID": 0,
+    "m_PathID": -8896441750782059810
+  },
+  "_pokemonCheckup": {
+    "m_FileID": 0,
+    "m_PathID": 537855260182665950
+  }
+}

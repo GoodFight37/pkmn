@@ -1,0 +1,402 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3642991925926047277
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -9016526973320070353
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 9040160706959257133
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 2766593237132389933
+  },
+  "_searchTextInputField": {
+    "m_FileID": 0,
+    "m_PathID": 1432665259257966125
+  },
+  "_dropDownHpRangeMin": {
+    "m_FileID": 0,
+    "m_PathID": -1688881763464761811
+  },
+  "_dropDownHpRangeMax": {
+    "m_FileID": 0,
+    "m_PathID": -1264886877620392403
+  },
+  "_dropDownDamageRangeMin": {
+    "m_FileID": 0,
+    "m_PathID": -8721080870640144851
+  },
+  "_dropDownDamageRangeMax": {
+    "m_FileID": 0,
+    "m_PathID": 2563003873063480877
+  },
+  "_expansionButton": {
+    "m_FileID": 0,
+    "m_PathID": -799350796884496851
+  },
+  "_expansionButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 8068908592357453357
+  },
+  "_rarityToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3282668626971251155
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7910136181416382931
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5164784777655800275
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8774943513485848109
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7808526983522233901
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8463287007666056749
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5298920498795958739
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5901091345484033581
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1800701159526289875
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2970244254361440723
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5765873617867779629
+    }
+  ],
+  "_pokemonTypeToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -110387949742117331
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3385000594271448621
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3279439397251657261
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6554819921547505197
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1692542444537631187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1654259035021758931
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1316106896019149267
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1450778719307551187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7053348218450751021
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1075673265666773459
+    }
+  ],
+  "_trainerTypeToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1674566674636615213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5518508179790048813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5666883926233108947
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -472001290347270611
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5137804340617466323
+    }
+  ],
+  "_abilityToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6265435248864603693
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6532382229518822957
+    }
+  ],
+  "_favoriteToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8588874394364465619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6797968510654361133
+    }
+  ],
+  "_wishCardToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6461570077514322387
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1261904673093660205
+    }
+  ],
+  "_languageToggleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7852581976903724589
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6814413083613712851
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1227664343859909075
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4044297245203550675
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4924522718698459603
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2405130892181777965
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5476066264616194515
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1967551367434677805
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6088209614089605587
+    }
+  ],
+  "_clearButton": {
+    "m_FileID": 0,
+    "m_PathID": -2034629467843252691
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 9040160706959257133
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 8545618292102082093
+  },
+  "_seriesCells": [],
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -3057495983689552339
+  },
+  "_allRarityButton": {
+    "m_FileID": 0,
+    "m_PathID": -9075468854974927315
+  },
+  "_allPokemonTypeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2037192360047160877
+  },
+  "_allTrainerTypeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3047041992429219373
+  },
+  "_allLanguageTypeButton": {
+    "m_FileID": 0,
+    "m_PathID": -5194336605280784851
+  },
+  "_defaultDisplayGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5206269217639879123
+  },
+  "_defaultDisplayElmGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2734884599149440557
+    }
+  ],
+  "_dexDisplayElmGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7295243406797165011
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1914617819018309165
+    }
+  ],
+  "_isMemoryDisplaySettingToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 2134343335592144429
+  },
+  "_displayBlankedOverNumber": {
+    "m_FileID": 0,
+    "m_PathID": -4644011003374064083
+  },
+  "_displayBlankedPromo": {
+    "m_FileID": 0,
+    "m_PathID": -4748745761547604435
+  },
+  "_displayCardFrame": {
+    "m_FileID": 0,
+    "m_PathID": -8456829379284095443
+  },
+  "_defaultDisplayText": {
+    "m_FileID": 0,
+    "m_PathID": -2780754813806236115
+  },
+  "_headerBrightSandInfo": {
+    "m_FileID": 0,
+    "m_PathID": 252520450098409005
+  },
+  "_headerBrightSandNumText": {
+    "m_FileID": 0,
+    "m_PathID": -6775024649083277779
+  },
+  "_headerBrightSandDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -3077207207678890451
+  },
+  "_wishCardToggleRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -7526213937030877651
+  },
+  "_languageToggleRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 3358619153973587501
+  },
+  "_isExToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 3715659136555429421
+  },
+  "_isMegaEvolutionToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 4460009763575442989
+  },
+  "_onSaveCurrentPresetButton": {
+    "m_FileID": 0,
+    "m_PathID": 2565941058473111085
+  },
+  "_showHideFilterPresetAreaButton": {
+    "m_FileID": 0,
+    "m_PathID": 5270164315891183149
+  },
+  "_presetRoot": {
+    "m_FileID": 0,
+    "m_PathID": 384154770742783533
+  },
+  "_presetCellRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4625023474632764973
+  },
+  "_presetCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5219521986645381587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4818456948641312301
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4616195964334583341
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8010857240542129709
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6068617744647728685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7539505003190276563
+    }
+  ]
+}

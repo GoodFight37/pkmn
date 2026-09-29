@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4591624230229413398
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6091658246404754020
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": -4801520509919792662
+  },
+  "_normalModeGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9165641342794436118
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2335389880654466582
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7714515312760819222
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2342510880891768342
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6076272992336711190
+    }
+  ],
+  "_normalModeOnlyButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5534678714825339370
+    }
+  ],
+  "_editModeGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5586116139147496982
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6481725138390453782
+    }
+  ],
+  "_editOkButton": {
+    "m_FileID": 0,
+    "m_PathID": 7414226835078410730
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -6318954391017328150
+  },
+  "_editButton": {
+    "m_FileID": 0,
+    "m_PathID": 6869188099585503722
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 5135725216301543914
+  },
+  "_collectionCodeButton": {
+    "m_FileID": 0,
+    "m_PathID": 433898317636989418
+  },
+  "_goodNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6028210304080966122
+  },
+  "_yourGoodButton": {
+    "m_FileID": 0,
+    "m_PathID": 5534678714825339370
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": -3123457343468703254
+  },
+  "_modeAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8219715116754374166
+  },
+  "_normalModeClip": {
+    "m_FileID": 3,
+    "m_PathID": 4790499980494042758
+  },
+  "_editModeClip": {
+    "m_FileID": 3,
+    "m_PathID": -5569825744321252140
+  },
+  "_editOkButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -5039908659791760918
+  },
+  "_toEditModeEditOkButtonClip": {
+    "m_FileID": 3,
+    "m_PathID": -4627942295233814962
+  },
+  "_scrollSpan": 0.17
+}

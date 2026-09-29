@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4170752210741656302
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4420616213889840063
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -1250430836224460050
+  },
+  "_getAnimationKey": "battle_ui_point_get_effect",
+  "_activeImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -5857346781318645010
+  },
+  "_effectElement": {
+    "m_FileID": 0,
+    "m_PathID": 2999956752114744046
+  },
+  "_effectImageCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1619817030889405166
+  },
+  "_effectImage01": {
+    "m_FileID": 0,
+    "m_PathID": -3419408831702074642
+  },
+  "_effectImage02": {
+    "m_FileID": 0,
+    "m_PathID": 3791834105496107758
+  },
+  "_effectPointCircle00": {
+    "m_FileID": 0,
+    "m_PathID": -5764537227635098898
+  },
+  "_effectPointCircle01": {
+    "m_FileID": 0,
+    "m_PathID": 5501037493615426286
+  }
+}

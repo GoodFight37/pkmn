@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8152322511984586765
+  },
+  "m_Name": "BGM指定再生",
+  "m_Time": 0.8333333333333334,
+  "AudioCue": {
+    "_value": "BATTLE_BGM_NORMAL"
+  },
+  "OverrideCueNameByHandler": 1
+}

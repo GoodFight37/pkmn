@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3050075357515216383
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 787115666604885540
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 3263704655094806015
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_appleButtonElement": {
+    "m_FileID": 0,
+    "m_PathID": 7119971829257729535
+  },
+  "_googleButtonElement": {
+    "m_FileID": 0,
+    "m_PathID": 3237155582452430335
+  },
+  "_nintendoAccountButtonElement": {
+    "m_FileID": 0,
+    "m_PathID": 3158405449589913087
+  },
+  "_appleButton": {
+    "m_FileID": 0,
+    "m_PathID": 4462973109952771583
+  },
+  "_googleButton": {
+    "m_FileID": 0,
+    "m_PathID": 5448187976752231935
+  },
+  "_nintendoAccountButton": {
+    "m_FileID": 0,
+    "m_PathID": 2367124917279323647
+  },
+  "_linkedAccountBase": {
+    "m_FileID": 0,
+    "m_PathID": -8472129804321425921
+  },
+  "_linkedAppleElement": {
+    "m_FileID": 0,
+    "m_PathID": 208433809152734719
+  },
+  "_linkedGoogleElement": {
+    "m_FileID": 0,
+    "m_PathID": -271001605264181761
+  },
+  "_linkedNintendoElement": {
+    "m_FileID": 0,
+    "m_PathID": -7852150061725649409
+  },
+  "_deleteSaveDataButton": {
+    "m_FileID": 0,
+    "m_PathID": 6598650784964408831
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -8842465717771897345
+  }
+}

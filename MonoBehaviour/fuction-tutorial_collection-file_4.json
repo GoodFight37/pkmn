@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1629340692895782901
+  },
+  "m_Name": "fuction-tutorial_collection-file_4",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_mv_dialog_02_page_01",
+      "_moviePath": "Tutorial/function_file.usm"
+    }
+  ]
+}

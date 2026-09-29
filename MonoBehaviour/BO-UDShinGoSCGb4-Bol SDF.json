@@ -1,0 +1,561 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3075889661304172018
+  },
+  "m_Name": "BO-UDShinGoSCGb4-Bol SDF",
+  "m_Version": "1.1.0",
+  "m_FaceInfo": {
+    "m_FaceIndex": 0,
+    "m_FamilyName": "BO UDShinGo SC Gb4",
+    "m_StyleName": "B",
+    "m_PointSize": 40.0,
+    "m_Scale": 1.0,
+    "m_UnitsPerEM": 1000,
+    "m_LineHeight": 80.0,
+    "m_AscentLine": 35.2,
+    "m_CapLine": 33.0,
+    "m_MeanLine": 24.0,
+    "m_Baseline": 0.0,
+    "m_DescentLine": -4.8,
+    "m_SuperscriptOffset": 35.2,
+    "m_SuperscriptSize": 0.5,
+    "m_SubscriptOffset": -4.8,
+    "m_SubscriptSize": 0.5,
+    "m_UnderlineOffset": -4.0,
+    "m_UnderlineThickness": 2.0,
+    "m_StrikethroughOffset": 9.6,
+    "m_StrikethroughThickness": 2.0,
+    "m_TabWidth": 13.0
+  },
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": -9058677790128289632
+  },
+  "m_SourceFontFileGUID": "f70fef86699354e45b3be93fa56b8b36",
+  "m_CreationSettings": {
+    "sourceFontFileName": "",
+    "sourceFontFileGUID": "f70fef86699354e45b3be93fa56b8b36",
+    "faceIndex": 0,
+    "pointSizeSamplingMode": 0,
+    "pointSize": 40,
+    "padding": 9,
+    "paddingMode": 0,
+    "packingMode": 0,
+    "atlasWidth": 1024,
+    "atlasHeight": 1024,
+    "characterSetSelectionMode": 7,
+    "characterSequence": "",
+    "referencedFontAssetGUID": "",
+    "referencedTextAssetGUID": "",
+    "fontStyle": 0,
+    "fontStyleModifier": 0.0,
+    "renderMode": 4165,
+    "includeFontFeatures": 0
+  },
+  "m_SourceFontFile": {
+    "m_FileID": 0,
+    "m_PathID": -6057619296318035339
+  },
+  "m_SourceFontFilePath": "",
+  "m_AtlasPopulationMode": 1,
+  "InternalDynamicOS": 0,
+  "m_GlyphTable": [
+    {
+      "m_Index": 64,
+      "m_Metrics": {
+        "m_Width": 20.0,
+        "m_Height": 2.0,
+        "m_HorizontalBearingX": 0.0,
+        "m_HorizontalBearingY": -3.0,
+        "m_HorizontalAdvance": 20.0
+      },
+      "m_GlyphRect": {
+        "m_X": 65,
+        "m_Y": 10,
+        "m_Width": 20,
+        "m_Height": 2
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 108,
+      "m_Metrics": {
+        "m_Width": 34.46875,
+        "m_Height": 7.765625,
+        "m_HorizontalBearingX": 2.765625,
+        "m_HorizontalBearingY": 19.078125,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 10,
+        "m_Y": 10,
+        "m_Width": 36,
+        "m_Height": 9
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 1567,
+      "m_Metrics": {
+        "m_Width": 38.078125,
+        "m_Height": 38.3125,
+        "m_HorizontalBearingX": 0.5625,
+        "m_HorizontalBearingY": 34.4375,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 10,
+        "m_Y": 38,
+        "m_Width": 39,
+        "m_Height": 39
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 1790,
+      "m_Metrics": {
+        "m_Width": 38.921875,
+        "m_Height": 38.359375,
+        "m_HorizontalBearingX": 0.640625,
+        "m_HorizontalBearingY": 34.40625,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 221,
+        "m_Y": 10,
+        "m_Width": 40,
+        "m_Height": 39
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 1962,
+      "m_Metrics": {
+        "m_Width": 38.515625,
+        "m_Height": 38.28125,
+        "m_HorizontalBearingX": 0.40625,
+        "m_HorizontalBearingY": 34.4375,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 163,
+        "m_Y": 10,
+        "m_Width": 39,
+        "m_Height": 39
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 2060,
+      "m_Metrics": {
+        "m_Width": 37.6875,
+        "m_Height": 37.890625,
+        "m_HorizontalBearingX": 1.15625,
+        "m_HorizontalBearingY": 34.125,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 280,
+        "m_Y": 10,
+        "m_Width": 38,
+        "m_Height": 39
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 2784,
+      "m_Metrics": {
+        "m_Width": 38.03125,
+        "m_Height": 38.953125,
+        "m_HorizontalBearingX": 1.046875,
+        "m_HorizontalBearingY": 34.59375,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 10,
+        "m_Y": 96,
+        "m_Width": 39,
+        "m_Height": 40
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 2884,
+      "m_Metrics": {
+        "m_Width": 38.59375,
+        "m_Height": 36.40625,
+        "m_HorizontalBearingX": 0.5625,
+        "m_HorizontalBearingY": 33.046875,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 104,
+        "m_Y": 10,
+        "m_Width": 40,
+        "m_Height": 38
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    },
+    {
+      "m_Index": 3651,
+      "m_Metrics": {
+        "m_Width": 37.640625,
+        "m_Height": 38.125,
+        "m_HorizontalBearingX": 1.078125,
+        "m_HorizontalBearingY": 34.4375,
+        "m_HorizontalAdvance": 40.0
+      },
+      "m_GlyphRect": {
+        "m_X": 68,
+        "m_Y": 67,
+        "m_Width": 38,
+        "m_Height": 39
+      },
+      "m_Scale": 1.0,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0
+    }
+  ],
+  "m_CharacterTable": [
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 95,
+      "m_GlyphIndex": 64,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 8230,
+      "m_GlyphIndex": 108,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 20987,
+      "m_GlyphIndex": 2060,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 21518,
+      "m_GlyphIndex": 1962,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 22810,
+      "m_GlyphIndex": 1567,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 23612,
+      "m_GlyphIndex": 2884,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 25915,
+      "m_GlyphIndex": 1790,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 29980,
+      "m_GlyphIndex": 3651,
+      "m_Scale": 1.0
+    },
+    {
+      "m_ElementType": 1,
+      "m_Unicode": 34588,
+      "m_GlyphIndex": 2784,
+      "m_Scale": 1.0
+    }
+  ],
+  "m_AtlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5909685757390997664
+    }
+  ],
+  "m_AtlasTextureIndex": 0,
+  "m_IsMultiAtlasTexturesEnabled": 1,
+  "m_GetFontFeatures": 0,
+  "m_ClearDynamicDataOnBuild": 0,
+  "m_AtlasWidth": 1024,
+  "m_AtlasHeight": 1024,
+  "m_AtlasPadding": 9,
+  "m_AtlasRenderMode": 4165,
+  "m_UsedGlyphRects": [
+    {
+      "m_X": 0,
+      "m_Y": 0,
+      "m_Width": 55,
+      "m_Height": 28
+    },
+    {
+      "m_X": 55,
+      "m_Y": 0,
+      "m_Width": 39,
+      "m_Height": 21
+    },
+    {
+      "m_X": 94,
+      "m_Y": 0,
+      "m_Width": 59,
+      "m_Height": 57
+    },
+    {
+      "m_X": 0,
+      "m_Y": 28,
+      "m_Width": 58,
+      "m_Height": 58
+    },
+    {
+      "m_X": 153,
+      "m_Y": 0,
+      "m_Width": 58,
+      "m_Height": 58
+    },
+    {
+      "m_X": 58,
+      "m_Y": 57,
+      "m_Width": 57,
+      "m_Height": 58
+    },
+    {
+      "m_X": 0,
+      "m_Y": 86,
+      "m_Width": 58,
+      "m_Height": 59
+    },
+    {
+      "m_X": 211,
+      "m_Y": 0,
+      "m_Width": 59,
+      "m_Height": 58
+    },
+    {
+      "m_X": 270,
+      "m_Y": 0,
+      "m_Width": 57,
+      "m_Height": 58
+    }
+  ],
+  "m_FreeGlyphRects": [
+    {
+      "m_X": 55,
+      "m_Y": 21,
+      "m_Width": 39,
+      "m_Height": 7
+    },
+    {
+      "m_X": 58,
+      "m_Y": 21,
+      "m_Width": 36,
+      "m_Height": 36
+    },
+    {
+      "m_X": 115,
+      "m_Y": 58,
+      "m_Width": 908,
+      "m_Height": 965
+    },
+    {
+      "m_X": 115,
+      "m_Y": 57,
+      "m_Width": 38,
+      "m_Height": 966
+    },
+    {
+      "m_X": 0,
+      "m_Y": 145,
+      "m_Width": 1023,
+      "m_Height": 878
+    },
+    {
+      "m_X": 58,
+      "m_Y": 115,
+      "m_Width": 965,
+      "m_Height": 908
+    },
+    {
+      "m_X": 327,
+      "m_Y": 0,
+      "m_Width": 696,
+      "m_Height": 1023
+    }
+  ],
+  "m_FontFeatureTable": {
+    "m_MultipleSubstitutionRecords": [],
+    "m_LigatureSubstitutionRecords": [],
+    "m_GlyphPairAdjustmentRecords": [],
+    "m_MarkToBaseAdjustmentRecords": [],
+    "m_MarkToMarkAdjustmentRecords": []
+  },
+  "m_ShouldReimportFontFeatures": 0,
+  "m_FallbackFontAssetTable": [],
+  "m_FontWeightTable": [
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "regularTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "italicTypeface": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "fontWeights": [],
+  "normalStyle": 0.0,
+  "normalSpacingOffset": 0.0,
+  "boldStyle": 0.75,
+  "boldSpacing": 7.0,
+  "italicStyle": 35,
+  "tabSize": 10,
+  "m_fontInfo": {
+    "Name": "",
+    "PointSize": 0.0,
+    "Scale": 0.0,
+    "CharacterCount": 0,
+    "LineHeight": 0.0,
+    "Baseline": 0.0,
+    "Ascender": 0.0,
+    "CapHeight": 0.0,
+    "Descender": 0.0,
+    "CenterLine": 0.0,
+    "SuperscriptOffset": 0.0,
+    "SubscriptOffset": 0.0,
+    "SubSize": 0.0,
+    "Underline": 0.0,
+    "UnderlineThickness": 0.0,
+    "strikethrough": 0.0,
+    "strikethroughThickness": 0.0,
+    "TabWidth": 0.0,
+    "Padding": 0.0,
+    "AtlasWidth": 0.0,
+    "AtlasHeight": 0.0
+  },
+  "m_glyphInfoList": [],
+  "m_KerningTable": {
+    "kerningPairs": []
+  },
+  "fallbackFontAssets": [],
+  "atlas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6522825706232284456
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7345719302065807401
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6115348365530626776
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_tab": {
+    "m_FileID": 0,
+    "m_PathID": -590474140095087912
+  },
+  "_uiCardView": {
+    "m_FileID": 0,
+    "m_PathID": 8929233383283096280
+  },
+  "_battleEffectCardView": {
+    "m_FileID": 0,
+    "m_PathID": 9109862341566397144
+  },
+  "_skinSettingButton": {
+    "m_FileID": 0,
+    "m_PathID": 5382774114550741720
+  },
+  "_enableSettingText": {
+    "m_FileID": 0,
+    "m_PathID": 5038374416874200
+  },
+  "_disableSettingText": {
+    "m_FileID": 0,
+    "m_PathID": -6755779478235776296
+  },
+  "_battleEffectTouch": {
+    "m_FileID": 0,
+    "m_PathID": -8071041110753936680
+  },
+  "_skinNameText": {
+    "m_FileID": 0,
+    "m_PathID": 7374613115984804568
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -1244457524852688168
+  },
+  "_skinNameElm": {
+    "m_FileID": 0,
+    "m_PathID": 2873991835520269016
+  },
+  "_tabRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 539874861021985496
+  },
+  "_getSkinButton": {
+    "m_FileID": 0,
+    "m_PathID": 5610497479092533976
+  },
+  "_getSkinButtonBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -5212883290482214184
+  },
+  "_cardFramePageRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 2611189384234203864
+  }
+}

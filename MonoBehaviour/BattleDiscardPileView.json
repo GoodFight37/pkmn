@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8798228900131655973
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -538023532269698188
+  },
+  "m_Name": "",
+  "_cardHolder": {
+    "m_FileID": 0,
+    "m_PathID": 5269673518772104923
+  },
+  "_boxCollider": {
+    "m_FileID": 0,
+    "m_PathID": -5546093143703507237
+  }
+}

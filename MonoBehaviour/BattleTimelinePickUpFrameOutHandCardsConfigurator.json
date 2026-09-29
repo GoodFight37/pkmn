@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6311200673869742854
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7926963413488469884
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": 4777009996523520774
+  },
+  "_useVirtualCameraType": 0,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_viewArranger": {
+    "m_FileID": 0,
+    "m_PathID": 8129762441680798470
+  },
+  "_interpolateTrackName": "Animations",
+  "_interpolateClipNames": [
+    "PickUp",
+    "Gather",
+    "FrameOut"
+  ],
+  "_playLoopCount": {
+    "m_FileID": 0,
+    "m_PathID": -3176077410219310330
+  }
+}

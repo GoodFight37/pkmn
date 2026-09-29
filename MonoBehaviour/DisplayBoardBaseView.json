@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5851993974497842809
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1141420209800315221
+  },
+  "m_Name": "",
+  "_prop": {
+    "_color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "_tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "_transparency": 100,
+    "_renderer": {
+      "m_FileID": 0,
+      "m_PathID": 1794992843300694407
+    }
+  },
+  "_layer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_layer3D": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_layer3DIndex": 0.0,
+  "_layerTiling": {
+    "x": 1.0,
+    "y": 1.0
+  },
+  "_layerScaleSync": 1,
+  "_layerRotation": 0.0,
+  "_layerMoveAngle": 0.0,
+  "_layerMoveSpeed": 0.0,
+  "_layerMask": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_emissiveObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

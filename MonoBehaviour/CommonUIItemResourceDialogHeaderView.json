@@ -1,0 +1,146 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 172532304279085741
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1896712922798102225
+  },
+  "m_Name": "",
+  "_challengeBgObject": {
+    "m_FileID": 0,
+    "m_PathID": 3465114731227423405
+  },
+  "_pveBgObject": {
+    "m_FileID": 0,
+    "m_PathID": -6879940664611069267
+  },
+  "_pvpBgObject": {
+    "m_FileID": 0,
+    "m_PathID": -250419812806057299
+  },
+  "_tradeBgObject": {
+    "m_FileID": 0,
+    "m_PathID": 4774831204745257645
+  },
+  "_challengeTitleText": {
+    "m_FileID": 0,
+    "m_PathID": -6072371292516146515
+  },
+  "_pveTitleText": {
+    "m_FileID": 0,
+    "m_PathID": 8816235693567419053
+  },
+  "_pvpTitleText": {
+    "m_FileID": 0,
+    "m_PathID": -754187510538460499
+  },
+  "_tradeTitleText": {
+    "m_FileID": 0,
+    "m_PathID": -487061369107209555
+  },
+  "_timerIconPalette": {
+    "m_FileID": 0,
+    "m_PathID": -6858451692974071123
+  },
+  "_timerTextPalette": {
+    "m_FileID": 0,
+    "m_PathID": -6371634148393377107
+  },
+  "_timerText": {
+    "m_FileID": 0,
+    "m_PathID": -3338557723422252371
+  },
+  "_autoRecoverIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4824533993770868051
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8830704650753254061
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1529330635788952237
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1552832323727809875
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7791941396730782381
+    }
+  ],
+  "_overRecoverIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -521183169207360851
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7317047846933668525
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7320617082142350675
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5824769955790234285
+    }
+  ],
+  "_requiredNumberObject": {
+    "m_FileID": 0,
+    "m_PathID": 7213692371728835245
+  },
+  "_requiredIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3368992490596246189
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4417320203369357997
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1382865245218972333
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8299814702124278445
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5770446662456335699
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1280974434770050387
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7469361039162122925
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4767094345335612077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1680428855536362157
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3051774035530982061
+    }
+  ],
+  "_attentionObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 824341040521012194
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7305075061055362456
+  },
+  "m_Name": "",
+  "_trainersCardUIView": {
+    "m_FileID": 0,
+    "m_PathID": -4336498374223862814
+  },
+  "_trainersRelatedCardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2793341451475819550
+  },
+  "_trainersRelatedCardScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 939005918232765410
+  },
+  "_trainersIllustratorNameText": {
+    "m_FileID": 0,
+    "m_PathID": 2262498067935847394
+  },
+  "_trainersExpansionView": {
+    "m_FileID": 0,
+    "m_PathID": 4970987527942628322
+  },
+  "_trainersTypeText": {
+    "m_FileID": 0,
+    "m_PathID": 3021101384722408418
+  },
+  "_trainersRegulationText": {
+    "m_FileID": 0,
+    "m_PathID": -4288973811882794014
+  },
+  "_trainersRarityView": {
+    "m_FileID": 0,
+    "m_PathID": 8025302582218777570
+  },
+  "_trainersSubName": {
+    "m_FileID": 0,
+    "m_PathID": -522159892047862814
+  },
+  "_promotionView": {
+    "m_FileID": 0,
+    "m_PathID": -3369518097157135390
+  }
+}

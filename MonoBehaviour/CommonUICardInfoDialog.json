@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2151694157751831174
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5036919435597643866
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2324184837062276474
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_pokemonCardUIBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -6333519935239015046
+  },
+  "_pokemonView": {
+    "m_FileID": 0,
+    "m_PathID": 2397072574156125562
+  },
+  "_trainersCardUIBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -980636197633182342
+  },
+  "_trainersView": {
+    "m_FileID": 0,
+    "m_PathID": 6960533369844479354
+  },
+  "_pokemonInfoView": {
+    "m_FileID": 0,
+    "m_PathID": -7395979807924669062
+  },
+  "_trainersInfoView": {
+    "m_FileID": 0,
+    "m_PathID": -7829201155421424262
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 1223899957291136378
+  }
+}

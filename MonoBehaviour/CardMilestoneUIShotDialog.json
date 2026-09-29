@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6422209886343028041
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8166242295882655379
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_view": {
+    "m_FileID": 0,
+    "m_PathID": -4781286175469296969
+  },
+  "_modalAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 6752120383764538039
+  },
+  "_modalShow": {
+    "m_FileID": 5,
+    "m_PathID": 3198477175669411355
+  },
+  "_modalHide": {
+    "m_FileID": 5,
+    "m_PathID": 1340685127342297428
+  },
+  "_countAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 6353680799511585463
+  },
+  "_countShow": {
+    "m_FileID": 5,
+    "m_PathID": 6067869644410861673
+  },
+  "_countHide": {
+    "m_FileID": 5,
+    "m_PathID": -7924870155965356448
+  },
+  "_numRoot": {
+    "m_FileID": 0,
+    "m_PathID": -6588775872836296009
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 55428543654830775
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 2252611579037131447
+  },
+  "_modalText": {
+    "m_FileID": 0,
+    "m_PathID": 4000093474367709879
+  },
+  "_tapButton": {
+    "m_FileID": 0,
+    "m_PathID": 492786837502993079
+  },
+  "_modalRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7692770347929215671
+  },
+  "_modalImg": {
+    "m_FileID": 0,
+    "m_PathID": -6644858799557467465
+  },
+  "_fade": {
+    "m_FileID": 0,
+    "m_PathID": 4094470248857772727
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8016423249503212051
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -153388182964682465
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6633573396678028781
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -1032992495638130157
+  },
+  "_subTitleText": {
+    "m_FileID": 0,
+    "m_PathID": 7021402807833940499
+  },
+  "_eventTitleText": {
+    "m_FileID": 0,
+    "m_PathID": 2983961687895069203
+  },
+  "_titleElm": {
+    "m_FileID": 0,
+    "m_PathID": 4609507650368000531
+  },
+  "_eventElm": {
+    "m_FileID": 0,
+    "m_PathID": -5139216761938095597
+  },
+  "_subTitleElm": {
+    "m_FileID": 0,
+    "m_PathID": 6178067228541342227
+  },
+  "_eventPtText": {
+    "m_FileID": 0,
+    "m_PathID": -9109457719729040877
+  },
+  "_resourceImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 4291982863699431955
+  },
+  "_titleSpacingElm": {
+    "m_FileID": 0,
+    "m_PathID": 196527415571993107
+  },
+  "_bottomSpacingElm": {
+    "m_FileID": 0,
+    "m_PathID": -6619594583107546605
+  }
+}

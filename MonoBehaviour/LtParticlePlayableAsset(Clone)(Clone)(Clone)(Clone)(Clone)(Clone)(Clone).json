@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 582254176588785798
+  },
+  "m_Name": "LtParticlePlayableAsset(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+  "sourceGameObject": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "prefabGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 301903511645851908
+  },
+  "_constraint": {
+    "_boneName": "",
+    "_positionOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "_rotationOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "_scaleOffset": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "_ignoreParentRotation": 0,
+    "_followLayer": 0
+  },
+  "_ignoreConstraint": 0,
+  "_instanceUpdater": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "particleRandomSeed": 3817,
+  "UpdateDirector": 0,
+  "postPlayback": 2
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1968500875202958675
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4978927052999397714
+  },
+  "m_Name": "",
+  "_animStartDegree": 10.0,
+  "_animTimeScale": 0.35,
+  "_settings": {
+    "m_FileID": 41,
+    "m_PathID": -817433177353697485
+  },
+  "_animDuration": 1.5,
+  "_flashRadialStartOffset": 0.0,
+  "_useSpeedAdjust": 0,
+  "_recordingTime": 0.25,
+  "_minTiltSpeed": 0.3,
+  "_maxTiltSpeed": 1.5,
+  "_minAnimSpeed": 0.75,
+  "_maxAnimSpeed": 1.8
+}

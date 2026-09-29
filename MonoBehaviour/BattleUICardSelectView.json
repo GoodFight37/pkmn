@@ -1,0 +1,140 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3805117217125125860
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7414249471699499489
+  },
+  "m_Name": "",
+  "_container": {
+    "m_FileID": 0,
+    "m_PathID": -8750447677655068956
+  },
+  "_dialogAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 1357148075190669028
+  },
+  "_showDialogClip": {
+    "m_FileID": 4,
+    "m_PathID": 5618890643257624194
+  },
+  "_hideDialogClip": {
+    "m_FileID": 4,
+    "m_PathID": -5367088276248084936
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -3441424586117198108
+  },
+  "_okButtonAttention": {
+    "m_FileID": 0,
+    "m_PathID": 6689725603844673252
+  },
+  "_okButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -318308618740805916
+  },
+  "_okButtonAttentionClip": {
+    "m_FileID": 4,
+    "m_PathID": -7214735547380510516
+  },
+  "_trayContainer": {
+    "m_FileID": 0,
+    "m_PathID": -1943844607289831708
+  },
+  "_tray": {
+    "m_FileID": 0,
+    "m_PathID": 4684134425350524644
+  },
+  "_trayAttention": {
+    "m_FileID": 0,
+    "m_PathID": -3157930499051532572
+  },
+  "_source": {
+    "m_FileID": 0,
+    "m_PathID": -681379329430368540
+  },
+  "_sourceAttention": {
+    "m_FileID": 0,
+    "m_PathID": 1243958509930696420
+  },
+  "_titleLabel": {
+    "m_FileID": 0,
+    "m_PathID": -3398872313809711388
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 4841847819608542948
+  },
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": 96153394205380324
+  },
+  "_dragHandlerView": {
+    "m_FileID": 0,
+    "m_PathID": -3706548941533468
+  },
+  "_movingSlotView": {
+    "m_FileID": 0,
+    "m_PathID": -1722980967059206428
+  },
+  "_movingSlotParent": {
+    "m_FileID": 0,
+    "m_PathID": 6224666511391149796
+  },
+  "_putAnimDuration": 0.2,
+  "_putAnimCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_pickAnimationDuration": 0.2,
+  "_pickAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

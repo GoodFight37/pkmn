@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7479132237263774024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4674513158322394009
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 854077464314224968
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -1225594966138248888
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_qrCodeGenerator": {
+    "m_FileID": 0,
+    "m_PathID": 7364322901978358088
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -1225594966138248888
+  },
+  "_loopClip": {
+    "m_FileID": 3,
+    "m_PathID": -3529865209686502052
+  },
+  "_successClip": {
+    "m_FileID": 3,
+    "m_PathID": 5765824043208025236
+  },
+  "_successHideClip": {
+    "m_FileID": 3,
+    "m_PathID": -7398316450738876529
+  },
+  "_hideClip": {
+    "m_FileID": 3,
+    "m_PathID": -7604387443926295793
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7205779664839221576
+  },
+  "_levelText": {
+    "m_FileID": 0,
+    "m_PathID": -7837470919660953272
+  },
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": -1803146360497462968
+  },
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": -7361399804680167096
+  },
+  "_emblemImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6990320500815536456
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7066555121445265080
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3779705158113910456
+    }
+  ],
+  "_emblemEmptyText": {
+    "m_FileID": 0,
+    "m_PathID": -648456406503612088
+  },
+  "_messageElement": {
+    "m_FileID": 0,
+    "m_PathID": -8133849405487144632
+  }
+}

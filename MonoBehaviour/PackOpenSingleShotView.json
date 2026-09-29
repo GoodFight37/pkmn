@@ -1,0 +1,320 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3988879666983073047
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7751948755100916353
+  },
+  "m_Name": "",
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": -1662926461071127831
+  },
+  "_cardBundleView": {
+    "m_FileID": 0,
+    "m_PathID": 938174627255028457
+  },
+  "_placementTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 382671543049652969
+  },
+  "_packFocusTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 3594672962945223401
+  },
+  "_packPullUpFocusTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 5843346297990154985
+  },
+  "_frontPackSwipeTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 4292641513308687081
+  },
+  "_backPackSwipeTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -2995409105626133783
+  },
+  "_backPackPinchTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -8458166992625267991
+  },
+  "_frontOpeningTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 8886187837755427561
+  },
+  "_backOpeningTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -4644937355062736151
+  },
+  "_pinchOpeningDoubleDoorTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -2120701502151062807
+  },
+  "_cardSwipeTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": 8889201014496430825
+  },
+  "_frontCardDisclosureTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7183533482933417239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5673748206075710185
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5078392819982005527
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8721600083041258217
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3818718435358209303
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7749391860756515561
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4809860825315210519
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1767762546903151895
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2802268333911902953
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1651487200013781737
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6661247277096301847
+    }
+  ],
+  "_backCardDisclosureTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9193111007165418217
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6192894052724569367
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5631691498051865321
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -991737319285781783
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2725999141502847721
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7379682113633907991
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1615135311975156457
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2308606246825358615
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6344664190178293015
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8680528886856283415
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2296558990084541161
+    }
+  ],
+  "_packBentCornerTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9200216549199252201
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1401097635780102889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8336085554843945705
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1018889385766816489
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4218175286428497175
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7607337509490002665
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1994840785739117847
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3744717704292529431
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7999625650290100969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5741268063086638359
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5616727189786522903
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6552878759781337833
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2199189323527817961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8416898136504071447
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3331257274383201559
+    }
+  ],
+  "_cylinderView": {
+    "m_FileID": 0,
+    "m_PathID": 3258431952407497449
+  },
+  "_packViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6562106535489768169
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2438385967141751529
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4316314566404868841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1475650356589038313
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3237302492461402857
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1548804854398055703
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4404486228349941015
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6544337597494064407
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5747437660187850007
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5784370577228499689
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6561707647740278039
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1330139321409407721
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9170458468876809495
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7509058985030776087
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2008106885955980009
+    }
+  ],
+  "_guideLineEffectView": {
+    "m_FileID": 0,
+    "m_PathID": -8919832123575629079
+  },
+  "_guideLineEffect01View": {
+    "m_FileID": 0,
+    "m_PathID": -7570281375672366359
+  },
+  "_powderEffectView": {
+    "m_FileID": 0,
+    "m_PathID": 362557521488972521
+  },
+  "_auraEffectObject": {
+    "m_FileID": 0,
+    "m_PathID": -7200414975713604887
+  },
+  "_playSeSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 408536860669381353
+  },
+  "_playBgmSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 9050469122692942569
+  },
+  "_playBgEffectSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": -8450423031285216535
+  },
+  "_cardDisclosureSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 858261707275307753
+  },
+  "_skipFlagView": {
+    "m_FileID": 0,
+    "m_PathID": -2862065253020333335
+  },
+  "_cardAnchorView": {
+    "m_FileID": 0,
+    "m_PathID": 7467571455144364777
+  }
+}

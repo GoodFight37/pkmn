@@ -1,0 +1,1069 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9066969743605404915
+  },
+  "m_Name": "Pokemon_SR_SBM_Opaque_Hologram_Outer_V02",
+  "_shader": {
+    "m_FileID": 2,
+    "m_PathID": -7649023482242642590
+  },
+  "_prefix": "SBM",
+  "_properties": [
+    {
+      "_shaderPropertyName": "_MainTex",
+      "_unique": 1,
+      "_prefix": "AM",
+      "_floatValue": 0.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_NormalMap",
+      "_unique": 1,
+      "_prefix": "NM",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_OutlineColor",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_CubeMap",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 3,
+        "m_PathID": -4408330918281824566
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_PhaseTex",
+      "_unique": 1,
+      "_prefix": "HPH",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampTex",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 0.18,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 4,
+        "m_PathID": 8493444790890485934
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_MaskTex",
+      "_unique": 1,
+      "_prefix": "HM",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampOffset",
+      "_unique": 1,
+      "_prefix": "HM",
+      "_floatValue": 0.18,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_DiffuseIntensity",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 0.5,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_Shininess",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 60.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_SpecularIntensity",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 0.15,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_DiffractionIntensity",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_DiffractionPower",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 2.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_OrientationU",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_OrientationV",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": -1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_ChangeSpeed",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.1,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_UsePositionAsUV",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 0.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 5,
+        "m_PathID": 2142485044764610360
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_UseOutlineNormalFilter",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 5,
+        "m_PathID": 2142485044764610360
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_OutlineNormalFilterThreshold",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 0.05,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 6,
+        "m_PathID": -5292559525388007056
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_PhaseTex2",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 2900.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 5,
+        "m_PathID": 2142485044764610360
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampMaskTex2",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 0.5,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 6,
+        "m_PathID": -5292559525388007056
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampTex2",
+      "_unique": 0,
+      "_prefix": "",
+      "_floatValue": 30.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 7,
+        "m_PathID": -7481947564312647108
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_DiffractionIntensity2",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 0.5,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_DiffractionPower2",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 30.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampRepeat2",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 3.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampSpeed2",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 2.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampOffset2",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 0.205,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RampInterval2",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 0.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_TiltEnabled",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_TiltPower",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 2.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_TiltOffset",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 0.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_TiltIntensity",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 3.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_Stencil",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 1.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_Rotation",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 2400.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "_shaderPropertyName": "_RenderQueue",
+      "_unique": 1,
+      "_prefix": "",
+      "_floatValue": 2400.0,
+      "_vectorValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "_colorValue": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_texture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "_textureScale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "_textureOffset": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    }
+  ]
+}

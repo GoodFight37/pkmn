@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1253301314870032729
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7465004621896535385
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_countryButton": {
+    "m_FileID": 0,
+    "m_PathID": -4851339877265524391
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 7656959387307194713
+  },
+  "_yearBase": {
+    "m_FileID": 0,
+    "m_PathID": -4826067215594964647
+  },
+  "_monthBase": {
+    "m_FileID": 0,
+    "m_PathID": 7402150575399483737
+  },
+  "_yearDropDown": {
+    "m_FileID": 0,
+    "m_PathID": -786452593863313063
+  },
+  "_monthDropDown": {
+    "m_FileID": 0,
+    "m_PathID": 5586138294454171993
+  },
+  "_yearScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 8793223813632604505
+  },
+  "_monthScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -1769189886249682599
+  },
+  "_countryButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 7102022605118814553
+  }
+}

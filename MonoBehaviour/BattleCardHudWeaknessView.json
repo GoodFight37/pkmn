@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2328196946890233872
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8614155677834260086
+  },
+  "m_Name": "",
+  "_weaknessViewSmall": {
+    "Root": {
+      "m_FileID": 0,
+      "m_PathID": -3251434598455470064
+    },
+    "EnergyIconView": {
+      "m_FileID": 0,
+      "m_PathID": 1931985650809935888
+    },
+    "Animation": {
+      "m_FileID": 0,
+      "m_PathID": -7764083708005672944
+    },
+    "ShowAnimationClip": {
+      "m_FileID": 2,
+      "m_PathID": -1216979193361235914
+    },
+    "HideAnimationClip": {
+      "m_FileID": 2,
+      "m_PathID": -5419709433955867215
+    }
+  },
+  "_weaknessViewLarge": {
+    "Root": {
+      "m_FileID": 0,
+      "m_PathID": -6412440483303417840
+    },
+    "EnergyIconView": {
+      "m_FileID": 0,
+      "m_PathID": -7219233377526835184
+    },
+    "Animation": {
+      "m_FileID": 0,
+      "m_PathID": 4833354225528051728
+    },
+    "ShowAnimationClip": {
+      "m_FileID": 2,
+      "m_PathID": -1216979193361235914
+    },
+    "HideAnimationClip": {
+      "m_FileID": 2,
+      "m_PathID": -5419709433955867215
+    }
+  },
+  "_hideDelayTimeMs": 1000
+}

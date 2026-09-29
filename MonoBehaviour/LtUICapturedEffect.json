@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3852507387953567371
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3901064900491285870
+  },
+  "m_Name": "",
+  "effectMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -2532667537083797189
+  },
+  "effectMode": 0,
+  "effectFactor": 1.0,
+  "colorMode": 0,
+  "effectColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "colorFactor": 1.0,
+  "blurMode": 2,
+  "blurFactor": 1.0,
+  "samplingRate": 1,
+  "blurIterations": 3,
+  "_IgnoreCanvasLayerTypes": [
+    41,
+    50,
+    60
+  ]
+}

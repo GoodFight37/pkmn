@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5264901031400543133
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5533856807058734058
+  },
+  "m_Name": "",
+  "EffectMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_holoShader": {
+    "m_FileID": 8,
+    "m_PathID": 1629800959128877609
+  },
+  "HoloTexture": {
+    "m_FileID": 7,
+    "m_PathID": -5526470841900213140
+  },
+  "UVMode": 0,
+  "HoloPower": 0.11,
+  "HoloSpeed": 10.0,
+  "Width": 0.3,
+  "Duration": 1.6,
+  "Span": 0.0,
+  "MaskAngle": 114.0,
+  "MaskSpeed": 6.0,
+  "Offset": 0.0,
+  "UseManualTime": 0,
+  "AutoUpdateManualTime": 0
+}

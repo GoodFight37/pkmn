@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7156235406714381658
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7158510834701594251
+  },
+  "m_Name": "",
+  "_cardRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -4599833184474408282
+  },
+  "_shadowSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 3939307151971867302
+  }
+}

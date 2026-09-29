@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5112384024370357614
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3956453090189167585
+  },
+  "m_Name": "",
+  "_container": {
+    "m_FileID": 0,
+    "m_PathID": 8327498488551103122
+  },
+  "_droppableArea": {
+    "m_FileID": 0,
+    "m_PathID": 5894991970397903506
+  },
+  "_droppableRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3443995924918642030
+  },
+  "_droppableAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -342428428491105646
+  },
+  "_droppableIdleClip": {
+    "m_FileID": 2,
+    "m_PathID": -5487316024250295072
+  },
+  "_notDroppableRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2394190926634886510
+  },
+  "_notDroppableAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -7845063710713390446
+  },
+  "_notDroppableIdleClip": {
+    "m_FileID": 2,
+    "m_PathID": -919031485997206993
+  },
+  "<TutorialRect>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 5894991970397903506
+  }
+}

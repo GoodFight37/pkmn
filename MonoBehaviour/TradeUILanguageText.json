@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4347291399404045804
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7760887023400739862
+  },
+  "m_Name": "",
+  "_languageLabelData": [
+    {
+      "LanguageType": 1,
+      "LabelId": "trade_trading_card_select_language_01"
+    },
+    {
+      "LanguageType": 5,
+      "LabelId": "trade_trading_card_select_language_02"
+    },
+    {
+      "LanguageType": 2,
+      "LabelId": "trade_trading_card_select_language_03"
+    },
+    {
+      "LanguageType": 4,
+      "LabelId": "trade_trading_card_select_language_04"
+    },
+    {
+      "LanguageType": 3,
+      "LabelId": "trade_trading_card_select_language_05"
+    },
+    {
+      "LanguageType": 6,
+      "LabelId": "trade_trading_card_select_language_06"
+    },
+    {
+      "LanguageType": 0,
+      "LabelId": "trade_trading_card_select_language_07"
+    },
+    {
+      "LanguageType": 7,
+      "LabelId": "trade_trading_card_select_language_08"
+    },
+    {
+      "LanguageType": 8,
+      "LabelId": "trade_trading_card_select_language_09"
+    }
+  ]
+}

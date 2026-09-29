@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5947388167468348925
+  },
+  "m_Name": "fuction-tutorial_pack-ceil-point_1",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_16_page_01",
+      "_imagePath": "function_pack_point_01",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_16_page_02",
+      "_imagePath": "function_pack_point_02",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_16_page_03",
+      "_imagePath": "function_back_pack_02",
+      "_isLocalizeImage": 0
+    }
+  ]
+}

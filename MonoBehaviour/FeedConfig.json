@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -794504144057703403
+  },
+  "m_Name": "FeedConfig",
+  "_showWait": 0.3,
+  "_cardTurnBackRotateDelay": 0.05,
+  "_cardTurnBackRotateDuration": 0.25,
+  "_waitAfterItemToCardEffect": 0.3,
+  "_waitAfterCardsTurnBack": 0.2,
+  "_moveToCenterDuration": 0.2,
+  "_waitAfterMoveToCenter": 0.0,
+  "_moveToInitialPosDuration": 0.2,
+  "_waitAfterTapCard": 0.0,
+  "_waitAfterSelectedCardOpen": 0.3,
+  "_waitAfterSelectedCardOpenForItem": 0.3,
+  "_otherCardOpenRotateDelay": 0.05,
+  "_cardOpenRotateDuration": 0.25,
+  "_waitAfterCardToItemEffect": 0.3,
+  "_waitAfterCardsOpen": 0.8,
+  "_seamlessLoadingEmptyCellNum": 4,
+  "_seamlessLoadingBlankCellNum": 2,
+  "_seamlessLoadingWaitBeforeSlideIn": 0.0,
+  "_seamlessLoadingSlideInDuration": 0.4,
+  "_jirashiDuration": 0.3,
+  "_snoopDuration": 3.0
+}

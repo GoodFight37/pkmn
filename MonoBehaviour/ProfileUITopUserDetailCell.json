@@ -1,0 +1,548 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8312976222857114264
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5654246488513952483
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -298491745173942936
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3884895283665587560
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3087076623526245016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6545812024514661736
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7050201166064012648
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8915543651653930344
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3447671750783251096
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5078972434467999080
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -49427716801540760
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6139185566195862888
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -149548375987171992
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5456396979621048984
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7988160031127941784
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6847892657660644712
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7775353344427380072
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8057461652090080616
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4876083103628636824
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3717965837237439848
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3341075459879357800
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6973366436195421544
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5741048899815755112
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5015062628135292264
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6810313520555340440
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1559966632515554664
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6324592976506146152
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2323948117680541032
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5825371135354385048
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_selfObject": {
+    "m_FileID": 0,
+    "m_PathID": -5929864522999706264
+  },
+  "_selfPlayerIdText": {
+    "m_FileID": 0,
+    "m_PathID": -1359276131271684760
+  },
+  "_selfPlayerDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -298491745173942936
+  },
+  "_selfIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 6855291447386918248
+  },
+  "_selfIconGauge": {
+    "m_FileID": 0,
+    "m_PathID": -1211666194051347096
+  },
+  "_selfIconButton": {
+    "m_FileID": 0,
+    "m_PathID": 3884895283665587560
+  },
+  "_selfLvText": {
+    "m_FileID": 0,
+    "m_PathID": -4035566160562139800
+  },
+  "_selfExpText": {
+    "m_FileID": 0,
+    "m_PathID": -3766473072829641368
+  },
+  "_selfNameText": {
+    "m_FileID": 0,
+    "m_PathID": -2744056439851758232
+  },
+  "_selfNameButton": {
+    "m_FileID": 0,
+    "m_PathID": -3087076623526245016
+  },
+  "_selfOneWordButtonText": {
+    "m_FileID": 0,
+    "m_PathID": -3576915133179802264
+  },
+  "_selfOneWordButton": {
+    "m_FileID": 0,
+    "m_PathID": 6545812024514661736
+  },
+  "_selfBattleRecordButton": {
+    "m_FileID": 0,
+    "m_PathID": 7050201166064012648
+  },
+  "_otherObject": {
+    "m_FileID": 0,
+    "m_PathID": -8831284063192920728
+  },
+  "_otherPlayerIdText": {
+    "m_FileID": 0,
+    "m_PathID": -37398590829998744
+  },
+  "_otherFavoriteToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 3620850314373647720
+  },
+  "_otherIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -710902550691623576
+  },
+  "_otherCautionObject": {
+    "m_FileID": 0,
+    "m_PathID": -9017314404070568600
+  },
+  "_otherLvText": {
+    "m_FileID": 0,
+    "m_PathID": -4684811532790182552
+  },
+  "_otherNameText": {
+    "m_FileID": 0,
+    "m_PathID": -7065473655219401368
+  },
+  "_otherOneWordText": {
+    "m_FileID": 0,
+    "m_PathID": -3863196889527595672
+  },
+  "_otherBattleRecordButton": {
+    "m_FileID": 0,
+    "m_PathID": -3447671750783251096
+  },
+  "_otherFriendButtonsObject": {
+    "m_FileID": 0,
+    "m_PathID": 851530895551188328
+  },
+  "_otherFriendRequestButton": {
+    "m_FileID": 0,
+    "m_PathID": 5078972434467999080
+  },
+  "_otherFriendCancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -49427716801540760
+  },
+  "_otherFriendRejectButton": {
+    "m_FileID": 0,
+    "m_PathID": 6139185566195862888
+  },
+  "_otherFriendApproveButton": {
+    "m_FileID": 0,
+    "m_PathID": -149548375987171992
+  },
+  "_emblemNewBadge": {
+    "m_FileID": 0,
+    "m_PathID": -2995651928206520984
+  },
+  "_emblemImage1": {
+    "m_FileID": 0,
+    "m_PathID": -8220947775461569176
+  },
+  "_emblemImage2": {
+    "m_FileID": 0,
+    "m_PathID": -3408766098948076184
+  },
+  "_emblemImage3": {
+    "m_FileID": 0,
+    "m_PathID": 904060756591070568
+  },
+  "_emblemAddImage1": {
+    "m_FileID": 0,
+    "m_PathID": -1462181937607127704
+  },
+  "_emblemAddImage2": {
+    "m_FileID": 0,
+    "m_PathID": -4598551749725958808
+  },
+  "_emblemAddImage3": {
+    "m_FileID": 0,
+    "m_PathID": 8606191812947955048
+  },
+  "_emblemAddButtonImage1": {
+    "m_FileID": 0,
+    "m_PathID": 6646157987350990184
+  },
+  "_emblemAddButtonImage2": {
+    "m_FileID": 0,
+    "m_PathID": -340639147989709464
+  },
+  "_emblemAddButtonImage3": {
+    "m_FileID": 0,
+    "m_PathID": -206156013761573528
+  },
+  "_emblemButton1": {
+    "m_FileID": 0,
+    "m_PathID": -5456396979621048984
+  },
+  "_emblemButton2": {
+    "m_FileID": 0,
+    "m_PathID": -7988160031127941784
+  },
+  "_emblemButton3": {
+    "m_FileID": 0,
+    "m_PathID": 6847892657660644712
+  },
+  "_emblemButtonBase": {
+    "m_FileID": 0,
+    "m_PathID": 5857838117814095208
+  },
+  "_otherEmblemEmptyText": {
+    "m_FileID": 0,
+    "m_PathID": 769571006476340584
+  },
+  "_myBestObject": {
+    "m_FileID": 0,
+    "m_PathID": 3363911766266367336
+  },
+  "_myBestBoardShadowImage": {
+    "m_FileID": 0,
+    "m_PathID": 9185985677644615016
+  },
+  "_myBestFileShadowImage": {
+    "m_FileID": 0,
+    "m_PathID": 6855968001907248488
+  },
+  "_myBestBoardImage": {
+    "m_FileID": 0,
+    "m_PathID": 7667499851713432936
+  },
+  "_myBestFileImage": {
+    "m_FileID": 0,
+    "m_PathID": -1927030941286904472
+  },
+  "_myBestCardImage1": {
+    "m_FileID": 0,
+    "m_PathID": 1533941144785014120
+  },
+  "_myBestCardImage2": {
+    "m_FileID": 0,
+    "m_PathID": -5141732927349764760
+  },
+  "_myBestCardImage3": {
+    "m_FileID": 0,
+    "m_PathID": -1913064037684130456
+  },
+  "_myBestEditImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 6495110496390434152
+  },
+  "_myBestDetailImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 8924885488832040296
+  },
+  "_myBestEmptyButton": {
+    "m_FileID": 0,
+    "m_PathID": 7775353344427380072
+  },
+  "_myBestButton": {
+    "m_FileID": 0,
+    "m_PathID": 8057461652090080616
+  },
+  "_myBestElement": {
+    "m_FileID": 0,
+    "m_PathID": 5760255523771534696
+  },
+  "_myBestEmptyText": {
+    "m_FileID": 0,
+    "m_PathID": 593433238003731816
+  },
+  "_myBestMoreButton": {
+    "m_FileID": 0,
+    "m_PathID": 3717965837237439848
+  },
+  "_myBestMoreElement": {
+    "m_FileID": 0,
+    "m_PathID": 2668371069131771240
+  },
+  "_collectionNumText": {
+    "m_FileID": 0,
+    "m_PathID": 439223093492534632
+  },
+  "_loadingHideElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2754700960124652904
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3183219456787788440
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3426891969123431064
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1892861023825867416
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3394576525365981848
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4433703457320841880
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7992393951530562200
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4856424188193583768
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4021467501291418264
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3363911766266367336
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -227241803103515288
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5302904729923833192
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7814455340513578344
+    }
+  ],
+  "_otherLoadingHideElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3421376132416163176
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4341122340542263960
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7534420555198345880
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4333153747257373336
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4387220929514484376
+    }
+  ],
+  "_loadingIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -2825636319705543320
+  },
+  "_otherLoadingIconObject": {
+    "m_FileID": 0,
+    "m_PathID": 8980951364494183784
+  },
+  "_hashTagCell": {
+    "m_FileID": 0,
+    "m_PathID": -6244664375985222296
+  },
+  "_wishListRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 5302904729923833192
+  },
+  "_wishListEmptyObject": {
+    "m_FileID": 0,
+    "m_PathID": -3015010887580562072
+  },
+  "_wishListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6097602853191961960
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7865008831710540440
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4580317050933457560
+    }
+  ],
+  "_wishCard1Button": {
+    "m_FileID": 0,
+    "m_PathID": 6973366436195421544
+  },
+  "_wishCard2Button": {
+    "m_FileID": 0,
+    "m_PathID": 5015062628135292264
+  },
+  "_wishCard3Button": {
+    "m_FileID": 0,
+    "m_PathID": 1559966632515554664
+  },
+  "_wishCardEmpty1Button": {
+    "m_FileID": 0,
+    "m_PathID": 3341075459879357800
+  },
+  "_wishCardEmpty2Button": {
+    "m_FileID": 0,
+    "m_PathID": 5741048899815755112
+  },
+  "_wishCardEmpty3Button": {
+    "m_FileID": 0,
+    "m_PathID": -6810313520555340440
+  },
+  "_wishListButtonRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 8125346663186255208
+  },
+  "_wishListButton": {
+    "m_FileID": 0,
+    "m_PathID": 6324592976506146152
+  },
+  "_wishCardListRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 6225013498931989864
+  },
+  "_messageObject": {
+    "m_FileID": 0,
+    "m_PathID": 5963666409865629032
+  },
+  "_selfMessageObject": {
+    "m_FileID": 0,
+    "m_PathID": -5181964619519013528
+  },
+  "_selfMessageStanceButton": {
+    "m_FileID": 0,
+    "m_PathID": 2323948117680541032
+  },
+  "_selfMessageStanceText": {
+    "m_FileID": 0,
+    "m_PathID": -2541824975585522328
+  },
+  "_selfRequestLanguageButton": {
+    "m_FileID": 0,
+    "m_PathID": -5825371135354385048
+  },
+  "_selfRequestLanguageText": {
+    "m_FileID": 0,
+    "m_PathID": -821886272575484568
+  },
+  "_otherMessageObject": {
+    "m_FileID": 0,
+    "m_PathID": -6733880437371679384
+  },
+  "_otherMessageStanceObject": {
+    "m_FileID": 0,
+    "m_PathID": 4970764069259791720
+  },
+  "_otherMessageStanceText": {
+    "m_FileID": 0,
+    "m_PathID": -3559271953869615768
+  },
+  "_otherRequestLanguageText": {
+    "m_FileID": 0,
+    "m_PathID": -6017570409946919576
+  }
+}

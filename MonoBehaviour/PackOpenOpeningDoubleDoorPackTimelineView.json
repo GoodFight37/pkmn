@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5468969023272580375
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2798551263800673802
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": -7589136909845067031
+  },
+  "_fixAdditiveWeight": 0,
+  "_additiveWeight": 0.0,
+  "_effectTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -1199419547546154263
+  },
+  "_extraEffectTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -7105598453448635671
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7779032620033674041
+  },
+  "m_Name": "ActivationScenarioClip(Clone)(Clone)",
+  "_scenario": [
+    {
+      "_isActive": 1,
+      "_isInDiscardPile": 0,
+      "_beginFrame": 0,
+      "_endFrame": 30
+    },
+    {
+      "_isActive": 1,
+      "_isInDiscardPile": 1,
+      "_beginFrame": 30,
+      "_endFrame": 38
+    },
+    {
+      "_isActive": 0,
+      "_isInDiscardPile": 0,
+      "_beginFrame": 38,
+      "_endFrame": 50
+    }
+  ],
+  "_overrideLastScenario": 1,
+  "_lastScenario": [
+    {
+      "_isActive": 1,
+      "_isInDiscardPile": 0,
+      "_beginFrame": 0,
+      "_endFrame": 30
+    },
+    {
+      "_isActive": 1,
+      "_isInDiscardPile": 1,
+      "_beginFrame": 30,
+      "_endFrame": 38
+    }
+  ],
+  "_delayFramePerTarget": 18,
+  "_skipRemainingOnLastFinished": 0
+}

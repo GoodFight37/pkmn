@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8682598792768869718
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5237460499948313445
+  },
+  "m_Name": "",
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": 8720210556622361942
+  },
+  "_cardRoots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5233985955235779926
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1215244783668538026
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1750666110927197526
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -174552707050023594
+    }
+  ],
+  "_itemRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6819190947612742998
+  },
+  "_cardSkinExchangeTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2129004076439284394
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -184632401507822250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8776221628908415658
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3691319384257833642
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7284577477449329322
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6649235305567201962
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6928586660996207958
+    }
+  ],
+  "_endDuckingSe": {
+    "_value": "CARD_FC_DUCKING_END"
+  }
+}

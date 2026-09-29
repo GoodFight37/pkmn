@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5911040534271479148
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2016922009643835594
+  },
+  "m_Name": "",
+  "_pointObj": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6516087205303733612
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4446050031278345580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7762964420973481324
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6854300102089257620
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6486067495268856468
+    }
+  ],
+  "_pointRootObj": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -371050235669525140
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7368353757188076180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5381831090858610028
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7123043984744172908
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3312080714092301676
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1817465179469467941
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8594776694491650838
+  },
+  "m_Name": "",
+  "_selfHand": {
+    "m_FileID": 0,
+    "m_PathID": -919649961593295141
+  },
+  "_selfActiveField": {
+    "m_FileID": 0,
+    "m_PathID": -6350049642860007717
+  },
+  "_selfBenchField": {
+    "m_FileID": 0,
+    "m_PathID": 1911282670174056155
+  },
+  "_selfLibraryGroupView": {
+    "m_FileID": 0,
+    "m_PathID": -2337568193187959077
+  },
+  "_selfDiscardPile": {
+    "m_FileID": 0,
+    "m_PathID": -1373827795871093029
+  },
+  "_energyPool": {
+    "m_FileID": 0,
+    "m_PathID": 7188152133357973211
+  },
+  "_selfStadiumField": {
+    "m_FileID": 0,
+    "m_PathID": -6237456605683142949
+  }
+}

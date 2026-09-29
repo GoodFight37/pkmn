@@ -1,0 +1,180 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1037321057111429093
+  },
+  "m_Name": "Pokemon_Normal_Darkness",
+  "_fonts": [
+    {
+      "_key": 100,
+      "_font": {
+        "m_FileID": 6,
+        "m_PathID": -1429333384139526084
+      }
+    },
+    {
+      "_key": 117,
+      "_font": {
+        "m_FileID": 9,
+        "m_PathID": -7123647691594277501
+      }
+    },
+    {
+      "_key": 101,
+      "_font": {
+        "m_FileID": 9,
+        "m_PathID": -7123647691594277501
+      }
+    },
+    {
+      "_key": 0,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": -3177214020282768308
+      }
+    },
+    {
+      "_key": 1,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": -3177214020282768308
+      }
+    },
+    {
+      "_key": 2,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": -3177214020282768308
+      }
+    },
+    {
+      "_key": 3,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": -3177214020282768308
+      }
+    },
+    {
+      "_key": 4,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": -3177214020282768308
+      }
+    },
+    {
+      "_key": 102,
+      "_font": {
+        "m_FileID": 4,
+        "m_PathID": -6220052053907558318
+      }
+    },
+    {
+      "_key": 104,
+      "_font": {
+        "m_FileID": 5,
+        "m_PathID": -2679966613277965849
+      }
+    },
+    {
+      "_key": 115,
+      "_font": {
+        "m_FileID": 4,
+        "m_PathID": -6220052053907558318
+      }
+    },
+    {
+      "_key": 112,
+      "_font": {
+        "m_FileID": 3,
+        "m_PathID": -5035559725271761733
+      }
+    },
+    {
+      "_key": 113,
+      "_font": {
+        "m_FileID": 3,
+        "m_PathID": -5035559725271761733
+      }
+    },
+    {
+      "_key": 116,
+      "_font": {
+        "m_FileID": 4,
+        "m_PathID": -6220052053907558318
+      }
+    },
+    {
+      "_key": 107,
+      "_font": {
+        "m_FileID": 10,
+        "m_PathID": -8493980921148667129
+      }
+    },
+    {
+      "_key": 109,
+      "_font": {
+        "m_FileID": 9,
+        "m_PathID": -7123647691594277501
+      }
+    },
+    {
+      "_key": 110,
+      "_font": {
+        "m_FileID": 9,
+        "m_PathID": -7123647691594277501
+      }
+    },
+    {
+      "_key": 108,
+      "_font": {
+        "m_FileID": 7,
+        "m_PathID": -3688369663614694466
+      }
+    },
+    {
+      "_key": 105,
+      "_font": {
+        "m_FileID": 8,
+        "m_PathID": -2864489804589466860
+      }
+    },
+    {
+      "_key": 106,
+      "_font": {
+        "m_FileID": 7,
+        "m_PathID": -3688369663614694466
+      }
+    },
+    {
+      "_key": 114,
+      "_font": {
+        "m_FileID": 8,
+        "m_PathID": -2864489804589466860
+      }
+    },
+    {
+      "_key": 111,
+      "_font": {
+        "m_FileID": 11,
+        "m_PathID": 6601986703115559721
+      }
+    },
+    {
+      "_key": 103,
+      "_font": {
+        "m_FileID": 4,
+        "m_PathID": -6220052053907558318
+      }
+    }
+  ],
+  "_default": {
+    "m_FileID": 7,
+    "m_PathID": -3688369663614694466
+  },
+  "_imgTagFontType": 2
+}

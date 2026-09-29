@@ -1,0 +1,124 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6621602161769933796
+  },
+  "m_Name": "Pokemon_Type_BG_Link_Holo",
+  "_conditions": [
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 1,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 2,
+        "m_PathID": -1020499360594996149
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 2,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 3,
+        "m_PathID": -1292226714038549891
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 3,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 4,
+        "m_PathID": 4892115938977407849
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 4,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 5,
+        "m_PathID": -2317588086672989421
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 5,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 6,
+        "m_PathID": -703840457174838168
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 6,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 7,
+        "m_PathID": 7156184401077045417
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 7,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 8,
+        "m_PathID": -6422068347035159797
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 8,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 9,
+        "m_PathID": -7765267224435347075
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 9,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 10,
+        "m_PathID": -6462240391203490309
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 10,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "_conditionType": 2,
+      "_cardType": 0,
+      "_energyType": 11,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 11,
+        "m_PathID": -3666644334445313074
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "m_Shader": {
+    "m_FileID": 30,
+    "m_PathID": -8142363382816375908,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_Color1Tex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 678483819728891517,
+          "Name": "cPK_10_016430_00_MEGAGANGARex_RR_L_EFF2_OFF",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Color2Tex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 8731673145135662474,
+          "Name": "cPK_10_016430_00_MEGAGANGARex_RR_L_EFF2_ON",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Color3Mask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_EmissiveMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AdditiveIntensity": 0.0,
+      "_Color1AlphaBlend": 1.0,
+      "_Color3BlendMax": 1.0,
+      "_DepthOffset": 0.0,
+      "_EmissiveIntensity": 0.0,
+      "_NotColor1AreaAlphaBlend": 0.5,
+      "_OnColor1Area": 1.0,
+      "_Stencil": 1.0,
+      "_Switch": 0.0,
+      "_UVScale": 1.0,
+      "_UseColor3Blend": 1.0,
+      "_UseColor3Mask": 0.0,
+      "_UseEmissive": 1.0,
+      "_UseEmissiveMask": 0.0,
+      "_ZTest": 4.0
+    },
+    "m_Colors": {
+      "_Color3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_10_016430_00_MEGAGANGARex_RR_L_MEGA_EFM2",
+  "Name": "cPK_10_016430_00_MEGAGANGARex_RR_L_MEGA_EFM2"
+}

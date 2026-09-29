@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5947388167468348925
+  },
+  "m_Name": "fuction-tutorial_theme-deck_1",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_12_page_01",
+      "_imagePath": "function_theme_deck_01",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_12_page_02",
+      "_imagePath": "function_theme_deck_02",
+      "_isLocalizeImage": 0
+    }
+  ]
+}

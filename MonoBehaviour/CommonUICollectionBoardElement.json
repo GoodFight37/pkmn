@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2466825966805895119
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3120196639405408827
+  },
+  "m_Name": "",
+  "_elements": [
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": 3620582406715459535
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -8400377447923398705
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -6282767049413244977
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -567075806405998641
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -3344589838051850289
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": 1438676522548250575
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -8520732447955695665
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": 3437202737535043535
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -5657303424698038321
+      }
+    },
+    {
+      "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -240634459795699761
+      }
+    }
+  ]
+}

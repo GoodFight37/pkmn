@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5947388167468348925
+  },
+  "m_Name": "fuction-tutorial_deck-mission_2",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_17_page_02",
+      "_imagePath": "first_deck_mission_02",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_17_page_03",
+      "_imagePath": "first_deck_mission_03",
+      "_isLocalizeImage": 0
+    }
+  ]
+}

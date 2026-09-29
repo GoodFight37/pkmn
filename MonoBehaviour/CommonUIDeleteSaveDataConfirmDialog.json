@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7116847397383834150
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6735891680051699624
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -3546600909516436954
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -3546600909516436954
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": 9032378979199486502
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 4188485204053920294
+  },
+  "_descriptionFirstText": {
+    "m_FileID": 0,
+    "m_PathID": 8750563793392634406
+  },
+  "_descriptionSecondText": {
+    "m_FileID": 0,
+    "m_PathID": 1345558711449618982
+  },
+  "_cancelButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1774094494908418598
+  },
+  "_deleteButtonText": {
+    "m_FileID": 0,
+    "m_PathID": -6908749008653055450
+  }
+}

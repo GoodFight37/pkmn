@@ -1,0 +1,185 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4140594701975321777
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6995099892088600455
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_dialogTitle": {
+    "m_FileID": 0,
+    "m_PathID": 566595263509003441
+  },
+  "_cardDetailPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": -1162219606494446415
+  },
+  "_cardPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": -5778964291438871375
+  },
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": 2115995979052252337
+  },
+  "_playerTitle": {
+    "m_FileID": 0,
+    "m_PathID": -4026451821077365583
+  },
+  "_nickname": {
+    "m_FileID": 0,
+    "m_PathID": 4503026256235429041
+  },
+  "_playerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 3024144082890751153
+  },
+  "_playerIconElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_playerEffectIcon": {
+    "m_FileID": 0,
+    "m_PathID": -929229012823737167
+  },
+  "_playerEffectImage": {
+    "m_FileID": 0,
+    "m_PathID": -6208626684473344847
+  },
+  "_myCardButton": {
+    "m_FileID": 0,
+    "m_PathID": -7624099171010839375
+  },
+  "_partnerCardView": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_partnerTitle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_partnerNickname": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_partnerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_partnerCardButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_partnerEffectIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_partnerEffectImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6652070605421575345
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 8874073423137569969
+  },
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": -3007888944758358863
+  },
+  "_descriptionElement": {
+    "m_FileID": 0,
+    "m_PathID": -6115534535732527951
+  },
+  "_descriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 5887211507845790897
+  },
+  "_tradeInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": -7048234940685517647
+  },
+  "_tradeConfirmElement": {
+    "m_FileID": 0,
+    "m_PathID": 1619808214741449905
+  },
+  "_tradeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6099097022645238961
+  },
+  "_rejectButton": {
+    "m_FileID": 0,
+    "m_PathID": -7967743785545073487
+  },
+  "_cardInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": 4785213161194814641
+  },
+  "_tradeInfoButtonBadge": {
+    "m_FileID": 0,
+    "m_PathID": -6051092677596447567
+  },
+  "_tutorialButton": {
+    "m_FileID": 0,
+    "m_PathID": 3204255536419339441
+  },
+  "_newIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_refreshButton": {
+    "m_FileID": 0,
+    "m_PathID": -8061172354068939599
+  },
+  "_wishObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_tradeMessageButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

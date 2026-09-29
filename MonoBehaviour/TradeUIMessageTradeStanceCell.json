@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3115911136591647875
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4344240575186275464
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7009091814356128899
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_staticObject": {
+    "m_FileID": 0,
+    "m_PathID": 8184106954490156163
+  },
+  "_staticText": {
+    "m_FileID": 0,
+    "m_PathID": 911893500422165635
+  },
+  "_tradeStanceButton": {
+    "m_FileID": 0,
+    "m_PathID": 7009091814356128899
+  },
+  "_buttonText": {
+    "m_FileID": 0,
+    "m_PathID": 5028132532084774019
+  }
+}

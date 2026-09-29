@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2824450349987104018
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1093414012397280987
+  },
+  "m_Name": "",
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": -6399100330980443410
+  },
+  "_playerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2396750078427429614
+  },
+  "_winPointUnitViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5105172162271216914
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 194095088708582126
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2883164319328011538
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7728938761886401810
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6969937901636715794
+    }
+  ],
+  "_backgroundView": {
+    "m_FileID": 0,
+    "m_PathID": 3169574916690180846
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7488331226200484121
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3724252303275732019
+  },
+  "m_Name": "",
+  "_contentsContainer": {
+    "m_FileID": 0,
+    "m_PathID": -5493928274764441881
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 8111966844500563687
+  },
+  "_gameStartClip": {
+    "m_FileID": 7,
+    "m_PathID": 8538466161985441288
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7219367409463103692
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7546471786983421381
+  },
+  "m_Name": "",
+  "InnerTextType": 0,
+  "FillImage": {
+    "m_FileID": 0,
+    "m_PathID": 3480271010403684556
+  },
+  "ThumbImage": {
+    "m_FileID": 0,
+    "m_PathID": -4374372586212912948
+  },
+  "StepNum": 10
+}

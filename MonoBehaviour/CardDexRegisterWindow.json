@@ -1,0 +1,188 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7167893005661397500
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6474565008498419599
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_mappedScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 829792271880592900
+  },
+  "_parentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 5736377053238369796
+  },
+  "_footerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -2172132940840198652
+  },
+  "_footerShowClip": {
+    "m_FileID": 3,
+    "m_PathID": -7683498792960950397
+  },
+  "_footerResultClip": {
+    "m_FileID": 3,
+    "m_PathID": 1887569622857913352
+  },
+  "_skipButton": {
+    "m_FileID": 0,
+    "m_PathID": -2444086105013314044
+  },
+  "_numTextRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4708883991177371140
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 4525800136785239556
+  },
+  "_completeColorElementKey": "CYAN_200",
+  "_numTotalText": {
+    "m_FileID": 0,
+    "m_PathID": -1022121526125879804
+  },
+  "_diamondColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 9197561890631491076
+  },
+  "_numTextRoot02": {
+    "m_FileID": 0,
+    "m_PathID": -6753081872058442236
+  },
+  "_numText02": {
+    "m_FileID": 0,
+    "m_PathID": -8912420681866568188
+  },
+  "_starColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -2478850081449599484
+  },
+  "_numTextRoot03": {
+    "m_FileID": 0,
+    "m_PathID": -4368446125894230524
+  },
+  "_numText03": {
+    "m_FileID": 0,
+    "m_PathID": -7566484904987484668
+  },
+  "_hexagramColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -3499804744050696700
+  },
+  "_numTextRoot04": {
+    "m_FileID": 0,
+    "m_PathID": 3199047125173902852
+  },
+  "_numText04": {
+    "m_FileID": 0,
+    "m_PathID": 5027087019955691012
+  },
+  "_crownColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -9214976745026118140
+  },
+  "_numTextRoot00": {
+    "m_FileID": 0,
+    "m_PathID": 8735599783234674180
+  },
+  "_numText00": {
+    "m_FileID": 0,
+    "m_PathID": -2847294855683465724
+  },
+  "_expansionImage": {
+    "m_FileID": 0,
+    "m_PathID": 4502555906018549252
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": 6980951504906722820
+  },
+  "_missionCompleteElm": {
+    "m_FileID": 0,
+    "m_PathID": 6287720714805812740
+  },
+  "_missionCompleteAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4090485165610721788
+  },
+  "_missionCompleteBadgeShowClip": {
+    "m_FileID": 3,
+    "m_PathID": 699657068844943967
+  },
+  "_missionCompleteBadgeHideClip": {
+    "m_FileID": 3,
+    "m_PathID": -5792269867904426659
+  },
+  "_nextButton": {
+    "m_FileID": 0,
+    "m_PathID": -2335158740352852476
+  },
+  "_gradientEffect": {
+    "m_FileID": 0,
+    "m_PathID": -8193792433875870204
+  },
+  "_cardEffectForegroundCanvasList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4466318697828163076
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1370010910357938684
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6436698481523269124
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 373840930286247428
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6388167929408298500
+    }
+  ]
+}

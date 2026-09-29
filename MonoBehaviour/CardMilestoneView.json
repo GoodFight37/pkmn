@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4071040290654823770
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6181684412096722680
+  },
+  "m_Name": "",
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": 1651865238935526054
+  },
+  "_template": {
+    "m_FileID": 0,
+    "m_PathID": 45594042575510182
+  },
+  "_cardSheetView": {
+    "m_FileID": 0,
+    "m_PathID": 4793723695267404454
+  },
+  "_cameraRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2473197993729546918
+  },
+  "_cardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2016129813517673818
+  },
+  "_effectRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4233164907217181350
+  },
+  "_confettiEffect": {
+    "m_FileID": 0,
+    "m_PathID": -8954006259957278042
+  },
+  "_cameraShakeAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6213061803642430810
+  },
+  "_cameraShakeClip": {
+    "m_FileID": 0,
+    "m_PathID": 1137968497671225014
+  },
+  "_cardInSe": {
+    "_value": "BOOK_SE_CARD_SLIDE"
+  },
+  "_totalUISe": {
+    "_value": "BOOK_SE_ACQUISITION_TOTAL"
+  },
+  "_tipsUISe": {
+    "_value": "COMN_SE_DIALOG_OPEN"
+  }
+}

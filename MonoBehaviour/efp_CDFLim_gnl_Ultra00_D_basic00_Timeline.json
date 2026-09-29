@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "efp_CDFLim_gnl_Ultra00_D_basic00_Timeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -263611423336344177
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4263664096604301937
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4086210116698199439
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5539539140682208655
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9164481323315189135
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8049218714708781681
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -162745288538040945
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1940835118376135281
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6072582259182578289
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 604999467369190799
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2831159771569804687
+    }
+  ],
+  "m_FixedDuration": 24.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8472235298411947585
+  },
+  "m_Name": "DoubleDoorConfig",
+  "_pinchCancelAnimationDuration": 0.2,
+  "_pinchCancelEasingType": 0,
+  "_packLightEffectDepth": 10.0,
+  "_packPinchOutThreshold": 0.67,
+  "_pinchEffectDepth": 10.0,
+  "_vibrationProgressStep": 0.03,
+  "_vibrationProgressMin": 0.3,
+  "_pullUpThreshold": 0.2,
+  "_pullUpAnimationFrame": 24,
+  "_pullUpCancelAnimationFrame": 12,
+  "_pullUpEasingType": 8,
+  "_pullUpCancelEasingType": 8
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9119498770935736304
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1194899566369387694
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "withInSafeArea": 1,
+  "_hudAdvantageView": {
+    "m_FileID": 0,
+    "m_PathID": 1591654325188925456
+  },
+  "_hudWeaknessView": {
+    "m_FileID": 0,
+    "m_PathID": 5386054966128711696
+  },
+  "_selfAdvantagePositionRatio": {
+    "x": 0.333,
+    "y": 1.045
+  },
+  "_opponentAdvantagePositionRatio": {
+    "x": 0.88,
+    "y": 1.0
+  },
+  "_weaknessPositionRatio": {
+    "x": 0.35,
+    "y": 0.18
+  }
+}

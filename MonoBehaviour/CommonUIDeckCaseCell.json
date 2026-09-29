@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3632099094002529369
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6397446630305019237
+  },
+  "m_Name": "",
+  "_loadedElement": {
+    "m_FileID": 0,
+    "m_PathID": 7713407849332345767
+  },
+  "_loadingElement": {
+    "m_FileID": 0,
+    "m_PathID": 1308414065550232487
+  },
+  "_cardImage": {
+    "m_FileID": 0,
+    "m_PathID": -5931737531408118873
+  },
+  "_emptyCardElement": {
+    "m_FileID": 0,
+    "m_PathID": -4897717918312756313
+  },
+  "_caseTopImage": {
+    "m_FileID": 0,
+    "m_PathID": 1000345184374033319
+  },
+  "_energyTypeIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8385470055309702233
+  },
+  "_deckRecipeIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6598795459735778393
+  },
+  "_deckRecipeWithCardIcon": {
+    "m_FileID": 0,
+    "m_PathID": 4720161279467391911
+  },
+  "_rentalDeckIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1076644789917512793
+  }
+}

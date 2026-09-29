@@ -1,0 +1,126 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4742705471625735037
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1929918537850714879
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3824418357269976195
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8871191643760470909
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -531885518238952317
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7435991003391612035
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": -531885518238952317
+  },
+  "_addButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1049351036493671293
+  },
+  "_normalButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4350101831783568515
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 7259812990649914499
+  },
+  "_itemImageCellBuffer": {
+    "m_FileID": 0,
+    "m_PathID": -5749109052464147325
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 8828773134088361091
+  },
+  "_rootCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 4943135732001821827
+  },
+  "_editButton": {
+    "m_FileID": 0,
+    "m_PathID": -8871191643760470909
+  },
+  "_addButton": {
+    "m_FileID": 0,
+    "m_PathID": 3824418357269976195
+  },
+  "_albumAddNormalTextGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3077231859609916547
+  },
+  "_albumReachedMaxTextGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2490000845575531389
+  },
+  "_cardSlots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3025279981623487357
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8152368996444384125
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1604390842763357053
+    }
+  ],
+  "_cardSlotsBuffer": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8666839557399401603
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8872816108931273859
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -582932877288319869
+    }
+  ],
+  "_hashTagCell": {
+    "m_FileID": 0,
+    "m_PathID": 6598035980539614339
+  },
+  "_dragStartClip": {
+    "m_FileID": 3,
+    "m_PathID": 7939464833139428201
+  },
+  "_dragEndClip": {
+    "m_FileID": 3,
+    "m_PathID": 4823829856451948294
+  },
+  "_normalButtonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -6493170497722821501
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -8907375733913725821
+  }
+}

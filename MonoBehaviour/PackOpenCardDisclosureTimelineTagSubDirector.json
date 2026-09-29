@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7713070558318744675
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5996111557965307588
+  },
+  "m_Name": "",
+  "_ultraBeastDirector": {
+    "m_FileID": 0,
+    "m_PathID": -1562038423812953187
+  },
+  "_ancientDirector": {
+    "m_FileID": 0,
+    "m_PathID": -4322758823749866595
+  },
+  "_futureDirector": {
+    "m_FileID": 0,
+    "m_PathID": 1656024286899153821
+  }
+}

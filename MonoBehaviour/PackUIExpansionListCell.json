@@ -1,0 +1,143 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3019847017785112130
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6265490007775072163
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8803008735983913406
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4791833956649186882
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2350480603922713022
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5294781991230327230
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_seriesButton": {
+    "m_FileID": 0,
+    "m_PathID": 8803008735983913406
+  },
+  "_seriesLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": -8320665496906937922
+  },
+  "_favoriteIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -5945330916262065730
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 7379521970843765182
+  },
+  "_cardMaxNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6301395665811360190
+  },
+  "_completeColorElementKey": "CYAN_200",
+  "_numTextcolorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -1008208456277276226
+  },
+  "_packElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1645530067013711426
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2561114524845258306
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 430283569007839678
+    }
+  ],
+  "_packButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4791833956649186882
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2350480603922713022
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5294781991230327230
+    }
+  ],
+  "_packImageCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5012316311492446654
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4867770601775740482
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5856682600747518398
+    }
+  ],
+  "_limitTimes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8317842715069822530
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 146018322701109694
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3437398258849565118
+    }
+  ],
+  "_closelimitTimes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3678831469800475070
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8028614318568393150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4162979786547087806
+    }
+  ],
+  "_closeCoverImage": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -241417873402541634
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3893777281289832894
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5365541665332349374
+    }
+  ]
+}

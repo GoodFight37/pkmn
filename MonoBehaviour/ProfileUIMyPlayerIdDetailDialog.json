@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5480433131438656266
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -54426398473360512
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 7957976876636386550
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_playerIdCopyButton": {
+    "m_FileID": 0,
+    "m_PathID": 2635668374106289398
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": -7844581381476502282
+  },
+  "_friendIdText": {
+    "m_FileID": 0,
+    "m_PathID": 4539366389284680950
+  },
+  "_playerIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -6301808473502632714
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 5720326778410513654
+  },
+  "_qrCodeGenerator": {
+    "m_FileID": 0,
+    "m_PathID": -4879456027754416906
+  }
+}

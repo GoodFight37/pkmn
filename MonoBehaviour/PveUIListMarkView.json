@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6116518923574306761
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1078235537026112783
+  },
+  "m_Name": "",
+  "_paletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 666609886772205623
+  },
+  "_typeIcons": [
+    {
+      "Type": 1,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 3483891926160316471
+      }
+    },
+    {
+      "Type": 2,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 1622869697879218231
+      }
+    },
+    {
+      "Type": 3,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": -1462872197608433609
+      }
+    },
+    {
+      "Type": 4,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 3125760901498542135
+      }
+    },
+    {
+      "Type": 5,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": -5360019105310665
+      }
+    },
+    {
+      "Type": 6,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 8008623714012764215
+      }
+    },
+    {
+      "Type": 10,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": -3416712399922390985
+      }
+    },
+    {
+      "Type": 7,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 8264375859266983991
+      }
+    },
+    {
+      "Type": 8,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 6107216445984020535
+      }
+    },
+    {
+      "Type": 9,
+      "IconImage": {
+        "m_FileID": 0,
+        "m_PathID": 6330258451480188983
+      }
+    }
+  ]
+}

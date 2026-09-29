@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2057426723994920674
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3474322965176104706
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8760109878268520162
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5620540428700542690
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_commonUICardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 7393402227106572002
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 5194501146268329698
+  },
+  "_checkIconGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3430034474364508446
+  },
+  "_removeButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": 423757329322927842
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 8760109878268520162
+  },
+  "_removeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5620540428700542690
+  },
+  "_maxCardDisplayCount": 999,
+  "_possessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": 3887695529568560866
+  },
+  "_noPossessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": 1395883548829017826
+  },
+  "IsButtonForMultiOperationGuard": 0
+}

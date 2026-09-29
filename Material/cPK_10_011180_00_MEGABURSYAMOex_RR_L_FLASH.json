@@ -1,0 +1,67 @@
+{
+  "m_Shader": {
+    "m_FileID": 20,
+    "m_PathID": 5677331643493683988,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_RadialTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 304538326832906621,
+          "Name": "cPK_10_011180_00_MEGABURSYAMOex_RR_L_FLASH",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 0.0,
+      "_EmissiveIntensity": 0.0,
+      "_FakeCameraHeight": 0.0,
+      "_FlashIntensityByMat": 3.5,
+      "_Height": 1.0,
+      "_HeightPower": 0.0,
+      "_RadialAnim": 0.0,
+      "_RadialFlashPow": 1.0,
+      "_RadialFlashRange": 0.25,
+      "_RadialScaling": 1.637,
+      "_Scale": 1.0,
+      "_StencilRef": 0.0,
+      "_VisualizeCenter": 0.0,
+      "_ZTest": 4.0
+    },
+    "m_Colors": {
+      "_BrightColor": {
+        "r": 0.8632076,
+        "g": 1.0,
+        "b": 0.8856326,
+        "a": 1.0
+      },
+      "_DarkColor": {
+        "r": 0.043137256,
+        "g": 1.0,
+        "b": 0.20000002,
+        "a": 1.0
+      },
+      "_ScaleCenter": {
+        "r": 0.0,
+        "g": -0.035,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_10_011180_00_MEGABURSYAMOex_RR_L_FLASH",
+  "Name": "cPK_10_011180_00_MEGABURSYAMOex_RR_L_FLASH"
+}

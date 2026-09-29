@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7618506853914911956
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1949459934636112281
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 1820729105645230892
+  },
+  "_multiElement": {
+    "m_FileID": 0,
+    "m_PathID": 726056922080271148
+  },
+  "_multiImageButton": {
+    "m_FileID": 0,
+    "m_PathID": 1834454545221147436
+  },
+  "_multiMovieButton": {
+    "m_FileID": 0,
+    "m_PathID": 835766633850329900
+  },
+  "_singleElement": {
+    "m_FileID": 0,
+    "m_PathID": 5715797672732580652
+  },
+  "_singleImageButton": {
+    "m_FileID": 0,
+    "m_PathID": -7204040652779693268
+  },
+  "_singleMovieButton": {
+    "m_FileID": 0,
+    "m_PathID": -7132291570203829460
+  }
+}

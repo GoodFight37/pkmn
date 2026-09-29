@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -704604921481366491
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -834769596401353637
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 5433552018215826469
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5433552018215826469
+  },
+  "_premiumPassButton": {
+    "m_FileID": 0,
+    "m_PathID": 3945207185045550117
+  },
+  "_cancelSubscriptionButton": {
+    "m_FileID": 0,
+    "m_PathID": 5476778764758119461
+  },
+  "_recoverButton": {
+    "m_FileID": 0,
+    "m_PathID": -3103116527299300315
+  },
+  "_ownershipButton": {
+    "m_FileID": 0,
+    "m_PathID": -9046824976140962779
+  },
+  "_informationButton": {
+    "m_FileID": 0,
+    "m_PathID": -2900395663672839131
+  },
+  "_customerSupportButton": {
+    "m_FileID": 0,
+    "m_PathID": -2837292971342072795
+  },
+  "_goToContractButton": {
+    "m_FileID": 0,
+    "m_PathID": 2018994307900863525
+  },
+  "_basicPassBgObject": {
+    "m_FileID": 0,
+    "m_PathID": -3822477852183858139
+  },
+  "_basicPassBodyObject": {
+    "m_FileID": 0,
+    "m_PathID": -2577988432010251227
+  },
+  "_basicPassFreeTrialBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 5971951084189086757
+  },
+  "_premiumPassBgObject": {
+    "m_FileID": 0,
+    "m_PathID": -4544882633097448411
+  },
+  "_premiumPassBodyObject": {
+    "m_FileID": 0,
+    "m_PathID": -5719615642719980507
+  },
+  "_premiumPassFreeTrialBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 1258250138215740453
+  },
+  "_premiumPassNormalBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -5661320163198929883
+  },
+  "_newBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -3449134031622736859
+  }
+}

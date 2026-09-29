@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6110300130085487143
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -773988649586443139
+  },
+  "m_Name": "",
+  "_shadowSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -6542238990001782233
+  },
+  "_defaultSize": {
+    "x": 0.75,
+    "y": 1.0
+  },
+  "_rotateYSize": {
+    "x": 0.15,
+    "y": 1.1
+  }
+}

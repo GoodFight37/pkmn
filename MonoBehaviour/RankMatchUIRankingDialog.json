@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8953347451945558830
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4787645643711671109
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -4405578808610774226
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 8807117600029483822
+  },
+  "_seasonButton": {
+    "m_FileID": 0,
+    "m_PathID": 2522275051075150638
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": -4405578808610774226
+  },
+  "_seasonNameText": {
+    "m_FileID": 0,
+    "m_PathID": 8490442396317066030
+  },
+  "_seasonGradientEffect": {
+    "m_FileID": 0,
+    "m_PathID": -7761371490732072146
+  },
+  "_updateButton": {
+    "m_FileID": 0,
+    "m_PathID": 3625058005956502318
+  },
+  "_updateButtonGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5661528602198090542
+  },
+  "_updateTimerElement": {
+    "m_FileID": 0,
+    "m_PathID": 7410850462489322286
+  },
+  "_headerIndexGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4809565546926449454
+  },
+  "_headerIndexRankNumberIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7857577168431227694
+  },
+  "_headerIndexProfileIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7563161728638591790
+  },
+  "_headerIndexRankNameGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3412642049765989586
+  },
+  "_headerIndexRankIconElement": {
+    "m_FileID": 0,
+    "m_PathID": -5496276429339417810
+  },
+  "_headerIndexRankNameElement": {
+    "m_FileID": 0,
+    "m_PathID": -5907645220900429010
+  },
+  "_headerIndexNameText": {
+    "m_FileID": 0,
+    "m_PathID": -9026601211786484946
+  },
+  "_headerIndexPointText": {
+    "m_FileID": 0,
+    "m_PathID": 3508719111846241070
+  },
+  "_headerIndexWinRateText": {
+    "m_FileID": 0,
+    "m_PathID": 3197705557050532654
+  },
+  "_headerIndexWinNumberText": {
+    "m_FileID": 0,
+    "m_PathID": 2075189859091882798
+  },
+  "_headerIndexLoseNumberText": {
+    "m_FileID": 0,
+    "m_PathID": 5330017441822090030
+  },
+  "_headerIndexWinInfoGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3454320303088065746
+  },
+  "_indexElmRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8167185283332121390
+  },
+  "_moveToScrollPositionOffset": 60
+}

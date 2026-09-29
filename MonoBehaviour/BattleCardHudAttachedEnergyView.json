@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8425323979632608500
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8560868725349430456
+  },
+  "m_Name": "",
+  "_countText": {
+    "m_FileID": 0,
+    "m_PathID": 7997494952236219148
+  },
+  "_shadowImage": {
+    "m_FileID": 0,
+    "m_PathID": -2583603675095303412
+  },
+  "_energyIconView": {
+    "m_FileID": 0,
+    "m_PathID": 6994094310353599244
+  },
+  "_battleCommonEnergyIconViewAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8113432058443597044
+  },
+  "_attachAnimationName": "battle_ui_icn_ene_attach",
+  "_defaultCountTextOffset": {
+    "x": 0.0,
+    "y": 17.0
+  },
+  "_countTextOffset": {
+    "<SelfActive>k__BackingField": {
+      "x": 0.0,
+      "y": 25.0
+    },
+    "<SelfBench>k__BackingField": {
+      "x": 0.0,
+      "y": 25.0
+    },
+    "<OpponentActive>k__BackingField": {
+      "x": 0.0,
+      "y": 25.0
+    },
+    "<OpponentBench>k__BackingField": {
+      "x": 0.0,
+      "y": 36.0
+    }
+  },
+  "_extraAmountIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2343251309842004748
+  }
+}

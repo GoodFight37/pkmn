@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2445794214547144623
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3221129691444027694
+  },
+  "m_Name": "",
+  "Settings": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CardIllustAlpha": 1.0,
+  "CardTextAlpha": 0.0,
+  "CardFrameEmitSwitch": 0.0,
+  "CardFrameEmitIntensity": 0.0,
+  "CardFrameDarkness": 0.0,
+  "CardScale": 1.0,
+  "_adjustStencilScale": {
+    "x": -0.01,
+    "y": -0.01,
+    "z": 0.0
+  },
+  "_setuped": 0,
+  "_uiCardStencilObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImmerssiveObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_uiCardStencilRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_uiCardRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_videoObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_uiCardObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

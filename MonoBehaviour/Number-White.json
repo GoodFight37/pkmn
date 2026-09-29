@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5387662659111202956
+  },
+  "m_Name": "Number-White",
+  "_textTypeFontConditions": [
+    {
+      "_type": 1,
+      "_conditions": [
+        {
+          "_isDefault": 1,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -757749988448016049
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 3242940556523500418
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

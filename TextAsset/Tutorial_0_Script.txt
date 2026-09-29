@@ -1,0 +1,73 @@
+############
+# ステージ0: 場の説明
+############
+- sys_wait: OnWipeEnd
+
+# > バトルをはじめよう！
+- title: battle_tutorial_introduction_telop_001
+
+# > ポケモンカードはコレクションだけでなく　ポケモン同士でバトルをすることができます
+- msg_c: battle_tutorial_introduction_message_00100
+
+# > ピカチュウのカードをよく見てください
+- msg_b: battle_tutorial_introduction_message_00200
+
+# カード詳細を開く
+- open_field_detail: [ Auto, SelfActiveField ]
+
+# > ポケモンには「HP」が書かれていて　HPがなくなると「きぜつ」します
+- msg_b: battle_tutorial_introduction_message_00300
+  focus: CardDetailHp
+
+# > ここには「ワザ」が書かれていて　相手を攻撃したり効果を使ったりできます
+- msg_b: battle_tutorial_introduction_message_00400
+  focus: CardDetailSkillDescriptionSmall
+
+- sys_neutral:
+
+# > 自分と相手のポケモン同士でバトルして　相手のポケモンをきぜつさせていきます
+- msg_b: battle_tutorial_introduction_message_00500
+  focus: ActiveFields
+
+# > バトルでは自分が集めたカードで　相手と対戦ができます
+# > 「遊びかた」ではおためしで　用意されたカードを使ってバトルをします
+- msg_c: 
+    - battle_tutorial_introduction_message_00600
+    - battle_tutorial_introduction_message_00700
+
+# > 手前側が「自分の場」で　奥側が「相手の場」です
+- msg_b: 
+    - battle_tutorial_introduction_message_00800
+
+# > ここは「バトル場」といって　ポケモンがワザを使ってたたかう場所です
+# > バトル場にいるポケモンは　「バトルポケモン」とよびます
+- msg_b: 
+    - battle_tutorial_introduction_message_00900
+    - battle_tutorial_introduction_message_01000
+  focus: SelfActiveField
+
+# > ここは「ベンチ」といって　バトルポケモンと交替するポケモンを置く場所です
+# > ベンチにいるポケモンは　「ベンチポケモン」とよびます
+- msg_c: 
+    - battle_tutorial_introduction_message_01100
+    - battle_tutorial_introduction_message_01200
+  focus: SelfBench
+
+# > これは自分の山札です
+# > ここに自分のカードをウラにして置き　自分の番にカードを1枚引きます
+- msg_b: 
+    - battle_tutorial_introduction_message_01300
+    - battle_tutorial_introduction_message_01400
+  focus: SelfLibrary
+
+# > これは自分の手札です
+# > 手札は10枚まで持つことができて　バトル中はこのカードを使います
+- msg_c: 
+    - battle_tutorial_introduction_message_01500
+    - battle_tutorial_introduction_message_01600
+  focus: SelfHand
+
+# > 次からはバトルの進め方を見ていきましょう
+- msg_c: battle_tutorial_introduction_message_01700
+
+# NOTE: 実際にバトル開始はせず終了

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6931049294223974355
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7970279233315465816
+  },
+  "m_Name": "",
+  "_overlayCamera": {
+    "m_FileID": 0,
+    "m_PathID": 8472528123995480109
+  },
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": -4740331484439650259
+  }
+}

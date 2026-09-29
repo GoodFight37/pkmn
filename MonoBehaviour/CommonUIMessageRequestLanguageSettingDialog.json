@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5171485171611128071
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6128852363032819157
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6631668162049724679
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_languageButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5732843016420142841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5382651054425714425
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7459340972882538233
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4817900689303285497
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7299298120164692231
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7454168633795137799
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3002655736278798599
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6770475387032383225
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9045945918902358279
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 384131265422831353
+    }
+  ],
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -3800835114780446983
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -6628118463643373831
+  },
+  "centerShowClip": {
+    "m_FileID": 2,
+    "m_PathID": 6890776425860490784
+  },
+  "centerHideClip": {
+    "m_FileID": 2,
+    "m_PathID": 5253463692172661863
+  },
+  "bottomShowClip": {
+    "m_FileID": 2,
+    "m_PathID": 3867140680836527072
+  },
+  "bottomHideClip": {
+    "m_FileID": 2,
+    "m_PathID": 869985697510118829
+  }
+}

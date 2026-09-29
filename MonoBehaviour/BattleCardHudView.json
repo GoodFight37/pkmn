@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4070136645117608268
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4678301351971337561
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "withInSafeArea": 0,
+  "_hudHpView": {
+    "m_FileID": 0,
+    "m_PathID": 8279185639636926796
+  },
+  "_hudEnergyView": {
+    "m_FileID": 0,
+    "m_PathID": 5896284820055392588
+  },
+  "_hudDamageView": {
+    "m_FileID": 0,
+    "m_PathID": -2862154449871240884
+  },
+  "_hudStatusEffectView": {
+    "m_FileID": 0,
+    "m_PathID": -5919545737595125428
+  },
+  "_hudAbilityCutInView": {
+    "m_FileID": 0,
+    "m_PathID": 3196260321279148364
+  },
+  "_hudDistributedEnergyTrayView": {
+    "m_FileID": 0,
+    "m_PathID": 5567011770416365900
+  },
+  "_hudToolIconView": {
+    "m_FileID": 0,
+    "m_PathID": 4499549982743396684
+  },
+  "_hudPokemonToolCutInView": {
+    "m_FileID": 0,
+    "m_PathID": -5260285641278357172
+  },
+  "_normalizedHpPositionX": 1.0,
+  "_normalizedHpPositionY": 0.98,
+  "_normalizedEffectIconPositionX": 0.93,
+  "_normalizedEffectIconPositionY": 0.93,
+  "_normalizedPokemonToolIconPositionX": 0.19,
+  "_normalizedPokemonToolIconPositionY": 0.59,
+  "<EmptyActiveFieldBoundsScale>k__BackingField": {
+    "x": 1.61025,
+    "y": 1.681875
+  },
+  "<EmptyBenchFieldBoundsScale>k__BackingField": {
+    "x": 1.0735,
+    "y": 1.12125
+  }
+}

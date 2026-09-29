@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "CardSkinExchangeTimelineCCE_Animation",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2726280549738122549
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5855654699842833717
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1534466366397903563
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5611568323289910581
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -640511948676369717
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7319204421915020597
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8548933278326354635
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4762380002547954379
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6845333630839386827
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 651028659186987723
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4281129421049531701
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

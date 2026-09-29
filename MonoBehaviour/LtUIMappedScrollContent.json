@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6444147484215601182
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3331352247807768184
+  },
+  "m_Name": "",
+  "ParentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 3565656279838550046
+  },
+  "EmptyBase": {
+    "m_FileID": 0,
+    "m_PathID": 4614389052866422814
+  },
+  "PrefabInfos": [
+    {
+      "PreafabName": "Title",
+      "Prefab": {
+        "m_FileID": 7,
+        "m_PathID": 120228415572761310
+      },
+      "IgnoreDividedCount": 0
+    },
+    {
+      "PreafabName": "Card",
+      "Prefab": {
+        "m_FileID": 6,
+        "m_PathID": -1533129546256410588
+      },
+      "IgnoreDividedCount": 0
+    },
+    {
+      "PreafabName": "Text",
+      "Prefab": {
+        "m_FileID": 5,
+        "m_PathID": -7656333314676439464
+      },
+      "IgnoreDividedCount": 0
+    },
+    {
+      "PreafabName": "TextWithSubElement",
+      "Prefab": {
+        "m_FileID": 8,
+        "m_PathID": -8428035886187820741
+      },
+      "IgnoreDividedCount": 0
+    }
+  ],
+  "Infinity": 0,
+  "overlapsOffset": 0.0,
+  "_cellSortType": 0
+}

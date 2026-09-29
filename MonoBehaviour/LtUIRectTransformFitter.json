@@ -1,0 +1,270 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1178731732353696355
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 738351726738952239
+  },
+  "m_Name": "",
+  "_rectTransformInfo": [
+    {
+      "RectTransformName": "Top",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "Bottom",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 180.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "Left",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "Right",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "TopLeft",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 45.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "TopRight",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 315.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "BottomLeft",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 135.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    },
+    {
+      "RectTransformName": "BottomRight",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "AnchorMax": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "AnchorMin": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 215.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0
+      }
+    }
+  ]
+}

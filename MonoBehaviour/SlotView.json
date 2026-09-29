@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3058160006784587385
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -18784248064645158
+  },
+  "m_Name": "",
+  "_slotRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 6090577164242217351
+  },
+  "_effectRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 8502453328984500615
+  },
+  "_sizeType": 1
+}

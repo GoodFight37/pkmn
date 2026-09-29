@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenBackOpeningCardTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1782971316895113358
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7479255781045919886
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4050937203668983666
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5616742848208724110
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8288611785137545358
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3592838545053278350
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5790077103826509682
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7727085314499387250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3953969056101277554
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1970225854260076686
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7811963222907052174
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2760484320372613262
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4905285213124075378
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7658665933395828594
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7483778542680629390
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6774043176673566862
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7030462436215709838
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -957444172917530766
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6572039505986363250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5239893612318728050
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4948330115836436622
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7395790965307711346
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5839822824333034052
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2841112064818862648
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": -8612837887168232892
+  },
+  "_useVirtualCameraType": 1,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_benchToActiveAnimTrackName": "BenchToActive Animation",
+  "_benchToActiveMoveTrackName": "BenchToActive Move",
+  "_benchToActiveMoveClipName": "Move",
+  "_benchToActiveLayerTrackName": "BenchToActive Layer",
+  "_selfLandEffectActivationTrackName": "Effect Active Self",
+  "_opponentLandEffectActivationTrackName": "Effect Active Opponent",
+  "_landShakeTrackName": "Camera Animation Track"
+}

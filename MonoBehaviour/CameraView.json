@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7493506968431580502
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6266830751222997691
+  },
+  "m_Name": "",
+  "_camera": {
+    "m_FileID": 0,
+    "m_PathID": -4346062093912550058
+  },
+  "_timelineControlFoV": 1
+}

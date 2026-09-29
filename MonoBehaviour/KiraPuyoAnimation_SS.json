@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3113653009858623060
+  },
+  "m_Name": "KiraPuyoAnimation_SS",
+  "Curve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.799394,
+        "inSlope": 3.837882,
+        "outSlope": 3.7537873,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 0.16,
+        "value": 1.4,
+        "inSlope": 0.0018937588,
+        "outSlope": 0.0018937588,
+        "weightedMode": 3,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 0.32,
+        "value": 0.8,
+        "inSlope": 0.006286654,
+        "outSlope": 0.006286654,
+        "weightedMode": 3,
+        "inWeight": 0.33333334,
+        "outWeight": 0.39236113
+      },
+      {
+        "time": 0.5,
+        "value": 1.2719101,
+        "inSlope": 0.001082778,
+        "outSlope": 0.001082778,
+        "weightedMode": 3,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 0.68,
+        "value": 0.8003898,
+        "inSlope": 0.010369749,
+        "outSlope": 0.010369749,
+        "weightedMode": 3,
+        "inWeight": 0.33333334,
+        "outWeight": 0.43504694
+      },
+      {
+        "time": 0.84,
+        "value": 1.4,
+        "inSlope": -0.003111124,
+        "outSlope": -0.003111124,
+        "weightedMode": 3,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1.0,
+        "value": 0.799394,
+        "inSlope": -3.7537866,
+        "outSlope": -2.4722295,
+        "weightedMode": 1,
+        "inWeight": 0.33333334,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "Min": 0.799394,
+  "Max": 1.3999988
+}

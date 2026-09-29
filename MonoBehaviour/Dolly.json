@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1101229750744939834
+  },
+  "m_Name": "Dolly",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": -257123054197197098
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -529586922272835882
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8843915530388256470
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6304008629175372074
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -664218648174774570
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5913577348827695402
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4576149354556082474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8591074933141681878
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2817800620325418710
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3368196857706657494
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

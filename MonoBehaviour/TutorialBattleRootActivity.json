@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7343703840078344196
+  },
+  "m_Name": "TutorialBattleRootActivity",
+  "_onActivate": 0,
+  "_mainScene": {
+    "_scene": {
+      "_scenePath": "Assets/Lettuce/_Data/Common/Scene/BattleTopPage.unity"
+    },
+    "_onActivate": 0,
+    "_onDeactivate": 0
+  },
+  "_subScenes": []
+}

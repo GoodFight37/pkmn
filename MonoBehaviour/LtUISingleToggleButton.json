@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6286675417385132708
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2447714226583992196
+  },
+  "m_Name": "",
+  "CustomButtonName": "",
+  "ButtonType": 2,
+  "OnTouchDown": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnTouchUpInside": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnLongTouch": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnTouchCancelled": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_initClip": {
+    "m_FileID": 3,
+    "m_PathID": 5551898012004613160
+  },
+  "_touchDownClip": {
+    "m_FileID": 3,
+    "m_PathID": -5927561516574803397
+  },
+  "_selectedClip": {
+    "m_FileID": 3,
+    "m_PathID": 7605425138487024657
+  },
+  "_disabledClip": {
+    "m_FileID": 3,
+    "m_PathID": 3923316335903198257
+  },
+  "_onSelectedSeName": 0,
+  "_onUnselectedSeName": 0
+}

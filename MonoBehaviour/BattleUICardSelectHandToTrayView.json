@@ -1,0 +1,122 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6069615979738952210
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1474805555704198846
+  },
+  "m_Name": "",
+  "_container": {
+    "m_FileID": 0,
+    "m_PathID": 6026015678424936978
+  },
+  "_dialogAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8467222506942427666
+  },
+  "_showDialogClip": {
+    "m_FileID": 5,
+    "m_PathID": 5618890643257624194
+  },
+  "_hideDialogClip": {
+    "m_FileID": 5,
+    "m_PathID": -5367088276248084936
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 4981528282062647826
+  },
+  "_okButtonAttention": {
+    "m_FileID": 0,
+    "m_PathID": 6722819590448476690
+  },
+  "_okButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3645872320722760210
+  },
+  "_okButtonAttentionClip": {
+    "m_FileID": 5,
+    "m_PathID": -7214735547380510516
+  },
+  "_tray": {
+    "m_FileID": 0,
+    "m_PathID": -6308729757011742190
+  },
+  "_trayAttention": {
+    "m_FileID": 0,
+    "m_PathID": 3128112843929940498
+  },
+  "_dragHandlerView": {
+    "m_FileID": 0,
+    "m_PathID": 8574739271673573906
+  },
+  "<PutAnimDuration>k__BackingField": {
+    "_value": 0.1
+  },
+  "<PutAnimCurve>k__BackingField": {
+    "_value": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 2.0,
+          "outSlope": 2.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "<PickAnimationDuration>k__BackingField": {
+    "_value": 0.1
+  },
+  "<PickAnimationCurve>k__BackingField": {
+    "_value": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 2.0,
+          "outSlope": 2.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "_seOnArrived": {
+    "_value": "BATTLE_SE_CARD_TAP"
+  },
+  "<ArrivedSeDistanceThreshold>k__BackingField": {
+    "_value": 0.9
+  }
+}

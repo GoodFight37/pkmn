@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7562812257476180407
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5274263467793160820
+  },
+  "m_Name": "",
+  "_xpElm": {
+    "m_FileID": 0,
+    "m_PathID": -2482522669419100599
+  },
+  "_xpText": {
+    "m_FileID": 0,
+    "m_PathID": 1983325658901874249
+  },
+  "_lvText": {
+    "m_FileID": 0,
+    "m_PathID": 4836844878859503177
+  },
+  "_expGauge": {
+    "m_FileID": 0,
+    "m_PathID": -7293418621685168567
+  },
+  "_levelUpText": {
+    "m_FileID": 0,
+    "m_PathID": -8361818881827436983
+  },
+  "_maxPointElm": {
+    "m_FileID": 0,
+    "m_PathID": 8057042125412337225
+  },
+  "_maxPointText": {
+    "m_FileID": 0,
+    "m_PathID": -68454764950157751
+  },
+  "_presentBoxedElm": {
+    "m_FileID": 0,
+    "m_PathID": -7240480397488519607
+  },
+  "_itemElm": {
+    "m_FileID": 0,
+    "m_PathID": 6371627191596844617
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -3218009164998736311
+  },
+  "_itemAmountText": {
+    "m_FileID": 0,
+    "m_PathID": -6396856555742788023
+  },
+  "_itemIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3718840652917930423
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -8244666341777045943
+  },
+  "_showAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -52373217276895366
+  },
+  "_downAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": 5071667621377073851
+  },
+  "_hideAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": 5899342143373092320
+  },
+  "_levelUpAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 2202568826262095433
+  },
+  "_lvUpAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -6237699927160879688
+  },
+  "_cardSkinElm": {
+    "m_FileID": 0,
+    "m_PathID": 505160639534892617
+  },
+  "_cardSkinBaseImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 6520780990445815369
+  },
+  "_cardSkinNameText": {
+    "m_FileID": 0,
+    "m_PathID": 640441087271601737
+  },
+  "_cardSkinDropText": {
+    "m_FileID": 0,
+    "m_PathID": 6638277816655447625
+  },
+  "_cardSkinAmountText": {
+    "m_FileID": 0,
+    "m_PathID": 1196961831311476297
+  },
+  "_cardSkinImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -570169881119717815
+  },
+  "_cardSkinCardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -3252641140169800119
+  },
+  "_cardFrameBaseImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -249854766434449847
+  },
+  "_cardDexCompleteElm": {
+    "m_FileID": 0,
+    "m_PathID": -7658712419135158711
+  }
+}

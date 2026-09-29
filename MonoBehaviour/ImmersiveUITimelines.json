@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8063345106473679402
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4055334984271599185
+  },
+  "m_Name": "",
+  "OutsideEffectView": {
+    "m_FileID": 0,
+    "m_PathID": 5965722511912502742
+  },
+  "_underCardEffectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6864133085382933034
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8552807462188385750
+    }
+  ],
+  "StartImmersiveDirector": {
+    "m_FileID": 0,
+    "m_PathID": 6190641639544227286
+  },
+  "PlayImmersiveVideoSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": -6503139389814831658
+  },
+  "EndImmersiveDirector": {
+    "m_FileID": 0,
+    "m_PathID": 511787269471307222
+  },
+  "EndNumberOfFramesRemaining": 60,
+  "_rocatorGo": {
+    "m_FileID": 0,
+    "m_PathID": 6646001801931032022
+  },
+  "_rocatorGoOffset": {
+    "x": -110.2201,
+    "y": -462.5639,
+    "z": 0.0
+  }
+}

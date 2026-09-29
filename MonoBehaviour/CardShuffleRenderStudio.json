@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7796962062390721164
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4544891617074484782
+  },
+  "m_Name": "",
+  "_camera": {
+    "m_FileID": 0,
+    "m_PathID": -7975618975222269300
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": 7769086914604628620
+  },
+  "_playableDirectorFor5Card": {
+    "m_FileID": 0,
+    "m_PathID": -4714492738115470708
+  },
+  "_card1": {
+    "m_FileID": 0,
+    "m_PathID": 8700085374072650380
+  },
+  "_card2": {
+    "m_FileID": 0,
+    "m_PathID": -8377415344763307380
+  },
+  "_card3": {
+    "m_FileID": 0,
+    "m_PathID": -1505080785534453108
+  },
+  "_card4": {
+    "m_FileID": 0,
+    "m_PathID": -4519257117895689588
+  },
+  "_card5": {
+    "m_FileID": 0,
+    "m_PathID": 1572142405029657228
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9197700482783819774
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 259697109359112438
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2184095344901376002
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_countText": {
+    "m_FileID": 0,
+    "m_PathID": -6952461388608784386
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 2058194992868669438
+  },
+  "_favoriteGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 258263111977973758
+  },
+  "_wishGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7135481152353683458
+  },
+  "_playerIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -9182018584122968066
+  }
+}

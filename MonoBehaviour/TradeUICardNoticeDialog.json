@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4445685980329002512
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6027137657467155477
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 8999710627071080944
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -8408980522585867792
+  },
+  "_listItemAboutCollectionFileGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3026714595721201168
+  },
+  "_listItemAboutCollectionBoardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7357574245618206224
+  },
+  "_listItemAboutDeckGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3183874072704632336
+  },
+  "_confirmText": {
+    "m_FileID": 0,
+    "m_PathID": -4746382766537229840
+  }
+}

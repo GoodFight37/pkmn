@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6889949477910257684
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1102821496066583453
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1588580635390533612
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_energySelectButton": {
+    "m_FileID": 0,
+    "m_PathID": -6452218696374657044
+  },
+  "_cardSelectButton": {
+    "m_FileID": 0,
+    "m_PathID": -2691305520118013972
+  },
+  "_deckCaseSelectButton": {
+    "m_FileID": 0,
+    "m_PathID": 6679659844149993452
+  },
+  "_deckShieldSelectButton": {
+    "m_FileID": 0,
+    "m_PathID": 2880086623054618604
+  },
+  "_coinSelectButton": {
+    "m_FileID": 0,
+    "m_PathID": -6373962783870328852
+  },
+  "_playMatSelectButton": {
+    "m_FileID": 0,
+    "m_PathID": -5624824663484637204
+  },
+  "_energyTypeIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5590178689469030420
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5787850894965448724
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8003403346268299284
+    }
+  ],
+  "_energyElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4514367794690547692
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 244503708343951340
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1892920273885241364
+    }
+  ],
+  "_emptyEnergyElement": {
+    "m_FileID": 0,
+    "m_PathID": 8988042976183869420
+  },
+  "_emptyCardElement": {
+    "m_FileID": 0,
+    "m_PathID": -2402077596316114964
+  },
+  "_emptyDeckShieldElement": {
+    "m_FileID": 0,
+    "m_PathID": -8413850060137603092
+  },
+  "_emptyCoinSkinElement": {
+    "m_FileID": 0,
+    "m_PathID": 1993110604647981036
+  },
+  "_emptyPlayMatElement": {
+    "m_FileID": 0,
+    "m_PathID": 1991766930842017772
+  },
+  "_commonUIDeckCaseCell": {
+    "m_FileID": 0,
+    "m_PathID": 3409485665709940716
+  },
+  "_cardImageCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8097218805332090900
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8117229510456336364
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8752341756510298092
+    }
+  ],
+  "_deckShieldImage": {
+    "m_FileID": 0,
+    "m_PathID": -1908785569671258132
+  },
+  "_coinImage": {
+    "m_FileID": 0,
+    "m_PathID": 8787444415035498476
+  },
+  "_playMatImage": {
+    "m_FileID": 0,
+    "m_PathID": -4027909098348912660
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1588580635390533612
+  },
+  "_energyCategoryName": {
+    "m_FileID": 0,
+    "m_PathID": -875264798073135124
+  },
+  "_mainCardCategoryName": {
+    "m_FileID": 0,
+    "m_PathID": -3629925077291147284
+  }
+}

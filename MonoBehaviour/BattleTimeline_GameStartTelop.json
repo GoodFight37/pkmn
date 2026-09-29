@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_GameStartTelop",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6477531901381481449
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6738311469031189527
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1900742531295898647
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7881429920786519017
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4048204134940896279
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3393642509146625001
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

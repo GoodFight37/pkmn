@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 977241684967959426
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4624716276051981035
+  },
+  "m_Name": "",
+  "_feedPlayNumImage": {
+    "m_FileID": 0,
+    "m_PathID": 1748948049704594306
+  },
+  "_userRankImage": {
+    "m_FileID": 0,
+    "m_PathID": -3484900484724872318
+  },
+  "_itemGetImage": {
+    "m_FileID": 0,
+    "m_PathID": 6454316215953009538
+  },
+  "_packOpenNumImage": {
+    "m_FileID": 0,
+    "m_PathID": 5122573193758780290
+  },
+  "_battleNumImage": {
+    "m_FileID": 0,
+    "m_PathID": -4135672057087382654
+  },
+  "_rentalDeckWinNumImage": {
+    "m_FileID": 0,
+    "m_PathID": 4429636633066220418
+  },
+  "_cardGetImage": {
+    "m_FileID": 0,
+    "m_PathID": -798425423267484798
+  },
+  "_missionClearNumImage": {
+    "m_FileID": 0,
+    "m_PathID": 3218471344711347074
+  },
+  "_dailyNumImage": {
+    "m_FileID": 0,
+    "m_PathID": 3196078488760757122
+  },
+  "_loginImage": {
+    "m_FileID": 0,
+    "m_PathID": 9089050769118800770
+  },
+  "_commonImage": {
+    "m_FileID": 0,
+    "m_PathID": -1354118536848462974
+  },
+  "_skinExchangeImage": {
+    "m_FileID": 0,
+    "m_PathID": 6017439906300898178
+  },
+  "_thankImage": {
+    "m_FileID": 0,
+    "m_PathID": -1191840789492126846
+  },
+  "_friendImage": {
+    "m_FileID": 0,
+    "m_PathID": -6326548603825214590
+  },
+  "_tradeImage": {
+    "m_FileID": 0,
+    "m_PathID": -7980795009942934654
+  },
+  "_giveCardImage": {
+    "m_FileID": 0,
+    "m_PathID": 2160801983847148418
+  }
+}

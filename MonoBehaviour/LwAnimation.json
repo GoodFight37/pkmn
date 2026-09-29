@@ -1,0 +1,659 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4234306194908551697
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2647346502187978864
+  },
+  "m_Name": "",
+  "_animationClips": [
+    {
+      "Key": "B_Card_disappear_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 7624673084116777823
+      }
+    },
+    {
+      "Key": "B_Card_disappear_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 7876448343254602620
+      }
+    },
+    {
+      "Key": "B_Card_fail",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 8683301616101497369
+      }
+    },
+    {
+      "Key": "B_Card_flip_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -7686943488168172788
+      }
+    },
+    {
+      "Key": "B_Card_flip_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -1022378141248409481
+      }
+    },
+    {
+      "Key": "B_Card_float_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 6922970735613661541
+      }
+    },
+    {
+      "Key": "B_Card_hit_battle_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 1467583276559003623
+      }
+    },
+    {
+      "Key": "B_Card_hit_battle_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2338187912082197970
+      }
+    },
+    {
+      "Key": "B_Card_hit_bench_L_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -6474711167452372093
+      }
+    },
+    {
+      "Key": "B_Card_hit_bench_L_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -3820228052580133470
+      }
+    },
+    {
+      "Key": "B_Card_hit_bench_M_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5273829730392177518
+      }
+    },
+    {
+      "Key": "B_Card_hit_bench_M_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 7861734141719621249
+      }
+    },
+    {
+      "Key": "B_Card_hit_bench_R_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5942006838521879469
+      }
+    },
+    {
+      "Key": "B_Card_hit_bench_R_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 1805559162932284763
+      }
+    },
+    {
+      "Key": "B_Card_idle_back_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5362712044046163460
+      }
+    },
+    {
+      "Key": "B_Card_idle_back_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -7307772515777672853
+      }
+    },
+    {
+      "Key": "B_Card_idle_back_tefuda_deck",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5628674365267236116
+      }
+    },
+    {
+      "Key": "B_Card_idle_front_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 1632033301457363859
+      }
+    },
+    {
+      "Key": "B_Card_idle_front_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8917128469581058731
+      }
+    },
+    {
+      "Key": "B_Card_idle_front_tefuda",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 6068509918958091138
+      }
+    },
+    {
+      "Key": "B_Card_idle_trash",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5624119983857479756
+      }
+    },
+    {
+      "Key": "B_Card_into_hand_back",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -71275837511404064
+      }
+    },
+    {
+      "Key": "B_Card_into_hand_flont",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8956281781546782053
+      }
+    },
+    {
+      "Key": "B_Card_placed_back_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 415396823298544151
+      }
+    },
+    {
+      "Key": "B_Card_placed_back_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -6877803689718124929
+      }
+    },
+    {
+      "Key": "B_Card_placed_BattleToBench",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 2760327573206980346
+      }
+    },
+    {
+      "Key": "B_Card_placed_front_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -7482251169778010827
+      }
+    },
+    {
+      "Key": "B_Card_placed_front_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -1917309795186157334
+      }
+    },
+    {
+      "Key": "B_Card_select_deck_my_end",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -4549915537003516443
+      }
+    },
+    {
+      "Key": "B_Card_select_deck_my_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5560206362360821947
+      }
+    },
+    {
+      "Key": "B_Card_select_deck_opp_end",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 1779465154859460035
+      }
+    },
+    {
+      "Key": "B_Card_select_deck_opp_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8429566533512116996
+      }
+    },
+    {
+      "Key": "B_Card_select_loop",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5427957364352093644
+      }
+    },
+    {
+      "Key": "B_Card_select_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 7414785763406187741
+      }
+    },
+    {
+      "Key": "B_Card_select_trash_my_end",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -1240824915958014630
+      }
+    },
+    {
+      "Key": "B_Card_select_trash_my_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2462062808247968674
+      }
+    },
+    {
+      "Key": "B_Card_select_trash_opp_end",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8020360915890772209
+      }
+    },
+    {
+      "Key": "B_Card_select_trash_opp_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8050309799849054054
+      }
+    },
+    {
+      "Key": "B_Card_tap_back_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -6902551453584018434
+      }
+    },
+    {
+      "Key": "B_Card_tap_back_01_push",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 568716196350783339
+      }
+    },
+    {
+      "Key": "B_Card_tap_back_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 9150339130797178093
+      }
+    },
+    {
+      "Key": "B_Card_tap_back_02_push",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 4418089647569100159
+      }
+    },
+    {
+      "Key": "B_Card_tap_deck",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -4482060970738056194
+      }
+    },
+    {
+      "Key": "B_Card_tap_deck_push",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8443341401798947475
+      }
+    },
+    {
+      "Key": "B_Card_tap_front_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 395989565037854981
+      }
+    },
+    {
+      "Key": "B_Card_tap_front_01_push",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 3020493799305410954
+      }
+    },
+    {
+      "Key": "B_Card_tap_front_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -7968568084318728200
+      }
+    },
+    {
+      "Key": "B_Card_tap_front_02_push",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -9060199573347503339
+      }
+    },
+    {
+      "Key": "B_Card_tap_trash",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -954720023395179699
+      }
+    },
+    {
+      "Key": "B_Card_tap_trash_push",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 6339229746021743798
+      }
+    },
+    {
+      "Key": "B_Card_trash_appear_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 2407148253093413415
+      }
+    },
+    {
+      "Key": "B_Card_trash_appear_deck_top",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2991637496585953284
+      }
+    },
+    {
+      "Key": "B_Card_trash_appear_deck_under",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -3239352278852509108
+      }
+    },
+    {
+      "Key": "B_Card_trash_appear_tefuda",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5846453462754698404
+      }
+    },
+    {
+      "Key": "C_Battle_AppearCutIn_Card_back",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -9090079982627121538
+      }
+    },
+    {
+      "Key": "C_Battle_AppearCutIn_Card_back_Battle",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -3959839067874568601
+      }
+    },
+    {
+      "Key": "C_Battle_AppearCutIn_Card_front",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 1081393213456212659
+      }
+    },
+    {
+      "Key": "C_Battle_AppearCutIn_Card_tefuda_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5889135668072415342
+      }
+    },
+    {
+      "Key": "C_Battle_AppearEvolve_Card_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 4980867237792296032
+      }
+    },
+    {
+      "Key": "C_Battle_AppearEvolve_Card_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -1816314452097634719
+      }
+    },
+    {
+      "Key": "C_Battle_AppearPlaced_Card_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5310643861771989801
+      }
+    },
+    {
+      "Key": "C_Battle_AppearPlaced_Card_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5359847976794911319
+      }
+    },
+    {
+      "Key": "C_Battle_BackTo_Card_battle_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -7558974810933150003
+      }
+    },
+    {
+      "Key": "C_Battle_BackTo_Card_battle_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 3386194205539429475
+      }
+    },
+    {
+      "Key": "C_Battle_BackTo_Card_bench_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5038410387543709166
+      }
+    },
+    {
+      "Key": "C_Battle_BackTo_Card_bench_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 7302768109281415414
+      }
+    },
+    {
+      "Key": "C_Battle_BackTo_Card_trash",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5583462290423179241
+      }
+    },
+    {
+      "Key": "C_Battle_BackToDeck_Card",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2634719425200748283
+      }
+    },
+    {
+      "Key": "C_Battle_Draw_Card_appear_frameout_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -6946593074482952447
+      }
+    },
+    {
+      "Key": "C_Battle_Draw_Card_appear_frameout_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 2100592517041994615
+      }
+    },
+    {
+      "Key": "C_Battle_Draw_Card_appear_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2781201359495727280
+      }
+    },
+    {
+      "Key": "C_Battle_Draw_Card_appear_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 6569839407665318898
+      }
+    },
+    {
+      "Key": "C_Battle_Draw_Card_draw",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5092092319748029068
+      }
+    },
+    {
+      "Key": "C_Battle_Evolve_Card_01",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2835590163204283422
+      }
+    },
+    {
+      "Key": "C_Battle_Evolve_Card_02",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5376209558166561460
+      }
+    },
+    {
+      "Key": "C_Battle_Pick_Card_battle_end",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 117375779086773034
+      }
+    },
+    {
+      "Key": "C_Battle_Pick_Card_battle_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 8972727316452075826
+      }
+    },
+    {
+      "Key": "C_Battle_Pick_Card_bench_end",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -3539861530829962648
+      }
+    },
+    {
+      "Key": "C_Battle_Pick_Card_bench_start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 6374267579718374298
+      }
+    },
+    {
+      "Key": "C_Battle_Shuffle_Card_01_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 6744167996292889778
+      }
+    },
+    {
+      "Key": "C_Battle_Shuffle_Card_01_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5825473490408643224
+      }
+    },
+    {
+      "Key": "C_Battle_Shuffle_Card_02_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -5628862357181177030
+      }
+    },
+    {
+      "Key": "C_Battle_Shuffle_Card_02_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 3466003885340085512
+      }
+    },
+    {
+      "Key": "C_Battle_SkillA_Card_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -700902071587525005
+      }
+    },
+    {
+      "Key": "C_Battle_SkillA_Card_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 7140183842452076891
+      }
+    },
+    {
+      "Key": "C_Battle_SkillBC_Card_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -2061001368931619337
+      }
+    },
+    {
+      "Key": "C_Battle_SkillBC_Card_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 182676206791580402
+      }
+    },
+    {
+      "Key": "C_Battle_Stadium_Card_placed",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -8575377024983105782
+      }
+    },
+    {
+      "Key": "C_Battle_Trainers_Card_my",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -3817996443765141179
+      }
+    },
+    {
+      "Key": "C_Battle_Trainers_Card_opp",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5680885597147890010
+      }
+    },
+    {
+      "Key": "C_Battle_Win_Loop",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": -446842922815148188
+      }
+    },
+    {
+      "Key": "C_Battle_Win_Start",
+      "Clip": {
+        "m_FileID": 2,
+        "m_PathID": 5010047769156562905
+      }
+    }
+  ],
+  "_playAutomatically": 1
+}

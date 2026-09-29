@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -870558728459512097
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8422666380961828123
+  },
+  "m_Name": "",
+  "_cardSkinType": 1,
+  "_rootDirector": {
+    "m_FileID": 0,
+    "m_PathID": 3912824773961193183
+  },
+  "_animationDirector": {
+    "m_FileID": 0,
+    "m_PathID": 7398552735452501727
+  },
+  "_effectDirector": {
+    "m_FileID": 0,
+    "m_PathID": -3029476730268674337
+  },
+  "_soundDirector": {
+    "m_FileID": 0,
+    "m_PathID": 5569418243979744991
+  },
+  "_uiDirector": {
+    "m_FileID": 0,
+    "m_PathID": -6316906860528593185
+  },
+  "_systemDirector": {
+    "m_FileID": 0,
+    "m_PathID": -7797004486742632737
+  }
+}

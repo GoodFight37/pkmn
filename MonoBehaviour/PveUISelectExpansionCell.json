@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2585688936039015851
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4355040997742369335
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3796830473823558229
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_expansionImage": {
+    "m_FileID": 0,
+    "m_PathID": -2088358479345457749
+  },
+  "_expansionPackSetImage": {
+    "m_FileID": 0,
+    "m_PathID": 714503773657523627
+  },
+  "_newBadgeObj": {
+    "m_FileID": 0,
+    "m_PathID": -6253773997822810709
+  },
+  "_allClearText": {
+    "m_FileID": 0,
+    "m_PathID": -2578591278625430101
+  },
+  "_clearedBattlesNum": {
+    "m_FileID": 0,
+    "m_PathID": 3786216284309513643
+  },
+  "_completedBattleTryNum": {
+    "m_FileID": 0,
+    "m_PathID": 3200311543998735787
+  },
+  "_expansionGradientEffect": {
+    "m_FileID": 0,
+    "m_PathID": 3232227772303566251
+  }
+}

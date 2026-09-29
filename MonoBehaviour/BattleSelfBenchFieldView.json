@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2739742545806905637
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2639506951987067329
+  },
+  "m_Name": "",
+  "_slot1": {
+    "m_FileID": 0,
+    "m_PathID": 2437899699720793819
+  },
+  "_slot2": {
+    "m_FileID": 0,
+    "m_PathID": -1545917709099290917
+  },
+  "_slot3": {
+    "m_FileID": 0,
+    "m_PathID": -4219368415121723685
+  },
+  "<TutorialFocusWholeBenchRectSize>k__BackingField": {
+    "_value": {
+      "x": 3.6,
+      "y": 1.2
+    }
+  }
+}

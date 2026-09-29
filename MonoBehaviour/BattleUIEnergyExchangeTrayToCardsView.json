@@ -1,0 +1,142 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 415975239847071460
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2586117681371260800
+  },
+  "m_Name": "",
+  "_rootCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 6455439215268744932
+  },
+  "_sourcesGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5146460464525823716
+  },
+  "_srcTray": {
+    "m_FileID": 0,
+    "m_PathID": 9184654379395993316
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3319319975422676708
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": 2141228147516591844
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -3036570631815672092
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -5102014660750127388
+  },
+  "_arrowAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8171430631390359836
+  },
+  "_arrowAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": -7851888650263823799
+  },
+  "_movingSlotView": {
+    "m_FileID": 0,
+    "m_PathID": 1257064315514015460
+  },
+  "_movingSlotParent": {
+    "m_FileID": 0,
+    "m_PathID": -6405943435673645340
+  },
+  "_dragHandlerView": {
+    "m_FileID": 0,
+    "m_PathID": 3686052015654325988
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 7701820778835562212
+  },
+  "_showClip": {
+    "m_FileID": 4,
+    "m_PathID": -3652979126029432065
+  },
+  "_hideClip": {
+    "m_FileID": 4,
+    "m_PathID": -3177593675107148836
+  },
+  "_sourcesAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3614092850689363684
+  },
+  "_sourcesShowClip": {
+    "m_FileID": 4,
+    "m_PathID": 6729443890199689295
+  },
+  "_sourcesHideClip": {
+    "m_FileID": 4,
+    "m_PathID": -5867905567650102633
+  },
+  "_submitButtonAttentionElement": {
+    "m_FileID": 0,
+    "m_PathID": 111490998858436324
+  },
+  "_submitButtonAttentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8416785980130963740
+  },
+  "_submitButtonAttentionIdleAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -7214735547380510516
+  },
+  "_putAnimDuration": 0.05,
+  "_putAnimCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_resetAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8486806760502047004
+  },
+  "_resetShowAnimation": {
+    "m_FileID": 4,
+    "m_PathID": 5523262168230038845
+  },
+  "_resetHideAnimation": {
+    "m_FileID": 4,
+    "m_PathID": 2962807847227463643
+  },
+  "_resetButton": {
+    "m_FileID": 0,
+    "m_PathID": -7002933159686680860
+  },
+  "_resetCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 2353997489932226276
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4110194790904177978
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3934274948301666428
+  },
+  "m_Name": "",
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -2032748493303700166
+  },
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": -9012643657546717894
+  },
+  "_missionFrameImage": {
+    "m_FileID": 0,
+    "m_PathID": -6131624344087157446
+  },
+  "_favoriteFrameImage": {
+    "m_FileID": 0,
+    "m_PathID": 8406095563284686138
+  },
+  "_limitedEffectObject": {
+    "m_FileID": 0,
+    "m_PathID": 5559009643251311930
+  },
+  "_cardAcquiredFrameImage": {
+    "m_FileID": 0,
+    "m_PathID": 3239296404971005242
+  },
+  "_cardAcquiredIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -542982050562562758
+  },
+  "_itemAcquiredFrameImage": {
+    "m_FileID": 0,
+    "m_PathID": 3830647309553247546
+  },
+  "_itemView": {
+    "m_FileID": 0,
+    "m_PathID": -3086177215307176646
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -8872901990872963782
+  },
+  "_itemNumText": {
+    "m_FileID": 0,
+    "m_PathID": 1992369076872029498
+  },
+  "_cardViewAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -251488757908036294
+  },
+  "_itemViewAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -251488757908036294
+  },
+  "_pokedexImage": {
+    "m_FileID": 0,
+    "m_PathID": -4762569498342054598
+  },
+  "_shadowImage": {
+    "m_FileID": 0,
+    "m_PathID": -8076335792482933446
+  },
+  "_hasCardFrameBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -8050457610307885766
+  },
+  "_cardFrameAcquirableObject": {
+    "m_FileID": 0,
+    "m_PathID": 2784369748419224890
+  },
+  "_possessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": -1155619720579242694
+  },
+  "_possessionCardText": {
+    "m_FileID": 0,
+    "m_PathID": 7076946443297629498
+  },
+  "_noPossessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": 4882027016997840186
+  },
+  "_snoopSelectImage": {
+    "m_FileID": 0,
+    "m_PathID": -1282955848544869062
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3296310980558533268
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5451650465546670805
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": -4466626643533509268
+  },
+  "_backOfCard": {
+    "m_FileID": 0,
+    "m_PathID": 7587466486613134700
+  },
+  "_orderText": {
+    "m_FileID": 0,
+    "m_PathID": -6137602211662738068
+  },
+  "_turnText": {
+    "m_FileID": 0,
+    "m_PathID": -6786468048045486740
+  },
+  "_myPointElement": {
+    "m_FileID": 0,
+    "m_PathID": -4352462350130557588
+  },
+  "_opponentPointElement": {
+    "m_FileID": 0,
+    "m_PathID": -5202915418349449876
+  },
+  "_damageText": {
+    "m_FileID": 0,
+    "m_PathID": 5143811734645362028
+  },
+  "_showNextAnimClip": {
+    "m_FileID": 3,
+    "m_PathID": -6627553228154739639
+  },
+  "_footerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8386785561689312620
+  },
+  "_showDialogAnimClip": {
+    "m_FileID": 3,
+    "m_PathID": 8254149198989106121
+  }
+}

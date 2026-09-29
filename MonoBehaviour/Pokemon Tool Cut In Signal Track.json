@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2009000520074562960
+  },
+  "m_Name": "Pokemon Tool Cut In Signal Track",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 2291380378880593913
+  },
+  "m_Children": [],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -5314663702381834247
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2516098531321597945
+      }
+    ]
+  }
+}

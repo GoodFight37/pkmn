@@ -1,0 +1,108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5995749683092338042
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5677668087805064621
+  },
+  "m_Name": "",
+  "_expansionCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7731685871274740358
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5810736045145994618
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2439555102723945850
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7140967914980652410
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8482436021884433786
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4810055242100558470
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7495742486101740166
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8537447682138360454
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5190406418508794502
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 856310243617944954
+    }
+  ],
+  "_languageCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3318524629404431738
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 405465552717100410
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -165590881713179270
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 588506418021610874
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6518113551784228218
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1132455803692397946
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8303437639677233798
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7699010494545999226
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5445898410613814650
+    }
+  ],
+  "_cardChangeAmount": {
+    "m_FileID": 0,
+    "m_PathID": 7505019897003586938
+  },
+  "_effectScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 5846900319349847418
+  },
+  "_effectRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4471382959213693574
+  },
+  "_cardNewBadge": {
+    "m_FileID": 0,
+    "m_PathID": 2168112228129912186
+  }
+}

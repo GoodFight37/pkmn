@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1101229750744939834
+  },
+  "m_Name": "star06",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 4399310344152778492
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2108214821810505468
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2697881504369051388
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5896207927388764420
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2993062157983254268
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3455923835357988604
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3435230449409361660
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

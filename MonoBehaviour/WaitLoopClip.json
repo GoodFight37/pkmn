@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3529932791230349179
+  },
+  "m_Name": "WaitLoopClip",
+  "_playCount": {
+    "exposedName": "63680152",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_loopToFrame": 0,
+  "_loopFromFrame": 14
+}

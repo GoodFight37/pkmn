@@ -1,0 +1,85 @@
+{
+  "m_Shader": {
+    "m_FileID": 21,
+    "m_PathID": 623047812646010241,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_GradationMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 9002896381013597774,
+          "Name": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR_L_EFF1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ViewMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 1.0,
+      "_AnglePower": 0.0,
+      "_BlendMode": 1.0,
+      "_CullMode": 0.0,
+      "_DepthOffset": 0.0,
+      "_DstFactor": 1.0,
+      "_DstFactorA": 1.0,
+      "_Edge": 0.0,
+      "_Layer": 0.0,
+      "_MainPower": 1.0,
+      "_MaskPower": 0.0,
+      "_Progress": 0.0,
+      "_SrcFactor": 1.0,
+      "_SrcFactorA": 0.0,
+      "_Stencil": 1.0,
+      "_UseGradationMap": 0.0,
+      "_UseViewMask": 0.0,
+      "_ZTest": 4.0,
+      "_ZWriteParam": 0.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR_L_EFM1",
+  "Name": "cPK_10_007700_00_LUGARUGANTASOGARENOSUGATA_RR_L_EFM1"
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -421165085371538363
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4599608141594541046
+  },
+  "m_Name": "",
+  "m_Padding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Softness": {
+    "x": 0,
+    "y": 0
+  },
+  "mMaskImage": {
+    "m_FileID": 6,
+    "m_PathID": 2597090265847398226
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8081331260849960805
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -818741559258019479
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1331422971277588325
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 668453212865644699
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4057814142967040155
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1617493117506271077
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -8341067629569947493
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": -1617493117506271077
+  },
+  "_addButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8730770221703411557
+  },
+  "_normalButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4616376288579111067
+  },
+  "_selectedButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2536655751362857115
+  },
+  "_normalIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 6148581210912213147
+  },
+  "_normalIconImageBuffer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_selectedIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 1907006329686542491
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": 5149430320654862491
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -8975400132213127013
+  },
+  "_editButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_addButton": {
+    "m_FileID": 0,
+    "m_PathID": 668453212865644699
+  },
+  "_cardSlots": [],
+  "_cardSlotsBuffer": [],
+  "_selectedGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8297382749962090341
+  },
+  "_rootCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -5877199482791245669
+  },
+  "_boardAddNormalTextGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2792142772473776283
+  },
+  "_boardReachedMaxTextGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7504685402358527845
+  },
+  "_hashtagCell": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_dragStartClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_dragEndClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_normalButtonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_favoriteGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4863627272810641253
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

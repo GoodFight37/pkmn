@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -813327112899187155
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2304324516156923197
+  },
+  "m_Name": "",
+  "_margin": 0.0,
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 8673590589333450285
+  },
+  "_buttonText": {
+    "m_FileID": 0,
+    "m_PathID": 1288710501146504749
+  },
+  "_itemListViewPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -4843246415036600787
+  },
+  "_dropDownListPositionType": 5
+}

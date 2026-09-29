@@ -1,0 +1,144 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8106042026025122271
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6330730381517117448
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7282003718826067489
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8826312293465815519
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4244455379808519713
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8775828217666370015
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 9027423994720188895
+  },
+  "_acquiredCardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6795228729859996127
+  },
+  "_unacquiredCardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -20186824347911713
+  },
+  "_selectedGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2987271149500532257
+  },
+  "_favIconGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2351211400053556769
+  },
+  "_withOutObjectsForAlbum": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2276405414402882015
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2987271149500532257
+    }
+  ],
+  "_withOutObjectsForFavorite": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3028163251367282209
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2276405414402882015
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -592176900851598881
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8826752181222737441
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6842623005613196833
+    }
+  ],
+  "_stepper": {
+    "m_FileID": 0,
+    "m_PathID": 4649103347224050143
+  },
+  "_cardThicknessGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6052886048346506785
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4890726912986416673
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -873459718844155425
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7947046753821489631
+    }
+  ],
+  "_alreadySetNumRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8826752181222737441
+  },
+  "_alreadySetNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4048408812684936737
+  },
+  "_hasVisualEffectRoot": {
+    "m_FileID": 0,
+    "m_PathID": -592176900851598881
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": 8826312293465815519
+  },
+  "_fileIconGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4077504982959425057
+  },
+  "_boardIconGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -504562521612977697
+  },
+  "_cardFrameAmountRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -8285477180954150433
+  },
+  "_cardFrameNumeratorText": {
+    "m_FileID": 0,
+    "m_PathID": 3128702382433335775
+  },
+  "_cardFrameDenominatorText": {
+    "m_FileID": 0,
+    "m_PathID": 1469698046351210975
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 988090110715761390
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 96885494378102906
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_uiCardTradeView": {
+    "m_FileID": 0,
+    "m_PathID": -5768253981417860370
+  },
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 5120049524895585006
+  },
+  "_fade": {
+    "m_FileID": 0,
+    "m_PathID": -101255281805028626
+  },
+  "_fadeInDuration": 0.2,
+  "_fadeOutDuration": 1.0,
+  "_fadeOutStartTime": 1.0,
+  "_skipSe": {
+    "_value": "TRADE_FC_SKIP"
+  }
+}

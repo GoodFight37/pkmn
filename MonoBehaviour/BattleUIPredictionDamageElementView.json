@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5568096819584385889
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7979211009438480070
+  },
+  "m_Name": "",
+  "_attackNameText": {
+    "m_FileID": 0,
+    "m_PathID": 3713869356260768927
+  },
+  "_damageValueText": {
+    "m_FileID": 0,
+    "m_PathID": -2226933136793944929
+  },
+  "_arrowRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5329089640149466271
+  },
+  "_upArrow": {
+    "m_FileID": 0,
+    "m_PathID": -1192658458647348065
+  },
+  "_downArrow": {
+    "m_FileID": 0,
+    "m_PathID": 4629785430733733023
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 4220083821983612063
+  },
+  "_extendAnimationClip": {
+    "m_FileID": 2,
+    "m_PathID": -6305084748714122578
+  },
+  "_hideAnimationClip": {
+    "m_FileID": 2,
+    "m_PathID": -4394857408109805280
+  },
+  "_touchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -1630661151939314529
+  },
+  "_arrowRootTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 1778748970255760543
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -8750460241578443617
+  },
+  "_preventedImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -446100665625756513
+  }
+}

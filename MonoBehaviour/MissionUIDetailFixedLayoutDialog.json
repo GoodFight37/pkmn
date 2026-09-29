@@ -1,0 +1,211 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1917430533301576554
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1313247607829929455
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -2027617779069181078
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7939235032314567830
+  },
+  "_rewards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7440224423997842282
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6194371849370182506
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2466787687034364778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2693617402051994474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4442878553640379242
+    }
+  ],
+  "_descriptiontext": {
+    "m_FileID": 0,
+    "m_PathID": 4938816256693609322
+  },
+  "_countNumText": {
+    "m_FileID": 0,
+    "m_PathID": -596007231368158358
+  },
+  "_completeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8767008420479869802
+  },
+  "_gauge": {
+    "m_FileID": 0,
+    "m_PathID": 778214481836024682
+  },
+  "_completeCheckMark": {
+    "m_FileID": 0,
+    "m_PathID": -5465019184753433750
+  },
+  "_backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": -2453310543925304470
+  },
+  "_missionPolicyButton": {
+    "m_FileID": 0,
+    "m_PathID": -8711865009125940374
+  },
+  "_fixedLayoutElement": {
+    "m_FileID": 0,
+    "m_PathID": 3844141471614083946
+  },
+  "_themeDeckKeyCardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4616265671676240746
+  },
+  "_themeDeckKeyCardCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6473789021543900010
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5412549982529758058
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6116127941392817302
+    }
+  ],
+  "_themeDeckCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8599591475599483754
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2362958181572125546
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6461054781718504298
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6567545607712300182
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6438449464299904150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7950254185044401302
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4046814409011584150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3865633441928404118
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6089298558183449450
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4046053602321539946
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4271593845859310742
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8593067416740322454
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5990359397936487574
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6352071940848395114
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 495672060300993386
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8232756137375784086
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8272929288120458390
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3615301090365186922
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1119208163635077994
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2265528605301365910
+    }
+  ]
+}

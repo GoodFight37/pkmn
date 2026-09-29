@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6408065608580154508
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4279636067257937961
+  },
+  "m_Name": "",
+  "_itemCell": {
+    "m_FileID": 0,
+    "m_PathID": -6280639097646791540
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -886981559047076724
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 1202505186196014220
+  },
+  "_extraBadgeElm": {
+    "m_FileID": 0,
+    "m_PathID": -6719431423690390388
+  },
+  "_goldNumElm": {
+    "m_FileID": 0,
+    "m_PathID": 1122003887909913740
+  },
+  "_goldNumText": {
+    "m_FileID": 0,
+    "m_PathID": -6924294185268263796
+  }
+}

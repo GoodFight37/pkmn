@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2741144349533246893
+  },
+  "m_Name": "ImmersiveSettings",
+  "YotyoStartLongTapTime": 0.3,
+  "YotyoStopLongTapTime": 0.1,
+  "YotyoTime": 1.5,
+  "CancelTime": 1.0,
+  "CancelTimeFadeStartTime": 0.2,
+  "CancelTimeFadeDurationInside": 0.6,
+  "CancelTimeFadeDurationOutSide": 0.9,
+  "VibrationInterval": 0.15,
+  "YotyoVibrationType": 1,
+  "CancelVibrationType": 0,
+  "StartVibrationType": 2,
+  "VibrationAccelMode": 0
+}

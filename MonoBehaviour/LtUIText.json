@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 751611987293394051
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4783426824572842580
+  },
+  "m_Name": "",
+  "_shrinkType": 0,
+  "_styleKey": "album_ui_albume_list_cell/hashtag_txt",
+  "_fontKey": "BodyText_20",
+  "_fontType": 0,
+  "_manualCondensedScale": 1.0,
+  "_autoCondensedMinScale": 0.1,
+  "_characterSpacing": 0.0,
+  "_lineNum": 1,
+  "_customMaxWidth": 236.0,
+  "_invalidInitRefreshLabel": 0,
+  "_labelDataList": [],
+  "_numDigitLimit": 0,
+  "_hasPlusSign": 0
+}

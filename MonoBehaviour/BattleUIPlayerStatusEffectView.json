@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6223832569129840924
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3134137366078642507
+  },
+  "m_Name": "",
+  "_selfStatusEffectIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1406639349255524068
+  },
+  "_opponentStatusEffectIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2340379687205581084
+  }
+}

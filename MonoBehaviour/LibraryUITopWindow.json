@@ -1,0 +1,143 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1643447643874059263
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8643986485681047521
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_parentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 1730536374473778175
+  },
+  "_mappedScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -6498804645332982785
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": -1130002108599770113
+  },
+  "_scrollBarOnlyScrolling": {
+    "m_FileID": 0,
+    "m_PathID": -2426494670505778177
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": 588929904762348543
+  },
+  "_menuButton": {
+    "m_FileID": 0,
+    "m_PathID": -1190559578643962881
+  },
+  "_cardNum": {
+    "m_FileID": 0,
+    "m_PathID": 7220064208035308543
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": -1927492913321090049
+  },
+  "_albumButton": {
+    "m_FileID": 0,
+    "m_PathID": 3484178203448173567
+  },
+  "_collectionBoardButton": {
+    "m_FileID": 0,
+    "m_PathID": 4770947474156479487
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": -2837306891795504129
+  },
+  "_itemExchangeButton": {
+    "m_FileID": 0,
+    "m_PathID": -8100488353008720897
+  },
+  "_dexModeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7809751018873625601
+  },
+  "_scrollslider": {
+    "m_FileID": 0,
+    "m_PathID": -5340759607608351745
+  },
+  "_stickyHeaderElement": {
+    "m_FileID": 0,
+    "m_PathID": 1768861705637323775
+  },
+  "_cardTapAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 5684970664979738470
+  },
+  "_showAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 811294717885939434
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": 5042524706959516671
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 955243486850835455
+  },
+  "_fileLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2280795148406299649
+  },
+  "_boardLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6654257790566996993
+  },
+  "_deckLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3010494252544629761
+  },
+  "_heightVariableHeaderBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -4247151735572405249
+  },
+  "_allExpansionDisplayButton": {
+    "m_FileID": 0,
+    "m_PathID": 2681265842550006783
+  },
+  "_allExpansionDisplayElm": {
+    "m_FileID": 0,
+    "m_PathID": -7257473550988876801
+  },
+  "_mappedFitterScrollLayoutWithIgnoreDividedCount": {
+    "m_FileID": 0,
+    "m_PathID": 5536748181620712447
+  }
+}

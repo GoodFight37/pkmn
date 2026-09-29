@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4375867206296411033
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1853006559751038877
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -6752489856296295321
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContentSingleObject": {
+    "m_FileID": 0,
+    "m_PathID": 1148970121247974503
+  },
+  "_scrollContentMultipleObject": {
+    "m_FileID": 0,
+    "m_PathID": 4056043757825352807
+  },
+  "_scrollContentSingle": {
+    "m_FileID": 0,
+    "m_PathID": -8223657780342627225
+  },
+  "_scrollContentMultiple": {
+    "m_FileID": 0,
+    "m_PathID": 714459151911019623
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -8865898559203777433
+  },
+  "_bodyText": {
+    "m_FileID": 0,
+    "m_PathID": -3697506106777213849
+  },
+  "_attentionText": {
+    "m_FileID": 0,
+    "m_PathID": -545218798841109401
+  },
+  "_warningTextObject": {
+    "m_FileID": 0,
+    "m_PathID": 518258396849628263
+  },
+  "_cardCountText": {
+    "m_FileID": 0,
+    "m_PathID": 84198132424893543
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 5448747476870882407
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -6752489856296295321
+  }
+}

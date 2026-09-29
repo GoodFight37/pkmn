@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4528925545018562596
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3026128271142387565
+  },
+  "m_Name": "",
+  "_card": {
+    "m_FileID": 0,
+    "m_PathID": -8905586425734293468
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": 5694842488287139876
+  },
+  "_message": {
+    "m_FileID": 0,
+    "m_PathID": -2414482485266147292
+  },
+  "_energyRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1154677263722813476
+  },
+  "_energyElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1237164522846558244
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7560895083793737692
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7915769734440032292
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6322317740509042724
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3313679149897934812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8008288004381087780
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7603419741663795236
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1605848455977703460
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -508034275726714844
+    }
+  ],
+  "_hpRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7724938868884563932
+  },
+  "_beforeHp": {
+    "m_FileID": 0,
+    "m_PathID": -7387785781187897308
+  },
+  "_afterHp": {
+    "m_FileID": 0,
+    "m_PathID": -4576136717836543964
+  },
+  "_battleLogSubInfoRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4938292791991015460
+  },
+  "_battleLogSubInfoText": {
+    "m_FileID": 0,
+    "m_PathID": -1893918263691175900
+  },
+  "_replacedEnergyTypeRoot": {
+    "m_FileID": 0,
+    "m_PathID": 402011512443639844
+  },
+  "_replacedEnergyTypeView": {
+    "m_FileID": 0,
+    "m_PathID": -4646126504616716252
+  }
+}

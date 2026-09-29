@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4220037438814310693
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8013266624489812283
+  },
+  "m_Name": "",
+  "_worldRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3046882737578946267
+  },
+  "_placementView": {
+    "m_FileID": 0,
+    "m_PathID": 882101111733661403
+  },
+  "_touchInputHandlerView": {
+    "m_FileID": 0,
+    "m_PathID": -1341468153925030181
+  },
+  "_hudCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 1242160969870651099
+  },
+  "_directionUiCanvas": {
+    "m_FileID": 0,
+    "m_PathID": -8718844255241654565
+  },
+  "_uiRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8726960122836373797
+  },
+  "_battleVirtualCameras": {
+    "m_FileID": 0,
+    "m_PathID": -5289378601480311077
+  },
+  "_battleCameraManagerView": {
+    "m_FileID": 0,
+    "m_PathID": -712980930618937637
+  },
+  "_battleFieldDirectionCurtainView": {
+    "m_FileID": 0,
+    "m_PathID": -3311252591769309477
+  },
+  "_playableDirectorRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2819543372245020379
+  }
+}

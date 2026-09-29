@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1680919024228637726
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -9006093242902196281
+  },
+  "m_Name": "",
+  "_grass": {
+    "m_FileID": 2,
+    "m_PathID": 3422190956269211990
+  },
+  "_fire": {
+    "m_FileID": 2,
+    "m_PathID": 5591488184922866524
+  },
+  "_water": {
+    "m_FileID": 2,
+    "m_PathID": -1436534830981366056
+  },
+  "_lightning": {
+    "m_FileID": 2,
+    "m_PathID": -5636425332624858959
+  },
+  "_psychic": {
+    "m_FileID": 2,
+    "m_PathID": -2858629670441340119
+  },
+  "_fighting": {
+    "m_FileID": 2,
+    "m_PathID": 5582298392741413778
+  },
+  "_darkness": {
+    "m_FileID": 2,
+    "m_PathID": 8430092763834121130
+  },
+  "_metal": {
+    "m_FileID": 2,
+    "m_PathID": 1644827566617762342
+  },
+  "_dragon": {
+    "m_FileID": 2,
+    "m_PathID": -7928832965850421136
+  },
+  "_colorless": {
+    "m_FileID": 2,
+    "m_PathID": 8308262492141547730
+  },
+  "_noCost": {
+    "m_FileID": 2,
+    "m_PathID": 7749462183707239451
+  },
+  "_energyImage": {
+    "m_FileID": 0,
+    "m_PathID": -6330576422346497054
+  }
+}

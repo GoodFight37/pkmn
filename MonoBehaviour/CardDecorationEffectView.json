@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7768611358527765412
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2592635638100396545
+  },
+  "m_Name": "",
+  "_snapTime": 2.0,
+  "_snapWithFixedSeed": 1,
+  "_snapFixedSeed": 10,
+  "_snapDirector": {
+    "m_FileID": 0,
+    "m_PathID": 1143346487347952548
+  },
+  "_startFromSnapTime": 0
+}

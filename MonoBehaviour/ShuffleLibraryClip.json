@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5656185818721351067
+  },
+  "m_Name": "ShuffleLibraryClip",
+  "_firstClip": {
+    "m_FileID": 2,
+    "m_PathID": 5825473490408643224
+  },
+  "_secondClip": {
+    "m_FileID": 2,
+    "m_PathID": 3466003885340085512
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8023233609218312658
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2295288974590746004
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -2435013452994365906
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 6135316029303436846
+  },
+  "_bannerImage": {
+    "m_FileID": 0,
+    "m_PathID": 8789450608380818990
+  },
+  "_defaultBannerEffect": {
+    "m_FileID": 0,
+    "m_PathID": -9155594355854461394
+  },
+  "_returnButton": {
+    "m_FileID": 0,
+    "m_PathID": -2435013452994365906
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": -1186511815057131986
+  },
+  "_timerObject": {
+    "m_FileID": 0,
+    "m_PathID": -3296995040093718994
+  },
+  "_limitDateText": {
+    "m_FileID": 0,
+    "m_PathID": 8000015571302495790
+  },
+  "_groupNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1640056923950074322
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7416405364256848904
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1807310894727836408
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8780493605160074248
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4548478798553267208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5261335101903422456
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4757965387285021688
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6193141552329571336
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8827320137585542136
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3138664065389511672
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4747740699859401736
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 897251076859577336
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 165012955392263160
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6209179175740357640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8609586449517921272
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1749591775284673544
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3288657132754519032
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5813265369174197240
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_layoutElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4399533716669250568
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -162561778820955144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -401263389659937800
+    }
+  ],
+  "_cardCellsType1": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4778609984149734392
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6172929741572717576
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6293077698662908920
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2487979922216141816
+    }
+  ],
+  "_cardCellsType2": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9077197199122217992
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1871350381606421496
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3618791675470593032
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7568722854246792200
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2974022563970056
+    }
+  ],
+  "_cardCellsType3": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 481779248834888696
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6611096591877848072
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 681658854099010552
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5284302485692726280
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7733785237671986168
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4782956163122314248
+    }
+  ]
+}

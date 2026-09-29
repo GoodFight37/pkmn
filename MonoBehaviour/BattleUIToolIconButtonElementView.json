@@ -1,0 +1,108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7379737312034751391
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4977852781923170067
+  },
+  "m_Name": "",
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": -7379737312034751391
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 9087329026327837793
+  },
+  "_layoutGroup": {
+    "m_FileID": 0,
+    "m_PathID": 6637032077635419233
+  },
+  "_effectObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6515566950496469919
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4375949560222514273
+    }
+  ],
+  "_images": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6756886325142619039
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5315433395772130207
+    }
+  ],
+  "_frames": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5375438406774815841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7309778256483908705
+    }
+  ],
+  "_goldFrames": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2974032340408599455
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2785574364264660065
+    }
+  ],
+  "_urImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2916908176207903841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4263996941810334817
+    }
+  ],
+  "_urFrames": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2713794689990460319
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7724173565504652191
+    }
+  ],
+  "_selectableEffectObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3966665626103776159
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3954743383437212769
+    }
+  ],
+  "_iconTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8602816591958508447
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -858996657276191647
+    }
+  ],
+  "_graphicCast": {
+    "m_FileID": 0,
+    "m_PathID": 6182155000808340577
+  }
+}

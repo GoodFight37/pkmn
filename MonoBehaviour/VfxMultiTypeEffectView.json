@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3679683802422355592
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7591426374942423956
+  },
+  "m_Name": "",
+  "multiDirector": {
+    "m_FileID": 0,
+    "m_PathID": 4639041756990908040
+  },
+  "colorApplier": {
+    "m_FileID": 0,
+    "m_PathID": -4091169522386753912
+  },
+  "energyType1": 1,
+  "energyType2": 3
+}

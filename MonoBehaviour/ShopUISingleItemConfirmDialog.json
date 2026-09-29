@@ -1,0 +1,211 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7217287037373649631
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4090305506777059820
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1027250777779858721
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_itemImage": {
+    "m_FileID": 0,
+    "m_PathID": -1211699085318034143
+  },
+  "_itemCell": {
+    "m_FileID": 0,
+    "m_PathID": 314766715271245089
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -7632688807923356383
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -8663251122295739103
+  },
+  "_itemNameTxt": {
+    "m_FileID": 0,
+    "m_PathID": -8634173877433864927
+  },
+  "_itemDetailTxtElm": {
+    "m_FileID": 0,
+    "m_PathID": 1103252554459573537
+  },
+  "_itemDetailTxt": {
+    "m_FileID": 0,
+    "m_PathID": -7046180536497017567
+  },
+  "_itemImageButton": {
+    "m_FileID": 0,
+    "m_PathID": -1780089967604667103
+  },
+  "_limitNumElm": {
+    "m_FileID": 0,
+    "m_PathID": 9169067273125752097
+  },
+  "_limitNumTxt": {
+    "m_FileID": 0,
+    "m_PathID": 2511349332657040673
+  },
+  "_extraElm": {
+    "m_FileID": 0,
+    "m_PathID": 5842111537890323745
+  },
+  "_extraItemCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6946702897692601633
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -451904356161753823
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1256463138383392033
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4876391035211879135
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 865434228719807777
+    }
+  ],
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": -7062843572551619295
+  },
+  "_resourceImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -1349678007169520351
+  },
+  "_requiredResourceTxt": {
+    "m_FileID": 0,
+    "m_PathID": 8793151428162546977
+  },
+  "_requiredNumTextColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 2198632327383739681
+  },
+  "_currResourceElm": {
+    "m_FileID": 0,
+    "m_PathID": -548556167193498335
+  },
+  "_currResourceImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 1824935600758189345
+  },
+  "_currResourceTxt": {
+    "m_FileID": 0,
+    "m_PathID": 8716350176751381793
+  },
+  "_resourceDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 8076634213908606241
+  },
+  "_cautionElm": {
+    "m_FileID": 0,
+    "m_PathID": -8685512536939959007
+  },
+  "_cautionTxt": {
+    "m_FileID": 0,
+    "m_PathID": -4462844429117428447
+  },
+  "_confirmElm": {
+    "m_FileID": 0,
+    "m_PathID": -1046807478994146015
+  },
+  "_steppers": {
+    "m_FileID": 0,
+    "m_PathID": 8971245628902403361
+  },
+  "_itemStockNum": {
+    "m_FileID": 0,
+    "m_PathID": 1308839640701857057
+  },
+  "_bulkPurchaseElm": {
+    "m_FileID": 0,
+    "m_PathID": -3273981557231194847
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1027250777779858721
+  },
+  "_executeButton": {
+    "m_FileID": 0,
+    "m_PathID": -8044552611886076639
+  },
+  "_lockButton": {
+    "m_FileID": 0,
+    "m_PathID": 2029661789224824097
+  },
+  "_cautionButton": {
+    "m_FileID": 0,
+    "m_PathID": -8347343193073193695
+  },
+  "_webviewPSButton": {
+    "m_FileID": 0,
+    "m_PathID": -6726138374389240543
+  },
+  "_webviewSCTButton": {
+    "m_FileID": 0,
+    "m_PathID": 1209964148588604705
+  },
+  "_webviewSCTKoreanButton": {
+    "m_FileID": 0,
+    "m_PathID": 3629410568839818529
+  },
+  "_webviewCaliforniaElm": {
+    "m_FileID": 0,
+    "m_PathID": 8780786065324043553
+  },
+  "_webviewCaliforniaButton": {
+    "m_FileID": 0,
+    "m_PathID": 2675340856543276321
+  },
+  "_purchaseTxt": {
+    "m_FileID": 0,
+    "m_PathID": 6186145860488260897
+  }
+}

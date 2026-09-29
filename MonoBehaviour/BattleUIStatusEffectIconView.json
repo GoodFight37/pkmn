@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4077271505850695865
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4976226030268152846
+  },
+  "m_Name": "",
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": -4077271505850695865
+  },
+  "_iconImage": {
+    "m_FileID": 0,
+    "m_PathID": -7507914883215425721
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 6947639205070012231
+  },
+  "_applyEffectAnimation": {
+    "m_FileID": 3,
+    "m_PathID": 3442270032445787600
+  },
+  "_removeEffectAnimation": {
+    "m_FileID": 3,
+    "m_PathID": -1334475189164262197
+  },
+  "_paralyzedIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -2478524156042442305
+  },
+  "_asleepIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": 2877734528660140559
+  },
+  "_burnedIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -4225882684732691488
+  },
+  "_confusedIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": 2485413034103651723
+  },
+  "_poisonedIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": 1441671237808991977
+  },
+  "_buffIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -2156322827844666641
+  },
+  "_debuffIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -5749757795258091731
+  },
+  "_banIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -2858346801039975073
+  },
+  "_invalidIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -7740309674047006111
+  },
+  "_otherPositiveIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -5461245251760967396
+  },
+  "_otherNegativeIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": 4934528746649219436
+  },
+  "_plusImage": {
+    "m_FileID": 0,
+    "m_PathID": -519958820645077177
+  },
+  "_minusImage": {
+    "m_FileID": 0,
+    "m_PathID": 69005109108571975
+  },
+  "_fieldNegativeIconSprite": {
+    "m_FileID": 4,
+    "m_PathID": -2591297397954670019
+  },
+  "_intervalTime": 1.5,
+  "_applyIconFirstWaitTime": 0.1,
+  "_applyIconMinTimePerType": 0.1,
+  "_applyIconSe": {
+    "_value": "BATTLE_SE_CONDITION_ICON_ACTIVE"
+  },
+  "_removeIconSe": {
+    "_value": "BATTLE_SE_CONDITION_ICON_VANISH"
+  }
+}

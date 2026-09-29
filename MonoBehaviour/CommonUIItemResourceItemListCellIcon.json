@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6857689039217775957
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7094856903622798079
+  },
+  "m_Name": "",
+  "_effectImage": {
+    "m_FileID": 0,
+    "m_PathID": 4163482593588893013
+  },
+  "_blankImage": {
+    "m_FileID": 0,
+    "m_PathID": -5672437450513492651
+  },
+  "_itemImage": {
+    "m_FileID": 0,
+    "m_PathID": 6909214568679429461
+  },
+  "_gaugeBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": 6580071530337686869
+  },
+  "_gaugeRecoverImage": {
+    "m_FileID": 0,
+    "m_PathID": 1502157298773611861
+  },
+  "_gaugeCurrentImage": {
+    "m_FileID": 0,
+    "m_PathID": -6238261370016082603
+  },
+  "_gaugeCoverImage": {
+    "m_FileID": 0,
+    "m_PathID": -6307652663861619371
+  },
+  "_overMaxGaugeBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -2973846356532832939
+  },
+  "_overMaxGaugeRecoverImage": {
+    "m_FileID": 0,
+    "m_PathID": -8472864339514337963
+  },
+  "_effectFrontImage": {
+    "m_FileID": 0,
+    "m_PathID": 927263693951423829
+  }
+}

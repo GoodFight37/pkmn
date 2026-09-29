@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5019659983626077769
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3221291341729570258
+  },
+  "m_Name": "",
+  "_cardDexExpansionImage": {
+    "m_FileID": 0,
+    "m_PathID": 6873082648796759625
+  },
+  "_cardDexExpansionGradientEffect": {
+    "m_FileID": 0,
+    "m_PathID": 3583196099816818249
+  },
+  "_cardDexCardNumText": {
+    "m_FileID": 0,
+    "m_PathID": -3382403898507557303
+  },
+  "_completeElm": {
+    "m_FileID": 0,
+    "m_PathID": -311397064782805431
+  },
+  "_typeView": {
+    "m_FileID": 0,
+    "m_PathID": 7308309807728002633
+  },
+  "_otherElm": {
+    "m_FileID": 0,
+    "m_PathID": 5737493286657033801
+  },
+  "_otherImg": {
+    "m_FileID": 0,
+    "m_PathID": -8332766482010569143
+  },
+  "_otherText": {
+    "m_FileID": 0,
+    "m_PathID": -5088438068238055863
+  },
+  "_blockImg": {
+    "m_FileID": 0,
+    "m_PathID": 3867477816392451657
+  },
+  "_blockText": {
+    "m_FileID": 0,
+    "m_PathID": 8307627207000360521
+  },
+  "_rarityView": {
+    "m_FileID": 0,
+    "m_PathID": -5155566390480632247
+  }
+}

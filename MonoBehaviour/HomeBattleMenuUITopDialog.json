@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5675328320002747748
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6988800761902108033
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_pvpButton": {
+    "m_FileID": 0,
+    "m_PathID": 9061546028233364124
+  },
+  "_soloButton": {
+    "m_FileID": 0,
+    "m_PathID": 1404007933519893148
+  },
+  "_newBadgeForSingle": {
+    "m_FileID": 0,
+    "m_PathID": -4812184230661352804
+  },
+  "_eventBadgeForSingle": {
+    "m_FileID": 0,
+    "m_PathID": -5260699262077857124
+  },
+  "_newBadgeForMulti": {
+    "m_FileID": 0,
+    "m_PathID": -5668331914262572388
+  },
+  "_eventBadgeForMulti": {
+    "m_FileID": 0,
+    "m_PathID": 3698615931962888860
+  },
+  "_soloLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8822046561063965340
+  },
+  "_pvpLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1091392299525182108
+  },
+  "_eventTextForSingle": {
+    "m_FileID": 0,
+    "m_PathID": 7524917003866051228
+  },
+  "_eventTextForMulti": {
+    "m_FileID": 0,
+    "m_PathID": 2049195317606191772
+  },
+  "_pvpMaintenance": {
+    "m_FileID": 0,
+    "m_PathID": 7731084857928749724
+  }
+}

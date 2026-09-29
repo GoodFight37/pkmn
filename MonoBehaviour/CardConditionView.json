@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5992434600132907875
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6998170477836082222
+  },
+  "m_Name": "",
+  "_conditions": [
+    {
+      "_conditionType": 1,
+      "_language": 1,
+      "_stage": 0,
+      "_trainersType": 0,
+      "_hasSubType": 0,
+      "_pokemonRuleType": 0,
+      "_serialNumberType": 0,
+      "_isUltraBeast": 0,
+      "_isMegaEvolution": 0,
+      "_isFuture": 0,
+      "_isAncient": 0
+    },
+    {
+      "_conditionType": 1,
+      "_language": 11,
+      "_stage": 0,
+      "_trainersType": 0,
+      "_hasSubType": 0,
+      "_pokemonRuleType": 0,
+      "_serialNumberType": 0,
+      "_isUltraBeast": 0,
+      "_isMegaEvolution": 0,
+      "_isFuture": 0,
+      "_isAncient": 0
+    }
+  ]
+}

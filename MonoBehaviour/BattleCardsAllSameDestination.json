@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1658172313852662053
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5181576228218859971
+  },
+  "m_Name": "",
+  "_interpolation": 3,
+  "_curve": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_t0Positions": [],
+  "_t0Rotations": [],
+  "_t0Scales": [],
+  "_t1LocalPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_t1LocalRotation": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0,
+    "w": -4.371139E-08
+  },
+  "_t1LocalScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  }
+}

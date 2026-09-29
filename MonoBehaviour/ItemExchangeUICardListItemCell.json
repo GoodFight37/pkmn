@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4854943103741870142
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4192901159252799385
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2111947113878929470
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6399020354143469630
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 1537452058525417410
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 820616200626880450
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": -2111947113878929470
+  },
+  "_deselectButton": {
+    "m_FileID": 0,
+    "m_PathID": -6399020354143469630
+  },
+  "_stepper": {
+    "m_FileID": 0,
+    "m_PathID": 4318182840521834434
+  },
+  "_denominatorObject": {
+    "m_FileID": 0,
+    "m_PathID": 6902811216065576898
+  },
+  "_numeratorObject": {
+    "m_FileID": 0,
+    "m_PathID": -8385483311175909438
+  },
+  "_effectImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6416174390158344130
+  },
+  "_effectImageCellObject": {
+    "m_FileID": 0,
+    "m_PathID": -4449175471265497150
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -754747651465166910
+  },
+  "_itemImageCellObject": {
+    "m_FileID": 0,
+    "m_PathID": -1825801809091444798
+  },
+  "_exchangeCountText": {
+    "m_FileID": 0,
+    "m_PathID": 1201705663548538818
+  },
+  "_cardCountText": {
+    "m_FileID": 0,
+    "m_PathID": 854452960243990466
+  },
+  "_cardCountObj": {
+    "m_FileID": 0,
+    "m_PathID": 6716902777951403970
+  },
+  "_maxCardCount": 999,
+  "_notExchangeObj": {
+    "m_FileID": 0,
+    "m_PathID": -6566939555528654910
+  },
+  "_lockObj": {
+    "m_FileID": 0,
+    "m_PathID": 829119905662746562
+  }
+}

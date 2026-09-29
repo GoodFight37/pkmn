@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5218835636790916582
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2590021126867272561
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 3579236899441636838
+  },
+  "_bannerImage": {
+    "m_FileID": 0,
+    "m_PathID": -8577390808417864218
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 4193336835305666022
+  },
+  "_eventInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": -1517003955666061850
+  },
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": 4924167850754864614
+  },
+  "_newBadgeForMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": -5160999447072705050
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": 3745653497418380774
+  },
+  "_limitDateText": {
+    "m_FileID": 0,
+    "m_PathID": 6890049645602633190
+  },
+  "_eventNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1439533825912572442
+  },
+  "_shopTicketButton": {
+    "m_FileID": 0,
+    "m_PathID": 1969164178988824038
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": -1517003955666061850
+  },
+  "_staminaElement": {
+    "m_FileID": 0,
+    "m_PathID": -3073476536742218266
+  },
+  "_staminaAddButton": {
+    "m_FileID": 0,
+    "m_PathID": 884495281759024614
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4323001260068417820
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7730680477186992815
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImage": {
+    "m_FileID": 0,
+    "m_PathID": -2017720378051244316
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 6003957703548161764
+  },
+  "_cardNumObject": {
+    "m_FileID": 0,
+    "m_PathID": -3747237482562760988
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 8451854208589713124
+  },
+  "_empty": {
+    "m_FileID": 0,
+    "m_PathID": -8491308553599562012
+  },
+  "_card": {
+    "m_FileID": 0,
+    "m_PathID": 1560830533492952804
+  },
+  "_dragAttention": {
+    "m_FileID": 0,
+    "m_PathID": 5420569293475106532
+  },
+  "_selectedAttention": {
+    "m_FileID": 0,
+    "m_PathID": 3299767543696019172
+  },
+  "_attentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -2602193678260416796
+  },
+  "_attentionClip": {
+    "m_FileID": 4,
+    "m_PathID": -7214735547380510516
+  },
+  "_selectedObject": {
+    "m_FileID": 0,
+    "m_PathID": 4811535974876008164
+  },
+  "_selectedNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6248655361999654628
+  },
+  "_buttonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8005872372005777692
+  },
+  "_buttonInitClip": {
+    "m_FileID": 4,
+    "m_PathID": -3508693337277655191
+  },
+  "_buttonTouchDownClip": {
+    "m_FileID": 4,
+    "m_PathID": 2941418663873471262
+  },
+  "_buttonTouchUpClip": {
+    "m_FileID": 4,
+    "m_PathID": -7402647438129365121
+  },
+  "_unselectableIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4781603758409101596
+  }
+}

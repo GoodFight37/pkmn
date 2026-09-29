@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1252465214630032163
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3124580205504678544
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_rarityView": {
+    "m_FileID": 0,
+    "m_PathID": -6884668926456794333
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": -2249977633182420189
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": 3887682597772817187
+  }
+}

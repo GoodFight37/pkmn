@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4557557121035368138
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3149245927807386502
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -4259779155656210122
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2997898958171638070
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2997898958171638070
+  },
+  "_trophyImage": {
+    "m_FileID": 0,
+    "m_PathID": 6231572242484398390
+  },
+  "_achievementText": {
+    "m_FileID": 0,
+    "m_PathID": -6785119215818340042
+  },
+  "_footerShowAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3494067827470797110
+  },
+  "_footerShowAnimationClip": {
+    "m_FileID": 5,
+    "m_PathID": -6828478014734763001
+  }
+}

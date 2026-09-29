@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5504791657246659346
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3878669690112146418
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3609365051397411602
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6833589897913471762
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1339498866286170898
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3568048226716249326
+  },
+  "_cardElement": {
+    "m_FileID": 0,
+    "m_PathID": 2107784878655696110
+  },
+  "_redEmptyElement": {
+    "m_FileID": 0,
+    "m_PathID": -8098660629119406866
+  },
+  "_grayEmptyElement": {
+    "m_FileID": 0,
+    "m_PathID": -7204882796010509074
+  },
+  "_unavailableCardOverlay": {
+    "m_FileID": 0,
+    "m_PathID": 5440551229459885294
+  },
+  "_skinButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_battleEffectElement": {
+    "m_FileID": 0,
+    "m_PathID": -3983133829367501586
+  },
+  "_battleEffectImage": {
+    "m_FileID": 0,
+    "m_PathID": 4897769001207688430
+  },
+  "_onFocusedElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_onFocusedElementButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_onFocusedBgElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_skinButtonInFocusedElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_onFocusedScale": 1.08
+}

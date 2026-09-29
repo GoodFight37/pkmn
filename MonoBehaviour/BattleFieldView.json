@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8186193412519880263
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5794727575406574343
+  },
+  "m_Name": "",
+  "_toSelfDirector": {
+    "m_FileID": 0,
+    "m_PathID": -6350419344416368199
+  },
+  "_toOpponentDirector": {
+    "m_FileID": 0,
+    "m_PathID": 6582431621572532665
+  },
+  "_defaultSelfPlayMatId": "900000001",
+  "_defaultOpponentPlayMatId": "900000002",
+  "_centerPlate": {
+    "m_FileID": 0,
+    "m_PathID": -6430581000520263239
+  },
+  "_firstTurnDirector": {
+    "m_FileID": 0,
+    "m_PathID": 8598706153150159289
+  }
+}

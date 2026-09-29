@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5387662659111202956
+  },
+  "m_Name": "CardName-GrayWhiteOutline",
+  "_textTypeFontConditions": [
+    {
+      "_type": 1,
+      "_conditions": [
+        {
+          "_isDefault": 1,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -396364928729778045
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 511814773224304508
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 0,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 7997069833075654224
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 2514498900070013759
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 7,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 8286394459813532775
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": 8214263739281601562
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 6,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": -2594834333922463316
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -4901455399455278718
+            }
+          }
+        },
+        {
+          "_isDefault": 0,
+          "_language": 10,
+          "_font": {
+            "_font": {
+              "m_FileID": 2,
+              "m_PathID": 1727227129298798752
+            },
+            "_material": {
+              "m_FileID": 2,
+              "m_PathID": -2822967664231537001
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

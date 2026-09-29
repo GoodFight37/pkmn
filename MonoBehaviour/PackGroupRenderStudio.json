@@ -1,0 +1,169 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1096458144150708438
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 373930756692681044
+  },
+  "m_Name": "",
+  "_camera": {
+    "m_FileID": 0,
+    "m_PathID": 1662557143341342506
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": -6408323186676719830
+  },
+  "_fogIntensity": 0.0,
+  "_fogOffset": 10.0,
+  "_scatteringFogIntensity": 0.26,
+  "_scatteringFogOffset": 5.7,
+  "_reflectionPlane": -100.92,
+  "_reflectionAlphaCurve": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 1.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 4.5201397,
+          "value": 0.86317056,
+          "inSlope": -0.1150895,
+          "outSlope": -0.1150895,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.097439975
+        },
+        {
+          "time": 6.9341736,
+          "value": 0.13601685,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 1.0
+  },
+  "_fadeOutEnd": 0.4,
+  "_fadeOutPower": 1.0,
+  "_autoUpdatePackParameters": 1,
+  "_packRootList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 95426250650165034
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3114535469805346602
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3008581281891999958
+    }
+  ],
+  "_packParentList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2077187671865761578
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1400996982607896790
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7877777719660715818
+    }
+  ],
+  "_packShadowList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8369454163967221546
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6090335527064887510
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6939663754462109482
+    }
+  ],
+  "_initialHomePackPosition1": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4960248253306953942
+    }
+  ],
+  "_initialHomePackPosition2": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3253003006641103062
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6951015040574415062
+    }
+  ],
+  "_initialHomePackPosition3": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4960248253306953942
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4930293940256497878
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2155518581513264938
+    }
+  ],
+  "_homeIdleAnimationKey": "Home_idle",
+  "_homeSelectAnimationKey": "Home_select",
+  "_packTopAnimationKey": "PackTop_idle",
+  "_landingPackPageDirector": {
+    "m_FileID": 0,
+    "m_PathID": -2118352861739671766
+  },
+  "_spinDirector": {
+    "m_FileID": 0,
+    "m_PathID": 6496022878312931114
+  },
+  "_spinFailureDirector": {
+    "m_FileID": 0,
+    "m_PathID": 802801189137293098
+  },
+  "_pickUpDirector": {
+    "m_FileID": 0,
+    "m_PathID": -8129458233784131798
+  },
+  "_revertPickUpDirector": {
+    "m_FileID": 0,
+    "m_PathID": 5253412202577993514
+  }
+}

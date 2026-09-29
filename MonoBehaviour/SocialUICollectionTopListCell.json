@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1894516377848542426
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3067525236027260067
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3110759409956195110
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2057499630573876442
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 330019137263269082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8289767346965083354
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2227819520204376870
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": 3956644061799150810
+  },
+  "_fileThumbnailRoot": {
+    "m_FileID": 0,
+    "m_PathID": 725670426441905370
+  },
+  "_fileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5032630011869694758
+  },
+  "_boardThumbnailRoot": {
+    "m_FileID": 0,
+    "m_PathID": 8139294504229500122
+  },
+  "_boardIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4484509080642685734
+  },
+  "_likeCountText": {
+    "m_FileID": 0,
+    "m_PathID": 6327011772943856858
+  },
+  "_goodButton": {
+    "m_FileID": 0,
+    "m_PathID": 2057499630573876442
+  },
+  "_goodAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -1566987738652773158
+  },
+  "_cardSlots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3947246307300772646
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8083296545729252134
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3814365850860549338
+    }
+  ],
+  "_hashtagCell": {
+    "m_FileID": 0,
+    "m_PathID": 4226207865679672538
+  }
+}

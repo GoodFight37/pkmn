@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8370194945349690053
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4850634328673459392
+  },
+  "m_Name": "",
+  "_errorCorrectionLevel": 3,
+  "_backGroundColor": {
+    "rgba": 4294967295
+  },
+  "_dotColor": {
+    "rgba": 16777215
+  },
+  "_qrCodeSize": 1024,
+  "_dotScaleDownFactor": 0.9,
+  "_finderPatternRoundRate": 0.3,
+  "_qrCodeImage": {
+    "m_FileID": 0,
+    "m_PathID": -6494238577505492283
+  }
+}

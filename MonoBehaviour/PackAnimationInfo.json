@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5474433151338094378
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4695491848137267011
+  },
+  "m_Name": "",
+  "_lwAnimationTarget": {
+    "m_FileID": 0,
+    "m_PathID": 8108854671696404266
+  },
+  "_timelineTarget": {
+    "m_FileID": 0,
+    "m_PathID": -4624277709185474774
+  }
+}

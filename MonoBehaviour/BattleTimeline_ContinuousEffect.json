@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_ContinuousEffect",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5255753469438254390
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2633879075446971702
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8574033651357244726
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3497717894325001526
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6276327237812084022
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1855644363987493578
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2362013738779335990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3603977688785935670
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8526034486838615350
+    }
+  ],
+  "m_FixedDuration": 1.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

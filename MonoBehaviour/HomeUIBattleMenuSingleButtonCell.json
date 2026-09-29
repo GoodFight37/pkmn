@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3471910964112727888
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1819858675296339935
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": -4707468582619062096
+  },
+  "_newBadge": {
+    "m_FileID": 0,
+    "m_PathID": -4085732463215255376
+  },
+  "_eventBadge": {
+    "m_FileID": 0,
+    "m_PathID": 1456051981865771184
+  },
+  "_eventText": {
+    "m_FileID": 0,
+    "m_PathID": 2233949030283665584
+  }
+}

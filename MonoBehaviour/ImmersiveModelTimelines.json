@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1829645052483780527
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1476508710649704579
+  },
+  "m_Name": "",
+  "InsideEffectView": {
+    "m_FileID": 0,
+    "m_PathID": 8144641305044729937
+  },
+  "StartImmersiveDirector": {
+    "m_FileID": 0,
+    "m_PathID": 7086824779987107921
+  },
+  "EndImmersiveDirector": {
+    "m_FileID": 0,
+    "m_PathID": 737375806363942993
+  }
+}

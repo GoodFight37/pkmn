@@ -1,0 +1,75 @@
+############
+# ステージ14: ポケモンのどうぐ
+############
+- sys_wait: OnWipeEnd
+
+# > ポケモンのどうぐを使おう！
+- title: battle_tutorial_pokemon_tool_telop_001
+
+# > 手札にトレーナーズが1枚あります。
+# > よく見てみましょう。
+- msg_c:
+    - battle_tutorial_pokemon_tool_message_00100
+    - battle_tutorial_pokemon_tool_message_00200
+  focus: SelfHandFirstCard
+# 手札のカード詳細を開く
+- open_hand_detail: Auto
+
+# > このカードは「ポケモンのどうぐ」の「大きなマント」です。
+# > 「ポケモンのどうぐ」は場のポケモンにつけることができます
+# > 一度つけたらポケモンが場を離れるまで　つけたままにします
+# > 自分の番に何枚でも使えますが　1匹につけられるのは1枚までです
+- msg_b:
+    - battle_tutorial_pokemon_tool_message_00300
+    - battle_tutorial_pokemon_tool_message_00400
+    - battle_tutorial_pokemon_tool_message_00500
+    - battle_tutorial_pokemon_tool_message_00600
+  focus: CardDetailTrainersCardName
+
+# > このカードはつけたポケモンの最大HPを+20します
+- msg_b:
+    - battle_tutorial_pokemon_tool_message_00700
+  focus: CardDetailGoodsDescription
+
+- sys_neutral:
+  
+# > 次の相手の番にワザを受けるときぜつしてしまいます
+# > 大きなマントをつけてみましょう
+- msg_b:
+    - battle_tutorial_pokemon_tool_message_00800
+    - battle_tutorial_pokemon_tool_message_00900
+- play_attach_pokemon_tool: [ Auto, SelfActiveField ]
+- sys_wait: OnStable
+
+# > これで残りHPが70になったので 相手のワザを1回耐えられそうです
+# > エネルギーをつけて番を終わりましょう
+- msg_b:
+    - battle_tutorial_pokemon_tool_message_01000
+    - battle_tutorial_pokemon_tool_message_01100
+ 
+# エネ付与誘導
+- attach_energy: [ Auto, SelfActiveField ]
+- sys_wait: OnAttachEnergyFromPool
+
+# ターン終了ボタン表示
+- show_turn_end_button:
+
+# ターン終了
+- input: [ Auto, OnDetermineTurnEndInput, Control_DetermineTurnEnd ]
+  tap: [ DetermineTurnEndButton, Center, TopRight ]
+
+# ターン終了ボタン非表示
+- hide_turn_end_button:
+
+- sys_wait: OnOpponentAttackDamageStep
+
+# > HPを増やしたおかげで　ライチュウがきぜつしませんでした
+- msg_b: battle_tutorial_pokemon_tool_message_01200
+
+# 自分のターンになるまで待機
+- sys_wait: OnSelfTurnPlayPhaseBegin
+
+- attach_energy: [ Auto, SelfActiveField ]
+- attack: OnAttachEnergyFromPool
+
+- sys_end:

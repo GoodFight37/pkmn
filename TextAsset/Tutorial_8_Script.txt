@@ -1,0 +1,57 @@
+############
+# ステージ8: グッズを使う
+############
+
+- sys_wait: OnWipeEnd
+
+# > グッズを使おう！
+- title: battle_tutorial_goods_telop_001
+
+# > カードには「ポケモン」以外にも、バトルを助けてくれる便利なカードがあります。
+# > 手札のカードをよく見てみましょう。
+- msg_c: 
+    - battle_tutorial_goods_message_00100
+    - battle_tutorial_goods_message_00200
+
+# 手札のカード詳細を開く
+- open_hand_detail: Auto
+
+# > これはトレーナーズというカードです
+- msg_b: battle_tutorial_goods_message_00300
+
+# > 使い方や効果の違いによって「グッズ」や「サポート」などに分類されます。
+# > このカードはグッズの　きずぐすり　です。
+- msg_b: 
+    - battle_tutorial_goods_message_00400
+    - battle_tutorial_goods_message_00500
+  focus: HandCardDetailTrainersCardName
+
+# > このカードを使うと、ポケモンのHPを回復できます。
+- msg_b: battle_tutorial_goods_message_00600
+  focus: HandCardDetailGoodsDescription
+
+- sys_neutral:
+
+# > ピカチュウの残りHPは10です。
+# > きずぐすりを使ってHPを回復しましょう。  
+- msg_b: 
+    - battle_tutorial_goods_message_00700
+    - battle_tutorial_goods_message_00800
+  focus: SelfActiveField
+
+- play_trainers: [ Auto, SelfActiveField ]
+- sys_wait: OnDamageRecovered
+
+# > グッズは自分の番に何枚でも使えます。
+- msg_b: battle_tutorial_goods_message_00900
+
+- attack: Auto
+
+- sys_wait: OnOpponentAttackDamageStep
+
+# > HPを回復したおかげで、ピカチュウがきぜつしませんでしたね。
+- msg_b: battle_tutorial_goods_message_01000
+
+- attack: OnSelfTurnPlayPhaseBegin
+
+- sys_end:    

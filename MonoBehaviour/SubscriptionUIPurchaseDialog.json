@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5448621270805492148
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1583528817244354970
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6505113299231067724
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6505113299231067724
+  },
+  "_purchaseButton": {
+    "m_FileID": 0,
+    "m_PathID": -2174377256109126068
+  },
+  "_recoverButton": {
+    "m_FileID": 0,
+    "m_PathID": 8405983344802877004
+  },
+  "_customerSupportButton": {
+    "m_FileID": 0,
+    "m_PathID": 830404736627330636
+  },
+  "_eulaButton": {
+    "m_FileID": 0,
+    "m_PathID": 4308352572827913804
+  },
+  "_privacyPolicyButton": {
+    "m_FileID": 0,
+    "m_PathID": 2430167993683693132
+  },
+  "_jpSpecifiedCommercialTransactionsLawButton": {
+    "m_FileID": 0,
+    "m_PathID": -1683881183758168500
+  },
+  "_krECommerceLawButton": {
+    "m_FileID": 0,
+    "m_PathID": -3878479627979108788
+  },
+  "_confirmText": {
+    "m_FileID": 0,
+    "m_PathID": -6754772207334044084
+  },
+  "_attentionText": {
+    "m_FileID": 0,
+    "m_PathID": -6920748178259685812
+  },
+  "_purchaseButtonPriceText": {
+    "m_FileID": 0,
+    "m_PathID": 2977300421660724812
+  },
+  "_purchaseButtonFreeTrialBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 5696580862816898636
+  },
+  "_checkOffObject": {
+    "m_FileID": 0,
+    "m_PathID": 8950616224491982412
+  },
+  "_checkOnObject": {
+    "m_FileID": 0,
+    "m_PathID": 1317660690218700364
+  },
+  "_checkButton": {
+    "m_FileID": 0,
+    "m_PathID": -8327067461795033524
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -958778964837904820
+  },
+  "_purchaseBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -3824168893318607284
+  },
+  "_usCaliforniaDigitalContentsLawElm": {
+    "m_FileID": 0,
+    "m_PathID": 7914788921094262348
+  },
+  "_usCaliforniaDigitalContentsLawButton": {
+    "m_FileID": 0,
+    "m_PathID": 6517127687927713356
+  }
+}

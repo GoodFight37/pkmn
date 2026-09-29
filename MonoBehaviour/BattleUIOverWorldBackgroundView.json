@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8805870988878575523
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3959182735826794137
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 4103566594930145187
+  },
+  "_showAnimationKey": "battle_ui_background_show",
+  "_hideAnimationKey": "battle_ui_background_hide",
+  "_baseCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -5122306956526520413
+  },
+  "_selfOverBlurImageCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 7216849350675691427
+  },
+  "_opponentOverBlurImageCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -5376610935374055517
+  },
+  "_trueBlackOverBlurImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 6776648843516409763
+  },
+  "_blackOverBlurImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -356377080097245277
+  },
+  "_grayOverBlurImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -7729565333215938653
+  },
+  "_cyanOverBlurImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 7238680365212596131
+  },
+  "_magentaOverBlurImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 1073316713287284643
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1481998801801013685
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5981642330029938268
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3146324980023465547
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8261488801543984715
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8048048234679593397
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5427922512861096373
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6968326779748259403
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7321589490908555701
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_layoutElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3793172551290295883
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9191614133736937035
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3922796634068314549
+    }
+  ],
+  "_cardCellsType1": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9124778049598166603
+    }
+  ],
+  "_cardCellsType2": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1012287142083860043
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 570423914758236597
+    }
+  ],
+  "_cardCellsType3": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5885391394932484533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4097537544603789749
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7533946410323252811
+    }
+  ]
+}

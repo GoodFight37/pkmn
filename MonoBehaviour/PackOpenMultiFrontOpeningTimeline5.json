@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenMultiFrontOpeningTimeline5",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4829668181050067059
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1923224838893139853
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8642615505272436621
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 933337626896037773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 442023233809676173
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6924415254462265229
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7184197040954210189
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2191046035884603277
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3674236491189651571
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3843950684952786829
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

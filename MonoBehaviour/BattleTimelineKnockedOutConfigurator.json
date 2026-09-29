@@ -1,0 +1,144 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3986613303463578706
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1470660595531590045
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": -4127521158824332370
+  },
+  "_useVirtualCameraType": 0,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_effectTracks": {
+    "_tempKey": 8,
+    "_tempValue": "",
+    "_buckets": [
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "_count": 8,
+    "_entriesHashCode": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "_entriesNext": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "_entriesKey": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "_entriesValue": [
+      "Effect Active Self",
+      "Effect Bench1 Self",
+      "Effect Bench2 Self",
+      "Effect Bench3 Self",
+      "Effect Active Opponent",
+      "Effect Bench1 Opponent",
+      "Effect Bench2 Opponent",
+      "Effect Bench3 Opponent",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "_freeCount": 0,
+    "_freeList": -1
+  },
+  "_activeViewArrangerTrack": "Active KnockedOut Animation",
+  "_benchViewArrangerTrack": "Bench KnockedOut Animation",
+  "_activeViewArranger": {
+    "m_FileID": 0,
+    "m_PathID": 3900823258822800302
+  },
+  "_benchViewArranger": {
+    "m_FileID": 0,
+    "m_PathID": 3547730041574650798
+  },
+  "_seSignalReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 3903218549046113198
+  },
+  "_normalSe": {
+    "_value": "BATTLE_SE_CONDITION_DEATH_00"
+  },
+  "_exSe": {
+    "_value": "BATTLE_SE_CONDITION_DEATH_01"
+  }
+}

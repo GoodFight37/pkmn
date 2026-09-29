@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4005565093938493994
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2911516886138894532
+  },
+  "m_Name": "",
+  "_uiEffectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6864133085382933034
+    }
+  ],
+  "_effectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3255874316038994474
+    }
+  ],
+  "_moveByTapEffectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3255874316038994474
+    }
+  ]
+}

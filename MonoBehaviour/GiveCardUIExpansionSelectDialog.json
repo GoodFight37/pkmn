@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8614910487990668743
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2011433725491028622
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 4248067205814383161
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -1302487466741960135
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -1047289347419246023
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 4248067205814383161
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6761743134368828871
+  },
+  "_seriesButton": {
+    "m_FileID": 0,
+    "m_PathID": -3358654842344934855
+  },
+  "_seriesText": {
+    "m_FileID": 0,
+    "m_PathID": -2752975563951476167
+  },
+  "_cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5847040359381503431
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5538383868280074809
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2727349915146489287
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7255655666333348409
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6375366054847935033
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5414617729851290169
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6427247531567910343
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 762692444675273273
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8708264519346392519
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2395667604778873401
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8514163715126496711
+    }
+  ]
+}

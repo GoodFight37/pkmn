@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 787714306176836578
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7190477681620376677
+  },
+  "m_Name": "",
+  "_rarityIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9089227174135129058
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4729176238286904350
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5587422337257511966
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7207692168187208674
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7132166829669293086
+    }
+  ]
+}

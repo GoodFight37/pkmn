@@ -1,0 +1,54 @@
+############
+# ステージ9: サポートを使う
+############
+
+- sys_wait: OnWipeEnd
+
+# > サポートを使おう！
+- title: battle_tutorial_support_telop_001
+  
+# > 手札にトレーナーズが1枚だけあります。
+# > よく見てみましょう。
+- msg_c: 
+    - battle_tutorial_support_message_00100
+    - battle_tutorial_support_message_00200
+  focus: SelfHandFirstCard
+
+# 手札のカード詳細を開く
+- open_hand_detail: Auto
+
+
+# > このカードはサポートの　博士の研究　です。
+# > サポートはグッズと違って、自分の番に1枚しか使えません。
+- msg_b:
+    - battle_tutorial_support_message_00300
+    - battle_tutorial_support_message_00400
+  focus: HandCardDetailTrainersCardName
+
+
+# > このカードを使うと、山札からカードを2枚引くことができます。
+- msg_b: battle_tutorial_support_message_00500
+  focus: HandCardDetailGoodsDescription
+
+- sys_neutral:
+
+# > このままだとピカチュウがきぜつしてしまいます。
+# > 博士の研究を使って山札からカードを引いてみましょう。
+- msg_b:
+    - battle_tutorial_support_message_00600
+    - battle_tutorial_support_message_00700
+
+- play_trainers: [ Auto, NoTargetTrainersDropArea ]
+- sys_wait: OnStable
+
+# > 運よくライチュウを引くことができました。
+# > ピカチュウをライチュウに進化させて、ワザを使いましょう。
+- msg_c:
+    - battle_tutorial_support_message_00800
+    - battle_tutorial_support_message_00900
+  focus: SelfHandFirstCard
+
+- play_evolve: [ Auto, SelfActiveField ]
+- attack: OnStable
+
+- sys_end:  

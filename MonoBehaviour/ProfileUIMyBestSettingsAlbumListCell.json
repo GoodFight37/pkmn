@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3150197562540800939
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2655561792510144774
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9194487368305427541
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8784645539282205611
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_albumImage": {
+    "m_FileID": 0,
+    "m_PathID": -927513318464797611
+  },
+  "_albumNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6505048842407396437
+  },
+  "_disableObject": {
+    "m_FileID": 0,
+    "m_PathID": -1093096765731552171
+  },
+  "_lockImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 5541190152978711637
+  },
+  "_friendOnlyImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -6099698009241140139
+  },
+  "_friendOnlyText": {
+    "m_FileID": 0,
+    "m_PathID": -8450654171993848747
+  },
+  "_privateText": {
+    "m_FileID": 0,
+    "m_PathID": 5143715509053310037
+  },
+  "_selectedImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 222846796310135893
+  },
+  "_cardImage1": {
+    "m_FileID": 0,
+    "m_PathID": -1999214178799106987
+  },
+  "_cardImage2": {
+    "m_FileID": 0,
+    "m_PathID": -8050905353676635051
+  },
+  "_cardImage3": {
+    "m_FileID": 0,
+    "m_PathID": 2457640760203560021
+  },
+  "_hashTagCell": {
+    "m_FileID": 0,
+    "m_PathID": -3017313620484275115
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 9194487368305427541
+  }
+}

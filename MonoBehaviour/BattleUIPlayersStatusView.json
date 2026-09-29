@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8712525282313796334
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4184634226886973560
+  },
+  "m_Name": "",
+  "_players": {
+    "m_FileID": 0,
+    "m_PathID": 651385178759592686
+  },
+  "_contentsContainerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8849846263331060462
+  },
+  "_acquirePrizeTextAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7767069730304326382
+  },
+  "_selfShowAnimationKey": "battle_ui_point_self_show",
+  "_selfHideAnimationKey": "battle_ui_point_self_hide",
+  "_opponentShowAnimationKey": "battle_ui_point_opp_show",
+  "_opponentHideAnimationKey": "battle_ui_point_opp_hide",
+  "_acquirePrizeTextAnimationKey": "battle_ui_point_acquire_effect",
+  "_selfTelopView": {
+    "m_FileID": 0,
+    "m_PathID": -981171346208359698
+  },
+  "_opponentTelopView": {
+    "m_FileID": 0,
+    "m_PathID": 7645772301547305710
+  },
+  "_backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": -6085073542851101970
+  },
+  "_opponentStatus": {
+    "m_FileID": 0,
+    "m_PathID": 1675548671728843502
+  },
+  "WaitSecForNextPoint": 0.2
+}

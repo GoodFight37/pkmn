@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6553342037929830223
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4818153919535932785
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": 6225066500115670863
+  },
+  "_useVirtualCameraType": 0,
+  "_autoBindCinemachineTrack": 0,
+  "_useUIControlSignalTrack": 0,
+  "_uiControlSignalTrackNameList": [
+    "UI Control Signal Track"
+  ],
+  "_viewArranger": {
+    "m_FileID": 0,
+    "m_PathID": 4265432889817573199
+  },
+  "_defaultTopCardActivationTrackName": "DefaultTopCard Activation",
+  "_interpolateTrackName": "Interpolation",
+  "_interpolateClipNames": [
+    "Interpolation"
+  ],
+  "_libraryAnimationTrackName": "Library Animation",
+  "_libraryTweenTrackName": "Library Tween",
+  "_libraryFloatUpClipName": "Up",
+  "_libraryFloatDownClipName": "Down"
+}

@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9058191801814257581
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6844760206506765690
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2776497152159543379
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_tab": {
+    "m_FileID": 0,
+    "m_PathID": 7398144866295312467
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2776497152159543379
+  },
+  "_favoriteSettingButton": {
+    "m_FileID": 0,
+    "m_PathID": -7814326191191134125
+  },
+  "_friendNumText": {
+    "m_FileID": 0,
+    "m_PathID": -2590432832889261997
+  },
+  "_allCancelApprovalButton": {
+    "m_FileID": 0,
+    "m_PathID": -6206483201870761901
+  },
+  "_friendSearchButton": {
+    "m_FileID": 0,
+    "m_PathID": 8374606543251992659
+  },
+  "_friendNewBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 1153717211087990867
+  },
+  "_friendNewApprovalBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -6880167671777562541
+  },
+  "_showFriendTopListAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8289401134150479955
+  },
+  "_showFriendTopListAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": 8327268202234987734
+  },
+  "_friendNumRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -6268655924633243565
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7826048119581607114
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1228728799210699709
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6380889050428048586
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6454844074889018166
+  },
+  "LanguageTexts": [
+    {
+      "LanguageType": 1,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 4991732357310085942
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": -8633477139832865994
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": -2350863906247574730
+      }
+    },
+    {
+      "LanguageType": 5,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 6594066170340473654
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": 2618982438688226102
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 2796130252669352758
+      }
+    },
+    {
+      "LanguageType": 2,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 3990590385081187126
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": -7484743380165493962
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 1594251254931356470
+      }
+    },
+    {
+      "LanguageType": 4,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 5080622221879114550
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": 2857787190387047222
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 7641672133494799158
+      }
+    },
+    {
+      "LanguageType": 3,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": -1587081230066156746
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": -5485715368139654346
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 2979560922612333366
+      }
+    },
+    {
+      "LanguageType": 6,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 299903065576733494
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": 534674850634103606
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 3135009500170910518
+      }
+    },
+    {
+      "LanguageType": 0,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": -6307101639148864714
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": 3538195954649824054
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 220447003987901238
+      }
+    },
+    {
+      "LanguageType": 7,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 2811090649036061494
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": 9065428289418459958
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": -1263748240809690314
+      }
+    },
+    {
+      "LanguageType": 8,
+      "LanguageObject": {
+        "m_FileID": 0,
+        "m_PathID": 460588002843654966
+      },
+      "TitleText": {
+        "m_FileID": 0,
+        "m_PathID": -7985886275158705354
+      },
+      "CardNumText": {
+        "m_FileID": 0,
+        "m_PathID": 2399879788106971958
+      }
+    }
+  ],
+  "_beforeCardNumText": {
+    "m_FileID": 0,
+    "m_PathID": -3563194246712296650
+  },
+  "_afterCardNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4469338776269718730
+  }
+}

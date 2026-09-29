@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6693491582932241882
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7335406432999755425
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_expansionPackImg": {
+    "m_FileID": 0,
+    "m_PathID": 5345560820997967322
+  },
+  "_subPackNameElm": {
+    "m_FileID": 0,
+    "m_PathID": 7847707631388020186
+  },
+  "_subNameText": {
+    "m_FileID": 0,
+    "m_PathID": 2433094450837278170
+  }
+}

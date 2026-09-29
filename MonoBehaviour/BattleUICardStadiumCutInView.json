@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2617617150321189604
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4923167082752202208
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 6736236852572152548
+  },
+  "_showAnimationKey": "battle_ui_ability_self_show",
+  "_hideAnimationKey": "battle_ui_ability_self_hide",
+  "_contentsCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -3600344911430589724
+  },
+  "_selfBaseRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3950386584458272028
+  },
+  "_opponentBaseRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5110575405273604836
+  },
+  "_stadiumNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1634218986613087516
+  },
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3042948697232138980
+  },
+  "_offset": {
+    "<SelfStadium>k__BackingField": {
+      "x": 0.0,
+      "y": 52.0
+    },
+    "<OpponentStadium>k__BackingField": {
+      "x": 0.0,
+      "y": -50.0
+    }
+  },
+  "_nameRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5528841463708491036
+  },
+  "_paddingOffsetSelf": 16.0,
+  "_paddingOffsetOpponent": 26.0,
+  "_centeredXOffsetScaleSelf": 0.05,
+  "_centeredXOffsetScaleOpponent": -0.04
+}

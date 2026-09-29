@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "ImmersiveStartTimeline_Outside",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3309578179407373212
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3140110950899129444
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -339420866077778844
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4378405929667519388
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 575516705353833572
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 4866825455935036516
+  }
+}

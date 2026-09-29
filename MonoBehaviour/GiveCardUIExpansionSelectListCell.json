@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1363535880660553159
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7546396672879050578
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 4639757046638735929
+  },
+  "_registeredCount": {
+    "m_FileID": 0,
+    "m_PathID": -2139965705392721351
+  },
+  "_allCount": {
+    "m_FileID": 0,
+    "m_PathID": 7581826080054407737
+  },
+  "_expansionImage": {
+    "m_FileID": 0,
+    "m_PathID": -1666946064440069575
+  },
+  "_completeColorElementKey": "CYAN_100",
+  "_numTextcolorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -3025111115158818247
+  }
+}

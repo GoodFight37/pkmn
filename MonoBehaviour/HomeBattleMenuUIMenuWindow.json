@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8692737587528188810
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -825229702936498675
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": 988966241330936950
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": 7260566892205259894
+  },
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": -3950035735775921034
+  },
+  "_newBadgeForMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": 3519225060687756406
+  },
+  "_eventButton": {
+    "m_FileID": 0,
+    "m_PathID": -1000098792150909834
+  },
+  "_deckLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 6570494300769565814
+  },
+  "_newBadgeForHelpButton": {
+    "m_FileID": 0,
+    "m_PathID": -2722483966959862666
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8290970710061145340
+  },
+  "m_Name": "ChangeLayerScenarioClip(Clone)(Clone)",
+  "_scenario": [
+    {
+      "_layer": 3,
+      "_changeFrame": 0
+    }
+  ],
+  "_delayFramePerTarget": 0,
+  "_skipRemainingOnLastAnimFinished": 0
+}

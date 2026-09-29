@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7191330319577733798
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3110729742826035632
+  },
+  "m_Name": "",
+  "_meshFilter": {
+    "m_FileID": 0,
+    "m_PathID": -5584525862186296666
+  },
+  "_meshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -5648499933821969754
+  },
+  "_blitMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 5341231385170659211
+  },
+  "_blitToRTMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -5381255659126042611
+  },
+  "_clearTexture": {
+    "m_FileID": 0,
+    "m_PathID": -5407056310470083017
+  },
+  "_backTexture": {
+    "m_FileID": 0,
+    "m_PathID": 179884734223034326
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9041875955367324580
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9023031190138778839
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": -4998954448509686876
+  },
+  "_favoriteBoardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3164431909123304356
+  },
+  "_favoriteFileImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -5253654806050657372
+  },
+  "_favoriteBoardEmpty": {
+    "m_FileID": 0,
+    "m_PathID": 4427350508013661092
+  },
+  "_favoriteFileEmpty": {
+    "m_FileID": 0,
+    "m_PathID": -4158236766755181660
+  }
+}

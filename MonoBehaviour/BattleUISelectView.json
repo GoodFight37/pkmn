@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8564544669567004956
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3155310236963465229
+  },
+  "m_Name": "",
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": 378380535376400100
+  },
+  "_container": {
+    "m_FileID": 0,
+    "m_PathID": -7824156926337397020
+  },
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": 4327587508378488548
+  },
+  "_dialogAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4215724680984572188
+  },
+  "_showDialogClip": {
+    "m_FileID": 4,
+    "m_PathID": -4952146425558301782
+  },
+  "_hideDialogClip": {
+    "m_FileID": 4,
+    "m_PathID": -508743170081308208
+  },
+  "_playerButtonsRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4293631637052043548
+  },
+  "_selfButton": {
+    "m_FileID": 0,
+    "m_PathID": -1558464376089129244
+  },
+  "_opponentButton": {
+    "m_FileID": 0,
+    "m_PathID": 7470664511939301092
+  },
+  "_generalTextButtonsRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4622487467892453660
+  },
+  "_generalTextButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1502992420345302756
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1591939040766308636
+    }
+  ],
+  "_respondToOptionalOfferButtonsRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2485999424511389980
+  },
+  "_respondToOptionalOfferButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8965231423768015132
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8549331650206675228
+    }
+  ],
+  "_cardRectForSelectPlayer": {
+    "m_FileID": 0,
+    "m_PathID": -5706340672401551644
+  },
+  "_cardRectForSelectEffect": {
+    "m_FileID": 0,
+    "m_PathID": -5706340672401551644
+  },
+  "_cardRectForRespondToOptionalOffer": {
+    "m_FileID": 0,
+    "m_PathID": -5706340672401551644
+  },
+  "_cardDistanceDefault": 3.9
+}

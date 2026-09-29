@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8388211304666257218
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4123115536994094140
+  },
+  "m_Name": "",
+  "EffectMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 4138061411619603982
+  },
+  "EffectFactor": 1.0,
+  "Width": 0.334,
+  "Rotation": -45.0,
+  "Softness": 0.29,
+  "Brightness": 0.225,
+  "Gloss": 0.45
+}

@@ -1,0 +1,169 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_AttackOpponentBC",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8993575405484136434
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4483247728101271566
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 709005965316696078
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2453840142836848626
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7211584151593768946
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5793040748701833202
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1722212195765430286
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 426099166690191374
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6815776405122996210
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5894496329134790642
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4225137330853816334
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3999123773484738574
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1224807350538119182
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2570650977560209422
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8429890834598025202
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5532846879183558642
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2430727028383111154
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6962684876275537906
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8528534227614980082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7213166894862542862
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3110265617872738290
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4500346844071221234
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8966998084680853518
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6539161044840830962
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9130214801378334706
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 163723878628894734
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8882366917868300302
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -412726969944725490
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1309695766230509582
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4128654874673108978
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4712585200496367602
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -955622380798695410
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1791349603809712114
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2455093073030653966
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2406012840735844366
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3363655771125864434
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

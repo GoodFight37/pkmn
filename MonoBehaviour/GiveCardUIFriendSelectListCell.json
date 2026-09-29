@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2106458543295472987
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6565278698539010663
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1119630383018367653
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 596947510656935259
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5851096984018508453
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3183755758626232997
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1898534134520849755
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 3648880428717679963
+  },
+  "_playerLevelText": {
+    "m_FileID": 0,
+    "m_PathID": 5307032190171129179
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": -7699893296147815077
+  },
+  "_playerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6740399110052534949
+  },
+  "_favoriteIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -8886951009106287269
+  },
+  "_lastLoginTimeText": {
+    "m_FileID": 0,
+    "m_PathID": -2710855218124380837
+  },
+  "_nowLoginObject": {
+    "m_FileID": 0,
+    "m_PathID": -4167207879069358757
+  },
+  "_mostWishCardListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4785070834221557083
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7957743211497694555
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6273384665384068443
+    }
+  ],
+  "_mostWishCardListButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5851096984018508453
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3183755758626232997
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1898534134520849755
+    }
+  ],
+  "_limitObject": {
+    "m_FileID": 0,
+    "m_PathID": -4248185531139971749
+  },
+  "_limitText": {
+    "m_FileID": 0,
+    "m_PathID": -3873996262001498789
+  }
+}

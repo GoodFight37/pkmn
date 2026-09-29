@@ -1,0 +1,26 @@
+############
+# ステージ2: ワザを使う
+############
+
+- sys_wait: OnWipeEnd
+
+# ワザを使おう！
+- title: battle_tutorial_attack_telop_001
+
+# 相手のポケモンを「きぜつ」させてポイントを獲得しましょう。
+# 決まった数のポイントを獲得するとバトルに勝利できます。
+- msg_c: 
+    - battle_tutorial_attack_message_00100
+    - battle_tutorial_attack_message_00200
+
+# ポイントはここに表示されます。
+- msg_b: battle_tutorial_attack_message_00300
+  focus: Focus_SelfPoint
+
+# ピカチュウのワザ「かじる」を使って相手のイーブイを「きぜつ」させましょう。
+- msg_b: battle_tutorial_attack_message_00400
+  focus: SelfActiveField
+
+- attack: Auto
+
+- sys_end:

@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4005646010533178525
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2156807969248790245
+  },
+  "m_Name": "",
+  "_shrinkSetting": 0,
+  "_msPreviewStyleKey": "large_pokemon_card_ui_skill_name_txt",
+  "_msPreviewFontKey": "TMP_TitleText_34",
+  "_parameters": [
+    {
+      "_language": 1,
+      "_overrideFontSize": 1,
+      "_fontSize": 34.0,
+      "_overrideCharacterSpacing": 1,
+      "_characterSpacing": -4.0,
+      "_overrideLineSpacing": 1,
+      "_lineSpacing": 0.0,
+      "_positionYOffset": 0.0,
+      "_msPreviewRegionWidth": 330.0,
+      "_msPreviewLineNum": 1,
+      "_overrideWordWrappingRatios": 0,
+      "_wordWrappingRatios": 0.4
+    },
+    {
+      "_language": 1216,
+      "_overrideFontSize": 1,
+      "_fontSize": 34.0,
+      "_overrideCharacterSpacing": 1,
+      "_characterSpacing": -1.0,
+      "_overrideLineSpacing": 0,
+      "_lineSpacing": 0.0,
+      "_positionYOffset": 0.0,
+      "_msPreviewRegionWidth": 330.0,
+      "_msPreviewLineNum": 1,
+      "_overrideWordWrappingRatios": 0,
+      "_wordWrappingRatios": 0.4
+    },
+    {
+      "_language": 2878,
+      "_overrideFontSize": 1,
+      "_fontSize": 32.0,
+      "_overrideCharacterSpacing": 1,
+      "_characterSpacing": -1.0,
+      "_overrideLineSpacing": 1,
+      "_lineSpacing": 0.0,
+      "_positionYOffset": 0.0,
+      "_msPreviewRegionWidth": 330.0,
+      "_msPreviewLineNum": 1,
+      "_overrideWordWrappingRatios": 0,
+      "_wordWrappingRatios": 0.4
+    }
+  ]
+}

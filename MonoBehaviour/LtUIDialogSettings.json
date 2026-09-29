@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4071639041924461571
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6648093210896768989
+  },
+  "m_Name": "",
+  "CustomSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "WithInSafeArea": 1,
+  "OpenSeName": 1,
+  "CloseSeName": 1,
+  "BackBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 730118607304586243
+  },
+  "HasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1
+}

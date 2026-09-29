@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8530571125907718288
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7248377239729677412
+  },
+  "m_Name": "",
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": 6007976924756770672
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -2960637269934735504
+  },
+  "_showClip": {
+    "m_FileID": 2,
+    "m_PathID": 2973212932923244032
+  },
+  "_hideClip": {
+    "m_FileID": 2,
+    "m_PathID": 4283291950590328555
+  },
+  "_cardRect": {
+    "m_FileID": 0,
+    "m_PathID": 452841791368265584
+  },
+  "<TutorialRequiredEnergyElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -3206321791585353872
+  },
+  "<TutorialRetreatCostElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 5089624118473195376
+  },
+  "<TutorialWeakElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 5491540759702273904
+  },
+  "<TutorialTrainersCardNameElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4543285680292495216
+  },
+  "<TutorialGoodsDescriptionElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -7432616761157419152
+  },
+  "<TutorialPhaseConditionElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -5830308562222055568
+  },
+  "<TutorialSkillDescriptionElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -465111585948631184
+  },
+  "<TutorialSkillDescriptionSmallElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "<TutorialAbilityDescriptionElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4278393725381181296
+  },
+  "<TutorialBaseIconElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": -6293349415284899984
+  },
+  "<TutorialHpElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "<TutorialEvolutionStageElement>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "CardAcquireTimeline_U_Root",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3024581774488927202
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8534470894941993954
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1490520750590229474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4328440181624896482
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7579021938561483806
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2658887159772642274
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8664690772361575394
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7779032620033674041
+  },
+  "m_Name": "ActivationScenarioClip",
+  "_scenario": [
+    {
+      "_isActive": 1,
+      "_isInDiscardPile": 0,
+      "_beginFrame": 0,
+      "_endFrame": 72
+    }
+  ],
+  "_overrideLastScenario": 0,
+  "_lastScenario": [],
+  "_delayFramePerTarget": 0,
+  "_skipRemainingOnLastFinished": 0
+}

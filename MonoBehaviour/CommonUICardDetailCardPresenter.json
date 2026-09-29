@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1284936273990158983
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3769167343198648512
+  },
+  "m_Name": "",
+  "_cardRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4890979542876785287
+  },
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": -2600777029953942905
+  },
+  "_notAcquiredCard": {
+    "m_FileID": 0,
+    "m_PathID": -8409591044440946041
+  },
+  "_loadingIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7871224839932376441
+  },
+  "_cardViewElementRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8156599247457908089
+  },
+  "_loadingViewElementRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4941998335546198663
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": -6774778214482081145
+  }
+}

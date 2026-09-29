@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6252351077288618174
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1519814237371332338
+  },
+  "m_Name": "",
+  "ParentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 225546961741829954
+  },
+  "EmptyBase": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ScrollableButtons": [],
+  "ScrollableObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2386018460227622722
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8535804241912616770
+    }
+  ]
+}

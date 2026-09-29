@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8161177676917552937
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7492025844658452726
+  },
+  "m_Name": "",
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": 2611902414262744873
+  },
+  "_colorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -8374203166170237143
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -7973807845554473175
+  },
+  "_showClip": {
+    "m_FileID": 2,
+    "m_PathID": -767402413044252085
+  },
+  "_hideClip": {
+    "m_FileID": 2,
+    "m_PathID": 7127200570482024025
+  },
+  "_openSeName": 2,
+  "_closeSeName": 1,
+  "<ToastDurationPerPage>k__BackingField": 2.0,
+  "<ToastDurationForLastPage>k__BackingField": 2.5,
+  "_messageRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2904286854872778967
+  },
+  "_topAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -2609808835259418839
+  },
+  "_middleAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 8281840946632570665
+  }
+}

@@ -1,0 +1,44 @@
+############
+# ステージ7: ベンチポケモンにエネルギーを付ける
+############
+
+- sys_wait: OnWipeEnd
+
+# > ベンチポケモンにエネルギーをつけよう！
+- title: battle_tutorial_energy_bench_telop_001
+
+# > エネルギーはベンチポケモンにつける事もできます。
+# > ベンチポケモンにエネルギーをつけて、ワザの準備をしましょう。
+- msg_c: 
+    - battle_tutorial_energy_bench_message_00100
+    - battle_tutorial_energy_bench_message_00200
+
+# > ピカチュウは既に雷エネルギーが1個ついているのでワザが使えます。
+# > ベンチのライチュウに雷エネルギーを付けましょう
+- msg_b: 
+    - battle_tutorial_energy_bench_message_00300
+    - battle_tutorial_energy_bench_message_00400
+  focus: SelfActiveField
+
+# ベンチにエネをつけて攻撃
+- attach_energy: [ Auto, SelfBench2Field ]
+- attack: OnAttachEnergyFromPool
+
+# 相手の攻撃でバトルポケモンが気絶したら、入れ替えるポケモンを選択
+- input: [ OnEnterToSelectBenchOnKnockedOut, OnCompleteInputWithAction, Control_SelectField ]
+  tap: [ SelfBench2Field, Center, TopLeft ]
+
+# 自分のターンまで待つ
+- sys_wait: OnSelfTurnPlayPhaseBegin
+
+# > 前のターンにエネルギーをライチュウにつけておいたので、ワザが使えそうです。
+# > ライチュウにエネルギーをつけてワザを使いましょう。
+- msg_b: 
+    - battle_tutorial_energy_bench_message_00500
+    - battle_tutorial_energy_bench_message_00600
+
+# エネをつけて攻撃
+- attach_energy: [ Auto, SelfActiveField ]
+- attack: OnAttachEnergyFromPool
+
+- sys_end:  

@@ -1,0 +1,180 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2035205623759671189
+  },
+  "m_Name": "AudioConfig",
+  "_acfName": "project.acf",
+  "_banks": [
+    {
+      "_cueSheetName": "se_comn.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 0
+    },
+    {
+      "_cueSheetName": "se_comn_a2.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_comn_a4.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_comn_b3.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_comn_b3_packopen_01.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_comn_b4.acb",
+      "_loadTiming": 0,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_battle.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_battle_a2.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 1
+    },
+    {
+      "_cueSheetName": "se_comn_a2b.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "se_battle_a4.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "se_battle_b2.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 0
+    },
+    {
+      "_cueSheetName": "se_battle_b3.acb",
+      "_loadTiming": 1,
+      "_sortOrder": 0
+    },
+    {
+      "_cueSheetName": "bgm_title_bgm_default.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 10
+    },
+    {
+      "_cueSheetName": "bgm_title_bgm_dark.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 10
+    },
+    {
+      "_cueSheetName": "bgm_home_bgm_menu.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 11
+    },
+    {
+      "_cueSheetName": "bgm_shop_bgm_dark.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "bgm_feed_bgm_challenge.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 12
+    },
+    {
+      "_cueSheetName": "bgm_feed_bgm_menu.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 12
+    },
+    {
+      "_cueSheetName": "bgm_pack_bgm_menu.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 13
+    },
+    {
+      "_cueSheetName": "bgm_pack_bgm_open_1.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 13
+    },
+    {
+      "_cueSheetName": "bgm_pack_bgm_open_2.awb",
+      "_loadTiming": 0,
+      "_sortOrder": 13
+    },
+    {
+      "_cueSheetName": "bgm_library_bgm_menu.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 14
+    },
+    {
+      "_cueSheetName": "bgm_trade_bgm_menu.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "bgm_rankmatch_bgm_menu.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_menu.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_start.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_normal.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_expert.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_rankmach.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_event_01.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 20
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_chance.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_pinch.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    },
+    {
+      "_cueSheetName": "bgm_battle_bgm_result.awb",
+      "_loadTiming": 1,
+      "_sortOrder": 15
+    }
+  ]
+}

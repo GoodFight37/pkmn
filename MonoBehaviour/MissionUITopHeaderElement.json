@@ -1,0 +1,191 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7992472358434066116
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7061741698305592252
+  },
+  "m_Name": "",
+  "_tabName": "",
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 1019611631833559356
+  },
+  "_dailyBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 639897512198910268
+  },
+  "_deckBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 2397975710084673852
+  },
+  "_subscriptionBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 1320569957982384444
+  },
+  "_eventBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 5890788142399861052
+  },
+  "_eventFrontImage": {
+    "m_FileID": 0,
+    "m_PathID": 6646412331128238396
+  },
+  "_loadingObject": {
+    "m_FileID": 0,
+    "m_PathID": -5888061576601226948
+  },
+  "_packLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": -4945379524253798084
+  },
+  "_tutorialButton": {
+    "m_FileID": 0,
+    "m_PathID": 2611552813808136508
+  },
+  "_infoButton": {
+    "m_FileID": 0,
+    "m_PathID": 7649452770907173180
+  },
+  "_bannerItemObject": {
+    "m_FileID": 0,
+    "m_PathID": 6667985815512789308
+  },
+  "_deckCaseBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": 8938403971979456828
+  },
+  "_bannerItemObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6409886635933872444
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7554455968517017284
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1718974925987663556
+    }
+  ],
+  "_bannerItemImageCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9107871213203730748
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6145464411137225020
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1254764609707094332
+    }
+  ],
+  "_bannerItemEffects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5922197885619712316
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7004557212833788220
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5262612517567876804
+    }
+  ],
+  "_progressObject": {
+    "m_FileID": 0,
+    "m_PathID": 5737643720838525244
+  },
+  "_balloonParentObject": {
+    "m_FileID": 0,
+    "m_PathID": -5386972031328341700
+  },
+  "_gaugeParentObject": {
+    "m_FileID": 0,
+    "m_PathID": 7758259954368622908
+  },
+  "_countParentObject": {
+    "m_FileID": 0,
+    "m_PathID": -7065274217120943812
+  },
+  "_gaugeBalloonElementPrefab": {
+    "m_FileID": 18,
+    "m_PathID": -6269059824020250171
+  },
+  "_templateBalloonObject": {
+    "m_FileID": 0,
+    "m_PathID": -3981104401230745284
+  },
+  "_progressGauge": {
+    "m_FileID": 0,
+    "m_PathID": 6340561946645213500
+  },
+  "_progressNumText": {
+    "m_FileID": 0,
+    "m_PathID": -1787177197540232900
+  },
+  "_progressCompleteObject": {
+    "m_FileID": 0,
+    "m_PathID": 6031589720039665980
+  },
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": -1481777389262753476
+  },
+  "_missionGroupListButton": {
+    "m_FileID": 0,
+    "m_PathID": -2001708296553844420
+  },
+  "_missionGroupListBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": 9184151294210584892
+  },
+  "_shopButton": {
+    "m_FileID": 0,
+    "m_PathID": -3161022974143516356
+  },
+  "_subscriptionObject": {
+    "m_FileID": 0,
+    "m_PathID": 2780689792294957372
+  },
+  "_subscriptionUpdateText": {
+    "m_FileID": 0,
+    "m_PathID": 4410621016903692604
+  },
+  "_subscriptionFreeTrialText": {
+    "m_FileID": 0,
+    "m_PathID": -1279987352609246916
+  },
+  "_subscriptionButton": {
+    "m_FileID": 0,
+    "m_PathID": -4807851669642956484
+  },
+  "_themeCollectionObject": {
+    "m_FileID": 0,
+    "m_PathID": -748782913892470468
+  },
+  "_themeCollectionPackImage": {
+    "m_FileID": 0,
+    "m_PathID": 5646369318476165436
+  },
+  "_themeCollectionPackImageMask": {
+    "m_FileID": 0,
+    "m_PathID": 5482206643343241532
+  },
+  "_themeCollectionSeriesElm": {
+    "m_FileID": 0,
+    "m_PathID": -4114741279123721924
+  },
+  "_themeCollectionSeriesText": {
+    "m_FileID": 0,
+    "m_PathID": -4083621637170941636
+  }
+}

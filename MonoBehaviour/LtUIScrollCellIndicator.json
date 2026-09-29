@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8940329783163096631
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3166987107692683371
+  },
+  "m_Name": "",
+  "Animation": {
+    "m_FileID": 0,
+    "m_PathID": -609385809593627081
+  },
+  "animationProperties": [
+    {
+      "interDelaySeconds": 0.0,
+      "readyAnimationClip": {
+        "m_FileID": 4,
+        "m_PathID": 4378192024663289159
+      },
+      "showClip": {
+        "m_FileID": 4,
+        "m_PathID": 8283647051824216554
+      },
+      "endAnimationClip": {
+        "m_FileID": 4,
+        "m_PathID": -3493251251323056459
+      }
+    }
+  ]
+}

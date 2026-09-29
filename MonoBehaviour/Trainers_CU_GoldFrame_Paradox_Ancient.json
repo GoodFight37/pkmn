@@ -1,0 +1,176 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3595101635583884523
+  },
+  "m_Name": "Trainers_CU_GoldFrame_Paradox_Ancient",
+  "_uiBasePrefab": {
+    "m_FileID": 8,
+    "m_PathID": -8064212123229826388
+  },
+  "_templatePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6849674484838376275
+  },
+  "_renderers": [
+    {
+      "_renderer": {
+        "m_FileID": 0,
+        "m_PathID": -8240798267445468333
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 3,
+            "m_PathID": 3077557865429975006
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 4,
+            "m_PathID": -973451362924139007
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "_material": {
+            "m_FileID": 5,
+            "m_PathID": -6503822316906939454
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 0,
+        "m_PathID": -8771782755134790829
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 2,
+            "m_PathID": 8412120183256521586
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 0,
+        "m_PathID": -1013752181474909357
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 9,
+            "m_PathID": 3981997159706416144
+          },
+          "_override": 0,
+          "_overrideType": 1,
+          "_overrideMaterialConditions": {
+            "m_FileID": 10,
+            "m_PathID": 8611120548186821909
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 11,
+            "m_PathID": 3414234141896966352
+          }
+        }
+      ]
+    },
+    {
+      "_renderer": {
+        "m_FileID": 0,
+        "m_PathID": -7951889448873876653
+      },
+      "_materialConditions": [
+        {
+          "_material": {
+            "m_FileID": 6,
+            "m_PathID": 8717944130215615872
+          },
+          "_override": 0,
+          "_overrideType": 0,
+          "_overrideMaterialConditions": {
+            "m_FileID": 12,
+            "m_PathID": 3717856441353589209
+          },
+          "_overrideMaterialSettings": {
+            "m_FileID": 11,
+            "m_PathID": 3414234141896966352
+          }
+        }
+      ]
+    }
+  ],
+  "_dynamicUIs": [
+    {
+      "_key": {
+        "m_FileID": 8,
+        "m_PathID": -3517470644857089364
+      },
+      "_gameObject": {
+        "m_FileID": 8,
+        "m_PathID": -7521551442935754068
+      }
+    },
+    {
+      "_key": {
+        "m_FileID": 8,
+        "m_PathID": -6766494902912953684
+      },
+      "_gameObject": {
+        "m_FileID": 8,
+        "m_PathID": -2317366005147446612
+      }
+    }
+  ],
+  "_fonts": {
+    "m_FileID": 13,
+    "m_PathID": 2381021700207438683
+  }
+}

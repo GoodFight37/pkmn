@@ -1,0 +1,186 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4657498168352723237
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 650749927581859588
+  },
+  "m_Name": "",
+  "_locatorSelf": {
+    "_active": {
+      "m_FileID": 0,
+      "m_PathID": 3741100194637131483
+    },
+    "_bench1": {
+      "m_FileID": 0,
+      "m_PathID": 2534649035747929819
+    },
+    "_bench2": {
+      "m_FileID": 0,
+      "m_PathID": 8989642736389041883
+    },
+    "_bench3": {
+      "m_FileID": 0,
+      "m_PathID": 5151302038212554459
+    },
+    "_libraryCard": {
+      "m_FileID": 0,
+      "m_PathID": 5564979466484559579
+    },
+    "_libraryEffect": {
+      "m_FileID": 0,
+      "m_PathID": 3382078924596227803
+    },
+    "_discardPileCard": {
+      "m_FileID": 0,
+      "m_PathID": -72787036188397861
+    },
+    "_discardPileEffect": {
+      "m_FileID": 0,
+      "m_PathID": 7758053119450394331
+    },
+    "_energyZone": {
+      "m_FileID": 0,
+      "m_PathID": -4146528932834922789
+    },
+    "_stadium": {
+      "m_FileID": 0,
+      "m_PathID": -9109145725496480037
+    }
+  },
+  "_locatorOpponent": {
+    "_active": {
+      "m_FileID": 0,
+      "m_PathID": 3043963680553938651
+    },
+    "_bench1": {
+      "m_FileID": 0,
+      "m_PathID": -2400954564035170597
+    },
+    "_bench2": {
+      "m_FileID": 0,
+      "m_PathID": -3635380262766399781
+    },
+    "_bench3": {
+      "m_FileID": 0,
+      "m_PathID": -8492333299748131109
+    },
+    "_libraryCard": {
+      "m_FileID": 0,
+      "m_PathID": -4180201522337173797
+    },
+    "_libraryEffect": {
+      "m_FileID": 0,
+      "m_PathID": -2840983658046705957
+    },
+    "_discardPileCard": {
+      "m_FileID": 0,
+      "m_PathID": -6798501573871948069
+    },
+    "_discardPileEffect": {
+      "m_FileID": 0,
+      "m_PathID": 8485950731333119707
+    },
+    "_energyZone": {
+      "m_FileID": 0,
+      "m_PathID": 6548384210814742235
+    },
+    "_stadium": {
+      "m_FileID": 0,
+      "m_PathID": 1132375526931541723
+    }
+  },
+  "_locatorMotionParent": {
+    "_cardViewParentOnSkillUI": {
+      "m_FileID": 0,
+      "m_PathID": -1663725695230431525
+    },
+    "_cardViewParentOnDiscardEnergyUI": {
+      "m_FileID": 0,
+      "m_PathID": -3198822497726452005
+    },
+    "_cardViewParentOnMoveEnergyUI": {
+      "m_FileID": 0,
+      "m_PathID": 5602142853221297883
+    },
+    "_cardViewParentOnSelectPlayerUI": {
+      "m_FileID": 0,
+      "m_PathID": 4644336235079708379
+    },
+    "_cardViewParentOnSelectEffectUI": {
+      "m_FileID": 0,
+      "m_PathID": 4403829674653363931
+    },
+    "_cardViewParentOnRespondToOptionalOfferUI": {
+      "m_FileID": 0,
+      "m_PathID": -1651350428706820389
+    },
+    "_gameStartCoinFlipParent": {
+      "m_FileID": 0,
+      "m_PathID": 3311862409479958235
+    },
+    "_cardAppearStartParent": {
+      "m_FileID": 0,
+      "m_PathID": -568952318095151397
+    },
+    "_cardsDestinationParents": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -5485559005607186725
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8896451683629969115
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5099375291690102491
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3619479976137436891
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -760668594817028389
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3273941431659179739
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1536751205408198949
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7545771587164459301
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4158754653275967781
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4630852175193026267
+      }
+    ]
+  },
+  "_cameraSync": {
+    "_root": {
+      "m_FileID": 0,
+      "m_PathID": 3054618768981798619
+    },
+    "_playTrainerParent": {
+      "m_FileID": 0,
+      "m_PathID": -8207160077362680101
+    }
+  },
+  "_cardDestinations": {
+    "m_FileID": 0,
+    "m_PathID": -4183442277272408357
+  }
+}

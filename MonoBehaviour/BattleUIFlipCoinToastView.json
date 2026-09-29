@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6304706693668041392
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1886151106616695328
+  },
+  "m_Name": "",
+  "_cardTextToast": {
+    "m_FileID": 0,
+    "m_PathID": -7215469769773642416
+  },
+  "_selfCardTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": -8479269983518094000
+  },
+  "_opponentCardTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": -6272368600943063728
+  },
+  "_cardTextRawImage": {
+    "m_FileID": 0,
+    "m_PathID": 1579603926009220432
+  },
+  "_layoutElement": {
+    "m_FileID": 0,
+    "m_PathID": -4902277768415507120
+  },
+  "_descriptionScale": 1.35,
+  "_commonToastRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7063076894452125008
+  },
+  "_commonToastText": {
+    "m_FileID": 0,
+    "m_PathID": -265872130656334512
+  },
+  "_middleToastRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1295344638262938960
+  }
+}

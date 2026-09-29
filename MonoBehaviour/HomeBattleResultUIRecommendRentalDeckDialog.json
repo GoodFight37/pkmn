@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2453221127053752003
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7185690816864060852
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1315094330679511357
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_energyIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 6756906056443119933
+  },
+  "_descriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 8661837967081228605
+  },
+  "_deckObject": {
+    "m_FileID": 0,
+    "m_PathID": -8333632757851666115
+  },
+  "_deckNameText": {
+    "m_FileID": 0,
+    "m_PathID": 4779692101798414653
+  },
+  "_deckCaseCell": {
+    "m_FileID": 0,
+    "m_PathID": 6555169253509581117
+  },
+  "_deckCaseBackgroundPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 9016471252446431549
+  },
+  "_goToMyDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": 4245308228309633341
+  },
+  "_goToRentalDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": -8166319980120028867
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 1315094330679511357
+  }
+}

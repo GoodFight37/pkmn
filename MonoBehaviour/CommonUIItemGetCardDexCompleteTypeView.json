@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3000638696291403337
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2556178656421531128
+  },
+  "m_Name": "",
+  "_pokemonTypeAndGameObjects": [
+    {
+      "PokemonType": 1,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1756126323746768457
+      }
+    },
+    {
+      "PokemonType": 2,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6540934128911284663
+      }
+    },
+    {
+      "PokemonType": 3,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -3949914091207817655
+      }
+    },
+    {
+      "PokemonType": 4,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 444217667899721289
+      }
+    },
+    {
+      "PokemonType": 5,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6962181126536722871
+      }
+    },
+    {
+      "PokemonType": 6,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 671955188687930953
+      }
+    },
+    {
+      "PokemonType": 7,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6191150376716633673
+      }
+    },
+    {
+      "PokemonType": 8,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7774474948557899337
+      }
+    },
+    {
+      "PokemonType": 10,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5733162461300033097
+      }
+    },
+    {
+      "PokemonType": 11,
+      "GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -1567372139612502455
+      }
+    }
+  ]
+}

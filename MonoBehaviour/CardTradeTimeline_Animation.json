@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "CardTradeTimeline_Animation",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -873359597769624020
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8593024863825262124
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1010957777656641068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 325371120726603308
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 606587340837647916
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6325794589720349140
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2502248711223413204
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

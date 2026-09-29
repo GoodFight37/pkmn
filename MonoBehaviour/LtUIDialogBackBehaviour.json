@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8161353435750729227
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6800239916050269124
+  },
+  "m_Name": "",
+  "_backKeyTouchType": 3,
+  "_closeBackElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_anotherBackKeyTouch": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_backgroundTouchType": 2
+}

@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8717460666176955925
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6596945851460516659
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 5253026901644876267
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_languageRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5125526279801543147
+  },
+  "_languageButton": {
+    "m_FileID": 0,
+    "m_PathID": -4280198364433147413
+  },
+  "_languageButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 3962662978802293227
+  },
+  "_currentLanguageText": {
+    "m_FileID": 0,
+    "m_PathID": -7282338709735335445
+  },
+  "_effectRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2340820242646505963
+  },
+  "_effectButton": {
+    "m_FileID": 0,
+    "m_PathID": 6259084222256388587
+  },
+  "_effectButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 8613365494648150507
+  },
+  "_currentEffectText": {
+    "m_FileID": 0,
+    "m_PathID": -8059617101768549909
+  },
+  "_currentNoneEffectText": {
+    "m_FileID": 0,
+    "m_PathID": -4052391125462607381
+  },
+  "_currentCardFrameText": {
+    "m_FileID": 0,
+    "m_PathID": 8770886282354170347
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 6831397364358453739
+  },
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": -5620384675214845461
+  }
+}

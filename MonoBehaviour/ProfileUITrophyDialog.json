@@ -1,0 +1,195 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3757488597736648045
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6877720141649580563
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 5216652730404213395
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_bgGrayImage": {
+    "m_FileID": 0,
+    "m_PathID": 188869359733543571
+  },
+  "_bgBronzeImage": {
+    "m_FileID": 0,
+    "m_PathID": -6395295385257864557
+  },
+  "_bgSilverImage": {
+    "m_FileID": 0,
+    "m_PathID": 2462136124305937043
+  },
+  "_bgGoldImage": {
+    "m_FileID": 0,
+    "m_PathID": 1195203458433323667
+  },
+  "_bgRainbowImage": {
+    "m_FileID": 0,
+    "m_PathID": 8374294148486238867
+  },
+  "_trophyImage": {
+    "m_FileID": 0,
+    "m_PathID": -486226386130333037
+  },
+  "_trophyDisableImage": {
+    "m_FileID": 0,
+    "m_PathID": -153122872673856877
+  },
+  "_progressRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7350264770101472621
+  },
+  "_progressCountRoot": {
+    "m_FileID": 0,
+    "m_PathID": 892590214485283475
+  },
+  "_progressCountText": {
+    "m_FileID": 0,
+    "m_PathID": 6082518079399760531
+  },
+  "_progressGauge": {
+    "m_FileID": 0,
+    "m_PathID": 1391568366148883091
+  },
+  "_progressText": {
+    "m_FileID": 0,
+    "m_PathID": -2834835770119515501
+  },
+  "_achievementText": {
+    "m_FileID": 0,
+    "m_PathID": -7808307851634371949
+  },
+  "_trophyCell1": {
+    "m_FileID": 0,
+    "m_PathID": 8363292610060194451
+  },
+  "_trophyCell2": {
+    "m_FileID": 0,
+    "m_PathID": 7290161456429175443
+  },
+  "_trophyCell3": {
+    "m_FileID": 0,
+    "m_PathID": -8861744330453642605
+  },
+  "_trophyCell4": {
+    "m_FileID": 0,
+    "m_PathID": -518611540279913837
+  },
+  "_rewardElement": {
+    "m_FileID": 0,
+    "m_PathID": -5687292452375260525
+  },
+  "_rewardEmptyObject": {
+    "m_FileID": 0,
+    "m_PathID": 4633227659518382739
+  },
+  "_rewardButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2892929392638717293
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5768968048771764883
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7620102195963073171
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8804520231398894957
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3389522168089177453
+    }
+  ],
+  "_rewardItemImageCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4315132349298348691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5526008831949172077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -515610334843727213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8024663965161450861
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8224847455508786541
+    }
+  ],
+  "_rewardSelectedIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3579889765491240301
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7267204276399739539
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4698167173688627859
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5938493913256530579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6486331207299142291
+    }
+  ],
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -5643276870433860973
+  }
+}

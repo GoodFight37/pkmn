@@ -1,0 +1,191 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2207931008688694102
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1670612770684524640
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -9126947662109105322
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -9126947662109105322
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -2815735024719453354
+  },
+  "_okButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 6819212319139668822
+  },
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": -5109367837634616490
+  },
+  "_probabilityText": {
+    "m_FileID": 0,
+    "m_PathID": -3093299807346515114
+  },
+  "_remainingCountText": {
+    "m_FileID": 0,
+    "m_PathID": -5286669813697371306
+  },
+  "_remainingCountNumText": {
+    "m_FileID": 0,
+    "m_PathID": -1840567967348448426
+  },
+  "_requiredItemObject": {
+    "m_FileID": 0,
+    "m_PathID": 2120326124871852886
+  },
+  "_requiredItemNumText": {
+    "m_FileID": 0,
+    "m_PathID": -1658490215791942826
+  },
+  "_requiredItemFreeText": {
+    "m_FileID": 0,
+    "m_PathID": 1968840647435658070
+  },
+  "_requiredItemIcon": {
+    "m_FileID": 0,
+    "m_PathID": -9187053882133798058
+  },
+  "_revivalRequiredItemObject": {
+    "m_FileID": 0,
+    "m_PathID": -2607831243798371498
+  },
+  "_revivalRequiredItemNumText": {
+    "m_FileID": 0,
+    "m_PathID": 3943224842112115542
+  },
+  "_requiredItemNumTextPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -622392113802534058
+  },
+  "_revivalRequiredItemNumTextPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 3189121229193388886
+  },
+  "_attentionObject": {
+    "m_FileID": 0,
+    "m_PathID": 7398122919901897558
+  },
+  "_attentionText": {
+    "m_FileID": 0,
+    "m_PathID": 8691884748013806422
+  },
+  "_feedUIItemCell": {
+    "m_FileID": 0,
+    "m_PathID": 4509505903608308566
+  },
+  "_staminaElement": {
+    "m_FileID": 0,
+    "m_PathID": 3137070877311935318
+  },
+  "_revivalItemElement": {
+    "m_FileID": 0,
+    "m_PathID": -848528908125232298
+  },
+  "_revivalItemNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4104191633776925866
+  },
+  "_staminaAddButton": {
+    "m_FileID": 0,
+    "m_PathID": -492331369249201322
+  },
+  "_clockDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 7741164244877550422
+  },
+  "_cardButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2860069532625183574
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6943971394620382378
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5352883351279477590
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8861669220438877014
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6960044414296695638
+    }
+  ],
+  "_newBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -2361431526421322922
+  },
+  "_layoutRoot": {
+    "m_FileID": 0,
+    "m_PathID": 8001446009805185878
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": 2997235110612411222
+  },
+  "_avatarButton": {
+    "m_FileID": 0,
+    "m_PathID": 1860081842770715478
+  },
+  "_snoopBadgeOK": {
+    "m_FileID": 0,
+    "m_PathID": 5934342668833104726
+  },
+  "_snoopBadgeRecover": {
+    "m_FileID": 0,
+    "m_PathID": 7853632769386849110
+  },
+  "_recoverButton": {
+    "m_FileID": 0,
+    "m_PathID": -9150229089171168426
+  }
+}

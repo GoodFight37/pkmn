@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4742705471625735037
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4756312438782366989
+  },
+  "m_Name": "",
+  "TouchGroupId": 100,
+  "Repeat": 0,
+  "InvokeTouchUpInsideAfterLongTouch": 1
+}

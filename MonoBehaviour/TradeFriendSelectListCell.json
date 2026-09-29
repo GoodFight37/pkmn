@@ -1,0 +1,116 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1270486332456732301
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3783607368433621404
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2521259174431458957
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5830854827171612301
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4507974338017068685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8200793303257610611
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8960958087841020275
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -6987309915568506509
+  },
+  "_tradeButton": {
+    "m_FileID": 0,
+    "m_PathID": -5830854827171612301
+  },
+  "_iconButton": {
+    "m_FileID": 0,
+    "m_PathID": -2521259174431458957
+  },
+  "_tradeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": -1719337724392801933
+  },
+  "_playerLevelText": {
+    "m_FileID": 0,
+    "m_PathID": -2070207721116894861
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": 7791934914775382387
+  },
+  "_playerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -446647327782831757
+  },
+  "_favariteIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -7573647696446719629
+  },
+  "_lastLoginTimeText": {
+    "m_FileID": 0,
+    "m_PathID": -510571063918823053
+  },
+  "_nowLoginObject": {
+    "m_FileID": 0,
+    "m_PathID": 1662263671469209971
+  },
+  "_mostWishCardRootObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7799782707400246925
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6444000482119088499
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7553871020619892365
+    }
+  ],
+  "_mostWishCardListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2931523304701917555
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7549118029483964787
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4337224983763388045
+    }
+  ],
+  "_mostWishCardListButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4507974338017068685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8200793303257610611
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8960958087841020275
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8629773521638588748
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7693479216534653796
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "withInSafeArea": 1,
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5322494239787712844
+  },
+  "_offset": {
+    "<SelfActive>k__BackingField": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "<SelfBench>k__BackingField": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "<OpponentActive>k__BackingField": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "<OpponentBench>k__BackingField": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 3823282169600475468
+  },
+  "_damageText": {
+    "m_FileID": 0,
+    "m_PathID": 1860390339924066636
+  },
+  "_damageTextTextMeshPro": {
+    "m_FileID": 0,
+    "m_PathID": -7593517598179720884
+  },
+  "_contentsContainer": {
+    "m_FileID": 0,
+    "m_PathID": -1101791282087263924
+  },
+  "_weakElement": {
+    "m_FileID": 0,
+    "m_PathID": 6038222808921342284
+  },
+  "_resistElement": {
+    "m_FileID": 0,
+    "m_PathID": 4952656892519121228
+  },
+  "_poisonedElement": {
+    "m_FileID": 0,
+    "m_PathID": -1956495743078825652
+  },
+  "_burnedElement": {
+    "m_FileID": 0,
+    "m_PathID": -3821841672815640244
+  },
+  "_effectedElement": {
+    "m_FileID": 0,
+    "m_PathID": -1104316609421704884
+  },
+  "_buffBaseImage": {
+    "m_FileID": 0,
+    "m_PathID": -1086659300627119796
+  },
+  "_debuffBaseImage": {
+    "m_FileID": 0,
+    "m_PathID": -3151453634996731572
+  },
+  "_effectIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 8116316356376396108
+  },
+  "_effectText": {
+    "m_FileID": 0,
+    "m_PathID": -2176477088103399092
+  },
+  "_buffIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2156322827844666641
+  },
+  "_debuffIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5749757795258091731
+  },
+  "_smallDamageClip": {
+    "m_FileID": 2,
+    "m_PathID": 3436994896071641647
+  },
+  "_mediumDamageClip": {
+    "m_FileID": 2,
+    "m_PathID": 8898742658182791990
+  },
+  "_largeDamageClip": {
+    "m_FileID": 2,
+    "m_PathID": 7007368412300531382
+  },
+  "_recoveryClip": {
+    "m_FileID": 2,
+    "m_PathID": -8861395147934481928
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4035704959679878485
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4181422960338624762
+  },
+  "m_Name": "",
+  "_gaugeBlankImage": {
+    "m_FileID": 0,
+    "m_PathID": -3878268873690753707
+  },
+  "_packPowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -687677907507849899
+  },
+  "_challengePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2522531894129415509
+  },
+  "_pvePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 3791540539949077845
+  },
+  "_pvpPowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7122848388956531371
+  },
+  "_tradePowerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5192601411282818389
+  }
+}

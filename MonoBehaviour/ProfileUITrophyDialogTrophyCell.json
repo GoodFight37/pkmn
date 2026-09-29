@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2293242041251697299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6858292862295926794
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": -6042086472170237293
+  },
+  "_loadingImage": {
+    "m_FileID": 0,
+    "m_PathID": 3786745052841480851
+  },
+  "_trophyImage": {
+    "m_FileID": 0,
+    "m_PathID": 3213026277884465811
+  },
+  "_disableImage": {
+    "m_FileID": 0,
+    "m_PathID": -7418095814013775213
+  },
+  "_frameImage": {
+    "m_FileID": 0,
+    "m_PathID": 4218258701248270995
+  }
+}

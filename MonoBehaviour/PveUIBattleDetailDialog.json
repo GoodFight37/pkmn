@@ -1,0 +1,187 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -134024153803253705
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8039526969258162638
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -1999165159362258889
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_listMarkView": {
+    "m_FileID": 0,
+    "m_PathID": -929759875232425929
+  },
+  "_randomBaseImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -6936875509381982153
+  },
+  "_npcCardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 2901159443733878839
+  },
+  "_npcCardImage": {
+    "m_FileID": 0,
+    "m_PathID": 5000150935287044151
+  },
+  "_randomCardImage": {
+    "m_FileID": 0,
+    "m_PathID": -7171631098760587209
+  },
+  "_battleNameText": {
+    "m_FileID": 0,
+    "m_PathID": 3886231414457440311
+  },
+  "_npcDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": 1595432277566953527
+  },
+  "_npcDeckLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -413770889733007305
+  },
+  "_battleButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2077492190168291383
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6309762690898913225
+    }
+  ],
+  "_autoSingleToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": -6183110986079463369
+  },
+  "_autoButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 5951318573285840951
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -1999165159362258889
+  },
+  "_currentDeckCardsElement": {
+    "m_FileID": 0,
+    "m_PathID": -4650646489780709321
+  },
+  "_currentDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": -7685357501550684105
+  },
+  "_deckRuleButton": {
+    "m_FileID": 0,
+    "m_PathID": -573488792426244041
+  },
+  "_deckRuleButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": -7862362117467269065
+  },
+  "_resourceElement": {
+    "m_FileID": 0,
+    "m_PathID": -7134289167693899721
+  },
+  "_notRequiredResourceElement": {
+    "m_FileID": 0,
+    "m_PathID": 954981174347044919
+  },
+  "_requiredResourceElement": {
+    "m_FileID": 0,
+    "m_PathID": 579698705141864503
+  },
+  "_requiredResourceNumText": {
+    "m_FileID": 0,
+    "m_PathID": -8410594338548017097
+  },
+  "_requiredResourceNumPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 8729843537701312567
+  },
+  "_notRequiredResourceButton": {
+    "m_FileID": 0,
+    "m_PathID": -3557331639969572809
+  },
+  "_recoveryResourceButton": {
+    "m_FileID": 0,
+    "m_PathID": -4112527959861422025
+  },
+  "_resourceAttentionElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -1461271020640593865
+  },
+  "_winStreakObject": {
+    "m_FileID": 0,
+    "m_PathID": 1828187904178067511
+  },
+  "_currentWinStreakText": {
+    "m_FileID": 0,
+    "m_PathID": -2691722920776230857
+  },
+  "_currentWinStreakObject": {
+    "m_FileID": 0,
+    "m_PathID": -8528293430080235465
+  },
+  "_maxWinStreakText": {
+    "m_FileID": 0,
+    "m_PathID": 5993998132145494071
+  },
+  "_maxWinStreakObject": {
+    "m_FileID": 0,
+    "m_PathID": 2891880462233180215
+  },
+  "_newLtUIBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -7287835900666570697
+  },
+  "_staminaElement": {
+    "m_FileID": 0,
+    "m_PathID": -7134289167693899721
+  },
+  "_staminaAddButton": {
+    "m_FileID": 0,
+    "m_PathID": 2622149796440709175
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenCardDisclosureTimelineIM_F_Sound",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2068597658033845831
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5808083583751616071
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2949153732832070073
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1624493877078854073
+    }
+  ],
+  "m_FixedDuration": 1.5,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -2085405298486741433
+  }
+}

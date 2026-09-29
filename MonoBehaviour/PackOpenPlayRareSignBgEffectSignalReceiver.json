@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1198473086849703981
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7942253558790445972
+  },
+  "m_Name": "",
+  "m_Events": {
+    "m_Signals": [],
+    "m_Events": []
+  },
+  "_effectDict": {
+    "_tempKey": 2,
+    "_tempValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_buckets": [
+      -1,
+      0,
+      1
+    ],
+    "_count": 2,
+    "_entriesHashCode": [
+      1,
+      2,
+      0
+    ],
+    "_entriesNext": [
+      -1,
+      -1,
+      0
+    ],
+    "_entriesKey": [
+      1,
+      2,
+      0
+    ],
+    "_entriesValue": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2155958971785076781
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1317420104241176621
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ],
+    "_freeCount": 0,
+    "_freeList": -1
+  },
+  "TargetEffectType": 0
+}

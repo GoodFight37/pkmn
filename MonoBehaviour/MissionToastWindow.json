@@ -1,0 +1,197 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1342207567760145060
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1986718621593267034
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_toastAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5284321135720187228
+  },
+  "_animationClips": [
+    {
+      "m_FileID": 4,
+      "m_PathID": -8601158140460465024
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 2132498063114243842
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 7202919827472135590
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 2813259257675605889
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -157124651459606720
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -6660739198562763921
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -1672416469433702198
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 8724713352136412527
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 4349409551218544952
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 535292802296694631
+    }
+  ],
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": -3207902469556288164
+  },
+  "_normalButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": -467947892331002532
+  },
+  "_normalPremiumRingObject": {
+    "m_FileID": 0,
+    "m_PathID": 5268518734047921500
+  },
+  "_notifyingButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": -4927833362702023332
+  },
+  "_notifyingPremiumRingObject": {
+    "m_FileID": 0,
+    "m_PathID": -4263507086754265764
+  },
+  "_buttonBadgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -3787775718441368228
+  },
+  "_homeContentsAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -7779264040924428964
+  },
+  "_homeObject": {
+    "m_FileID": 0,
+    "m_PathID": 267143085926696284
+  },
+  "_homeNotificationObject": {
+    "m_FileID": 0,
+    "m_PathID": 694742946015593820
+  },
+  "_homeBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -1904080875545311908
+  },
+  "_homeComeBackBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -7521097450094410404
+  },
+  "_homeSummaryObject": {
+    "m_FileID": 0,
+    "m_PathID": 5411564099115599196
+  },
+  "_homeSummaryText": {
+    "m_FileID": 0,
+    "m_PathID": 1904444940615861596
+  },
+  "_homeDetailObject": {
+    "m_FileID": 0,
+    "m_PathID": -4297988223110560420
+  },
+  "_homeDetailText": {
+    "m_FileID": 0,
+    "m_PathID": -8771690595052763812
+  },
+  "_homeClearObject": {
+    "m_FileID": 0,
+    "m_PathID": 8555076296688584028
+  },
+  "_homeGaugeObject": {
+    "m_FileID": 0,
+    "m_PathID": 2414330333166945628
+  },
+  "_homeGauge": {
+    "m_FileID": 0,
+    "m_PathID": 3638958771653559644
+  },
+  "_homeNumText": {
+    "m_FileID": 0,
+    "m_PathID": 8248599783911179612
+  },
+  "_homeComeBackObject": {
+    "m_FileID": 0,
+    "m_PathID": 1769489239492511068
+  },
+  "_generalContentsAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -1626451864124471972
+  },
+  "_generalObject": {
+    "m_FileID": 0,
+    "m_PathID": -1434475782606043812
+  },
+  "_generalDetailObject": {
+    "m_FileID": 0,
+    "m_PathID": -8737592748050168484
+  },
+  "_generalDetailText": {
+    "m_FileID": 0,
+    "m_PathID": 6244533986645165404
+  },
+  "_generalClearObject": {
+    "m_FileID": 0,
+    "m_PathID": 6396233188345234780
+  },
+  "_generalGaugeObject": {
+    "m_FileID": 0,
+    "m_PathID": 4228889895711589724
+  },
+  "_generalGauge": {
+    "m_FileID": 0,
+    "m_PathID": 5580281310300849500
+  },
+  "_generalNumText": {
+    "m_FileID": 0,
+    "m_PathID": -1213935781061147300
+  }
+}

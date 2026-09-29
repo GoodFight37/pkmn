@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3929915684560905582
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5063911173788761876
+  },
+  "m_Name": "",
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": 2298782246677371538
+  },
+  "_victoryElement": {
+    "m_FileID": 0,
+    "m_PathID": -2474428933254554990
+  },
+  "_battleAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -5863554672824100206
+  },
+  "_battleVictoryAnimationKey": "battle_ui_result_victory",
+  "_playerName": {
+    "m_FileID": 0,
+    "m_PathID": 435463342318017170
+  },
+  "_playerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -873216392510121326
+  }
+}

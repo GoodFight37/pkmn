@@ -1,0 +1,403 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 814956191919236066
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6794606655631143539
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_contentRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4992522248024038430
+  },
+  "_backgroundRoot": {
+    "m_FileID": 0,
+    "m_PathID": -576678302386560030
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": 620354886888252386
+  },
+  "_cardScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 6264036179895772130
+  },
+  "_cardScrollRectByPage": {
+    "m_FileID": 0,
+    "m_PathID": 8625019557093106658
+  },
+  "_cardPresenters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7414206948684260322
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -811474807094909982
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2593082161186726882
+    }
+  ],
+  "_immersiveGuideView": {
+    "m_FileID": 0,
+    "m_PathID": 5827568648797348834
+  },
+  "_commonLoadingIcon": {
+    "m_FileID": 0,
+    "m_PathID": -9159287596158753822
+  },
+  "_detailScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -8227277048121072670
+  },
+  "_detailViewPort": {
+    "m_FileID": 0,
+    "m_PathID": -8314930543090277406
+  },
+  "_scrollRectEventDelegator": {
+    "m_FileID": 0,
+    "m_PathID": -3186006753199463454
+  },
+  "_newBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 1135108649249858530
+  },
+  "_detailHeaderView": {
+    "m_FileID": 0,
+    "m_PathID": -5661409090464521246
+  },
+  "_cardViewerHiddenGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9134837627452988446
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3938847491705281566
+    }
+  ],
+  "_cardViewerUIShowAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": 69474765766819103
+  },
+  "_cardViewerUIHideAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": -4666577556529864379
+  },
+  "_cardViewerCenterObject": {
+    "m_FileID": 0,
+    "m_PathID": 5938666668428747746
+  },
+  "_pokemonView": {
+    "m_FileID": 0,
+    "m_PathID": -5928753362838232094
+  },
+  "_trainersView": {
+    "m_FileID": 0,
+    "m_PathID": -3333189093512059934
+  },
+  "_dialogHeaderView": {
+    "m_FileID": 0,
+    "m_PathID": -217283026214853662
+  },
+  "_previewView": {
+    "m_FileID": 0,
+    "m_PathID": 8722728913740096482
+  },
+  "_dialogAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7681414322430403554
+  },
+  "_dialogShowAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": 6993991149885233591
+  },
+  "_dialogHideAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": 3186698084695273306
+  },
+  "_immersiveControlView": {
+    "m_FileID": 0,
+    "m_PathID": -1613616131459652638
+  },
+  "_centerToRightRotationCurve": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 30.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 7.3724256,
+          "outSlope": 7.3724256,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.03547172,
+          "value": 0.2615126,
+          "inSlope": 5.595851,
+          "outSlope": 5.595851,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.133,
+          "value": 0.634,
+          "inSlope": 0.96716565,
+          "outSlope": 0.96716565,
+          "weightedMode": 0,
+          "inWeight": 1.0,
+          "outWeight": 0.11091889
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": -0.027388759,
+          "outSlope": -0.027388759,
+          "weightedMode": 0,
+          "inWeight": 0.2979623,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 0.0
+  },
+  "_centerToRightScaleCurve": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 1.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": 0.27586263,
+          "outSlope": 0.27586263,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.058,
+          "value": 1.016,
+          "inSlope": 0.41753313,
+          "outSlope": 0.41753313,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.259,
+          "value": 1.1284,
+          "inSlope": 0.46286768,
+          "outSlope": 0.46286768,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 1.0,
+          "value": 1.4,
+          "inSlope": 0.23621978,
+          "outSlope": 0.23621978,
+          "weightedMode": 0,
+          "inWeight": 0.2699055,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 1.0
+  },
+  "_centerToRightOffsetCurve": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 1207.0,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.083,
+          "value": 0.0,
+          "inSlope": -6.2004416E-05,
+          "outSlope": -6.2004416E-05,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.40515107
+        },
+        {
+          "time": 0.462,
+          "value": 0.122,
+          "inSlope": 0.095011406,
+          "outSlope": 0.095011406,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.5247899
+        },
+        {
+          "time": 0.7204,
+          "value": 0.1332,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.718558
+        },
+        {
+          "time": 1.0,
+          "value": 0.1332,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.7712535,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 0.0
+  },
+  "_centerToRightShadowFadeCurve": {
+    "m_Mode": 1,
+    "m_CurveMultiplier": 0.8,
+    "m_CurveMin": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_CurveMax": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": -0.9411748,
+          "outSlope": -0.9411748,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.017,
+          "value": 0.984,
+          "inSlope": -4.984349,
+          "outSlope": -4.984349,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.126,
+          "value": 0.0,
+          "inSlope": -0.009622581,
+          "outSlope": -0.009622581,
+          "weightedMode": 0,
+          "inWeight": 1.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "m_ConstantMin": 0.0,
+    "m_ConstantMax": 1.0
+  },
+  "_shadowDefaultSize": {
+    "x": 0.55,
+    "y": 0.77
+  },
+  "_shadowRotateSize": {
+    "x": 0.15,
+    "y": 1.1
+  },
+  "_shadowFadeInDurationFromFlip": 3.0
+}

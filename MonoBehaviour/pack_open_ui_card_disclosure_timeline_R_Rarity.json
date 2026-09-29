@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "pack_open_ui_card_disclosure_timeline_R_Rarity",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7232034630060764247
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4596497052202921047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8785156008259064745
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6325735266254427049
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8025213169994198103
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8205811424517123159
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

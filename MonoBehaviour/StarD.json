@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1101229750744939834
+  },
+  "m_Name": "StarD",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 2682514232941160975
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7888086950329199119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5609175181449964047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2045033273007199729
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7719881960453035505
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5293876265576049167
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9114050979059067473
+  },
+  "m_Name": "BattleCardViewAnimClip",
+  "_clip": {
+    "m_FileID": 2,
+    "m_PathID": -700902071587525005
+  },
+  "_se": {
+    "_value": ""
+  },
+  "_seDelayFrame": 0,
+  "_disableRootMotion": 0,
+  "_applyOriginOnStart": 0,
+  "_originOnStart": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_originPosOnStartConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_originRotOnStartConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_setParentOnStart": 0,
+  "_parentOnStart": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_activateOnStart": 1,
+  "_applyOriginOnEnd": 0,
+  "_originOnEnd": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_originPosOnEndConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_originRotOnEndConst": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_setParentOnEnd": 0,
+  "_parentOnEnd": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_inactivateOnEnd": 0,
+  "_trashIdleOnEnd": 0,
+  "_intervalFrame": 0,
+  "_skipRemainingOnLastAnimFinished": 0
+}

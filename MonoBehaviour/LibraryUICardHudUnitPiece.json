@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6644546840577050833
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1010148893506580101
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "withInSafeArea": 0,
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5773123725071812817
+  },
+  "_favoriteGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4430522494820874031
+  },
+  "_amountText": {
+    "m_FileID": 0,
+    "m_PathID": -4728007885180237615
+  },
+  "_showClip": {
+    "m_FileID": 3,
+    "m_PathID": -6348789940627725841
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 354315762552125639
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7748449170019192659
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_packProbabilityText": {
+    "m_FileID": 0,
+    "m_PathID": -2903138205314205497
+  },
+  "_perProbabilityText": {
+    "m_FileID": 0,
+    "m_PathID": 7307512384319895751
+  },
+  "_exampleText": {
+    "m_FileID": 0,
+    "m_PathID": -506457826631763769
+  },
+  "_annotationText": {
+    "m_FileID": 0,
+    "m_PathID": 1655374982906362055
+  },
+  "_rarityGuaranteeAnnotationText": {
+    "m_FileID": 0,
+    "m_PathID": -1935922920753809209
+  }
+}

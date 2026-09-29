@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -765427369368567094
+  },
+  "m_Name": "UI 表示制御(Clone)",
+  "m_Time": 2.0,
+  "ProcessType": 5,
+  "OverWorldBackgroundType": 0
+}

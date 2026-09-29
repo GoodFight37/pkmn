@@ -1,0 +1,1858 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -577738515089981028
+  },
+  "m_Name": "FontAssetIndex",
+  "_otfFonts": [
+    {
+      "_languageTypes": [
+        0
+      ],
+      "_fonts": [
+        {
+          "_guid": "ba8aca47e42b84617a488ed24664af5f",
+          "_address": "Common/Font/Raw/Pokesymbol2-regular.otf"
+        },
+        {
+          "_guid": "702418d3c03d14c849fd53162bf800b4",
+          "_address": "Common/Font/Raw/TPC_FuturaLTProHeavy.otf"
+        },
+        {
+          "_guid": "d173ff40b418c4e8f95ab89db7189b06",
+          "_address": "Common/Font/Raw/TPC_NewRodinPro-DB.otf"
+        },
+        {
+          "_guid": "4b30e32b03347465b9bd8d2c6a5b836b",
+          "_address": "Common/Font/Raw/FOT-NewRodinPro-EB.otf"
+        },
+        {
+          "_guid": "18d05ec7b63d64f3f8abfc7320339656",
+          "_address": "Common/Font/Raw/TPC-RodinNTLGPro-EB.otf"
+        }
+      ]
+    },
+    {
+      "_languageTypes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        11
+      ],
+      "_fonts": [
+        {
+          "_guid": "ba8aca47e42b84617a488ed24664af5f",
+          "_address": "Common/Font/Raw/Pokesymbol2-regular.otf"
+        },
+        {
+          "_guid": "702418d3c03d14c849fd53162bf800b4",
+          "_address": "Common/Font/Raw/TPC_FuturaLTProHeavy.otf"
+        },
+        {
+          "_guid": "29235cd7a576e496db1299bc27b8b3f1",
+          "_address": "Common/Font/Raw/TPC_GillSansNovaBold.otf"
+        },
+        {
+          "_guid": "b992654962da746ebaf4d7748801e8ee",
+          "_address": "Common/Font/Raw/TPC_GillSansNovaMedium.otf"
+        },
+        {
+          "_guid": "d94a1cf00a692483187072a1c1ae88c3",
+          "_address": "Common/Font/Raw/BO-GSanSrfStd-Bd.otf"
+        }
+      ]
+    },
+    {
+      "_languageTypes": [
+        7
+      ],
+      "_fonts": [
+        {
+          "_guid": "ba8aca47e42b84617a488ed24664af5f",
+          "_address": "Common/Font/Raw/Pokesymbol2-regular.otf"
+        },
+        {
+          "_guid": "702418d3c03d14c849fd53162bf800b4",
+          "_address": "Common/Font/Raw/TPC_FuturaLTProHeavy.otf"
+        },
+        {
+          "_guid": "2d2588ee087fe403a836ed4bb1a42784",
+          "_address": "Common/Font/Raw/TPC_YoonGothicPro790.otf"
+        },
+        {
+          "_guid": "d183474ece70049a780afaf2f5e41fef",
+          "_address": "Common/Font/Raw/TPC_YoonGothicPro760.otf"
+        },
+        {
+          "_guid": "1cf3521c6d0e64836b0fe24a6968e3c5",
+          "_address": "Common/Font/Raw/TPC-YDHeadRoundB.otf"
+        }
+      ]
+    },
+    {
+      "_languageTypes": [
+        8
+      ],
+      "_fonts": [
+        {
+          "_guid": "ba8aca47e42b84617a488ed24664af5f",
+          "_address": "Common/Font/Raw/Pokesymbol2-regular.otf"
+        },
+        {
+          "_guid": "702418d3c03d14c849fd53162bf800b4",
+          "_address": "Common/Font/Raw/TPC_FuturaLTProHeavy.otf"
+        },
+        {
+          "_guid": "b43e48d4571c247bba0f9ba6094956bc",
+          "_address": "Common/Font/Raw/TPC_MXiangHeHeiTC-Black.otf"
+        },
+        {
+          "_guid": "90e98cbfd2635403ea70c494e329cc8e",
+          "_address": "Common/Font/Raw/TPC_MXiangHeHeiTC-Book.otf"
+        },
+        {
+          "_guid": "a772178ae077e48919a905c2294c2047",
+          "_address": "Common/Font/Raw/BO-UDShinGoStdTC-Bol.otf"
+        }
+      ]
+    },
+    {
+      "_languageTypes": [
+        10
+      ],
+      "_fonts": [
+        {
+          "_guid": "ba8aca47e42b84617a488ed24664af5f",
+          "_address": "Common/Font/Raw/Pokesymbol2-regular.otf"
+        },
+        {
+          "_guid": "702418d3c03d14c849fd53162bf800b4",
+          "_address": "Common/Font/Raw/TPC_FuturaLTProHeavy.otf"
+        },
+        {
+          "_guid": "f70fef86699354e45b3be93fa56b8b36",
+          "_address": "Common/Font/Raw/BO-UDShinGoSCGb4-Bol.otf"
+        },
+        {
+          "_guid": "37c9344de594444eabc59f38cc1d5541",
+          "_address": "Common/Font/Raw/BO-UDShinGoSCGb4-Reg.otf"
+        }
+      ]
+    }
+  ],
+  "_textMeshProFonts": [
+    {
+      "_languageType": 0,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "0d13cd7b6b339462fb30645cd338ef7a",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-DB SDF.asset"
+        },
+        {
+          "_guid": "7ba597352ac3a43bf8a3a892015b2084",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB SDF.asset"
+        },
+        {
+          "_guid": "56ed7000e0f8d476eb78dc44746a3a39",
+          "_address": "Common/Font/TMPro/FOT-RodinNTLGPro-EB SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "4fdac5d6ac93543bba0252196a7a4c9f",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-DB-SDF-White.mat"
+        },
+        {
+          "_guid": "0f9f4a92fb2684e9a82ab30f78b5c3b9",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-DB-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "e086de606dba9418094660f578e8f544",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "3e2c5293c0fb44d1e84b9010af721c37",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Gray.mat"
+        },
+        {
+          "_guid": "cbe8ab4338945411bbea147e3d3fb3ad",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "57b6b4707c5e94e41b13a1549b133f72",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "fa2bde35bf38b4918a98f005583ca771",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Red.mat"
+        },
+        {
+          "_guid": "2cda9016a35514fc4843dea31557aa19",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "1e2279939717a44cd83ac09b8dd4d0e7",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "9a863c942be9c42ce98a5cafebbdc8d7",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-White.mat"
+        },
+        {
+          "_guid": "a81d303e72a5948ae9d302384d467a8a",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-WhiteBoldOutline.mat"
+        },
+        {
+          "_guid": "ffd9c9102336246df805b6e257be6910",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8439cc184c55b4006b6c5c312cf95097",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "0a18497bf04934c038775920cfd2cc97",
+          "_address": "Common/Font/TMPro/FOT-NewRodinPro-EB-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "461e6f2a3245546538219c996b45a3f1",
+          "_address": "Common/Font/TMPro/FOT-RodinNTLGPro-EB SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "05beecb13b9364333b77c45c0fe8cbd5",
+          "_address": "Common/Font/TMPro/FOT-RodinNTLGPro-EB SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 1,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 2,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 3,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 4,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 5,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 6,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 9,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 11,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "6bfd278d199c842529906552d9f2b6b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold SDF.asset"
+        },
+        {
+          "_guid": "8a357844d312d4034bae3ec6d23ecfde",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium SDF.asset"
+        },
+        {
+          "_guid": "39438ec3465b14653a4261063907253a",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "fdaf43e58210c4846aa59714c8d8dcc7",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "ba4b7c77bdb684db78beb781502d61f0",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray.mat"
+        },
+        {
+          "_guid": "6c26be4d7d2ba4e71b7699de4057a720",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62639cf2a866e46fd86a7bc4d913a14b",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "ebf5a9ca2853f4aff8c04222e9239e11",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red.mat"
+        },
+        {
+          "_guid": "52255f052ce324124b83eea66fc22c3a",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "81bc7e469865b4233961a06936163f92",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "dfa28a48a05334439b6db4e788f33659",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-White.mat"
+        },
+        {
+          "_guid": "27a530fa5ab10407db602161b4e8204c",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "47c7f4307160741f6943b499587ee9a4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "ff82192c8cb3d4074925cabfe86cc9b4",
+          "_address": "Common/Font/TMPro/GillSansNova-Bold-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "0e509940325c94229806224e7d04513c",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-White.mat"
+        },
+        {
+          "_guid": "4bf9e2fec835b435ba8b95a247bad663",
+          "_address": "Common/Font/TMPro/GillSansNova-Medium-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "8098e28339adf4e528f4c9cdfcb9a559",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "f6c0da4ffc6b04153973cefe1ea974c6",
+          "_address": "Common/Font/TMPro/BO-GSanSrfStd-Bd SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 7,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "f2cff9ec262e947e6b1b54c24bf224e0",
+          "_address": "Common/Font/TMPro/YoonGothicPro760 SDF.asset"
+        },
+        {
+          "_guid": "dc38cfd26a39048808fb5e7f82e97271",
+          "_address": "Common/Font/TMPro/YoonGothicPro790 SDF.asset"
+        },
+        {
+          "_guid": "0b29c788a403b4f29b8b9aa5f30e7115",
+          "_address": "Common/Font/TMPro/FOTK-YDHeadRoundB SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "d52d3b110e0284017932f535b43560b4",
+          "_address": "Common/Font/TMPro/YoonGothicPro760-SDF-White.mat"
+        },
+        {
+          "_guid": "90aafbf9f58f74a68a95cec80ac3f05b",
+          "_address": "Common/Font/TMPro/YoonGothicPro760-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "cdacdba30f0424b09b257863c56e91ca",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "1a58c4c86f2f24872b3f443fd82c5db9",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Gray.mat"
+        },
+        {
+          "_guid": "8966cd79498674dacadf75647f5240ac",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "9af6bf220d869443ca5bb2f0471e9ad9",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "f34bc1194735444f4b4be851e0ce3236",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Red.mat"
+        },
+        {
+          "_guid": "97b0437179a154b61938b7313e353439",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "34330b530ac834de5b9d1affe265fc86",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "cf1c6ce4164814cf0a1a0c599a25e20f",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-White.mat"
+        },
+        {
+          "_guid": "8880b2033525f4ed4be8b1cf8acba379",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-WhiteBoldOutline.mat"
+        },
+        {
+          "_guid": "17af3e3636c774cbfbb5369e80486997",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "da7f3ccbef1194c7c8fb2c8523da7cd7",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "0d230a90d6ac04834859c00eb342adb5",
+          "_address": "Common/Font/TMPro/YoonGothicPro790-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "b717d6d0ca8bc4c1fae4e596b2161d10",
+          "_address": "Common/Font/TMPro/FOTK-YDHeadRoundB SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "d1fc02c9f0b0b43afbca2cc411459b03",
+          "_address": "Common/Font/TMPro/FOTK-YDHeadRoundB SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 8,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "18b7cfed7914340699411cceb8a6f080",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black SDF.asset"
+        },
+        {
+          "_guid": "129ba1aba6a1f47308f003efb94dfecc",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Book SDF.asset"
+        },
+        {
+          "_guid": "fb69a4a255c4e468a85bbd8ada004b06",
+          "_address": "Common/Font/TMPro/BO-UDShinGoStdTC-Bol SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "d10278288212a4a97837a9ba98176739",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "a8907b7a1fafa4698aa4ea104eec9f3c",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Gray.mat"
+        },
+        {
+          "_guid": "3d7240b43f3da47828897af79b4f948f",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "62cf01f667126462e88e39372d4b9198",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "094df92b0a87642f19d7acb628b8d004",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Red.mat"
+        },
+        {
+          "_guid": "90fab251d603545a690f7e006ca69091",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "78c75c0db0db04d4ba5b57afd58285c4",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "6dc3d6f82bfb8458cad2fed12ca502b2",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-White.mat"
+        },
+        {
+          "_guid": "55f0a116f351f48938445ea8b764722d",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-WhiteBoldOutline.mat"
+        },
+        {
+          "_guid": "ce5999b190a914593a8586d95d5705bb",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "1a0b51ab5ab7e4a1e9eb1420afbabfb3",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Yellow.mat"
+        },
+        {
+          "_guid": "f1d56cbfdffd640d88ef5eb1b6c73c2d",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Black-SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "83c46a42b26c54503861e01e96be5d59",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Book-SDF-White.mat"
+        },
+        {
+          "_guid": "fead0c62e32764145ad39af4688e768e",
+          "_address": "Common/Font/TMPro/TPC-MXiangHeHeiTC-Book-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "d0a896b6c528742edb0fd84ebadda0bf",
+          "_address": "Common/Font/TMPro/BO-UDShinGoStdTC-Bol SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "cf89fe3704e16409580ee312ea9695ee",
+          "_address": "Common/Font/TMPro/BO-UDShinGoStdTC-Bol SDF-RainbowTagOutlineInline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    },
+    {
+      "_languageType": 10,
+      "_fonts": [
+        {
+          "_guid": "c236daef0241a4ae5bb9bbc537f660da",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF.asset"
+        },
+        {
+          "_guid": "b0f2b6f926dbd429ba7ac4b9998169f2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF.asset"
+        },
+        {
+          "_guid": "67e6205fe9a7a4264a0f1375dfdf4667",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF.asset"
+        },
+        {
+          "_guid": "7acc14b9143ef4a288e0788634cd790e",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Reg SDF.asset"
+        }
+      ],
+      "_materials": [
+        {
+          "_guid": "79c51730d641745b193c464d8e40adf8",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-White.mat"
+        },
+        {
+          "_guid": "b70499e27259944afa0440fe824abd29",
+          "_address": "Common/Font/TMPro/Pokesymbol2-regular-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "30d44c1a235b7412bb329694526a90e0",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection.mat"
+        },
+        {
+          "_guid": "c8c92542188f64876a09622e037f2490",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_Gray.mat"
+        },
+        {
+          "_guid": "bdc3ffaaf7f0d4c2aa413b44252eec47",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White.mat"
+        },
+        {
+          "_guid": "346fed86682ed4f9b8c0d2ff4f622137",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_WhiteOutline.mat"
+        },
+        {
+          "_guid": "d13c6071beacf4a5e966b5b2900f42a7",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-Collection_White_Shadow.mat"
+        },
+        {
+          "_guid": "eba41fd7535d543ec9620c30e96fb56d",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX.mat"
+        },
+        {
+          "_guid": "84ef5d15fed6c446c9de18ff81a89308",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-EX_WhiteOutline.mat"
+        },
+        {
+          "_guid": "4f1f8ff8bdfac4e8898e1b8246ba9e69",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-HP_WhiteOutline.mat"
+        },
+        {
+          "_guid": "c16d87cfa72014048948eca22dc96c89",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-White.mat"
+        },
+        {
+          "_guid": "28455088b946a470ca9d1ffb485e3ba2",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy-SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "089e464b8ad954db7a9c9e2a920a375e",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Emblem_Anniv.mat"
+        },
+        {
+          "_guid": "e8362c4e2c86f4995a52a1d8cf20587b",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Gray.mat"
+        },
+        {
+          "_guid": "18f1f18a7ddfa46929a4a583826e67f6",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Gray_WhiteOutline.mat"
+        },
+        {
+          "_guid": "794d21069602144cc942e332282d1b3a",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-MultiLine_WhiteOutline.mat"
+        },
+        {
+          "_guid": "995b024ece07f4d56828344817e20878",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-RainbowTagOutline.mat"
+        },
+        {
+          "_guid": "e48450d9e6563497299110fdf6684e6b",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-RainbowTagOutlineInline.mat"
+        },
+        {
+          "_guid": "47b2d3703aa5342958f40275f0301dfd",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Red.mat"
+        },
+        {
+          "_guid": "288a79bcbfa924b9c9bd93e6c85a77ec",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Red_WhiteOutline.mat"
+        },
+        {
+          "_guid": "27683a6c69c3d44dfab430a5e370fe08",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Region_WhiteOutline.mat"
+        },
+        {
+          "_guid": "8b7ec5ad9fd6a42efbbe2781df9b6995",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-White.mat"
+        },
+        {
+          "_guid": "425071f7f63544290b42b00604757957",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-WhiteBoldOutline.mat"
+        },
+        {
+          "_guid": "58651dfb39b774350ac04b46307cd8cb",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-WhiteOutline.mat"
+        },
+        {
+          "_guid": "a32cd621ede1c4a1b9a7864d9280822a",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Yellow.mat"
+        },
+        {
+          "_guid": "48932840bcf194454a77f9e2d2b96815",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Bol SDF-Yellow_BlackOutline.mat"
+        },
+        {
+          "_guid": "7ef85fa63ceaa499dabd6d02abc83b1d",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Reg SDF-White.mat"
+        },
+        {
+          "_guid": "996ab7311cdc9468a9ab604cba8b55a7",
+          "_address": "Common/Font/TMPro/BO-UDShinGoSCGb4-Reg SDF-WhiteOutline.mat"
+        }
+      ],
+      "_fontSettings": [
+        {
+          "_guid": "5314e3dda233f4c87aa7d47b4e31a566",
+          "_address": "Common/Font/TMPro/FuturaLTPro-Heavy SDF_FontSettings.asset"
+        }
+      ]
+    }
+  ]
+}

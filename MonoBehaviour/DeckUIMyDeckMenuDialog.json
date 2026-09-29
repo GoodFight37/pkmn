@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -510766126196483616
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575568831935615750
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6780796487182621152
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_createNewDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": 7651657427739974112
+  },
+  "_createFromTemplateButton": {
+    "m_FileID": 0,
+    "m_PathID": -122487083972781600
+  },
+  "_createFromCodeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3591671846764635680
+  },
+  "_copyDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": 5874578223754811872
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 6780796487182621152
+  }
+}

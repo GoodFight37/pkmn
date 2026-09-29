@@ -1,0 +1,209 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 6844407672983261996,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_FaceTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 3075911927517116540,
+          "Name": "BO-UDShinGoSCGb4-Reg Atlas",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_Ambient": 0.5,
+      "_Bevel": 0.5,
+      "_BevelClamp": 0.0,
+      "_BevelOffset": 0.0,
+      "_BevelRoundness": 0.0,
+      "_BevelThreshold": 0.1,
+      "_BevelWidth": 0.0,
+      "_BumpFace": 0.0,
+      "_BumpOutline": 0.0,
+      "_BumpWeight": 0.0,
+      "_ColorMask": 15.0,
+      "_CullMode": 0.0,
+      "_Diffuse": 0.5,
+      "_FaceDilate": 0.22,
+      "_FaceTexScale": 1.0,
+      "_FaceUVSpeedX": 0.0,
+      "_FaceUVSpeedY": 0.0,
+      "_FattenEnable": 0.0,
+      "_FattenFactor": 0.0,
+      "_GlowInner": 0.05,
+      "_GlowOffset": 0.0,
+      "_GlowOuter": 0.05,
+      "_GlowPower": 0.75,
+      "_GradationRotation": 3.1416,
+      "_GradientScale": 10.0,
+      "_LightAngle": 3.1416,
+      "_MaskSoftnessX": 0.0,
+      "_MaskSoftnessY": 0.0,
+      "_Multiplier": 1.0,
+      "_OutlineSoftness": 0.0,
+      "_OutlineUVSpeedX": 0.0,
+      "_OutlineUVSpeedY": 0.0,
+      "_OutlineWidth": 0.2,
+      "_PerspectiveFilter": 0.875,
+      "_Point1": 0.0,
+      "_Point2": 0.0,
+      "_Point3": 0.0,
+      "_Point4": 0.0,
+      "_Reflectivity": 10.0,
+      "_ScaleRatioA": 0.9,
+      "_ScaleRatioB": 0.53325,
+      "_ScaleRatioC": 0.53325,
+      "_ScaleX": 1.0,
+      "_ScaleY": 1.0,
+      "_ShaderFlags": 0.0,
+      "_Sharpness": 0.0,
+      "_SpecularPower": 2.0,
+      "_Stencil": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilOp": 0.0,
+      "_StencilReadMask": 255.0,
+      "_StencilWriteMask": 255.0,
+      "_TextureHeight": 1024.0,
+      "_TextureWidth": 1024.0,
+      "_UnderlayDilate": 0.0,
+      "_UnderlayOffsetX": 0.0,
+      "_UnderlayOffsetY": 0.0,
+      "_UnderlaySoftness": 0.0,
+      "_VertexOffsetX": 0.0,
+      "_VertexOffsetY": 0.0,
+      "_WeightBold": 0.75,
+      "_WeightNormal": 0.0
+    },
+    "m_Colors": {
+      "_ClipRect": {
+        "r": -32767.0,
+        "g": -32767.0,
+        "b": 32767.0,
+        "a": 32767.0
+      },
+      "_Color1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvMatrixRotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_FaceColor": {
+        "r": 0.13725491,
+        "g": 0.09411765,
+        "b": 0.08235294,
+        "a": 1.0
+      },
+      "_GlowColor": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.5
+      },
+      "_GradationRotationCenter": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MaskCoord": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 32767.0,
+        "a": 32767.0
+      },
+      "_Offset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ReflectFaceColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ReflectOutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_UnderlayColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.5
+      }
+    }
+  },
+  "m_Name": "BO-UDShinGoSCGb4-Reg SDF-WhiteOutline",
+  "Name": "BO-UDShinGoSCGb4-Reg SDF-WhiteOutline"
+}

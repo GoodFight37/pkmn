@@ -1,0 +1,496 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 451877255339986962
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3466145359302376682
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6267956980898418706
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_tab": {
+    "m_FileID": 0,
+    "m_PathID": -4347702766471458798
+  },
+  "_scrollMoveTabView": {
+    "m_FileID": 0,
+    "m_PathID": 9048044227800485906
+  },
+  "_topHeaderElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5956717461098901486
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2570655785105272814
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6724245947513745390
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7275766075516825582
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6911878381694373906
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7568726140587061230
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7337857022275244050
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5447635429169934318
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1369372715714170898
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3830925028341428206
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4036896542444924910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8325156941403803666
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8275276903187591150
+    }
+  ],
+  "_themeCollectionButton": {
+    "m_FileID": 0,
+    "m_PathID": -2804042805042065390
+  },
+  "_themeCollectionButtonBadge": {
+    "m_FileID": 0,
+    "m_PathID": -2117823656765468654
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6267956980898418706
+  },
+  "_receiveAllObject": {
+    "m_FileID": 0,
+    "m_PathID": 6607368997896212498
+  },
+  "_receiveAllButton": {
+    "m_FileID": 0,
+    "m_PathID": 8814475152710782994
+  },
+  "_receiveAllButtonEnableImage": {
+    "m_FileID": 0,
+    "m_PathID": 5280290343038963730
+  },
+  "_receiveAllButtonDisableImage": {
+    "m_FileID": 0,
+    "m_PathID": -5482928733482627054
+  },
+  "_receiveAllButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 9151726461046378514
+  },
+  "_receiveAllButtonAnimationClips": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 5456029476079355430
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 1759564724278457348
+    }
+  ],
+  "_receiveFooterCoverImage": {
+    "m_FileID": 0,
+    "m_PathID": 5264029213137588242
+  },
+  "_indexListButton": {
+    "m_FileID": 0,
+    "m_PathID": -123592070788984814
+  },
+  "_indexListAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -306952675516526574
+  },
+  "_indexListScrollContentCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 8423198294213152786
+  },
+  "_objectsPerTabs": [
+    {
+      "_tabName": "IndexList",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -6761486673954648046
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1587898523851378706
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8183428673891250158
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": 4931344137666056210
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": 4224949569620430866
+      }
+    },
+    {
+      "_tabName": "ComeBack",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -8656477900802404334
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1084927776827748334
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7238397860284747794
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": 2061300710834655250
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": 724650402388987922
+      }
+    },
+    {
+      "_tabName": "Tutorial",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": 403706369527009298
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1560213626199822354
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5516603703170871278
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -8054236040786128878
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -2636783445817012206
+      }
+    },
+    {
+      "_tabName": "Daily",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": 6188259944926105618
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8347365973064265710
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3607760150088101870
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -5305996122448834542
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -2233503763023900654
+      }
+    },
+    {
+      "_tabName": "Deck",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": 7457852010045657106
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 8420981883559890962
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5415651875881988078
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -4528525128966385646
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": 8187117935458471954
+      }
+    },
+    {
+      "_tabName": "Event1",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": 7633370076327989266
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7324595297733595154
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3716235590512103442
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": 7510754018941685778
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -805378743380979694
+      }
+    },
+    {
+      "_tabName": "Event2",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -8650270398671728622
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1125782079158988782
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3860149785225547794
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -2935953521029102
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": 3768398928318779410
+      }
+    },
+    {
+      "_tabName": "Event3",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -6030974486995972078
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 8312856335209943058
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3702326968026222610
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -7852654940264443886
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": 2797074681304535058
+      }
+    },
+    {
+      "_tabName": "Event4",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -8107720803707564014
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8620600747529187310
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6920389220457361390
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -8138432344316227566
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -9193600286235996142
+      }
+    },
+    {
+      "_tabName": "Event5",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -2796110115375394798
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8482135947270467566
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8172485678577307666
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -5144143267497488366
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -3879072381705301998
+      }
+    },
+    {
+      "_tabName": "Event6",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": 4434610531471675410
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5658492750476783598
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7827654693556015122
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -686890690537500654
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -1339933701653901294
+      }
+    },
+    {
+      "_tabName": "Event7",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -9049658284502462446
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3306482649916026862
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8991320390847713298
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": -6291785472779792366
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": -1072179804376313838
+      }
+    },
+    {
+      "_tabName": "Premium",
+      "_emptyText": {
+        "m_FileID": 0,
+        "m_PathID": -700900912763219950
+      },
+      "_receiveCoverObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2329910782738018286
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7006329580417667090
+        }
+      ],
+      "_heightVariableHeaderBehaviour": {
+        "m_FileID": 0,
+        "m_PathID": 6114023209605681170
+      },
+      "_scrollContents": {
+        "m_FileID": 0,
+        "m_PathID": 1318656449817628690
+      }
+    }
+  ]
+}

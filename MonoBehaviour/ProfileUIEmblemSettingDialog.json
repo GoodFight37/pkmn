@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5494358103575161584
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8280137064883469889
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -3511587449746483952
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 973455913786414352
+  },
+  "_emblem1Button": {
+    "m_FileID": 0,
+    "m_PathID": 7412673730995295504
+  },
+  "_emblem2Button": {
+    "m_FileID": 0,
+    "m_PathID": 445719051922248976
+  },
+  "_emblem3Button": {
+    "m_FileID": 0,
+    "m_PathID": -7152069722359065328
+  },
+  "_emblem1Image": {
+    "m_FileID": 0,
+    "m_PathID": 9199809489330967824
+  },
+  "_emblem2Image": {
+    "m_FileID": 0,
+    "m_PathID": -4664102365344492272
+  },
+  "_emblem3Image": {
+    "m_FileID": 0,
+    "m_PathID": -790553666597022448
+  },
+  "_emblem1ImageShadow": {
+    "m_FileID": 0,
+    "m_PathID": 1807045542282073360
+  },
+  "_emblem2ImageShadow": {
+    "m_FileID": 0,
+    "m_PathID": -6938014476883192560
+  },
+  "_emblem3ImageShadow": {
+    "m_FileID": 0,
+    "m_PathID": -1323551896200014576
+  },
+  "_emblem1EmptyBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": 2230493232873411856
+  },
+  "_emblem2EmptyBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": 2234859548077659408
+  },
+  "_emblem3EmptyBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -1897532379113974512
+  },
+  "_emblem1EmptyIconObject": {
+    "m_FileID": 0,
+    "m_PathID": 7905286713262806288
+  },
+  "_emblem2EmptyIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -2030370135386680048
+  },
+  "_emblem3EmptyIconObject": {
+    "m_FileID": 0,
+    "m_PathID": 6867430578132948240
+  },
+  "_unsetAllButton": {
+    "m_FileID": 0,
+    "m_PathID": 1521969684128732432
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": 1822494704341488912
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -4253726193986431728
+  },
+  "_viewPortRectMask2D": {
+    "m_FileID": 0,
+    "m_PathID": -6532578801742047984
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -5302432596894608112
+  }
+}

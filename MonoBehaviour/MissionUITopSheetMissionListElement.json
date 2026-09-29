@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5676692314061365772
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1373174989226120417
+  },
+  "m_Name": "",
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": -9016916779364606476
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6363254135297777140
+  },
+  "_conditionObject": {
+    "m_FileID": 0,
+    "m_PathID": -808123200880599564
+  },
+  "_typeConditionImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -3109868577218060812
+  },
+  "_expansionConditionImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 8145203989336268276
+  },
+  "_rarityConditionView": {
+    "m_FileID": 0,
+    "m_PathID": -7908097296182043148
+  },
+  "_cardRewardingObject": {
+    "m_FileID": 0,
+    "m_PathID": -765830374012838412
+  },
+  "_newCardEffectAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7882904777156435444
+  },
+  "_activityButton": {
+    "m_FileID": 0,
+    "m_PathID": -7795129624208368140
+  },
+  "_activityTypeImageView": {
+    "m_FileID": 0,
+    "m_PathID": 3662023671255375348
+  },
+  "_activityRewardingObject": {
+    "m_FileID": 0,
+    "m_PathID": 4569697192345640436
+  },
+  "_activityRewardedStampObject": {
+    "m_FileID": 0,
+    "m_PathID": -5390039212794143244
+  },
+  "_activityRewardedStamps": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5562811221644975604
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6410514873770286580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7140360921620323828
+    }
+  ],
+  "_newActivityEffectAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6527351947433239052
+  },
+  "_gauge": {
+    "m_FileID": 0,
+    "m_PathID": -695164035890635276
+  },
+  "_progressNumText": {
+    "m_FileID": 0,
+    "m_PathID": -5112654194056323596
+  },
+  "_newEffectAnimationClip": {
+    "m_FileID": 2,
+    "m_PathID": -5207828054552541328
+  }
+}

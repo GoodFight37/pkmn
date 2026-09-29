@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2098332274713112775
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2702869796700193947
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 1822883830221582535
+  },
+  "_typeGameObjects": [
+    {
+      "Type": 1,
+      "BgImage": {
+        "m_FileID": 0,
+        "m_PathID": 1465843666310738119
+      },
+      "BadgeElm": {
+        "m_FileID": 0,
+        "m_PathID": -3476904844682055481
+      }
+    },
+    {
+      "Type": 2,
+      "BgImage": {
+        "m_FileID": 0,
+        "m_PathID": 2015927203636064455
+      },
+      "BadgeElm": {
+        "m_FileID": 0,
+        "m_PathID": 1000827288855851207
+      }
+    },
+    {
+      "Type": 3,
+      "BgImage": {
+        "m_FileID": 0,
+        "m_PathID": -6889384043650535225
+      },
+      "BadgeElm": {
+        "m_FileID": 0,
+        "m_PathID": -5701107148624875321
+      }
+    },
+    {
+      "Type": 4,
+      "BgImage": {
+        "m_FileID": 0,
+        "m_PathID": 7059160942900883655
+      },
+      "BadgeElm": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "_badgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -7184858074989580089
+  },
+  "_bannerImage": {
+    "m_FileID": 0,
+    "m_PathID": 1116178990567338183
+  },
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": 2415187434651463879
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5779221277644697799
+  },
+  "_changeExpansionButton": {
+    "m_FileID": 0,
+    "m_PathID": 5187434152772382919
+  },
+  "_newBadgeOfExpansionButton": {
+    "m_FileID": 0,
+    "m_PathID": 7961532859201237191
+  },
+  "_currentExpansionImage": {
+    "m_FileID": 0,
+    "m_PathID": 599845118521913543
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1173583290166967540
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6383811912109100483
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 4271191164279225588
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -2544177196271960844
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 4271191164279225588
+  },
+  "_noticeButton": {
+    "m_FileID": 0,
+    "m_PathID": 187973205466119412
+  },
+  "_currGoldText": {
+    "m_FileID": 0,
+    "m_PathID": -490475728422011660
+  },
+  "_currencyDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -8214808828689285900
+  },
+  "_coverElm": {
+    "m_FileID": 0,
+    "m_PathID": 613939106866429172
+  },
+  "_loadedElm": {
+    "m_FileID": 0,
+    "m_PathID": 3004131894791929076
+  },
+  "_loadingElm": {
+    "m_FileID": 0,
+    "m_PathID": 1933390414093909236
+  },
+  "_loadedAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 6095331397593693428
+  },
+  "_loadedClip": {
+    "m_FileID": 2,
+    "m_PathID": -4183412194848518430
+  },
+  "_showLoadingClip": {
+    "m_FileID": 2,
+    "m_PathID": -5740603906699428132
+  },
+  "_hideDialogClip": {
+    "m_FileID": 2,
+    "m_PathID": -5210877173395680518
+  },
+  "_showSameLayerClip": {
+    "m_FileID": 2,
+    "m_PathID": 480214160024349637
+  },
+  "_hideSameLayerClip": {
+    "m_FileID": 2,
+    "m_PathID": -2144330011657772867
+  }
+}

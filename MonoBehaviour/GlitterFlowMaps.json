@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2136174572216956929
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5213279839336582522
+  },
+  "m_Name": "",
+  "_renderer": {
+    "m_FileID": 0,
+    "m_PathID": 980105577114191871
+  },
+  "_accelIntensity": 0.1,
+  "_maxFlowSpeed": 1.0,
+  "_minFlowSpeed": 0.05,
+  "_initFlowSpeed": 0.0,
+  "_resistance": 0.0065,
+  "_minTiltPower": 0.7,
+  "_lightSpeed": 0.25,
+  "_flowAMinRotateSpeed": 0.02,
+  "_flowAMaxRotateSpeed": 0.7,
+  "_flowBMinRotateSpeed": -0.02,
+  "_flowBMaxRotateSpeed": -0.7,
+  "_flowAInitialRotation": 0.0,
+  "_flowBInitialRotation": 0.0
+}

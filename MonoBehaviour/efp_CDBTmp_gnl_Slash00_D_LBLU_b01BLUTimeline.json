@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "efp_CDBTmp_gnl_Slash00_D_LBLU_b01BLUTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3805603591167756548
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8428313193654040316
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5254969561867503876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1204656082856593668
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3238595679109662980
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8269723300845865220
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

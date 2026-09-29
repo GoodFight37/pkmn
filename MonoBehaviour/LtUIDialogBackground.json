@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3720180011762396202
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8722293250181449463
+  },
+  "m_Name": "",
+  "_colliderObject": {
+    "m_FileID": 0,
+    "m_PathID": 3488785798780693546
+  },
+  "_colliderTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 868997164686781482
+  },
+  "_blackBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": -2961467211415606230
+  },
+  "_grayBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": -4803287182915916758
+  },
+  "_whiteBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": 178768766624082986
+  },
+  "_effectBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": 6724431246596844586
+  },
+  "_blurBackgroundEffect": {
+    "m_FileID": 0,
+    "m_PathID": -6033703800648881110
+  },
+  "_grayOverBlurBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": -4166785793830278102
+  },
+  "_whiteScrollBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": -8172301712742798294
+  },
+  "_grayGradientBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": 7144756312672775210
+  },
+  "_lightGrayGradientBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": 495385088760425514
+  },
+  "_tutorialBackgroundObject": {
+    "m_FileID": 0,
+    "m_PathID": -3016067820647535574
+  },
+  "_eneImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 8735968453759347754
+  },
+  "_defaultShowAnimationClip": {
+    "m_FileID": 2,
+    "m_PathID": 2984617017457765953
+  },
+  "_defaultHideAnimationClip": {
+    "m_FileID": 2,
+    "m_PathID": -8383306630098114068
+  }
+}

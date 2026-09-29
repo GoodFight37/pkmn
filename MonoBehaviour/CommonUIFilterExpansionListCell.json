@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3394005853624110019
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5408378932815444985
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2174017367187158077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1360242229030259651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7133910727318860861
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8025729639276907459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6441822491395853251
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_logoImage": {
+    "m_FileID": 0,
+    "m_PathID": -6661603182829210563
+  },
+  "_allButton": {
+    "m_FileID": 0,
+    "m_PathID": 2174017367187158077
+  },
+  "_skuLogoImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8321452951957310403
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6720370730154751037
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2694448696276782019
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5482071717379667005
+    }
+  ],
+  "_buttons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1360242229030259651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7133910727318860861
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8025729639276907459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6441822491395853251
+    }
+  ]
+}

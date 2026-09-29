@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "CardShuffleTimelineFor5Card",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3025269522589152825
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8563443213949274567
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -562765020083718599
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7334735212675659321
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7726401452427048505
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6879361325464160711
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9166709410906573255
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

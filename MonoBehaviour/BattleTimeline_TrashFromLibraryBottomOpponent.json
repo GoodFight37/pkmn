@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_TrashFromLibraryBottomOpponent",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5227413868414723793
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1264010173934888657
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6539005338527295185
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2328198842648913617
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8053528535917631791
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4673588221786888495
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 7060410840959641297
+  }
+}

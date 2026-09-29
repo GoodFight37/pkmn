@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1343512140776461805
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3196947325534498112
+  },
+  "m_Name": "",
+  "_cardSize": 3,
+  "_clampParallax": 1,
+  "_alwaysDetailEffect": 0
+}

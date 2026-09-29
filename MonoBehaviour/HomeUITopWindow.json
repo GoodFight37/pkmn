@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 789666245197802404
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7087972060134115082
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_mainContentView": {
+    "m_FileID": 0,
+    "m_PathID": -1865972341663945820
+  },
+  "_playerStatusView": {
+    "m_FileID": 0,
+    "m_PathID": -5801479360792384604
+  },
+  "_subMenuAreaView": {
+    "m_FileID": 0,
+    "m_PathID": -2487198556151632988
+  },
+  "_favouriteView": {
+    "m_FileID": 0,
+    "m_PathID": 6019564028663016356
+  },
+  "_packMainBackgroundEffect": {
+    "m_FileID": 0,
+    "m_PathID": 6297337353125538724
+  },
+  "_favoritePackBackgroundEffect": {
+    "m_FileID": 0,
+    "m_PathID": -5895448287608656988
+  },
+  "_leftArrowButton": {
+    "m_FileID": 0,
+    "m_PathID": -4671636068607415388
+  },
+  "_rightArrowButton": {
+    "m_FileID": 0,
+    "m_PathID": -6178958194226254940
+  },
+  "_leftArrowButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": 5721369983284915108
+  },
+  "_rightArrowButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": 7468120000715991972
+  },
+  "_normalHideAnimation": {
+    "m_FileID": 2,
+    "m_PathID": -8933572645493054557
+  },
+  "_packHideAnimation": {
+    "m_FileID": 2,
+    "m_PathID": -5799684742067055345
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": -4152300101245686876
+  },
+  "_pickPackArea": {
+    "m_FileID": 0,
+    "m_PathID": -3034183414966277212
+  },
+  "_swipeVelocityThreshold": 500.0,
+  "_swipeDistanceThreshold": 100.0
+}

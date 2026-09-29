@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenBackOpeningPackTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1871005203242085931
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2898419635948556757
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8357492822840700459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4690370078402417109
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6459060740820561451
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2365195124757360171
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4144352277029514795
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8860909277584551467
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2093334297323311573
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8088704073886011861
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1243097580597350869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1161563414625849813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6338128097232219691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3385227962846941653
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4943700562919297493
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8109062165468484053
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5387576645531472341
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5612397496925482539
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7917802912723374549
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8359579945079017941
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3610940017003008469
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6684772654457754069
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

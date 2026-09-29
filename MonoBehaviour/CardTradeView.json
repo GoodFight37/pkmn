@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8473347913511608337
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4962353069324063350
+  },
+  "m_Name": "",
+  "_cameraView": {
+    "m_FileID": 0,
+    "m_PathID": 9099327995099144175
+  },
+  "_sendCardObjectRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6159794940047450095
+  },
+  "_receiveCardObjectRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5824532255415345169
+  },
+  "_cardTradeTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -2789039562111983633
+  },
+  "_startDuckingSe": {
+    "_value": "TRADE_JGL_DIRECTION"
+  },
+  "_startSe": {
+    "_value": "TRADE_SE_DIRECTION"
+  },
+  "_endDuckingSe": {
+    "_value": "未選択"
+  }
+}

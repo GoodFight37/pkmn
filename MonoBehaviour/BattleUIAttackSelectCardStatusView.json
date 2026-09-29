@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4547978200524607204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7070856713402070830
+  },
+  "m_Name": "",
+  "_hpView": {
+    "m_FileID": 0,
+    "m_PathID": 4665782914941603556
+  },
+  "_energyIconView": {
+    "m_FileID": 0,
+    "m_PathID": -5003442848315322652
+  },
+  "_statusEffectView": {
+    "m_FileID": 0,
+    "m_PathID": -8375069558331322652
+  }
+}

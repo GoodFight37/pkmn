@@ -1,0 +1,213 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4684286857545252993
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2666621692311227094
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_headerBrightSandRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8993773270265495423
+  },
+  "_headerBrightSandNumText": {
+    "m_FileID": 0,
+    "m_PathID": 4357513785942933633
+  },
+  "_brightSandDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 5197669692522496129
+  },
+  "_headerEventTicketRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3945122486472605567
+  },
+  "_headerEventTicketImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -5094450062542503807
+  },
+  "_headerEventTicketNumText": {
+    "m_FileID": 0,
+    "m_PathID": -2554053409063239551
+  },
+  "_eventTicketDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -2755755769460883327
+  },
+  "_staminaElement": {
+    "m_FileID": 0,
+    "m_PathID": -5245920891643821951
+  },
+  "_tradePowerButton": {
+    "m_FileID": 0,
+    "m_PathID": -2821102550737354623
+  },
+  "_tutorialButton": {
+    "m_FileID": 0,
+    "m_PathID": -7817798422030385023
+  },
+  "_wishObject": {
+    "m_FileID": 0,
+    "m_PathID": 6935532158326014081
+  },
+  "_wishIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -6484863980711313279
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3619425548230656129
+  },
+  "_cardEditButton": {
+    "m_FileID": 0,
+    "m_PathID": 3545137196958154881
+  },
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": -4079301573311594367
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": -4249345853470343039
+  },
+  "_tradingPartnerTitle": {
+    "m_FileID": 0,
+    "m_PathID": 6189516983906074753
+  },
+  "_tradingPartnerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 3626576889727090817
+  },
+  "_tradingPartnerName": {
+    "m_FileID": 0,
+    "m_PathID": 8298858880156696705
+  },
+  "_previewRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5572964451920576383
+  },
+  "_cardDetailPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": -25246566088310655
+  },
+  "_cardInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": 6482296060126232705
+  },
+  "_cardPreviewButton": {
+    "m_FileID": 0,
+    "m_PathID": 1484219615693373569
+  },
+  "_cardPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": -1316263153684971391
+  },
+  "_effectIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2531831204085497985
+  },
+  "_effectIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -4124933826483453823
+  },
+  "_tradeMessageButton": {
+    "m_FileID": 0,
+    "m_PathID": -323198984824356735
+  },
+  "_needResourcesElement": {
+    "m_FileID": 0,
+    "m_PathID": 8388788143267643521
+  },
+  "_cautionElement": {
+    "m_FileID": 0,
+    "m_PathID": -9027779655897120639
+  },
+  "_cautionText": {
+    "m_FileID": 0,
+    "m_PathID": -1986172506429521791
+  },
+  "_tradePowerNeededNumText": {
+    "m_FileID": 0,
+    "m_PathID": 424499938350071937
+  },
+  "_footerBrightSandRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3297696309177483393
+  },
+  "_brightSandNeededNumText": {
+    "m_FileID": 0,
+    "m_PathID": -7837407196616851327
+  },
+  "_footerEventTicketRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1108926222334689151
+  },
+  "_eventTicketImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -6830414593469972351
+  },
+  "_eventTicketNeededNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4189868427507924863
+  },
+  "_footerCardEditButton": {
+    "m_FileID": 0,
+    "m_PathID": 7289559769429639297
+  },
+  "_recoveryButton": {
+    "m_FileID": 0,
+    "m_PathID": 5695353288602288257
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 2078162104275566721
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 1674877581921878145
+  },
+  "_tradeInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": -7311952250126270335
+  }
+}

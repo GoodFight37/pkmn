@@ -1,0 +1,41 @@
+###########-
+# ステージ3: エネルギーをつける
+############
+
+- sys_wait: OnWipeEnd
+
+# > エネルギーを付けよう
+- title: battle_tutorial_energy_active_telop_001
+
+# > ポケモンがワザを使うためには、エネルギーが必要です。
+- msg_b: battle_tutorial_energy_active_message_00100
+
+# > ここにエネルギーがあります。
+# > エネルギーゾーンでは自分の番が来るたびにエネルギーが1個ずつ発生します。
+# > また、次の自分の番で発生するエネルギーも表示されています。
+- msg_c: 
+    - battle_tutorial_energy_active_message_00200
+    - battle_tutorial_energy_active_message_00300
+    - battle_tutorial_energy_active_message_00400
+  focus: SelfEnergyZone
+
+# ピカチュウにエネルギーをつけましょう。
+- msg_b: battle_tutorial_energy_active_message_00500
+#  drag_energy: SelfActiveField # NOTE: ここですでに出てて欲しさがあるが一旦仕様優先で非表示
+
+# エネ付与誘導
+- attach_energy: [ Auto, SelfActiveField ]
+
+# 演出終了まで待機
+- sys_wait: OnAttachEnergyFromPool
+
+# ピカチュウに雷エネルギーが1個つきました。
+# これで「かじる」が使えます。
+- msg_b:
+    - battle_tutorial_energy_active_message_00600
+    - battle_tutorial_energy_active_message_00700
+
+# ワザ実行誘導
+- attack: Auto
+
+- sys_end

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2755860973432509341
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3313549795342171652
+  },
+  "m_Name": "",
+  "_mainRankElements": {
+    "_beginner": {
+      "m_FileID": 0,
+      "m_PathID": 2475807956397822877
+    },
+    "_monsterBall": {
+      "m_FileID": 0,
+      "m_PathID": 2127990691524744093
+    },
+    "_superBall": {
+      "m_FileID": 0,
+      "m_PathID": 3032501824438834077
+    },
+    "_hyperBall": {
+      "m_FileID": 0,
+      "m_PathID": 8637702493407056797
+    },
+    "_masterBall": {
+      "m_FileID": 0,
+      "m_PathID": 1806471939371406237
+    }
+  },
+  "_badgeText": {
+    "m_FileID": 0,
+    "m_PathID": 8082802659733115805
+  }
+}

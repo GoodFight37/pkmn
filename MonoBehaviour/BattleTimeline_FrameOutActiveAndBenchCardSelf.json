@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_FrameOutActiveAndBenchCardSelf",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8041311037599479012
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6457438803982650140
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5208885258550932708
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3627324948012305180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8857018572863468772
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

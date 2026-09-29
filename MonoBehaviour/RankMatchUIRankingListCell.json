@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3583628564621143705
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4369563834173653030
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_rankIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1963241015463137639
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8490542394313715353
+  },
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": -3212360976135180647
+  },
+  "_pointText": {
+    "m_FileID": 0,
+    "m_PathID": -2811511000150659431
+  },
+  "_selfMark": {
+    "m_FileID": 0,
+    "m_PathID": 40983230550093465
+  }
+}

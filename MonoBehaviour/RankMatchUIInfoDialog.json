@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6126900216713806571
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7577784380994558826
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 3656564726063071979
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_playGuideButton": {
+    "m_FileID": 0,
+    "m_PathID": 6493753707962598123
+  },
+  "_rewardButton": {
+    "m_FileID": 0,
+    "m_PathID": -8643639385545145621
+  },
+  "_recordButton": {
+    "m_FileID": 0,
+    "m_PathID": -1927018488018730261
+  },
+  "_infoButton": {
+    "m_FileID": 0,
+    "m_PathID": -4212559328269860117
+  },
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": 6547630095301116651
+  },
+  "_newBadgeForMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": -8740642626635529493
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -2447412353300200725
+  }
+}

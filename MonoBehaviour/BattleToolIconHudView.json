@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6588051133679139937
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8863651511960994947
+  },
+  "m_Name": "",
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": 6588051133679139937
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 1690698959424060513
+  },
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8003120556578571167
+  },
+  "_benchCardHudScale": 0.68,
+  "_fadeShowAnimClip": {
+    "m_FileID": 3,
+    "m_PathID": -4219689457476871370
+  },
+  "_fadeHideAnimClip": {
+    "m_FileID": 3,
+    "m_PathID": -5118284681709859866
+  },
+  "_pokemonToolIconElementView": {
+    "m_FileID": 0,
+    "m_PathID": 8514086488599297121
+  },
+  "_offset": {
+    "<SelfActive>k__BackingField": {
+      "x": -15.0,
+      "y": 0.0
+    },
+    "<SelfBench>k__BackingField": {
+      "x": -8.0,
+      "y": -3.0
+    },
+    "<OpponentActive>k__BackingField": {
+      "x": -13.0,
+      "y": 3.0
+    },
+    "<OpponentBench>k__BackingField": {
+      "x": 2.0,
+      "y": 3.0
+    }
+  }
+}

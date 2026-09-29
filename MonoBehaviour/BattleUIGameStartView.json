@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -826172152244087065
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 500377406932831884
+  },
+  "m_Name": "",
+  "_contentsContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7796884573108447513
+  },
+  "_selfPlayerNameText": {
+    "m_FileID": 0,
+    "m_PathID": -4629057957995948313
+  },
+  "_opponentPlayerNameText": {
+    "m_FileID": 0,
+    "m_PathID": 2278013053120337639
+  },
+  "_selfEmblemsRoot": {
+    "m_FileID": 0,
+    "m_PathID": -136247265248028953
+  },
+  "_selfEmblems": [
+    {
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": -3666567071856470297
+      },
+      "Cell": {
+        "m_FileID": 0,
+        "m_PathID": -3846151346708883737
+      }
+    },
+    {
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": 5377326862841796327
+      },
+      "Cell": {
+        "m_FileID": 0,
+        "m_PathID": -6320857912202242329
+      }
+    },
+    {
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": 1768834746166466279
+      },
+      "Cell": {
+        "m_FileID": 0,
+        "m_PathID": 6132968182555203303
+      }
+    }
+  ],
+  "_opponentEmblemsRoot": {
+    "m_FileID": 0,
+    "m_PathID": -6524014592717498649
+  },
+  "_opponentEmblems": [
+    {
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": -6097386559841970457
+      },
+      "Cell": {
+        "m_FileID": 0,
+        "m_PathID": 2085971779160495847
+      }
+    },
+    {
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": -575998414040934681
+      },
+      "Cell": {
+        "m_FileID": 0,
+        "m_PathID": -5418898330912499993
+      }
+    },
+    {
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": -5739705164518795545
+      },
+      "Cell": {
+        "m_FileID": 0,
+        "m_PathID": 6791330177989531367
+      }
+    }
+  ],
+  "_selfPlayerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 8057332610820462311
+  },
+  "_opponentPlayerIcon": {
+    "m_FileID": 0,
+    "m_PathID": 6270228858452825831
+  },
+  "_selfOneWord": {
+    "Root": {
+      "m_FileID": 0,
+      "m_PathID": 7233243303056299751
+    },
+    "Text": {
+      "m_FileID": 0,
+      "m_PathID": -8104776696044923161
+    }
+  },
+  "_opponentOneWord": {
+    "Root": {
+      "m_FileID": 0,
+      "m_PathID": 8610812481472222951
+    },
+    "Text": {
+      "m_FileID": 0,
+      "m_PathID": -5945637509137836313
+    }
+  },
+  "_selfRank": {
+    "m_FileID": 0,
+    "m_PathID": 5644754026305738471
+  },
+  "_opponentRank": {
+    "m_FileID": 0,
+    "m_PathID": -7408437165658417433
+  },
+  "_opponentAiElementRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2460497953848830233
+  }
+}

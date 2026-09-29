@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6704845306563287917
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7263024006773779724
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_tradeInfoText": {
+    "m_FileID": 0,
+    "m_PathID": -6713257384842863763
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": 8847929537973476205
+  },
+  "_brightSandAmountText": {
+    "m_FileID": 0,
+    "m_PathID": 8672000331988491117
+  },
+  "_brightSandDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 79565284021328749
+  },
+  "_eventTicketRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5220280267025046381
+  },
+  "_eventTicketImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 7309158518214646637
+  },
+  "_eventTicketNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6534672015194217325
+  },
+  "_eventTicketDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -3799503847561077907
+  },
+  "_cardAmountText": {
+    "m_FileID": 0,
+    "m_PathID": -9099002919619110035
+  },
+  "_cardDetailPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": -3998950908231984275
+  },
+  "_cardInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": -318756594855158931
+  },
+  "_scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 8069977387968125805
+  },
+  "_mappedScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 2123339734765165421
+  },
+  "_uiScrollSlider": {
+    "m_FileID": 0,
+    "m_PathID": 7082136587803188077
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 4468814504474467181
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2683836612646708371
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": -826043399397483667
+  }
+}

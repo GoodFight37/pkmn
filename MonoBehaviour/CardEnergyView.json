@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3861936192037622627
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3522964741926108509
+  },
+  "m_Name": "",
+  "_key": 3,
+  "_energies": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5685898679538576541
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4970985316201098397
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8842700926939206499
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5614114447033865059
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8617300183220513949
+    }
+  ]
+}

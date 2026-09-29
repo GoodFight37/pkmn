@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2986034968524170940
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 558691324934780439
+  },
+  "m_Name": "",
+  "_energyIconView": {
+    "m_FileID": 0,
+    "m_PathID": 302256722190129476
+  },
+  "_baseImageCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -7557156333668804284
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 8927464594671458628
+  },
+  "_showClip": {
+    "m_FileID": 3,
+    "m_PathID": 5147256580777381215
+  },
+  "_hideClip": {
+    "m_FileID": 3,
+    "m_PathID": -3090775735415010814
+  },
+  "_startShowClip": {
+    "m_FileID": 3,
+    "m_PathID": -7144400569582688016
+  }
+}

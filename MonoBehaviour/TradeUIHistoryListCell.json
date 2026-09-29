@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5247758030213065479
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -192811225888443381
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_timeText": {
+    "m_FileID": 0,
+    "m_PathID": -8733618275521549561
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": 6423102607086299911
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": -7547591542009648377
+  },
+  "_myTradeHistoryCell": {
+    "m_FileID": 0,
+    "m_PathID": -5874063075506083065
+  },
+  "_partnerHistoryCell": {
+    "m_FileID": 0,
+    "m_PathID": -4520269967244547321
+  }
+}

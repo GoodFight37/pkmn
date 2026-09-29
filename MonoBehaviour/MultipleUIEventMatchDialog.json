@@ -1,0 +1,137 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1183672501282292444
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7387900552206397233
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -5359867119865543972
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_eventText": {
+    "m_FileID": 0,
+    "m_PathID": 8425052338699977436
+  },
+  "_eventCloseTime": {
+    "m_FileID": 0,
+    "m_PathID": -3472125042116181284
+  },
+  "_bannerImage": {
+    "m_FileID": 0,
+    "m_PathID": 3300443211778179804
+  },
+  "_winTypeText": {
+    "m_FileID": 0,
+    "m_PathID": 8749001968623567580
+  },
+  "_winCountText": {
+    "m_FileID": 0,
+    "m_PathID": 2674313383366247132
+  },
+  "_progressGaugeMinText": {
+    "m_FileID": 0,
+    "m_PathID": 787042886866191068
+  },
+  "_progressGaugeMaxText": {
+    "m_FileID": 0,
+    "m_PathID": -3593294774017178916
+  },
+  "_progressGauge": {
+    "m_FileID": 0,
+    "m_PathID": 7483042414138507996
+  },
+  "_progressElm": {
+    "m_FileID": 0,
+    "m_PathID": 1695943410792088284
+  },
+  "_completeElm": {
+    "m_FileID": 0,
+    "m_PathID": -1845056697983679780
+  },
+  "_battleButton": {
+    "m_FileID": 0,
+    "m_PathID": -2109836971322686756
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": -6340637755269233956
+  },
+  "_goToShopButton": {
+    "m_FileID": 0,
+    "m_PathID": 7524063764504199900
+  },
+  "_goToMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": 6312330699225645788
+  },
+  "_newBadgeForMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": -7732472388259265828
+  },
+  "_goToHelpButton": {
+    "m_FileID": 0,
+    "m_PathID": 4957022475770479324
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": -5359867119865543972
+  },
+  "_emptyEmblemObject": {
+    "m_FileID": 0,
+    "m_PathID": -4043206048113671460
+  },
+  "_currentEmblemImage": {
+    "m_FileID": 0,
+    "m_PathID": 190464803694854876
+  },
+  "_nextEmblemImage": {
+    "m_FileID": 0,
+    "m_PathID": 3640662997218640604
+  },
+  "_shopRewardTicketNumText": {
+    "m_FileID": 0,
+    "m_PathID": 4421410970323665628
+  },
+  "_currentDeckElement": {
+    "m_FileID": 0,
+    "m_PathID": -149805381082266916
+  }
+}

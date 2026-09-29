@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3460935349587234532
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8085584131401530617
+  },
+  "m_Name": "",
+  "_attackSelectView": {
+    "m_FileID": 0,
+    "m_PathID": -6838532820659319068
+  },
+  "_autoButton": {
+    "m_FileID": 0,
+    "m_PathID": -1726583871338557724
+  },
+  "_autoToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 631517911658811108
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5794536811092254675
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3303075069316877665
+  },
+  "m_Name": "",
+  "_playableDirector": {
+    "m_FileID": 0,
+    "m_PathID": -3350681543934746579
+  },
+  "_cardTimelineView": {
+    "m_FileID": 0,
+    "m_PathID": -7834522290926985171
+  },
+  "_packTimelineViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2277001314843811885
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8720564939087486931
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1568264098350555181
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7785764350419001389
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1116042115812892627
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7352985770617610195
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5558439758786535379
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8529702961399209939
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5042214876318326829
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5348140645374353453
+    }
+  ]
+}

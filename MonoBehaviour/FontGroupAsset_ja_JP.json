@@ -1,0 +1,1688 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3364123847143266410
+  },
+  "m_Name": "FontGroupAsset_ja_JP",
+  "fontDataList": [
+    {
+      "FontKey": "BodyText",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_16",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 16.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_18",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 18.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_20",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 20.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_22",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 22.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_24",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 24.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_26",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_28",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 28.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_30",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 30.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_34",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 34.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_36",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 36.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "BodyText_48",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 1388851050165242843
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 48.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_16",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 16.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_18",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 18.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_20",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 20.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_22",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 22.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_24",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 24.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_26",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_30",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 30.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_34",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 34.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_36",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 36.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "MultilingualText_48",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": -67802524686419620
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 48.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_150",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 150.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_16",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 16.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_18",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 18.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_20",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 20.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_22",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 22.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_24",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 24.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_26",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_28",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 28.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_30",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 30.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_36",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 36.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_42",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 42.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_46",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 46.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_48",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 48.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_56",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 56.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_62",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 62.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_64",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 64.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_80",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 80.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "NumText_96",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 2336340763902414175
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 96.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_120",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 120.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_136",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 136.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_150",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 150.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_18",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 18.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_20",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 20.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_22",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 22.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_24",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 24.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_26",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_30",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 30.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_32",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 32.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_36",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 36.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_42",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 42.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_48",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 48.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_56",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 56.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_64",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 64.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_70",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 70.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_80",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 80.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TitleText_96",
+      "TextType": 0,
+      "Font": {
+        "m_FileID": 2,
+        "m_PathID": 8554438936047941470
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 96.0,
+      "FontTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_12",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 14.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_14",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 14.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_16",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 16.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_17",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 17.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_18",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 18.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_23",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 23.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_25",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 23.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_26",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_BodyText_36",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 36.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 8163795205098350844
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_MegaExTagText",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 3341312650030621203
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -494501303937253797
+      }
+    },
+    {
+      "FontKey": "TMP_NumText",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_15",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 15.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_150",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 150.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_20",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 20.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_22",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 22.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_26",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_30",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 30.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_36",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 36.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_40",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 40.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_46",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 46.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_NumText_White",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -757749988448016049
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 3242940556523500418
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_20",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 20.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_25",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 25.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_26",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 26.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_32",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 32.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_34",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 34.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_38",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 38.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_43",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 46.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_46",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 1,
+      "FontSize": 46.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "FontKey": "TMP_TitleText_Emblem_Anniv",
+      "TextType": 1,
+      "Font": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "OverrideFontSize": 0,
+      "FontSize": 0.0,
+      "FontTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": 7997069833075654224
+      },
+      "FontMaterialTextMeshPro": {
+        "m_FileID": 2,
+        "m_PathID": -7783248419330370782
+      }
+    }
+  ]
+}

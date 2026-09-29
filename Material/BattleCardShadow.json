@@ -1,0 +1,40 @@
+{
+  "m_Shader": {
+    "m_FileID": 5,
+    "m_PathID": -8650763152328657971,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 5990635335176718502,
+          "Name": "CardShadow",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {},
+    "m_Colors": {
+      "_Color": {
+        "r": 0.7529412,
+        "g": 0.7529412,
+        "b": 0.7529412,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "BattleCardShadow",
+  "Name": "BattleCardShadow"
+}

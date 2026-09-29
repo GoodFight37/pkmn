@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5476694527545028495
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5444146781145177915
+  },
+  "m_Name": "",
+  "_canUsePoolCapacity": 1,
+  "_poolCapacity": 1,
+  "_targetParticle": {
+    "m_FileID": 0,
+    "m_PathID": -3372286218445369231
+  },
+  "_energyIconSpawnTime": 0.5
+}

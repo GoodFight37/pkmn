@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2495556680952467749
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -937775444754138874
+  },
+  "m_Name": "",
+  "Speed": {
+    "_value": 10.0
+  },
+  "BrowseSpeed": {
+    "_value": 18.0
+  },
+  "Duration": {
+    "_value": 0.25
+  },
+  "CurveStrength": {
+    "_value": 0.3
+  },
+  "_closedShape": {
+    "_n": 1000.0,
+    "_centerPosition": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -6.25
+    },
+    "_radius": 3.52,
+    "_centerAngleFraction": 72,
+    "_marginFraction": 26,
+    "_marginFractionForTwoCards": 56,
+    "_marginFractionForThreeCards": 36,
+    "_yMargin": 0.03
+  },
+  "_openedShape": {
+    "_n": 1000.0,
+    "_centerPosition": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -6.25
+    },
+    "_radius": 3.72,
+    "_centerAngleFraction": 500,
+    "_marginFraction": 45,
+    "_marginFractionForTwoCards": 60,
+    "_marginFractionForThreeCards": 60,
+    "_yMargin": 0.03
+  },
+  "<ReverseScrollRate>k__BackingField": {
+    "_value": 0.7
+  },
+  "<ReverseScrollMax>k__BackingField": {
+    "_value": 0.15
+  },
+  "<DetachThresholdZ>k__BackingField": {
+    "_value": 0.2
+  },
+  "<AttachThresholdZ>k__BackingField": {
+    "_value": -1.8
+  },
+  "<AttachThresholdZForOpponentCamera>k__BackingField": {
+    "_value": 0.0
+  },
+  "<CamDistanceOnDetachToUI>k__BackingField": {
+    "_value": 6.5
+  },
+  "<WholeSelectDeltaZ>k__BackingField": {
+    "_value": 0.2
+  },
+  "<TutorialFocusRectSize>k__BackingField": {
+    "_value": {
+      "x": 2.5,
+      "y": 1.5
+    }
+  },
+  "<TutorialFocusCardRectSize>k__BackingField": {
+    "_value": {
+      "x": 1.5,
+      "y": 1.5
+    }
+  },
+  "<TutorialFocusBaseIconRectSize>k__BackingField": {
+    "_value": {
+      "x": 0.3,
+      "y": 0.3
+    }
+  },
+  "<TutorialFocusBaseIconRectOffset>k__BackingField": {
+    "_value": {
+      "x": -0.4,
+      "y": 0.4
+    }
+  },
+  "<DropForHandAdjustmentPositionY>k__BackingField": {
+    "_value": 0.3
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7443602189440967650
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6674762494882510436
+  },
+  "m_Name": "",
+  "_pokemonCardUIView": {
+    "m_FileID": 0,
+    "m_PathID": -5141475748167031838
+  },
+  "_pokemonRelatedCardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8294703189418253342
+  },
+  "_pokemonRelatedCardScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -5220986626060000286
+  },
+  "_pokemonIllustratorNameText": {
+    "m_FileID": 0,
+    "m_PathID": -4433028421270248478
+  },
+  "_pokemonExpansionView": {
+    "m_FileID": 0,
+    "m_PathID": -7783640734015953950
+  },
+  "_pokemonEvolutionStageText": {
+    "m_FileID": 0,
+    "m_PathID": 6299211529956090850
+  },
+  "_pokemonTypeImage": {
+    "m_FileID": 0,
+    "m_PathID": 8582412355677774818
+  },
+  "_pokemonHpText": {
+    "m_FileID": 0,
+    "m_PathID": -536370218253622302
+  },
+  "_pokemonRetreatImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1693794422846055394
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4021063858814641122
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2205703862063209502
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2470973921443439586
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4200380241550580766
+    }
+  ],
+  "_pokemonRegulationText": {
+    "m_FileID": 0,
+    "m_PathID": -1126844979122084894
+  },
+  "_pokemonAbilityRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1522062935216612322
+  },
+  "_pokemonRarityView": {
+    "m_FileID": 0,
+    "m_PathID": 4620073416277550050
+  },
+  "_promotionView": {
+    "m_FileID": 0,
+    "m_PathID": -1040937157651209246
+  },
+  "_attackView": {
+    "m_FileID": 0,
+    "m_PathID": -7232200323013876766
+  },
+  "_weaknessView": {
+    "m_FileID": 0,
+    "m_PathID": 2624418846532756450
+  },
+  "_pokemonSpecRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7103205530627218462
+  },
+  "_pokemonSpecText": {
+    "m_FileID": 0,
+    "m_PathID": 1174465629237732322
+  },
+  "_pokemonFlavorText": {
+    "m_FileID": 0,
+    "m_PathID": -5405073527314914334
+  }
+}

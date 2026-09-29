@@ -1,0 +1,213 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5262704262444323020
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9054732069238359726
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 7103667714219806924
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -8418923353358495540
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_soundElm": {
+    "m_FileID": 0,
+    "m_PathID": -2200800128743730996
+  },
+  "_systemElm": {
+    "m_FileID": 0,
+    "m_PathID": -1781519187410644788
+  },
+  "_battleElm": {
+    "m_FileID": 0,
+    "m_PathID": 4620638420646793420
+  },
+  "_feedElm": {
+    "m_FileID": 0,
+    "m_PathID": 284653799298666700
+  },
+  "_notificationElm": {
+    "m_FileID": 0,
+    "m_PathID": -8966357884878876468
+  },
+  "_tradeElm": {
+    "m_FileID": 0,
+    "m_PathID": 2668481344067244236
+  },
+  "_cardFrameElm": {
+    "m_FileID": 0,
+    "m_PathID": 8323697440640569548
+  },
+  "_bgmMuteToggle": {
+    "m_FileID": 0,
+    "m_PathID": 5274132234701148364
+  },
+  "_bgmGauge": {
+    "m_FileID": 0,
+    "m_PathID": 156222768267563212
+  },
+  "_bgmFillImage": {
+    "m_FileID": 0,
+    "m_PathID": 3480271010403684556
+  },
+  "_bgmFillOffImage": {
+    "m_FileID": 0,
+    "m_PathID": 6005709472005656780
+  },
+  "_bgmLabelPalette": {
+    "m_FileID": 0,
+    "m_PathID": -252346530809999156
+  },
+  "_bgmImagePalette": {
+    "m_FileID": 0,
+    "m_PathID": -939221251531370292
+  },
+  "_seMuteToggle": {
+    "m_FileID": 0,
+    "m_PathID": -5642764860927536948
+  },
+  "_seGauge": {
+    "m_FileID": 0,
+    "m_PathID": 3506789636166684876
+  },
+  "_seFillImage": {
+    "m_FileID": 0,
+    "m_PathID": 6709518082718339276
+  },
+  "_seFillOffImage": {
+    "m_FileID": 0,
+    "m_PathID": 7020173444272197836
+  },
+  "_seLabelPalette": {
+    "m_FileID": 0,
+    "m_PathID": 7245602292526452940
+  },
+  "_seImagePalette": {
+    "m_FileID": 0,
+    "m_PathID": 6967217465638424780
+  },
+  "_soundOverrideDefaultValueButton": {
+    "m_FileID": 0,
+    "m_PathID": 444925425375809740
+  },
+  "_displayPerformanceButton": {
+    "m_FileID": 0,
+    "m_PathID": -4051289320897670964
+  },
+  "_displayBalanceButton": {
+    "m_FileID": 0,
+    "m_PathID": -5501929951792230196
+  },
+  "_displayQualityButton": {
+    "m_FileID": 0,
+    "m_PathID": 5345207703956984012
+  },
+  "_fps30Button": {
+    "m_FileID": 0,
+    "m_PathID": -5032626461117607732
+  },
+  "_fps60Button": {
+    "m_FileID": 0,
+    "m_PathID": 5581399506243719372
+  },
+  "_vibrationToggle": {
+    "m_FileID": 0,
+    "m_PathID": -1717388897286778676
+  },
+  "_selectLanguageButton": {
+    "m_FileID": 0,
+    "m_PathID": -3351663282757857076
+  },
+  "_selectCountryButton": {
+    "m_FileID": 0,
+    "m_PathID": -1456572340323381044
+  },
+  "_selectLanguageText": {
+    "m_FileID": 0,
+    "m_PathID": -431644629708074804
+  },
+  "_selectCountryText": {
+    "m_FileID": 0,
+    "m_PathID": -4571581438004719412
+  },
+  "_remainingOperationNotifyButton": {
+    "m_FileID": 0,
+    "m_PathID": -9077683994952560436
+  },
+  "_nextEnergyViewButton": {
+    "m_FileID": 0,
+    "m_PathID": -2600214846322011956
+  },
+  "_enableSharePackButton": {
+    "m_FileID": 0,
+    "m_PathID": 195971068255768780
+  },
+  "_enableTradeAutoBlock": {
+    "m_FileID": 0,
+    "m_PathID": 3509894236498661580
+  },
+  "_autoEquipCardFrame": {
+    "m_FileID": 0,
+    "m_PathID": 4910745385296826572
+  },
+  "_selectAllButton": {
+    "m_FileID": 0,
+    "m_PathID": 6674429666069680332
+  },
+  "_recoveryPackStamina": {
+    "m_FileID": 0,
+    "m_PathID": -8607157264742051636
+  },
+  "_recoverySharePackStamina": {
+    "m_FileID": 0,
+    "m_PathID": 625185658282807500
+  },
+  "_importantNotification": {
+    "m_FileID": 0,
+    "m_PathID": 3090299799326068940
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -8715345366651203380
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 8967621005928796364
+  }
+}

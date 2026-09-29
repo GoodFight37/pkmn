@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2004756469084863334
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3274549125804258939
+  },
+  "m_Name": "",
+  "ToggleName": "Home",
+  "ToggleButton": {
+    "m_FileID": 0,
+    "m_PathID": 5149928711252788378
+  }
+}

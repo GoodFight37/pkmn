@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_DetachPokemonToolIcon",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3592310405026475652
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6996729539021050236
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -485355851080470908
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4433202629309099652
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5987311832243048828
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

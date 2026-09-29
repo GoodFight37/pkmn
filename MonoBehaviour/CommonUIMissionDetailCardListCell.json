@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5676644193331476877
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4436085872013432228
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5960506032774874739
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_acquireElm": {
+    "m_FileID": 0,
+    "m_PathID": -1188622773948414349
+  },
+  "_unacquireElm": {
+    "m_FileID": 0,
+    "m_PathID": -5022740952432867725
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 381853005723895411
+  },
+  "_cardShadowImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -4905618997950970253
+  },
+  "_feedImage": {
+    "m_FileID": 0,
+    "m_PathID": 575302571050698355
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 1445575802701645427
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 5960506032774874739
+  },
+  "_packLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": 2062137193667069555
+  },
+  "_completeAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3489628142012171891
+  },
+  "_completeAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": -3536497360176425688
+  },
+  "_effectCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 2678662706042930803
+  }
+}

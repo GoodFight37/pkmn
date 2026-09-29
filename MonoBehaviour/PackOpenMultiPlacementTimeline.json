@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "PackOpenMultiPlacementTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5199440195353096458
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1441522230691516150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5845708949753908982
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7002906734823518474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4689806289281371894
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7414691591231811850
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5970579301033856758
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3206963162858213110
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4906671508272533238
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5106781469570150666
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 937877425407242506
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5203019568607874806
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -878035595354132214
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 816912990068388106
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 456634912601256202
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3854076344982130422
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4447223997863932170
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4631240681051148022
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3206923468227563254
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6250614179031699190
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5722327780981715210
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3911260256136154870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7925082582815624950
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

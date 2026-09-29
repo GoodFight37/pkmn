@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3631428494616745781
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5911308934421801163
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -3717512848234174261
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 420636902321629387
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -6136354919725913909
+  },
+  "_itemDescription": {
+    "m_FileID": 0,
+    "m_PathID": -2528559305940653877
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3810299127894452427
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -5087199094050641717
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": -7394147761283782453
+  },
+  "_deckCaseObject": {
+    "m_FileID": 0,
+    "m_PathID": 7239274490852026571
+  },
+  "_viewerButton": {
+    "m_FileID": 0,
+    "m_PathID": -8965375428808857397
+  },
+  "_itemButton": {
+    "m_FileID": 0,
+    "m_PathID": -3507518020249179957
+  },
+  "_remainingTimeElement": {
+    "m_FileID": 0,
+    "m_PathID": -3214164188814235445
+  },
+  "_favoriteButton": {
+    "m_FileID": 0,
+    "m_PathID": 8646897159771728075
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3717512848234174261
+  },
+  "_itemNumObject": {
+    "m_FileID": 0,
+    "m_PathID": -6424674636307683125
+  }
+}

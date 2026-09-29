@@ -1,0 +1,234 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1986236319590836327
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2925926260243467812
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3943365966448891801
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_promoRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6769373589292062617
+  },
+  "_rarityRoot": {
+    "m_FileID": 0,
+    "m_PathID": -172807813400946791
+  },
+  "_logoImage": {
+    "m_FileID": 0,
+    "m_PathID": -5400281942514657383
+  },
+  "_badgeElm": {
+    "m_FileID": 0,
+    "m_PathID": -4758274803123546215
+  },
+  "_promoLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": 7734373433873930137
+  },
+  "_c": {
+    "m_FileID": 0,
+    "m_PathID": 5502744023367292825
+  },
+  "_u": {
+    "m_FileID": 0,
+    "m_PathID": -6981781296052299879
+  },
+  "_r": {
+    "m_FileID": 0,
+    "m_PathID": 8107805988131641241
+  },
+  "_rr": {
+    "m_FileID": 0,
+    "m_PathID": -24005318476228711
+  },
+  "_ar": {
+    "m_FileID": 0,
+    "m_PathID": -2081648687091607655
+  },
+  "_sr": {
+    "m_FileID": 0,
+    "m_PathID": -1798637087022114919
+  },
+  "_im": {
+    "m_FileID": 0,
+    "m_PathID": 765550171215304601
+  },
+  "_ur": {
+    "m_FileID": 0,
+    "m_PathID": -6252053371757520999
+  },
+  "_s": {
+    "m_FileID": 0,
+    "m_PathID": -3747765389085567079
+  },
+  "_ssr": {
+    "m_FileID": 0,
+    "m_PathID": 1595407151497353113
+  },
+  "_cDisabled": {
+    "m_FileID": 0,
+    "m_PathID": 2615547644096878489
+  },
+  "_uDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -2864536207868618855
+  },
+  "_rDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -2042338942759331943
+  },
+  "_rrDisabled": {
+    "m_FileID": 0,
+    "m_PathID": 6322064717183457177
+  },
+  "_arDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -8334751950442850407
+  },
+  "_srDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -3304187466153125991
+  },
+  "_imDisabled": {
+    "m_FileID": 0,
+    "m_PathID": 1653187063144978329
+  },
+  "_urDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -1244009932993259623
+  },
+  "_sDisabled": {
+    "m_FileID": 0,
+    "m_PathID": 4295835323109087129
+  },
+  "_ssrDisabled": {
+    "m_FileID": 0,
+    "m_PathID": -3873934781737986151
+  },
+  "_rarityBaseImages": [
+    {
+      "Rarity": 100,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 3774241513305872281
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -6294528229885536359
+      }
+    },
+    {
+      "Rarity": 200,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 394488533627377561
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -6809586891531216999
+      }
+    },
+    {
+      "Rarity": 300,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 3246121117825111961
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -416932303786469479
+      }
+    },
+    {
+      "Rarity": 400,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -492334805650499687
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -2491270848872179815
+      }
+    },
+    {
+      "Rarity": 500,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 299403479316895641
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 6571640215653128089
+      }
+    },
+    {
+      "Rarity": 600,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 638188701651048345
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 198424601590044569
+      }
+    },
+    {
+      "Rarity": 800,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -4704167335279323239
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -7528524396309440615
+      }
+    },
+    {
+      "Rarity": 830,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 4671317096856426393
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 5530114168795174809
+      }
+    },
+    {
+      "Rarity": 860,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 2308686895488571289
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -257286335435040871
+      }
+    },
+    {
+      "Rarity": 900,
+      "BaseImage": {
+        "m_FileID": 0,
+        "m_PathID": 7635027649900451737
+      },
+      "EventBaseImage": {
+        "m_FileID": 0,
+        "m_PathID": -7316235877890189415
+      }
+    }
+  ]
+}

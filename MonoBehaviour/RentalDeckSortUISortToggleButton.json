@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3959472700800661182
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3189522285814995943
+  },
+  "m_Name": "",
+  "CustomButtonName": "",
+  "ButtonType": 2,
+  "OnTouchDown": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnTouchUpInside": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnLongTouch": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnTouchCancelled": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "InitClip": {
+    "m_FileID": 2,
+    "m_PathID": 8214097310032709075
+  },
+  "TouchDownClip": {
+    "m_FileID": 2,
+    "m_PathID": 1020035654081038561
+  },
+  "TouchUpInsideClip": {
+    "m_FileID": 2,
+    "m_PathID": -4193485813870071365
+  },
+  "DisabledClip": {
+    "m_FileID": 2,
+    "m_PathID": -5776380439225540551
+  },
+  "SelectedClip": {
+    "m_FileID": 2,
+    "m_PathID": -5430075249191808482
+  },
+  "_buttonText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonSelectedObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_touchUpInsideSeName": 3,
+  "_overrideTouchUpInsideSeName": {
+    "_value": ""
+  },
+  "_playInitAnimationAfterTouchUpInside": 0,
+  "_arrowView": {
+    "m_FileID": 0,
+    "m_PathID": 8816923190545779010
+  }
+}

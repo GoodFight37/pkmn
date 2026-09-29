@@ -1,0 +1,289 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9199715042853433205
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 800063042470776408
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -7185203959914147701
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": -7185203959914147701
+  },
+  "_bgCornerPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 575052092826931339
+  },
+  "_bgCornerMultiple": {
+    "m_FileID": 0,
+    "m_PathID": 8541466732274012299
+  },
+  "_deckCornerPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 8977809868337074315
+  },
+  "_deckCornerMultiple": {
+    "m_FileID": 0,
+    "m_PathID": 9027545196285546635
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -6750392876300087157
+  },
+  "_userName": {
+    "m_FileID": 0,
+    "m_PathID": 4232126937642127499
+  },
+  "_emblemImageCell": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6523612971780952203
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2771049906415841141
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2222301793582165877
+    }
+  ],
+  "_emblemsGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 155957282353598603
+  },
+  "_deckName": {
+    "m_FileID": 0,
+    "m_PathID": 3448674317397676171
+  },
+  "_deckCaseCell": {
+    "m_FileID": 0,
+    "m_PathID": 2275379314704404619
+  },
+  "_energyTypeGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2398849961221443723
+  },
+  "_energyTypeIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6089480240783011701
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5700233021102927733
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8324234510086418293
+    }
+  ],
+  "_cardImageCell": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2121425335127814005
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6281597120863359115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8403737897477886091
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9063432178088824971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2009263409806856331
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7931457342785015947
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2643248443901783925
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1632443807313604469
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1251138446609395573
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -985874138133540725
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9127420400880299893
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7781261833815871627
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5729700628667715723
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4843717037185126539
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3872554215313551221
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5055807240447700853
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8705916234085388427
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7006128339729821557
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5599719046500102005
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7039556795723198325
+    }
+  ],
+  "_cardBattleEffectImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1552560503990890357
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6228546799164084363
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -442671619353522037
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3977689600845959307
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1211677858586799989
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6872033784620822389
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6553423775156318069
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4891244846342516597
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6913529191836307595
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -312738879105052533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4395173771820642165
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7277094062930964341
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3924620920922877813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1691736291592154997
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1426811516137484149
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3760178280436682891
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2221177121124167541
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3292307316629548917
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8043944176156258165
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2896602463985774453
+    }
+  ],
+  "_showQrCodeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3619562952445702005
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8289261224321359688
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7075572107302191733
+  },
+  "m_Name": "",
+  "playOnStart": 0,
+  "restartOnEnable": 0,
+  "renderMode": 0,
+  "_material": {
+    "m_FileID": 2,
+    "m_PathID": -6135565683350910710
+  },
+  "_maxFrameDrop": 0,
+  "_moviePath": "",
+  "_loop": 0,
+  "_audioBaseConcatenation": 1,
+  "_additiveMode": 0,
+  "_advancedAudio": 0,
+  "_ambisonics": 0,
+  "_applyTargetAlpha": 0,
+  "_uiRenderMode": 0
+}

@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5465893831135768283
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2725165781999622218
+  },
+  "m_Name": "",
+  "_index": 0,
+  "_slotType": 6,
+  "_frameView": {
+    "m_FileID": 0,
+    "m_PathID": -7027540729065591077
+  },
+  "_frameScaleOnHold": 0.95,
+  "_collider": {
+    "m_FileID": 0,
+    "m_PathID": 6465137488273256155
+  },
+  "_oneShotEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -1833973257051722021
+  },
+  "<TutorialFocusRectSize>k__BackingField": {
+    "_value": {
+      "x": 1.5,
+      "y": 1.5
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6544034948419104922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3530212760909205054
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_friendButton": {
+    "m_FileID": 0,
+    "m_PathID": 3926464376577667226
+  },
+  "_friendBadge": {
+    "m_FileID": 0,
+    "m_PathID": 246221550636052634
+  },
+  "_collectionButton": {
+    "m_FileID": 0,
+    "m_PathID": -7674562172493156198
+  },
+  "_giveCardButton": {
+    "m_FileID": 0,
+    "m_PathID": 8040986762685722778
+  },
+  "_tradeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7788384294376689510
+  },
+  "_tradeNewBadge": {
+    "m_FileID": 0,
+    "m_PathID": 8985498680040632474
+  },
+  "_tradeBadge": {
+    "m_FileID": 0,
+    "m_PathID": 813394362394095770
+  },
+  "_tradeBadgeCompletionBg": {
+    "m_FileID": 0,
+    "m_PathID": 1898536952054100122
+  },
+  "_tradeBadgeSuggestionBg": {
+    "m_FileID": 0,
+    "m_PathID": 6640637435688530074
+  },
+  "_tradeBadgeText": {
+    "m_FileID": 0,
+    "m_PathID": -6431672177638952806
+  },
+  "_tradeLeftTimeObject": {
+    "m_FileID": 0,
+    "m_PathID": 117339796606496922
+  },
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": -4991112697098325862
+  },
+  "_tradeLockBadge": {
+    "m_FileID": 0,
+    "m_PathID": -1790088630514929510
+  },
+  "_giveCardLockBadge": {
+    "m_FileID": 0,
+    "m_PathID": -6476846547762794342
+  },
+  "_tradeTutorialRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8933649161920196762
+  },
+  "_giveCardTutorialRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8066800497304875162
+  },
+  "_tradeEventElement": {
+    "m_FileID": 0,
+    "m_PathID": 6877799220479275162
+  },
+  "_tradeEventText": {
+    "m_FileID": 0,
+    "m_PathID": 8580164915098038426
+  },
+  "_tradeButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -3322524680836403046
+  },
+  "_tradeButtonMentionAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 5045259707374344952
+  },
+  "_tradeButtonInitAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 1983926094657683011
+  }
+}

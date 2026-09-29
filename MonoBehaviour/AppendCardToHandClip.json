@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4162115497923856127
+  },
+  "m_Name": "AppendCardToHandClip",
+  "_isSelf": 0,
+  "_interval": 57,
+  "_skipRemainingOnLastFinished": 1,
+  "_se": {
+    "_value": "BATTLE_SE_CARD_TAP"
+  },
+  "_neutralizeCardOwnershipOnAppend": 0
+}

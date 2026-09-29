@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4360952826133801106
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9017695975701883318
+  },
+  "m_Name": "",
+  "_sheetsModel": {
+    "m_FileID": 0,
+    "m_PathID": 2165383830576240494
+  },
+  "_layoutRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1226203747345110894
+  },
+  "_scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -1943635779550242962
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -4911970028621785234
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_bgButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_title": {
+    "m_FileID": 0,
+    "m_PathID": -5968110632414865554
+  },
+  "_header": {
+    "m_FileID": 0,
+    "m_PathID": -5363885885871548562
+  },
+  "_grabber": {
+    "m_FileID": 0,
+    "m_PathID": -261308007248488594
+  },
+  "_openAnimCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 30.164793,
+        "outSlope": 30.164793,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.0332681
+      },
+      {
+        "time": 0.99997324,
+        "value": 0.9999592,
+        "inSlope": 0.0040245326,
+        "outSlope": 0.0040245326,
+        "weightedMode": 3,
+        "inWeight": 0.27651295,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_showFooterAnimClip": {
+    "m_FileID": 2,
+    "m_PathID": -6258116937349604824
+  },
+  "_hideFooterAnimClip": {
+    "m_FileID": 2,
+    "m_PathID": -2346139007449396693
+  },
+  "_parentDialog": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_manualScrollableBehaviour": [],
+  "OnDetentChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnClosed": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnClose": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

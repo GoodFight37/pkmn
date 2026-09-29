@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1737370177768619829
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4538293910849797260
+  },
+  "m_Name": "",
+  "_category": 2,
+  "_toggleButton": {
+    "m_FileID": 0,
+    "m_PathID": -5281106832609607883
+  },
+  "_extraButton": {
+    "m_FileID": 0,
+    "m_PathID": 3233337325658144565
+  }
+}

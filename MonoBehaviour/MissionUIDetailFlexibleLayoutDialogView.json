@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -475083395956652317
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3440157317584512950
+  },
+  "m_Name": "",
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -6467974512052386077
+  },
+  "_rewards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5967170951530235619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4440518549334243613
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4076873621781235427
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2552226837195897117
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5996382677473707747
+    }
+  ],
+  "_descriptiontext": {
+    "m_FileID": 0,
+    "m_PathID": -870568126409193757
+  },
+  "_countNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4736766412578732317
+  },
+  "_completeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7821745006710208797
+  },
+  "_gauge": {
+    "m_FileID": 0,
+    "m_PathID": 1327907847421314787
+  },
+  "_completeCheckMark": {
+    "m_FileID": 0,
+    "m_PathID": 4766519628424038115
+  },
+  "_backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 2576802027891934947
+  },
+  "_missionPolicyButton": {
+    "m_FileID": 0,
+    "m_PathID": 849564264803944163
+  }
+}

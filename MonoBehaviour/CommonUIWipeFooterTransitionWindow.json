@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1125305976143566579
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1704732557315228696
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5580378159810128141
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_iconObject": {
+    "m_FileID": 0,
+    "m_PathID": -2117904649322408205
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 1331856133867722483
+  },
+  "_rightTransitionAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 3298732106792523419
+  },
+  "_leftTransitionAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 8834560014792983494
+  },
+  "_battleElementRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7192674738521286925
+  },
+  "_socialElementRoot": {
+    "m_FileID": 0,
+    "m_PathID": -323122532399884557
+  },
+  "_libraryElementRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5279223399847340301
+  },
+  "_homeElementRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1293706695893669619
+  }
+}

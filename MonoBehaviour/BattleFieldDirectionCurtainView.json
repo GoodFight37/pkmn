@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2035936537739874597
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3394445733702909947
+  },
+  "m_Name": "",
+  "_defaultColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.39607844
+  },
+  "_grayBlurColor": {
+    "r": 0.7,
+    "g": 0.7,
+    "b": 0.7,
+    "a": 0.4
+  },
+  "_executeSkillColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.50980395
+  },
+  "_currentColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  },
+  "_curtainSize": 30.0,
+  "_curtainMesh": {
+    "m_FileID": 0,
+    "m_PathID": -3828875140195897637
+  },
+  "_defaultFadeInDuration": 0.2,
+  "_defaultFadeOutDuration": 0.1667
+}

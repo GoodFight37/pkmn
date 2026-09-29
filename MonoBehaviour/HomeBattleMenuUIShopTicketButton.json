@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3173187238354580452
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6478957965004787629
+  },
+  "m_Name": "",
+  "_shopButton": {
+    "m_FileID": 0,
+    "m_PathID": -8923707568567782428
+  },
+  "_shopItemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 9021548925136958436
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6808935980148040924
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2422103777465056861
+  },
+  "m_Name": "",
+  "_snoopShowAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 5517363551033566231
+  },
+  "_snoopHideAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 1321595280078950139
+  },
+  "_snoopAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8696272490059750180
+  },
+  "_snoopCardView": {
+    "m_FileID": 0,
+    "m_PathID": -8750465210839620388
+  },
+  "_snoopItemView": {
+    "m_FileID": 0,
+    "m_PathID": -3584864138984577828
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5947388167468348925
+  },
+  "m_Name": "first-tutorial_get-challenge_2",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFirstTutorial",
+      "_localizeLabelId": "first_tutorial_dialog_08_page_01",
+      "_imagePath": "first_get_challenge_01",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFirstTutorial",
+      "_localizeLabelId": "first_tutorial_dialog_08_page_02",
+      "_imagePath": "first_get_challenge_02",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFirstTutorial",
+      "_localizeLabelId": "first_tutorial_dialog_08_page_03",
+      "_imagePath": "first_get_challenge_03",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFirstTutorial",
+      "_localizeLabelId": "first_tutorial_dialog_08_page_04",
+      "_imagePath": "first_get_challenge_04",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFirstTutorial",
+      "_localizeLabelId": "first_tutorial_dialog_08_page_05",
+      "_imagePath": "first_get_challenge_05",
+      "_isLocalizeImage": 0
+    }
+  ]
+}

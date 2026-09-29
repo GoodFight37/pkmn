@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8309617352268605831
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4774533261710424880
+  },
+  "m_Name": "",
+  "_prop": {
+    "_color": {
+      "r": 0.6745098,
+      "g": 0.8235295,
+      "b": 0.5803922,
+      "a": 1.0
+    },
+    "_tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "_transparency": 80,
+    "_renderer": {
+      "m_FileID": 0,
+      "m_PathID": 6090577164242217351
+    }
+  },
+  "_templateType": 3
+}

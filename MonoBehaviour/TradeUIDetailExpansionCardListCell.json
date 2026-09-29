@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6990684476547577825
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1698775768167856662
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_imageCell": {
+    "m_FileID": 0,
+    "m_PathID": 7889590717169092639
+  },
+  "_cardNameText": {
+    "m_FileID": 0,
+    "m_PathID": 8736996038817433631
+  },
+  "_untradeBadge": {
+    "m_FileID": 0,
+    "m_PathID": -4246224243140179937
+  },
+  "_colorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 3804907475406178335
+  },
+  "_newBadge": {
+    "m_FileID": 0,
+    "m_PathID": -9042397095258994657
+  }
+}

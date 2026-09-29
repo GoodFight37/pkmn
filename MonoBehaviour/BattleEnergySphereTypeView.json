@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1121582121723505325
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5840387896299601463
+  },
+  "m_Name": "",
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": -2520796280736109907
+  },
+  "_lwAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5168898307134532269
+  },
+  "_appearClip": {
+    "m_FileID": 5,
+    "m_PathID": 6425634425731913960
+  },
+  "_hitClip": {
+    "m_FileID": 5,
+    "m_PathID": -7645340500312838175
+  },
+  "_giveClip": {
+    "m_FileID": 5,
+    "m_PathID": 7987842251926816472
+  },
+  "_tapClip": {
+    "m_FileID": 5,
+    "m_PathID": 2505034964015059655
+  },
+  "_idleClip": {
+    "m_FileID": 5,
+    "m_PathID": 7273247280281507237
+  },
+  "_aimObject": {
+    "m_FileID": 0,
+    "m_PathID": -2923540475615040851
+  },
+  "_grassObject": {
+    "m_FileID": 0,
+    "m_PathID": -9111510230997587283
+  },
+  "_fireObject": {
+    "m_FileID": 0,
+    "m_PathID": 7291408797285165741
+  },
+  "_waterObject": {
+    "m_FileID": 0,
+    "m_PathID": 7868990826360023725
+  },
+  "_lightningObject": {
+    "m_FileID": 0,
+    "m_PathID": 6882994456703150765
+  },
+  "_psychicObject": {
+    "m_FileID": 0,
+    "m_PathID": 61090584534919853
+  },
+  "_fightingObject": {
+    "m_FileID": 0,
+    "m_PathID": -9107229921812927827
+  },
+  "_darknessObject": {
+    "m_FileID": 0,
+    "m_PathID": -2924830203060802899
+  },
+  "_metalObject": {
+    "m_FileID": 0,
+    "m_PathID": -7529941024362059091
+  },
+  "_colorlessObject": {
+    "m_FileID": 0,
+    "m_PathID": 3496256797512444589
+  },
+  "_grassTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -4480969934960055635
+  },
+  "_fireTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": 3943548438030199469
+  },
+  "_waterTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -706247159659681107
+  },
+  "_lightningTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -7027131106188055891
+  },
+  "_psychicTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -3471733444076950867
+  },
+  "_fightingTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -67910025993966931
+  },
+  "_darknessTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -3787383036692256083
+  },
+  "_metalTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": 765872460696464045
+  },
+  "_colorlessTrailVfx": {
+    "m_FileID": 0,
+    "m_PathID": -6557481545398474067
+  },
+  "_frameGreen": {
+    "m_FileID": 0,
+    "m_PathID": -6897814073407886675
+  },
+  "_frameBlue": {
+    "m_FileID": 0,
+    "m_PathID": -1294743554115818835
+  },
+  "_lookAtUp": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.0
+  }
+}

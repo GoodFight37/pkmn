@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5459940209927420076
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5492336439074598085
+  },
+  "m_Name": "",
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": 7988828137174370132
+  },
+  "_drawElement": {
+    "m_FileID": 0,
+    "m_PathID": 4398287437426558804
+  },
+  "_defeatElement": {
+    "m_FileID": 0,
+    "m_PathID": 3358432366517782356
+  },
+  "_battleAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8757907545211766612
+  },
+  "_battleDrawAnimationKey": "battle_ui_result_draw",
+  "_battleDefeatAnimationKey": "battle_ui_result_defeat"
+}

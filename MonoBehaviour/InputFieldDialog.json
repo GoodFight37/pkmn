@@ -1,0 +1,145 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -546718841130713174
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5519090383620854500
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 6621322830324236202
+  },
+  "_titleTextObject": {
+    "m_FileID": 0,
+    "m_PathID": -9035474114797699158
+  },
+  "_errorCodeText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_errorCodeTextObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_bodyText": {
+    "m_FileID": 0,
+    "m_PathID": -3725037419122196566
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 7760526491213299626
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 8667439345927716778
+  },
+  "_iconButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_footerButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": 5276489409146847146
+  },
+  "_bodyObject": {
+    "m_FileID": 0,
+    "m_PathID": 4888884490350362538
+  },
+  "_inputObject": {
+    "m_FileID": 0,
+    "m_PathID": -7211418021033869398
+  },
+  "_inputField": {
+    "m_FileID": 0,
+    "m_PathID": 8150163172854071210
+  },
+  "_placeholderTxt": {
+    "m_FileID": 0,
+    "m_PathID": 8888984015659532202
+  },
+  "_normalInputText": {
+    "m_FileID": 0,
+    "m_PathID": -9136672797905190998
+  },
+  "_playerNameInputText": {
+    "m_FileID": 0,
+    "m_PathID": 4944471957790130090
+  },
+  "_cautionObject": {
+    "m_FileID": 0,
+    "m_PathID": 8335779343477833642
+  },
+  "_cautionText": {
+    "m_FileID": 0,
+    "m_PathID": -5751200563402702934
+  },
+  "_confirmObject": {
+    "m_FileID": 0,
+    "m_PathID": -8584697611576279126
+  },
+  "_confirmInputField": {
+    "m_FileID": 0,
+    "m_PathID": 7293026371697835946
+  },
+  "_confirmBodyObject": {
+    "m_FileID": 0,
+    "m_PathID": -4433317581454966870
+  },
+  "_confirmBodyText": {
+    "m_FileID": 0,
+    "m_PathID": 2894335470011744170
+  },
+  "_confirmCautionObject": {
+    "m_FileID": 0,
+    "m_PathID": -4326096010371334230
+  },
+  "_confirmCautionText": {
+    "m_FileID": 0,
+    "m_PathID": -3921030615659511894
+  }
+}

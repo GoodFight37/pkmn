@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3188695702458635648
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7650505139599484492
+  },
+  "m_Name": "",
+  "_eventName": "OnDialogShow",
+  "_onEnabledAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": -8752216444740053343
+  },
+  "_onDisabledAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": -6557461883389620793
+  }
+}

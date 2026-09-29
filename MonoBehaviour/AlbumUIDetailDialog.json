@@ -1,0 +1,147 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2646977752179809628
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4138742942578252418
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6523714362681713316
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -1998826846063878820
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -5116970153587827364
+  },
+  "_coverImage": {
+    "m_FileID": 0,
+    "m_PathID": 8599326081641356636
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -4282319083035484836
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -1998826846063878820
+  },
+  "_hudDisableButton": {
+    "m_FileID": 0,
+    "m_PathID": 1896292068234960220
+  },
+  "_editButton": {
+    "m_FileID": 0,
+    "m_PathID": 3915260978342272348
+  },
+  "_huds": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2290753389083091620
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7002168851516366172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7841869581795335516
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1658052828770606428
+    }
+  ],
+  "_favoriteButton": {
+    "m_FileID": 0,
+    "m_PathID": 9006235661181656412
+  },
+  "_stickyHeaderElement": {
+    "m_FileID": 0,
+    "m_PathID": 1974122451652975964
+  },
+  "_blocker": {
+    "m_FileID": 0,
+    "m_PathID": 3635837992076582236
+  },
+  "_bgBodyPatternImage": {
+    "m_FileID": 0,
+    "m_PathID": -4666053155470041764
+  },
+  "_titleBlackRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6274550002464660828
+  },
+  "_titleBlackText": {
+    "m_FileID": 0,
+    "m_PathID": -4282319083035484836
+  },
+  "_titleWhiteRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1256696070004073124
+  },
+  "_titleWhiteText": {
+    "m_FileID": 0,
+    "m_PathID": 8962932111246105948
+  },
+  "_loadingCoverImage": {
+    "m_FileID": 0,
+    "m_PathID": 602669714553118044
+  },
+  "_favoriteRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2290753389083091620
+  },
+  "_editRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1658052828770606428
+  },
+  "_closeRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7002168851516366172
+  },
+  "_hudDisableRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7841869581795335516
+  },
+  "_fileBgImgRect": {
+    "m_FileID": 0,
+    "m_PathID": -7447035708876776100
+  }
+}

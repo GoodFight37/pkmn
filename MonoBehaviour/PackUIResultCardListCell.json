@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6613758720504850869
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8727582665552762869
+  },
+  "m_Name": "",
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 5071080182875842997
+  },
+  "_favorite": {
+    "m_FileID": 0,
+    "m_PathID": -4527337359826196043
+  },
+  "_newImage": {
+    "m_FileID": 0,
+    "m_PathID": -6643899634431661643
+  },
+  "_scrollableButton": {
+    "m_FileID": 0,
+    "m_PathID": -3146324980023465547
+  },
+  "_possessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": 3276538025848302005
+  },
+  "_possessionCardText": {
+    "m_FileID": 0,
+    "m_PathID": -4906957649487959627
+  },
+  "_cardFrameObtainableObject": {
+    "m_FileID": 0,
+    "m_PathID": -2212180826585667147
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8569369596663374587
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1919472417668449154
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5380721837040852229
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardStocksByExpansionCell": {
+    "m_FileID": 0,
+    "m_PathID": -2500188628538434299
+  },
+  "_arrowView": {
+    "m_FileID": 0,
+    "m_PathID": -1177211536780567291
+  },
+  "_arrowButton": {
+    "m_FileID": 0,
+    "m_PathID": 5380721837040852229
+  },
+  "_inNumberCompleteBadge": {
+    "m_FileID": 0,
+    "m_PathID": -6007323334667019003
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 8349616723785735429
+  },
+  "_refreshAnimation": {
+    "m_FileID": 4,
+    "m_PathID": 9175714913698568903
+  }
+}

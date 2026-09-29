@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4234306194908551697
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1773890685485738147
+  },
+  "m_Name": "",
+  "_uiShowHideDuration": {
+    "_value": 0.15
+  },
+  "_uiShowHideDistance": {
+    "_value": 0.1
+  },
+  "_uiShowEaseType": {
+    "_value": 14
+  },
+  "_uiHideEaseType": {
+    "_value": 19
+  },
+  "_cardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7974880487301015023
+  },
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": -4290970733509305839
+  },
+  "_cardDirection": {
+    "m_FileID": 0,
+    "m_PathID": 3373692953208199697
+  },
+  "_container": {
+    "m_FileID": 0,
+    "m_PathID": -1929400408653456879
+  },
+  "_detailContainer": {
+    "m_FileID": 0,
+    "m_PathID": 7084421370373773841
+  },
+  "_frameView": {
+    "m_FileID": 0,
+    "m_PathID": 9144038375423056401
+  },
+  "_shadowView": {
+    "m_FileID": 0,
+    "m_PathID": 3083178781500283409
+  },
+  "_lwAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 6965707286243285521
+  },
+  "_collider": {
+    "m_FileID": 0,
+    "m_PathID": -4946869805421389295
+  },
+  "_abilityView": {
+    "m_FileID": 0,
+    "m_PathID": -5434562543223399919
+  },
+  "_waitingFloatPosition": {
+    "x": -0.97,
+    "y": 0.05,
+    "z": -0.78
+  },
+  "_waitingFloatPositionForOpponentCamera": {
+    "x": -0.87,
+    "y": 0.05,
+    "z": 0.0
+  }
+}

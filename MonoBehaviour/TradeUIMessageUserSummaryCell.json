@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1780634605457980152
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4509560511439436495
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_myProfileObject": {
+    "m_FileID": 0,
+    "m_PathID": 1089785450299966728
+  },
+  "_myProfileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3993568223469517560
+  },
+  "_arrowObject": {
+    "m_FileID": 0,
+    "m_PathID": 6298945977595053320
+  },
+  "_otherProfileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4930839287322983160
+  },
+  "_otherProfileNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1428871620116560632
+  },
+  "_descriptionObject": {
+    "m_FileID": 0,
+    "m_PathID": -3561195662702951160
+  }
+}

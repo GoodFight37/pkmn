@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7926217776324356377
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8075876869350007063
+  },
+  "m_Name": "",
+  "_firstTurnPlayerRoot": {
+    "m_FileID": 0,
+    "m_PathID": 681222871378089703
+  },
+  "_secondTurnPlayerRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2898289354419087641
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 1980207671626880743
+  },
+  "_firstTurnPlayerClip": {
+    "m_FileID": 7,
+    "m_PathID": -1251475874245316996
+  },
+  "_secondTurnPlayerClip": {
+    "m_FileID": 7,
+    "m_PathID": 1438167438389876552
+  },
+  "_containerCanvas": {
+    "m_FileID": 0,
+    "m_PathID": 1020569855415932647
+  }
+}

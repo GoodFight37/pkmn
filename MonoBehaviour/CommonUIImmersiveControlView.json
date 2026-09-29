@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7312479094235470779
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4977621439219570322
+  },
+  "m_Name": "",
+  "_pauseButton": {
+    "m_FileID": 0,
+    "m_PathID": -5731300593096793019
+  },
+  "_skipButton": {
+    "m_FileID": 0,
+    "m_PathID": -5179386772918115259
+  },
+  "_touchGuard": {
+    "m_FileID": 0,
+    "m_PathID": -4687610496215030715
+  }
+}

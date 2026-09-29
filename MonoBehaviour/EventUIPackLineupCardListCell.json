@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5703780495449224746
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1395749494320339453
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardNameText": {
+    "m_FileID": 0,
+    "m_PathID": 9201907423001605674
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 1876951246088730154
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -9111712231255804374
+  }
+}

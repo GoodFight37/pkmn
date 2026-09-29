@@ -1,0 +1,144 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4347832365333171940
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5499451957176949280
+  },
+  "m_Name": "",
+  "_skillButon": {
+    "m_FileID": 0,
+    "m_PathID": -9023248145426264348
+  },
+  "_nameTextRawImage": {
+    "m_FileID": 0,
+    "m_PathID": -7704071136733278492
+  },
+  "_descriptionTextRawImage": {
+    "m_FileID": 0,
+    "m_PathID": 5095886255764492004
+  },
+  "_abilityIconRawImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_damageAmountText": {
+    "m_FileID": 0,
+    "m_PathID": -2100859520486715676
+  },
+  "_damageAmountTextNormalColor": {
+    "r": 0.13725491,
+    "g": 0.09411765,
+    "b": 0.08235294,
+    "a": 1.0
+  },
+  "_damageAmountTextDarkColor": {
+    "r": 0.8867924,
+    "g": 0.8867924,
+    "b": 0.8867924,
+    "a": 1.0
+  },
+  "_damageAmountTextBuffColor": {
+    "r": 1.0,
+    "g": 0.30980393,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "_damageAmountTextDebuffColor": {
+    "r": 0.0,
+    "g": 0.49803922,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_disableButton": {
+    "m_FileID": 0,
+    "m_PathID": 8381277464707354340
+  },
+  "_increasedIconElement": {
+    "m_FileID": 0,
+    "m_PathID": -93455544358121756
+  },
+  "_decreasedIconElement": {
+    "m_FileID": 0,
+    "m_PathID": 6814140439254224612
+  },
+  "_nameLayoutElement": {
+    "m_FileID": 0,
+    "m_PathID": -271180590152134940
+  },
+  "_descriptionLayoutElement": {
+    "m_FileID": 0,
+    "m_PathID": -924212615947530524
+  },
+  "_abilityIconLayoutElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_nameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2702381943348310300
+  },
+  "_descriptionObject": {
+    "m_FileID": 0,
+    "m_PathID": 1569089230467976932
+  },
+  "_invalidIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -6310737974857412892
+  },
+  "_requiredEnergy": {
+    "m_FileID": 0,
+    "m_PathID": 6404840739885240036
+  },
+  "_requiredEnergy2": {
+    "m_FileID": 0,
+    "m_PathID": 1015142998795046628
+  },
+  "_baseColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -4642764810546819356
+  },
+  "_gradationColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -2543538066857832732
+  },
+  "_attentionElement": {
+    "m_FileID": 0,
+    "m_PathID": -1896593285192200476
+  },
+  "_attentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 9168890952204570340
+  },
+  "_attentionSelectableClip": {
+    "m_FileID": 4,
+    "m_PathID": -5006085743621979118
+  },
+  "_attentionSelectableWithConditionClip": {
+    "m_FileID": 4,
+    "m_PathID": -735993479747161211
+  },
+  "_selectElement": {
+    "m_FileID": 0,
+    "m_PathID": 187563542475591396
+  },
+  "_selectAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6170445107602829596
+  },
+  "_selectSelectableClip": {
+    "m_FileID": 4,
+    "m_PathID": 144023420977708876
+  },
+  "_fossilElement": {
+    "m_FileID": 0,
+    "m_PathID": 1082071017801797348
+  },
+  "<TutorialFocusTransform>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 7044467529253474020
+  }
+}

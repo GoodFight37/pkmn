@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 205586013784861312
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3588363388531066075
+  },
+  "m_Name": "",
+  "ParentScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -7228536346697504128
+  },
+  "EmptyBase": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ItemPrefab": {
+    "m_FileID": 6,
+    "m_PathID": -3177815848831755353
+  },
+  "Layout": 0,
+  "AdditionalLayout": 1,
+  "HorizontalCellOffset": 0.0,
+  "VerticalCellOffset": 0.0,
+  "DivideCount": 3,
+  "Spacing": {
+    "x": 8.0,
+    "y": 8.2
+  },
+  "TopMargin": 498.0,
+  "BottomMargin": 152.0,
+  "LeftMargin": 0.0,
+  "RightMargin": 0.0,
+  "Infinity": 0,
+  "_topCellPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_bottomCellPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_mode": 2,
+  "_moveCellToSpan": 0.5,
+  "_waitingTimeOverlapping": 0.5,
+  "_autoScrollAcceleration": 1500.0,
+  "_autoScrollMaxSpeed": 1050.0,
+  "_autoScrollTopMargin": 100.0,
+  "_autoScrollBottomMargin": 100.0
+}

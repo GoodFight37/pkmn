@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7519570673604952901
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9008712630924511416
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6229357313870920891
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_tab": {
+    "m_FileID": 0,
+    "m_PathID": -150974212257612613
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6229357313870920891
+  },
+  "_selectButton": {
+    "m_FileID": 0,
+    "m_PathID": -2332922216646902597
+  },
+  "_deckRuleSpecialImage": {
+    "m_FileID": 0,
+    "m_PathID": 1583516574126701755
+  },
+  "_deckRuleButton": {
+    "m_FileID": 0,
+    "m_PathID": 3751882924935216315
+  },
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_filterButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_sortButtonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_filterButtonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_sortButtonCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonFadeShowAnimationClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonFadeHideAnimationClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_newBottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 517838847379963067
+  },
+  "_scrollRectTabList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5851282544191865669
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9040955023197928635
+    }
+  ]
+}

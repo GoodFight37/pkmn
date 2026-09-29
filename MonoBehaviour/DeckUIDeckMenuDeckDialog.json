@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5082144946709625539
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8155734256047686687
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3143339289099601213
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 4125902402880895683
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_themeDeckRecipeButton": {
+    "m_FileID": 0,
+    "m_PathID": -1659011912764327229
+  },
+  "_rentalDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": 7260481852643506883
+  },
+  "_myDeckButton": {
+    "m_FileID": 0,
+    "m_PathID": 3716830118080117443
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 4125902402880895683
+  },
+  "_newBadgeForRecipe": {
+    "m_FileID": 0,
+    "m_PathID": -1273121128320828733
+  },
+  "_newBadgeForRental": {
+    "m_FileID": 0,
+    "m_PathID": -2675495989291681085
+  }
+}

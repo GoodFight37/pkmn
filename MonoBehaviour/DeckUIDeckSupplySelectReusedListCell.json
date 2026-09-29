@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7055647485054697849
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2719381567134723988
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4222203128834834809
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_deckSupplyListCell": {
+    "m_FileID": 0,
+    "m_PathID": -7356623232662748807
+  },
+  "_playMatListCell": {
+    "m_FileID": 0,
+    "m_PathID": -5063799448978570887
+  },
+  "_emptyObject": {
+    "m_FileID": 0,
+    "m_PathID": -8457975799333043847
+  },
+  "_goodsObject": {
+    "m_FileID": 0,
+    "m_PathID": -7042615665479761543
+  },
+  "_favoriteGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1032340340627521159
+  }
+}

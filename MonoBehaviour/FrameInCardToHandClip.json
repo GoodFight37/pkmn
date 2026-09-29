@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1574733922779226732
+  },
+  "m_Name": "FrameInCardToHandClip",
+  "_isSelf": 0,
+  "_interval": 6,
+  "_skipRemainingOnLastFinished": 1,
+  "_se": {
+    "_value": "BATTLE_SE_CARD_TAP"
+  }
+}

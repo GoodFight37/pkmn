@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2675902009461171157
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2522668416060048609
+  },
+  "m_Name": "",
+  "_movingKiraARenderer": {
+    "m_FileID": 0,
+    "m_PathID": -994634680671542315
+  },
+  "_movingKiraBRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -2095696790746569771
+  },
+  "_defaultCircularAnglePattern": 3,
+  "_defaultCircularAngleManual": 0.0,
+  "_tiltPower": 2.0,
+  "_tiltThreshold": 0.3,
+  "_tiltStateChangeDelay": 0.2,
+  "_rotateAccel": 3.0,
+  "_brakeDuration": 6.0,
+  "_primTypeASymmetryCount": 8,
+  "_primTypeBSymmetryCount": 8,
+  "_primTypeCSymmetryCount": 8,
+  "_prims": [
+    {
+      "PrimType": 0,
+      "BaseScale": 4.5,
+      "BaseIntensity": 0.6,
+      "MinIntensity": 0.3,
+      "MaxIntensity": 0.8,
+      "FlickerSpeed": 0.8,
+      "FlickerScaling": 0.16,
+      "StartAngle": 157.5,
+      "UseMorphing": 1,
+      "UseMorphingNoise": 1,
+      "MorphingSpeed": 2.0,
+      "MorphingClearly": 0.5,
+      "MaxRotateSpeed": 7.0,
+      "ReverseRotation": 0
+    },
+    {
+      "PrimType": 1,
+      "BaseScale": 4.0,
+      "BaseIntensity": 0.6,
+      "MinIntensity": 0.05,
+      "MaxIntensity": 1.0,
+      "FlickerSpeed": 1.3,
+      "FlickerScaling": 0.1,
+      "StartAngle": 0.0,
+      "UseMorphing": 1,
+      "UseMorphingNoise": 0,
+      "MorphingSpeed": 1.0,
+      "MorphingClearly": 0.5,
+      "MaxRotateSpeed": 6.0,
+      "ReverseRotation": 1
+    },
+    {
+      "PrimType": 2,
+      "BaseScale": 2.0,
+      "BaseIntensity": 1.0,
+      "MinIntensity": 1.0,
+      "MaxIntensity": 1.0,
+      "FlickerSpeed": 1.16,
+      "FlickerScaling": 0.2,
+      "StartAngle": 67.5,
+      "UseMorphing": 1,
+      "UseMorphingNoise": 1,
+      "MorphingSpeed": 1.5,
+      "MorphingClearly": 1.0,
+      "MaxRotateSpeed": 2.0,
+      "ReverseRotation": 0
+    },
+    {
+      "PrimType": 2,
+      "BaseScale": 5.0,
+      "BaseIntensity": 0.3,
+      "MinIntensity": 0.3,
+      "MaxIntensity": 0.7,
+      "FlickerSpeed": 1.5,
+      "FlickerScaling": 0.2,
+      "StartAngle": 112.5,
+      "UseMorphing": 1,
+      "UseMorphingNoise": 1,
+      "MorphingSpeed": 0.0,
+      "MorphingClearly": 0.5,
+      "MaxRotateSpeed": 4.0,
+      "ReverseRotation": 1
+    }
+  ],
+  "_trailKiraARenderer": {
+    "m_FileID": 0,
+    "m_PathID": 5728916152898675669
+  },
+  "_trailKiraBRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -4347295202232441899
+  },
+  "_trailKiraAMeshFilter": {
+    "m_FileID": 0,
+    "m_PathID": 287842782893761493
+  },
+  "_trailKiraBMeshFilter": {
+    "m_FileID": 0,
+    "m_PathID": 3982021102632625109
+  },
+  "_meshDivideCount": 200,
+  "_moveAngleScale": 730.0,
+  "_centerIntensity": 0.6,
+  "_fadeOut": 0.66,
+  "_fadeOutEnd": 0.001,
+  "_expandLength": 15,
+  "_expandPower": 0.7,
+  "_useLengthLimit": 1,
+  "_limitLengthRatio": 0.12,
+  "_LimitAdjustCurvePower": 1.1,
+  "_LimitAdjustSpeed": 0.02,
+  "_useDistanceFadeOut": 1,
+  "_distanceFadeOutSpeed": 1.0,
+  "_distanceFadeOutCurvePower": 15.0,
+  "<IsAnimationStopped>k__BackingField": 0
+}

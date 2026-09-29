@@ -1,0 +1,198 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2572593637073444983
+  },
+  "m_Name": "Tutorial_9",
+  "Data": {
+    "Regulation": {
+      "IsSelfTurnFirst": 1,
+      "SkipPrepareHand": 0,
+      "SkipPrepareLibrary": 0,
+      "SkipPrepareField": 0,
+      "WinningPrize": 3,
+      "RandomSeed": "",
+      "FinalTurnNumber": 0
+    },
+    "Turn": {
+      "TurnNumber": 3,
+      "TurnPlayer": 1,
+      "IsPreparationEnd": 1,
+      "PhaseType": 200,
+      "PhaseState": 2,
+      "StepType": 0,
+      "StepState": 0
+    },
+    "P1": {
+      "Id": "1",
+      "Prize": 2,
+      "Cards": {
+        "LocationCode": "H....J.IG0123456789ABCDEF..",
+        "Ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "AttachedTools": []
+      },
+      "Energy": {
+        "ZoneCurrent": 5,
+        "ZoneNext": 5,
+        "EnergyCodes": [
+          "10000300000",
+          "10000000000",
+          "10000000000",
+          "10000000000",
+          ""
+        ]
+      },
+      "FieldParameter": {
+        "Damages": [
+          50,
+          0,
+          0,
+          0
+        ],
+        "SpecialConditions": []
+      },
+      "Supply": {
+        "DeckShieldId": "",
+        "BattleCoinId": "",
+        "PlayMatId": ""
+      },
+      "KeepLibraryOrderOnPrepare": 0,
+      "Deck": {
+        "Cards": [
+          "PK_10_000010_00",
+          "PK_10_000010_00",
+          "PK_10_000080_00",
+          "PK_10_000080_00",
+          "PK_10_000110_00",
+          "PK_10_000110_00",
+          "PK_10_000140_00",
+          "PK_10_000140_00",
+          "PK_10_000190_00",
+          "PK_10_000190_00",
+          "PK_10_000210_00",
+          "PK_10_000210_00",
+          "PK_10_000250_00",
+          "PK_10_000250_00",
+          "PK_10_000270_00",
+          "PK_10_000270_00",
+          "PK_10_000350_00",
+          "PK_10_000940_00",
+          "PK_10_000950_00",
+          "TR_90_000040_00"
+        ],
+        "Energies": [
+          5
+        ]
+      }
+    },
+    "P2": {
+      "Id": "2",
+      "Prize": 0,
+      "Cards": {
+        "LocationCode": "012.....3456789ABCDEFGHIJ..",
+        "Ids": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "AttachedTools": []
+      },
+      "Energy": {
+        "ZoneCurrent": 0,
+        "ZoneNext": 3,
+        "EnergyCodes": [
+          "10040000000",
+          "10000000000",
+          "10000000000",
+          "10000000000",
+          ""
+        ]
+      },
+      "FieldParameter": {
+        "Damages": [
+          10,
+          0,
+          0,
+          0
+        ],
+        "SpecialConditions": []
+      },
+      "Supply": {
+        "DeckShieldId": "",
+        "BattleCoinId": "",
+        "PlayMatId": ""
+      },
+      "KeepLibraryOrderOnPrepare": 0,
+      "Deck": {
+        "Cards": [
+          "PK_10_000330_00",
+          "PK_10_000340_00",
+          "PK_10_000350_00",
+          "PK_10_001150_00",
+          "PK_10_001160_00",
+          "PK_10_001170_00",
+          "PK_10_001180_00",
+          "PK_10_001190_00",
+          "PK_10_001200_00",
+          "PK_10_001210_00",
+          "PK_10_001220_00",
+          "PK_10_001230_00",
+          "PK_10_001240_00",
+          "PK_10_001250_00",
+          "PK_10_001260_00",
+          "PK_10_001270_00",
+          "PK_10_001280_00",
+          "PK_10_001290_00",
+          "PK_10_001300_00",
+          "PK_10_001310_00"
+        ],
+        "Energies": [
+          3
+        ]
+      }
+    }
+  }
+}

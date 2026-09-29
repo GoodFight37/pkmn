@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3911828213333522525
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3592773143955862874
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3419665323662211165
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 6585018597427283875
+  },
+  "_counterObj": {
+    "m_FileID": 0,
+    "m_PathID": -6649978196627650653
+  },
+  "_describeText": {
+    "m_FileID": 0,
+    "m_PathID": -2626628510350866525
+  },
+  "_clearElement": {
+    "m_FileID": 0,
+    "m_PathID": 3766766046497965987
+  },
+  "_rewardCell": {
+    "m_FileID": 0,
+    "m_PathID": -679749305376340061
+  },
+  "_counterGauge": {
+    "m_FileID": 0,
+    "m_PathID": -9092388726020995165
+  },
+  "_counterText": {
+    "m_FileID": 0,
+    "m_PathID": -2210260629610395741
+  },
+  "_iconElementAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -53201180245456989
+  },
+  "_clearAnimationClip": {
+    "m_FileID": 3,
+    "m_PathID": 5312738022666896690
+  },
+  "_gaugeParam": {
+    "_speed": 2.0,
+    "_delayDuration": 0.75
+  }
+}

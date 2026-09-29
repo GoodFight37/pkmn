@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3307851767686473595
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6281958258925697200
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 8816213426597025925
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -6794780255741912955
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 8816213426597025925
+  },
+  "_deckNum": {
+    "m_FileID": 0,
+    "m_PathID": -6764803528937613179
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": 6279859049231505541
+  },
+  "_filterBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": -889705714282768251
+  },
+  "_helpButton": {
+    "m_FileID": 0,
+    "m_PathID": 165548766059255941
+  },
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": 3892912611363412101
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": -5022004523862632315
+  }
+}

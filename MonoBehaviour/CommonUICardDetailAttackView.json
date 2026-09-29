@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2194732397760799714
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1389252760361634179
+  },
+  "m_Name": "",
+  "_pokemonAttack1NameRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7030248694085786654
+  },
+  "_pokemonAttack1EnergyViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 27745386635518946
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2596182594744017890
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5890399223287651358
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6408411913245367326
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2068330185633948642
+    }
+  ],
+  "_pokemonAttack1DamageText": {
+    "m_FileID": 0,
+    "m_PathID": 4547454722239292386
+  },
+  "_pokemonAttack1Description": {
+    "m_FileID": 0,
+    "m_PathID": 7907268690729755618
+  },
+  "_pokemonAttack2NameRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1721182172526732258
+  },
+  "_pokemonAttack2EnergyViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8129903114920401950
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -750678249517095966
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2184667632934788126
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9108653545145506846
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5463238195929488414
+    }
+  ],
+  "_pokemonAttack2DamageText": {
+    "m_FileID": 0,
+    "m_PathID": -4144568726407486494
+  },
+  "_pokemonAttack2Description": {
+    "m_FileID": 0,
+    "m_PathID": -4972334466311724062
+  }
+}

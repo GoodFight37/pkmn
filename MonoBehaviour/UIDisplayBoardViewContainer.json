@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2411806200290905188
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8246949666983857280
+  },
+  "m_Name": "",
+  "_displayBoardView": {
+    "m_FileID": 0,
+    "m_PathID": -2950292834594026396
+  },
+  "_useTap": 1,
+  "_useDraggingCard": 0,
+  "_collectionBoardElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_resetAnimDuration": 0.2,
+  "_swapAnimDuration": 0.4
+}

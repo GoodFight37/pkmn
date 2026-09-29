@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 729086967593189801
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7572337627569502467
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3759979929232653911
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7055819025268457047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4953449349280907689
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7450336458254827095
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5869537582752022953
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -994773002302963287
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -66181785231212119
+  },
+  "_itemNumText": {
+    "m_FileID": 0,
+    "m_PathID": -6425580288946650711
+  },
+  "_virtualCurrencyBgObject": {
+    "m_FileID": 0,
+    "m_PathID": 3393494956558401961
+  },
+  "_virtualCurrencyDetailBase": {
+    "m_FileID": 0,
+    "m_PathID": 3075112298122133929
+  },
+  "_virtualCurrencyFreeNumText": {
+    "m_FileID": 0,
+    "m_PathID": 3196876636639871401
+  },
+  "_virtualCurrencyPaidNumText": {
+    "m_FileID": 0,
+    "m_PathID": 3123906157718946217
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -4589120196865539671
+  },
+  "_itemRecoverGaugeBaseObject": {
+    "m_FileID": 0,
+    "m_PathID": 8321694356191199657
+  },
+  "_itemRecoverGauge": {
+    "m_FileID": 0,
+    "m_PathID": -4067152674292678231
+  },
+  "_steppers": {
+    "m_FileID": 0,
+    "m_PathID": -2190133153634631255
+  },
+  "_shopButton": {
+    "m_FileID": 0,
+    "m_PathID": -994773002302963287
+  },
+  "_itemButton": {
+    "m_FileID": 0,
+    "m_PathID": 5869537582752022953
+  }
+}

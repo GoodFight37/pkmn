@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3510241417327738329
+  },
+  "m_Name": "Pokemon_Normal",
+  "_conditions": [
+    {
+      "_conditionType": -1,
+      "_energyType": 7,
+      "_font": {
+        "m_FileID": 2,
+        "m_PathID": 9206163707915172525
+      }
+    }
+  ],
+  "_default": {
+    "m_FileID": 3,
+    "m_PathID": 7671243795283393112
+  }
+}

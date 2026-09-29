@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1857159624393245617
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1107122104439144343
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -1358100445811752015
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2539362431889720241
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_seasonText": {
+    "m_FileID": 0,
+    "m_PathID": 5813519298751644593
+  },
+  "_rankIconElement": {
+    "m_FileID": 0,
+    "m_PathID": -2465438597299813455
+  },
+  "_rankNameElement": {
+    "m_FileID": 0,
+    "m_PathID": 8242547757591905201
+  },
+  "_rankingBadgeElement": {
+    "m_FileID": 0,
+    "m_PathID": -6193522012174662735
+  },
+  "_titleBackGroundElements": {
+    "_beginner": {
+      "m_FileID": 0,
+      "m_PathID": 6964311618043069361
+    },
+    "_monsterBall": {
+      "m_FileID": 0,
+      "m_PathID": -8895193218398927951
+    },
+    "_superBall": {
+      "m_FileID": 0,
+      "m_PathID": 9097015666813780913
+    },
+    "_hyperBall": {
+      "m_FileID": 0,
+      "m_PathID": -2191396739357457487
+    },
+    "_masterBall": {
+      "m_FileID": 0,
+      "m_PathID": -1981326073108937807
+    }
+  },
+  "_pointText": {
+    "m_FileID": 0,
+    "m_PathID": 8942092472556340145
+  },
+  "_nextButton": {
+    "m_FileID": 0,
+    "m_PathID": 2539362431889720241
+  }
+}

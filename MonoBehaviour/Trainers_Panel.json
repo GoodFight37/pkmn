@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6621602161769933796
+  },
+  "m_Name": "Trainers_Panel",
+  "_conditions": [
+    {
+      "_conditionType": 1,
+      "_cardType": 2,
+      "_energyType": 0,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 4,
+        "m_PathID": -3145017825280592906
+      }
+    },
+    {
+      "_conditionType": 1,
+      "_cardType": 3,
+      "_energyType": 0,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 2,
+        "m_PathID": 6055060909567355002
+      }
+    },
+    {
+      "_conditionType": 1,
+      "_cardType": 4,
+      "_energyType": 0,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 5,
+        "m_PathID": 2198302541053391678
+      }
+    },
+    {
+      "_conditionType": 1,
+      "_cardType": 5,
+      "_energyType": 0,
+      "_stage": 0,
+      "_material": {
+        "m_FileID": 3,
+        "m_PathID": 3151872831814200380
+      }
+    }
+  ]
+}

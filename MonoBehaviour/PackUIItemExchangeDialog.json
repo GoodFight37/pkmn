@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3242852874971804357
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4781259705013794138
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -2424869362020545221
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_pointNumText": {
+    "m_FileID": 0,
+    "m_PathID": 7939967075608071483
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 7442043060045647163
+  },
+  "_cardStockNum": {
+    "m_FileID": 0,
+    "m_PathID": 2695607700027182395
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": -6542820230002078405
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1622933013018473157
+  },
+  "_requiredNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6184063630637567291
+  },
+  "_requiredNumTextColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -8567193302896046789
+  },
+  "_attentionElm": {
+    "m_FileID": 0,
+    "m_PathID": -8657630336878604997
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2424869362020545221
+  },
+  "_executeButton": {
+    "m_FileID": 0,
+    "m_PathID": 845223556053241147
+  },
+  "_steppers": {
+    "m_FileID": 0,
+    "m_PathID": 4118473132709612859
+  }
+}

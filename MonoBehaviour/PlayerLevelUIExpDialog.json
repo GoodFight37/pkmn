@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7331069669210938201
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3845376410617756266
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -7726872783983518887
+  },
+  "_selfIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -5680560166284207271
+  },
+  "_beforeLevelText": {
+    "m_FileID": 0,
+    "m_PathID": 6537069357332585305
+  },
+  "_afterLevelText": {
+    "m_FileID": 0,
+    "m_PathID": 1914228012687842137
+  },
+  "_footerShowAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7771582447880985433
+  },
+  "_footerShowAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": -6828478014734763001
+  },
+  "_battleresultUiExpDialogShowAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5086670533192342361
+  },
+  "_battleresultUiExpDialogShowAnimationClip": {
+    "m_FileID": 4,
+    "m_PathID": -3640402268330519724
+  },
+  "_footerAnimationRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3826703752422794407
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7615630077777312989
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8063510968794141868
+  },
+  "m_Name": "",
+  "_pack00Elm": {
+    "m_FileID": 0,
+    "m_PathID": 5426219127615618269
+  },
+  "_pack01Elm": {
+    "m_FileID": 0,
+    "m_PathID": 5026079612178889949
+  },
+  "_pack02Elm": {
+    "m_FileID": 0,
+    "m_PathID": -9083692369868915491
+  },
+  "_remainingTimeTextPack00": {
+    "m_FileID": 0,
+    "m_PathID": 6242538114565766365
+  },
+  "_remainingTimeTextPack01": {
+    "m_FileID": 0,
+    "m_PathID": -4781374501561598755
+  },
+  "_remainingGaugePack00": {
+    "m_FileID": 0,
+    "m_PathID": -5545355237677957923
+  },
+  "_remainingGaugePack01": {
+    "m_FileID": 0,
+    "m_PathID": -5777235363094954787
+  }
+}

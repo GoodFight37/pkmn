@@ -1,0 +1,201 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3814645536914466090
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6732542189697215685
+  },
+  "m_Name": "",
+  "_useCustomGUI": 0,
+  "_effectType": {
+    "rid": 7624783452379545640
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 7624783452379545640,
+        "type": {
+          "class": "NormalEffect",
+          "ns": "DGFW.EffectMaterialGenerator",
+          "asm": "DGFW.EffectMaterialGenerator.Runtime"
+        },
+        "data": {}
+      },
+      {
+        "rid": 7624783452379545641,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 87674629158,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 8315736636167316819,
+        "type": {
+          "class": "DGFW.EffectMaterialGenerator",
+          "ns": "DGFW.EffectMaterialGenerator.Runtime",
+          "asm": "\f"
+        },
+        "data": {}
+      },
+      {
+        "rid": 7369407881746342210,
+        "type": {
+          "class": "",
+          "ns": "+\u0000\\�&��i,\u0000\\�",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7624783452379545645,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -1127025598815753178,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7624783452379545650,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -1127025577340916698,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7624783452379545642,
+        "type": {
+          "class": "TrailEffectSettings",
+          "ns": "DGFW.EffectMaterialGenerator",
+          "asm": "DGFW.EffectMaterialGenerator.Runtime"
+        },
+        "data": {}
+      },
+      {
+        "rid": 47244640256,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -1127025570526265339,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7624783452379545657,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -1127025620290589658,
+        "type": {
+          "class": "",
+          "ns": "MaterialModifier",
+          "asm": "DGFW.EffectMaterialGenerator"
+        },
+        "data": {}
+      },
+      {
+        "rid": 6288792287052824612,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 8243116074240598377,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7624783452379545644,
+        "type": {
+          "class": "BattleBlendSettingsModifier",
+          "ns": "Lettuce.Graphics.Effect",
+          "asm": "Lettuce.Graphics.Effect.Runtime"
+        },
+        "data": {}
+      },
+      {
+        "rid": 0,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": "\u0000\u0000"
+        },
+        "data": {}
+      },
+      {
+        "rid": 0,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7308890600885977111,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      }
+    ]
+  }
+}

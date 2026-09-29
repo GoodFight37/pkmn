@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3177815848831755353
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3374953562180210263
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -681141797071561817
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2569699051099464793
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4227197197704438873
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6123820994063639641
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 4281664038460513191
+  },
+  "_cardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 978587006153382823
+  },
+  "_cardShadowGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3417577786547250265
+  },
+  "_deleteButtonGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7804398564324222041
+  },
+  "_detailButtonGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2908923581604879271
+  },
+  "_blankGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2153125428493474727
+  },
+  "_blankPlusMarkGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7824591635632170073
+  },
+  "_cellButton": {
+    "m_FileID": 0,
+    "m_PathID": 8644641368302934951
+  },
+  "_highlightGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 364132559574784935
+  },
+  "_lowlightGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6866503342630951847
+  },
+  "_visualButton": {
+    "m_FileID": 0,
+    "m_PathID": 29913984854186919
+  }
+}

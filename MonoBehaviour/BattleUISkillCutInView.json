@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -768521254840248601
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7919268690281977522
+  },
+  "m_Name": "",
+  "_selfElement": {
+    "m_FileID": 0,
+    "m_PathID": -2200787421811124505
+  },
+  "_selfElementAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -7319466085865302297
+  },
+  "_selfBaseImagePalette": {
+    "m_FileID": 0,
+    "m_PathID": 2762001022593980135
+  },
+  "_selfCardNameText": {
+    "m_FileID": 0,
+    "m_PathID": 7603192687263930087
+  },
+  "_selfSkillNameText": {
+    "m_FileID": 0,
+    "m_PathID": 9085589293428954855
+  },
+  "_opponentElement": {
+    "m_FileID": 0,
+    "m_PathID": -6021968846127966489
+  },
+  "_opponentElementAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -1091577899601307929
+  },
+  "_opponentBaseImagePalette": {
+    "m_FileID": 0,
+    "m_PathID": -4115636439866485017
+  },
+  "_opponentCardNameText": {
+    "m_FileID": 0,
+    "m_PathID": -6276044860684380441
+  },
+  "_opponentSkillNameText": {
+    "m_FileID": 0,
+    "m_PathID": -7658423835468114201
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5489069618085625782
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3459881632538556400
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_playerNameText": {
+    "m_FileID": 0,
+    "m_PathID": -893252538947993526
+  },
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3500181683470925750
+  },
+  "_winObject": {
+    "m_FileID": 0,
+    "m_PathID": -5282977779085017014
+  },
+  "_rankUpObject": {
+    "m_FileID": 0,
+    "m_PathID": 3907673982380802122
+  },
+  "_rankUpIconElement": {
+    "m_FileID": 0,
+    "m_PathID": 9222505985946026058
+  },
+  "_acquiredPointText": {
+    "m_FileID": 0,
+    "m_PathID": -833212335159639990
+  },
+  "_streakPointObject": {
+    "m_FileID": 0,
+    "m_PathID": -2317708168323334070
+  },
+  "_streakPointText": {
+    "m_FileID": 0,
+    "m_PathID": -414185679918006198
+  },
+  "_loseObject": {
+    "m_FileID": 0,
+    "m_PathID": 2502646171974631498
+  },
+  "_rankDownObject": {
+    "m_FileID": 0,
+    "m_PathID": -2910426523392409526
+  },
+  "_rankDownIconElement": {
+    "m_FileID": 0,
+    "m_PathID": 7823024205453590602
+  },
+  "_lostPointText": {
+    "m_FileID": 0,
+    "m_PathID": 6027946666870767690
+  },
+  "_drawObject": {
+    "m_FileID": 0,
+    "m_PathID": -3608694514676989878
+  }
+}

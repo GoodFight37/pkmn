@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8093999680575283023
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8907798740024982218
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -4203195479505084239
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 2918962757525397681
+  },
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": 1947985902999855281
+  },
+  "_pokeGoldAttentionObject": {
+    "m_FileID": 0,
+    "m_PathID": 2631310312550195377
+  },
+  "_consumeItemIconSlots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1747721817447424177
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1555183883595784015
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7795970000810500273
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -708231393164566351
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7617685888047292239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4244574345782583473
+    }
+  ],
+  "_consumeItemNumTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3783083710389788495
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2564408575651700913
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8840040838587244721
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1534152677024898895
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1318684018293956785
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4881278643984834383
+    }
+  ],
+  "_consumeItemIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -462338723314900815
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -856668319565455183
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7482498474795185
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1493471330595594417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7038268454316777295
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4210942983663673521
+    }
+  ],
+  "_specifiedCommercialTransactionsLawButton": {
+    "m_FileID": 0,
+    "m_PathID": -783130873509814095
+  },
+  "_krECommerceLawButton": {
+    "m_FileID": 0,
+    "m_PathID": -6224168945704345423
+  },
+  "_usCaliforniaDigitalContentsLawElm": {
+    "m_FileID": 0,
+    "m_PathID": 3418401959916691633
+  },
+  "_usCaliforniaDigitalContentsLawButton": {
+    "m_FileID": 0,
+    "m_PathID": -5409233920299081551
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 2735517702687973553
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -4203195479505084239
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4746626189550834780
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4960758473660175276
+  },
+  "m_Name": "",
+  "_packScrollRectByPage": {
+    "m_FileID": 0,
+    "m_PathID": -4917745602779042908
+  },
+  "_packScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 3320195847725951908
+  },
+  "_feedButton": {
+    "m_FileID": 0,
+    "m_PathID": 4328020380535204772
+  },
+  "_feedLockIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4310302899479204956
+  },
+  "_packButton": {
+    "m_FileID": 0,
+    "m_PathID": 3821486314524945316
+  },
+  "_shopButton": {
+    "m_FileID": 0,
+    "m_PathID": 2398520000745089956
+  },
+  "_packGroupShowcaseView": {
+    "m_FileID": 0,
+    "m_PathID": 2961427997791529892
+  },
+  "_favoritePackGroupShowcaseView": {
+    "m_FileID": 0,
+    "m_PathID": -1338010052764587100
+  },
+  "_feedBadge": {
+    "m_FileID": 0,
+    "m_PathID": -1134549915492832348
+  },
+  "_shopBadge": {
+    "m_FileID": 0,
+    "m_PathID": -6876228807476204636
+  },
+  "_noticeLuckyFeed": {
+    "m_FileID": 0,
+    "m_PathID": -8509876288099865692
+  },
+  "_noticeRareFeed": {
+    "m_FileID": 0,
+    "m_PathID": 6116750624951872420
+  },
+  "_noticeSnoop": {
+    "m_FileID": 0,
+    "m_PathID": 8720107917955279780
+  },
+  "_shopNoticeView": {
+    "m_FileID": 0,
+    "m_PathID": -1502448848950547548
+  },
+  "_staminaNormalElement": {
+    "m_FileID": 0,
+    "m_PathID": -5296112009330906204
+  },
+  "_staminaSub1Element": {
+    "m_FileID": 0,
+    "m_PathID": 1111596453208501156
+  },
+  "_feedStaminaElement": {
+    "m_FileID": 0,
+    "m_PathID": -4180488752175535196
+  },
+  "_packPowerChargerResourceElement": {
+    "m_FileID": 0,
+    "m_PathID": 1629508124009868196
+  },
+  "_favoriteStaminaNormalElement": {
+    "m_FileID": 0,
+    "m_PathID": 2711877422885219236
+  },
+  "_favoriteStaminaSub1Element": {
+    "m_FileID": 0,
+    "m_PathID": 2935884869298269092
+  },
+  "_favoritePackPowerChargerResourceElement": {
+    "m_FileID": 0,
+    "m_PathID": -5364975508202738780
+  },
+  "_selectSeriesButton": {
+    "m_FileID": 0,
+    "m_PathID": -4667651764332483676
+  },
+  "_favoriteSeriesButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": 2578058546946681764
+  },
+  "_packListCell": {
+    "m_FileID": 0,
+    "m_PathID": -5040111163539084380
+  },
+  "_favoritePackListCell": {
+    "m_FileID": 0,
+    "m_PathID": 8994539490246044580
+  }
+}

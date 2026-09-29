@@ -1,0 +1,160 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -786777790185734073
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 22795149713085903
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6121323698115706951
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_selectedCardScrollContents": [
+    {
+      "CardSizeType": 0,
+      "ScrollContent": {
+        "m_FileID": 0,
+        "m_PathID": -5165293705462415289
+      },
+      "ScrollRect": {
+        "m_FileID": 0,
+        "m_PathID": -1174791232246185913
+      }
+    },
+    {
+      "CardSizeType": 1,
+      "ScrollContent": {
+        "m_FileID": 0,
+        "m_PathID": 7039381373283074119
+      },
+      "ScrollRect": {
+        "m_FileID": 0,
+        "m_PathID": 8796073683114393671
+      }
+    },
+    {
+      "CardSizeType": 2,
+      "ScrollContent": {
+        "m_FileID": 0,
+        "m_PathID": 4841276456165179463
+      },
+      "ScrollRect": {
+        "m_FileID": 0,
+        "m_PathID": 6126945769913057351
+      }
+    }
+  ],
+  "_stockCardsScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -9198352206403796921
+  },
+  "_fiveStockCardsScrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 8016975215551512647
+  },
+  "_threeStockCardsScrollElm": {
+    "m_FileID": 0,
+    "m_PathID": -950467322143178681
+  },
+  "_fiveStockCardsScrollElm": {
+    "m_FileID": 0,
+    "m_PathID": -1524476179333316537
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 8949378266896662599
+  },
+  "_sortButton": {
+    "m_FileID": 0,
+    "m_PathID": 8971233073332944967
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 6121323698115706951
+  },
+  "_removeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6115524556917964871
+  },
+  "_sizeUpButton": {
+    "m_FileID": 0,
+    "m_PathID": 4429675246219100231
+  },
+  "_sizeText": {
+    "m_FileID": 0,
+    "m_PathID": -4364328634420101049
+  },
+  "_sizeDownButton": {
+    "m_FileID": 0,
+    "m_PathID": 5402107187247579207
+  },
+  "_filterButton": {
+    "m_FileID": 0,
+    "m_PathID": -743644377888260025
+  },
+  "_recommendButton": {
+    "m_FileID": 0,
+    "m_PathID": 2461019915112939591
+  },
+  "_filteredMarkObject": {
+    "m_FileID": 0,
+    "m_PathID": -2820285471476416441
+  },
+  "_uiScrollSliders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2655694508416237497
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1138813352865169337
+    }
+  ],
+  "_fiveColumnDisplayButton": {
+    "m_FileID": 0,
+    "m_PathID": -2699693507427041209
+  },
+  "_changeSizeOfCardListAnimationDuration": 0.1,
+  "_changeSizeOfCardListAnimationMarginAlfa": 0.1,
+  "_cardListLayoutElement": {
+    "m_FileID": 0,
+    "m_PathID": 3649377768175632455
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8579752668129409849
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6075504876337249973
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6640273064676440889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9098754967829202119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6914552817465017543
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4331634110858738489
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3519171640568235207
+  },
+  "_acquiredCardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8953330805219670841
+  },
+  "_unacquiredCardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1020610957683311815
+  },
+  "_unacquiredCardCollectionNoText": {
+    "m_FileID": 0,
+    "m_PathID": 1435099606420341959
+  },
+  "_withOutObjectsForTop": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8775354272283542727
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5734108012753306823
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 188888510035051719
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3771606713952385849
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2634361441203635399
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8791791676472411335
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9137930980478338247
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6873562144521796409
+    }
+  ],
+  "_cardThicknessGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7299522138181584071
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4243926181403441977
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3282493660410070215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8072235029384805177
+    }
+  ],
+  "_shadowGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4608149517335542585
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7015235279899504087
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8428338901858888339
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_rarityView": {
+    "m_FileID": 0,
+    "m_PathID": -7585750508185431511
+  },
+  "_cardNameText": {
+    "m_FileID": 0,
+    "m_PathID": 2935220320168071721
+  },
+  "_beforeNumText": {
+    "m_FileID": 0,
+    "m_PathID": -1666921448059416023
+  },
+  "_afterNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6356005237474218537
+  },
+  "_languageNameText": {
+    "m_FileID": 0,
+    "m_PathID": 607399303433179689
+  },
+  "_skinOrCardFrameNameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5648311323483787817
+  },
+  "_skinNameText": {
+    "m_FileID": 0,
+    "m_PathID": -2983169145689583063
+  },
+  "_cardFrameNameText": {
+    "m_FileID": 0,
+    "m_PathID": -8363652401801899479
+  }
+}

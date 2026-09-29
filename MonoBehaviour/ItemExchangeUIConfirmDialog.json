@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3033619133611943093
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9154654578069422344
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 3734907417055044789
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -4556413082735827787
+  },
+  "_cardSkinImageCellObject": {
+    "m_FileID": 0,
+    "m_PathID": -1509594506810448715
+  },
+  "_cardSkinImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 8915258689802446005
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1137515448194915147
+  },
+  "_scrollLayoutContentsObject": {
+    "m_FileID": 0,
+    "m_PathID": 3621014321703920821
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -1533990489577904971
+  },
+  "_fixedLayoutContentsObject": {
+    "m_FileID": 0,
+    "m_PathID": -8922436970259569483
+  },
+  "_fixedListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6852604382963325771
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3753747341869491381
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4370831484147817291
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1362156640893295435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2474769823277079371
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7216173555387292491
+    }
+  ],
+  "_attentionTextObject": {
+    "m_FileID": 0,
+    "m_PathID": 8881925443994363061
+  },
+  "_attentionText": {
+    "m_FileID": 0,
+    "m_PathID": -3728077735886740299
+  },
+  "_confirmTextObject": {
+    "m_FileID": 0,
+    "m_PathID": -416594086248078155
+  },
+  "_confirmText": {
+    "m_FileID": 0,
+    "m_PathID": 3274816025141224629
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -6618893700146027339
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3734907417055044789
+  }
+}

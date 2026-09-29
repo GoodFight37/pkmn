@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6622635017863556788
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3891730540693882299
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1674594650168693068
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_loadingObject": {
+    "m_FileID": 0,
+    "m_PathID": 8604165881137664332
+  },
+  "_timerObject": {
+    "m_FileID": 0,
+    "m_PathID": 387436422349459788
+  },
+  "_timerElement": {
+    "m_FileID": 0,
+    "m_PathID": -7262490465002647220
+  },
+  "_badgeObject": {
+    "m_FileID": 0,
+    "m_PathID": -2714381779110129332
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": -1469553745328533172
+  },
+  "_progressObject": {
+    "m_FileID": 0,
+    "m_PathID": 4201226163513332044
+  },
+  "_progressText": {
+    "m_FileID": 0,
+    "m_PathID": 5789491180077781324
+  },
+  "_unreleasedObject": {
+    "m_FileID": 0,
+    "m_PathID": 2143858195237835084
+  },
+  "_unachievedObject": {
+    "m_FileID": 0,
+    "m_PathID": -1262866120828317364
+  },
+  "_achievedObject": {
+    "m_FileID": 0,
+    "m_PathID": -4943079952104943284
+  },
+  "_dailyBackgroundImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 8076324940343808332
+  },
+  "_deckBackgroundImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -7761630400244018868
+  },
+  "_subscriptionBackgroundImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -6803607979812712116
+  },
+  "_eventBackgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 6112120847040450892
+  },
+  "_eventFrontImage": {
+    "m_FileID": 0,
+    "m_PathID": 3256136512324964684
+  },
+  "_packLogoImage": {
+    "m_FileID": 0,
+    "m_PathID": -2306292663506103988
+  },
+  "_premiumIconImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -4190793730112876212
+  },
+  "_deckIconImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 3304471408194556236
+  }
+}

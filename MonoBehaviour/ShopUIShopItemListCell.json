@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5199645175275289470
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5288429185994193135
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1596454954506486914
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_itemImage": {
+    "m_FileID": 0,
+    "m_PathID": 4910324128790903678
+  },
+  "_itemCell": {
+    "m_FileID": 0,
+    "m_PathID": -3883565278050288770
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -7997062232343872642
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6898660730115619710
+  },
+  "_itemNameTxt": {
+    "m_FileID": 0,
+    "m_PathID": -3504772264135394434
+  },
+  "_itemButton": {
+    "m_FileID": 0,
+    "m_PathID": -1596454954506486914
+  },
+  "_limitTimerElm": {
+    "m_FileID": 0,
+    "m_PathID": -8519412491154261122
+  },
+  "_extraElm": {
+    "m_FileID": 0,
+    "m_PathID": -8114361871388214402
+  },
+  "_extraNumTxt": {
+    "m_FileID": 0,
+    "m_PathID": 4836200065335393150
+  },
+  "_firstLimitBadgeElm": {
+    "m_FileID": 0,
+    "m_PathID": 8023723706590722942
+  },
+  "_newBadgeElm": {
+    "m_FileID": 0,
+    "m_PathID": 7000417990625950590
+  },
+  "_freeTxt": {
+    "m_FileID": 0,
+    "m_PathID": -5702117470696735874
+  },
+  "_purchasedTxt": {
+    "m_FileID": 0,
+    "m_PathID": 6862825543264729982
+  },
+  "_priceTxt": {
+    "m_FileID": 0,
+    "m_PathID": -5272863042345796738
+  },
+  "_amountTxt": {
+    "m_FileID": 0,
+    "m_PathID": -1432037383950337154
+  },
+  "_amountTxtColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -5118701283778004098
+  },
+  "_paidAmountTxt": {
+    "m_FileID": 0,
+    "m_PathID": 6232044464914463614
+  },
+  "_lockElm": {
+    "m_FileID": 0,
+    "m_PathID": 2897450864454695806
+  },
+  "_resourceImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -6300827750039192706
+  }
+}

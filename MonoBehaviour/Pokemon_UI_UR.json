@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6621602161769933796
+  },
+  "m_Name": "Pokemon_UI_UR",
+  "_conditions": [
+    {
+      "_conditionType": 4,
+      "_cardType": 0,
+      "_energyType": 0,
+      "_stage": 1,
+      "_material": {
+        "m_FileID": 4,
+        "m_PathID": -1358700159642166454
+      }
+    },
+    {
+      "_conditionType": 4,
+      "_cardType": 0,
+      "_energyType": 0,
+      "_stage": 2,
+      "_material": {
+        "m_FileID": 2,
+        "m_PathID": -6800794967481077322
+      }
+    },
+    {
+      "_conditionType": 4,
+      "_cardType": 0,
+      "_energyType": 0,
+      "_stage": 3,
+      "_material": {
+        "m_FileID": 3,
+        "m_PathID": -2253835584004773382
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8535804241912616770
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4860481371689566873
+  },
+  "m_Name": "",
+  "TabName": "effect",
+  "TabButton": {
+    "m_FileID": 0,
+    "m_PathID": 3911859460573845314
+  },
+  "MainScroll": {
+    "m_FileID": 0,
+    "m_PathID": -5759321520017352894
+  },
+  "_sortElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_iconButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_badgeElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_calenderIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_normalLockImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_premiumLockImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_premiumFrameImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_loadingObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

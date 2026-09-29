@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8051327372918223954
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 763451706549588177
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_expansionImage": {
+    "m_FileID": 0,
+    "m_PathID": 6910093522617136210
+  },
+  "_pack1Object": {
+    "m_FileID": 0,
+    "m_PathID": 7089623860419523666
+  },
+  "_pack2Object": {
+    "m_FileID": 0,
+    "m_PathID": 930294260559475794
+  },
+  "_pack3Object": {
+    "m_FileID": 0,
+    "m_PathID": 3794081964492682322
+  },
+  "_pack1Image": {
+    "m_FileID": 0,
+    "m_PathID": 2017285458176668754
+  },
+  "_pack2Image": {
+    "m_FileID": 0,
+    "m_PathID": 1148515854848652370
+  },
+  "_pack3Image": {
+    "m_FileID": 0,
+    "m_PathID": 5974214312745595986
+  },
+  "_pack1ProgressText": {
+    "m_FileID": 0,
+    "m_PathID": -4909663439104478126
+  },
+  "_pack2ProgressText": {
+    "m_FileID": 0,
+    "m_PathID": -8155342438596447150
+  },
+  "_pack3ProgressText": {
+    "m_FileID": 0,
+    "m_PathID": -8096841329163013038
+  },
+  "_pack1ProgressObject": {
+    "m_FileID": 0,
+    "m_PathID": -7987202094549797806
+  },
+  "_pack2ProgressObject": {
+    "m_FileID": 0,
+    "m_PathID": 6380642548361884754
+  },
+  "_pack3ProgressObject": {
+    "m_FileID": 0,
+    "m_PathID": -5561980427309058990
+  },
+  "_pack1CompleteText": {
+    "m_FileID": 0,
+    "m_PathID": 6951906573701248082
+  },
+  "_pack2CompleteText": {
+    "m_FileID": 0,
+    "m_PathID": -7216288665724881838
+  },
+  "_pack3CompleteText": {
+    "m_FileID": 0,
+    "m_PathID": 4330308701749670994
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4851614801697036816
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5962514300150675880
+  },
+  "m_Name": "",
+  "CustomSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "WithInSafeArea": 1,
+  "OpenSeName": 1,
+  "CloseSeName": 1
+}

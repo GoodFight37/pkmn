@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3113653009858623060
+  },
+  "m_Name": "KiraPuyoAnimation_L",
+  "Curve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.799394,
+        "inSlope": 3.837882,
+        "outSlope": -1.2099738,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 0.125,
+        "value": 0.6481473,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.37599072,
+        "outWeight": 0.3054514
+      },
+      {
+        "time": 0.25,
+        "value": 0.9434416,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.3580378,
+        "outWeight": 0.3108284
+      },
+      {
+        "time": 0.3769748,
+        "value": 0.6481473,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.3580939,
+        "outWeight": 0.48946828
+      },
+      {
+        "time": 0.5,
+        "value": 0.799394,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.58840996,
+        "outWeight": 0.60585696
+      },
+      {
+        "time": 0.6289496,
+        "value": 0.6481473,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.7150038,
+        "outWeight": 0.3470168
+      },
+      {
+        "time": 0.75,
+        "value": 0.9434416,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.3225966,
+        "outWeight": 0.38836348
+      },
+      {
+        "time": 0.875,
+        "value": 0.6481473,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.2971981,
+        "outWeight": 0.31434977
+      },
+      {
+        "time": 1.0,
+        "value": 0.799394,
+        "inSlope": 1.2099738,
+        "outSlope": -2.4722295,
+        "weightedMode": 1,
+        "inWeight": 0.33333334,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "Min": 0.6481473,
+  "Max": 0.9434416
+}

@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8618234268940963286
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1794846335676528455
+  },
+  "m_Name": "",
+  "_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6921512904501621290
+  },
+  "_offset": {
+    "<SelfActive>k__BackingField": {
+      "x": 0.0,
+      "y": 20.0
+    },
+    "<SelfBench>k__BackingField": {
+      "x": 0.0,
+      "y": 20.0
+    },
+    "<OpponentActive>k__BackingField": {
+      "x": 0.0,
+      "y": 20.0
+    },
+    "<OpponentBench>k__BackingField": {
+      "x": 0.0,
+      "y": 23.0
+    }
+  },
+  "_attachedEnergyView": {
+    "m_FileID": 0,
+    "m_PathID": 4328060606665919958
+  },
+  "_largeViewScale": 1.4,
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 2062102596201024982
+  },
+  "_fadeShowAnimClip": {
+    "m_FileID": 2,
+    "m_PathID": -4219689457476871370
+  },
+  "_fadeHideAnimClip": {
+    "m_FileID": 2,
+    "m_PathID": -5118284681709859866
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_AppearCardEvolve",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8973668047903875880
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1948268781305160488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 92573186723046184
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4045428946999075624
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5326581515194113240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7007940319735014184
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2833601227689794776
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4826055702086524120
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4274438145556913368
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3603912135754030296
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3030651181864739624
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8403606408881282264
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1727107187688825640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 475575301517828904
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6763819967475573544
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8959609617492763432
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5170632908426091736
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7188222922921370408
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6025468010610138328
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

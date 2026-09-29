@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1047640655756702555
+  },
+  "m_Name": "first-tutorial_pack_2",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFirstTutorial",
+      "_localizeLabelId": "first_tutorial_message_04_page_01",
+      "_verticalAlignmentType": 3,
+      "_offsetY": 0,
+      "_backgroundType": 0
+    }
+  ]
+}

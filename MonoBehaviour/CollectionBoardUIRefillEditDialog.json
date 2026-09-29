@@ -1,0 +1,158 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8879420465559816143
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2168243296459476630
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -1777967624105572401
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_saveButton": {
+    "m_FileID": 0,
+    "m_PathID": 7965407900177057743
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -1777967624105572401
+  },
+  "_displayBoardViewContainer": {
+    "m_FileID": 0,
+    "m_PathID": 7464677758766532559
+  },
+  "_appearancePublicSettingButton": {
+    "m_FileID": 0,
+    "m_PathID": 1084612637016508367
+  },
+  "_cardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 6058291020153800655
+  },
+  "_addCardButton": {
+    "m_FileID": 0,
+    "m_PathID": 7750719345129342927
+  },
+  "_boardChangeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5242926895061583823
+  },
+  "_editButtonRootRectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -4898242837613197361
+  },
+  "_cardDeleteButton": {
+    "m_FileID": 0,
+    "m_PathID": -3796346515249903665
+  },
+  "_cardVisualButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2075516481655683121
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1516816375998920753
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6652422626504460239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -817176549341411377
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3636287274218014671
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6148659689021949903
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7338940305674782671
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3436861852673587249
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4078897170877958095
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3997392332967721009
+    }
+  ],
+  "_cardDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 7305740444634957775
+  },
+  "_defaultCardColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.0
+  },
+  "_lowlightCardColor": {
+    "r": 0.5676471,
+    "g": 0.64423436,
+    "b": 0.75686276,
+    "a": 0.49019608
+  },
+  "_highlightCardColor": {
+    "r": 0.6415094,
+    "g": 0.6415094,
+    "b": 0.6415094,
+    "a": 0.36862746
+  },
+  "_highlightCardColorScale": 1.5,
+  "_notSetHashTagGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4845462889455761457
+  },
+  "_setHashTagGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1653369233450584015
+  }
+}

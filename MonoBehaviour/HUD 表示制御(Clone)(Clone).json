@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4465423995633750989
+  },
+  "m_Name": "HUD 表示制御(Clone)(Clone)",
+  "m_Time": 2.0,
+  "ProcessType": 1,
+  "TargetHUDType": 4
+}

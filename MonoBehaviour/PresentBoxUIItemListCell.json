@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -952699538886529357
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4895479241765385762
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3378017541259825485
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4123394087367184717
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 3743028623955422899
+  },
+  "_receivableButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 3324670049610395315
+  },
+  "_historyButtonText": {
+    "m_FileID": 0,
+    "m_PathID": -7724988106000339277
+  },
+  "_receiveButton": {
+    "m_FileID": 0,
+    "m_PathID": -3378017541259825485
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -8959635855293124941
+  },
+  "_nonItemImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -1457597785748246861
+  },
+  "_itemButton": {
+    "m_FileID": 0,
+    "m_PathID": -4123394087367184717
+  },
+  "_presentDescriptionObject": {
+    "m_FileID": 0,
+    "m_PathID": -895834492750500173
+  },
+  "_presentDescriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 3589858844898193075
+  },
+  "_userCommentObject": {
+    "m_FileID": 0,
+    "m_PathID": 7665505332834889395
+  },
+  "_userIconCell": {
+    "m_FileID": 0,
+    "m_PathID": -6899349415565234509
+  },
+  "_userCommentText": {
+    "m_FileID": 0,
+    "m_PathID": -5865405095684837709
+  },
+  "_userNameText": {
+    "m_FileID": 0,
+    "m_PathID": -7783470976180916557
+  },
+  "_remainingTimeElement": {
+    "m_FileID": 0,
+    "m_PathID": -6262461186433061197
+  },
+  "_defaultBaseImageObject": {
+    "m_FileID": 0,
+    "m_PathID": 7494563282217234099
+  },
+  "_greenBaseImageObject": {
+    "m_FileID": 0,
+    "m_PathID": -631320408327688525
+  }
+}

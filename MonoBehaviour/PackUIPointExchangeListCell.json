@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4320628643556535527
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8933406972179753055
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8751165453509635303
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_changeableCard": {
+    "m_FileID": 0,
+    "m_PathID": -8637681443104206055
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -8870346877320015079
+  },
+  "_itemNameText": {
+    "m_FileID": 0,
+    "m_PathID": -432909903034363111
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 6331531027160519449
+  },
+  "_numTxtColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": 3467071190239564569
+  },
+  "_amountText": {
+    "m_FileID": 0,
+    "m_PathID": 2603305344299651865
+  },
+  "_possessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": -5724082869083745511
+  },
+  "_noPossessionCardElm": {
+    "m_FileID": 0,
+    "m_PathID": -8992602232598080743
+  }
+}

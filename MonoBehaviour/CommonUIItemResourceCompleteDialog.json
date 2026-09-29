@@ -1,0 +1,221 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5475228917247000714
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5828667932263844067
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 8070048200249294710
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_packBeforeIconsBase": {
+    "m_FileID": 0,
+    "m_PathID": -6601311749448810634
+  },
+  "_packAfterIconsBase": {
+    "m_FileID": 0,
+    "m_PathID": 7922136084718731126
+  },
+  "_otherBeforeIconsBase": {
+    "m_FileID": 0,
+    "m_PathID": -6198474397543776394
+  },
+  "_otherAfterIconsBase": {
+    "m_FileID": 0,
+    "m_PathID": 3163936849562615670
+  },
+  "_packBeforeIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8563927696856825718
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7545734723704602762
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5781665591550754954
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5473159886041137290
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8008438264166989686
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5830163519241174902
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2452636509268230282
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6118488386059157366
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 347184134796984182
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3587678610638323850
+    }
+  ],
+  "_packAfterIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6198438140521103498
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1105731260964192118
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5145340169572892534
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1527035352409292662
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5662180471329832822
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4702785507028058250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6057660399643967350
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5988458620540502154
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5697738971123564682
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9184562667886198646
+    }
+  ],
+  "_otherBeforeIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6600505736646016886
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7894567352277483658
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3224697802741661834
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5977674730781458294
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6838377534115331958
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9194682013234118794
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3929504902123307146
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5680917682674352266
+    }
+  ],
+  "_otherAfterIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4768240771513171830
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7526158496142442358
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5384884837483790198
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8058429064204468362
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7536560835343138678
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3052122889569353590
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2140697046701785226
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4865703310222835850
+    }
+  ],
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 8070048200249294710
+  }
+}

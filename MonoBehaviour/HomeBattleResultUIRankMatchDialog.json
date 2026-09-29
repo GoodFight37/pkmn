@@ -1,0 +1,164 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3269032758896530333
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8298305078447449299
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_showNextAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -6627553228154739639
+  },
+  "_footerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3941040353586221981
+  },
+  "_rankIconElement": {
+    "m_FileID": 0,
+    "m_PathID": -5030028670402456675
+  },
+  "_renewedRankIconElement": {
+    "m_FileID": 0,
+    "m_PathID": 4407456123549029277
+  },
+  "_rankNameElement": {
+    "m_FileID": 0,
+    "m_PathID": -796962463513537635
+  },
+  "_renewedRankNameElement": {
+    "m_FileID": 0,
+    "m_PathID": 6605827449789387677
+  },
+  "_masterballRankElement": {
+    "m_FileID": 0,
+    "m_PathID": 5569204426576139165
+  },
+  "_masterballRankPointText": {
+    "m_FileID": 0,
+    "m_PathID": -4918718456113818723
+  },
+  "_masterballRankDetailText": {
+    "m_FileID": 0,
+    "m_PathID": 4920170039187641245
+  },
+  "_otherRankElement": {
+    "m_FileID": 0,
+    "m_PathID": -8021438421776886883
+  },
+  "_otherRankPointText": {
+    "m_FileID": 0,
+    "m_PathID": -7002423548927831139
+  },
+  "_otherRankPointToNextRankGauge": {
+    "m_FileID": 0,
+    "m_PathID": 6022110358305280925
+  },
+  "_otherRankGaugeDetailText": {
+    "m_FileID": 0,
+    "m_PathID": 1878064245457130397
+  },
+  "_winElement": {
+    "m_FileID": 0,
+    "m_PathID": -6299179651166202979
+  },
+  "_winPointText": {
+    "m_FileID": 0,
+    "m_PathID": 6126931462493344669
+  },
+  "_winningStreakPointText": {
+    "m_FileID": 0,
+    "m_PathID": 3782225073509471133
+  },
+  "_winningStreakElement": {
+    "m_FileID": 0,
+    "m_PathID": -4050488711360441443
+  },
+  "_winningStreakBadgeElement": {
+    "m_FileID": 0,
+    "m_PathID": 5232307548593951645
+  },
+  "_winningStreakText": {
+    "m_FileID": 0,
+    "m_PathID": 2331690807532032925
+  },
+  "_loseElement": {
+    "m_FileID": 0,
+    "m_PathID": 878767512195863453
+  },
+  "_losePointText": {
+    "m_FileID": 0,
+    "m_PathID": -4137797161385225315
+  },
+  "_drawElement": {
+    "m_FileID": 0,
+    "m_PathID": 2665694207212491677
+  },
+  "_fxInitAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -6746938040143227296
+  },
+  "_fxMainRankDownAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": 8912602363597064023
+  },
+  "_fxMasterballDownAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": 5432067975094957611
+  },
+  "_fxSubRankUpAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -3370330818780684669
+  },
+  "_fxSubRankDownAnimClip": {
+    "m_FileID": 4,
+    "m_PathID": -7091089756281042831
+  },
+  "_fxAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 2893579408946402205
+  },
+  "_pointGaugeBaseSpeed": 35.0,
+  "_pointGaugeSpeedCurve": 0.5,
+  "_pointGaugeMinSpeed": 10.0
+}

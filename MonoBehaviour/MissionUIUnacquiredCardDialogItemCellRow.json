@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 27510189040110185
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3541161938038817055
+  },
+  "m_Name": "",
+  "_typeImage": {
+    "m_FileID": 0,
+    "m_PathID": -6158613760321484183
+  },
+  "_commonUICardDetailRarityView": {
+    "m_FileID": 0,
+    "m_PathID": 5849709384860011113
+  },
+  "_packImage": {
+    "m_FileID": 0,
+    "m_PathID": -8586116858694956439
+  }
+}

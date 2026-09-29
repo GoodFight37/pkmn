@@ -1,0 +1,197 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7052404356596833541
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6579882811053353940
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2302725504778232571
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": 4151233768202494715
+  },
+  "_deckName": {
+    "m_FileID": 0,
+    "m_PathID": -8218173648998440197
+  },
+  "_deckNameElement": {
+    "m_FileID": 0,
+    "m_PathID": -3346997581833248005
+  },
+  "_deckNameOfCopy": {
+    "m_FileID": 0,
+    "m_PathID": 2145585693805961979
+  },
+  "_cornerPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -7789753785347218693
+  },
+  "_cornerMultiple": {
+    "m_FileID": 0,
+    "m_PathID": 953090854196863739
+  },
+  "_energyTypeIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6429063155544417019
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5449869378312805637
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4284395662381161733
+    }
+  ],
+  "_emptyEnergyElement": {
+    "m_FileID": 0,
+    "m_PathID": -4245303529343819013
+  },
+  "_deckCaseCell": {
+    "m_FileID": 0,
+    "m_PathID": -8077318665945554181
+  },
+  "_subCards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3530648549589705467
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8216797436656280315
+    }
+  ],
+  "_emptyMainCardElement": {
+    "m_FileID": 0,
+    "m_PathID": 6168738547458630395
+  },
+  "_sleeveCell": {
+    "m_FileID": 0,
+    "m_PathID": -676360300686089477
+  },
+  "_playMatCell": {
+    "m_FileID": 0,
+    "m_PathID": 6103581054008353531
+  },
+  "_coinCell": {
+    "m_FileID": 0,
+    "m_PathID": -2777044138067631365
+  },
+  "_emptyPeripheralGoodsElement": {
+    "m_FileID": 0,
+    "m_PathID": -8652338062089395461
+  },
+  "_energyCategoryName": {
+    "m_FileID": 0,
+    "m_PathID": -2954786594219236613
+  },
+  "_mainCardCategoryName": {
+    "m_FileID": 0,
+    "m_PathID": -305762813164526853
+  },
+  "_cardNum": {
+    "m_FileID": 0,
+    "m_PathID": 2870636156455740155
+  },
+  "_cardNumElement": {
+    "m_FileID": 0,
+    "m_PathID": -7871229525880610053
+  },
+  "_cardNumOfCopy": {
+    "m_FileID": 0,
+    "m_PathID": -3232483507668983045
+  },
+  "_cardNumElementOfCopy": {
+    "m_FileID": 0,
+    "m_PathID": 4588985526873350907
+  },
+  "_editNameButton": {
+    "m_FileID": 0,
+    "m_PathID": 2496343506302329595
+  },
+  "_subMenuButton": {
+    "m_FileID": 0,
+    "m_PathID": -7795574531054902533
+  },
+  "_favoriteButton": {
+    "m_FileID": 0,
+    "m_PathID": -4560451459452116229
+  },
+  "_settingButton": {
+    "m_FileID": 0,
+    "m_PathID": 7269905376424157947
+  },
+  "_editCardsButton": {
+    "m_FileID": 0,
+    "m_PathID": -4495660471228112133
+  },
+  "_saveButton": {
+    "m_FileID": 0,
+    "m_PathID": -6428435709959675141
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 2302725504778232571
+  },
+  "_copyButtonsObject": {
+    "m_FileID": 0,
+    "m_PathID": 147543804146803451
+  },
+  "_copyButton": {
+    "m_FileID": 0,
+    "m_PathID": 629383442815705851
+  },
+  "_copyCancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -8942677066931772677
+  },
+  "_deckSettingLayout": {
+    "m_FileID": 0,
+    "m_PathID": 3401404436629611259
+  },
+  "_deckNameGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3346997581833248005
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2501453353549913332
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6882500433134377316
+  },
+  "m_Name": "",
+  "TitlePrefabName": "title_cell",
+  "BodyPrefabName": "battle_try_cell",
+  "AdditionalBodyPrefabNames": [],
+  "DividedCount": 1,
+  "Alignment": 1,
+  "Margin": {
+    "Top": 32.0,
+    "Bottom": 32.0,
+    "Left": 0.0,
+    "Right": 0.0
+  },
+  "GroupSpacing": 0.0,
+  "BodySpacing": {
+    "x": 0.0,
+    "y": 32.0
+  },
+  "TitlePadding": {
+    "Top": 0.0,
+    "Bottom": 23.0,
+    "Left": 0.0,
+    "Right": 0.0
+  },
+  "TitleSurround": 0,
+  "TitleSurroundOffset": 0.0,
+  "AdditionalSafeAreaInsetsBottom": 0
+}

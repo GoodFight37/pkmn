@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9140855940498954174
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9131128656487044544
+  },
+  "m_Name": "",
+  "ScrollableButtons": [],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_movieView": {
+    "m_FileID": 0,
+    "m_PathID": -131009272519366590
+  },
+  "_movieCover": {
+    "m_FileID": 0,
+    "m_PathID": -5188240305501673406
+  },
+  "_movieImage": {
+    "m_FileID": 0,
+    "m_PathID": 2813204194462165058
+  },
+  "_text": {
+    "m_FileID": 0,
+    "m_PathID": 8207990551227099202
+  },
+  "_nextButton": {
+    "m_FileID": 0,
+    "m_PathID": -2826279256286730174
+  },
+  "_prevButton": {
+    "m_FileID": 0,
+    "m_PathID": -3481687046184933310
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 8978939679358478402
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8596847821620961796
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8905916141914663227
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": -1438695316300489220
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 6817049860104789500
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -1637713756051202564
+  },
+  "_coverImage": {
+    "m_FileID": 0,
+    "m_PathID": 3548447972556938748
+  },
+  "_coverLoadingImage": {
+    "m_FileID": 0,
+    "m_PathID": 5782368139744583164
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6817049860104789500
+  },
+  "_hudDisableButton": {
+    "m_FileID": 0,
+    "m_PathID": 3330119711148219900
+  },
+  "_huds": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 93489472826580476
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 658818755847396860
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 264917595382029820
+    }
+  ],
+  "_profileIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4615232496472220164
+  },
+  "_profileButton": {
+    "m_FileID": 0,
+    "m_PathID": -122483142099526148
+  },
+  "_stickyHeaderElement": {
+    "m_FileID": 0,
+    "m_PathID": 4714297757700267516
+  },
+  "_blocker": {
+    "m_FileID": 0,
+    "m_PathID": 6387832116002954748
+  },
+  "_bgBodyPatternImage": {
+    "m_FileID": 0,
+    "m_PathID": 3979431038053129724
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "m_Shader": {
+    "m_FileID": 6,
+    "m_PathID": 1141155577802926370,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -7112120931636303420,
+          "Name": "cPK_10_001290_00_MEWTWOex_RR_L_AM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BlendMode": 0.0,
+      "_DstFactor": 10.0,
+      "_DstFactorA": 10.0,
+      "_SrcFactor": 1.0,
+      "_SrcFactorA": 0.0,
+      "_Stencil": 2.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "cPK_10_001290_00_MEWTWOex_RR_L_SBM3",
+  "Name": "cPK_10_001290_00_MEWTWOex_RR_L_SBM3"
+}

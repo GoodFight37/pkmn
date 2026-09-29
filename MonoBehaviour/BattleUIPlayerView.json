@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5589387007087573742
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3621218250616472500
+  },
+  "m_Name": "",
+  "_playerName": {
+    "m_FileID": 0,
+    "m_PathID": 1436944466558679790
+  },
+  "_timeContainer": {
+    "m_FileID": 0,
+    "m_PathID": 2626723490422881006
+  },
+  "_timeText": {
+    "m_FileID": 0,
+    "m_PathID": 418968908593199854
+  },
+  "_timeAttentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -1380798864420799762
+  },
+  "_attentionClip": {
+    "m_FileID": 4,
+    "m_PathID": -5918542946248406203
+  },
+  "_attentionThresholdMin": 5,
+  "_winPointsTutorialElement": {
+    "m_FileID": 0,
+    "m_PathID": -3566740196832806162
+  },
+  "_winPoints": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4203269602098578706
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5441889551669164782
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3823361171836011794
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8515539644441920786
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7530744683747443986
+    }
+  ],
+  "_MoveUpWhenUIOverlaps": 0
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1706451132818567452
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6324782963139795400
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -8598025496711967004
+  },
+  "_showAnimation": {
+    "m_FileID": 4,
+    "m_PathID": 5523262168230038845
+  },
+  "_hideAnimation": {
+    "m_FileID": 4,
+    "m_PathID": 2962807847227463643
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": -4757474717463458076
+  },
+  "_canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -5793035526304543004
+  }
+}

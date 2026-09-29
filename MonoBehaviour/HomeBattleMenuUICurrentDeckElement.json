@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 863553089577621559
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3770004662704314510
+  },
+  "m_Name": "",
+  "_deckCardsElement": {
+    "m_FileID": 0,
+    "m_PathID": 4521574447652739127
+  },
+  "_markPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -7668104196258129865
+  },
+  "_markMultiObject": {
+    "m_FileID": 0,
+    "m_PathID": 5007265554600040503
+  },
+  "_deckNoText": {
+    "m_FileID": 0,
+    "m_PathID": -1610007886609967049
+  },
+  "_deckNameText": {
+    "m_FileID": 0,
+    "m_PathID": -6451751321326118857
+  },
+  "_recommendationElm": {
+    "m_FileID": 0,
+    "m_PathID": 1474859249965078583
+  },
+  "_rentalDeckElm": {
+    "m_FileID": 0,
+    "m_PathID": -1792827193955379145
+  },
+  "_rentalCountLimitText": {
+    "m_FileID": 0,
+    "m_PathID": -5792827615097776073
+  },
+  "_disableFrame": {
+    "m_FileID": 0,
+    "m_PathID": 6993202220388522039
+  },
+  "_deckButton": {
+    "m_FileID": 0,
+    "m_PathID": -7685357501550684105
+  }
+}

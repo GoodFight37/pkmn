@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4001649103261421025
+  },
+  "m_Name": "CardSettings",
+  "_id": "PK_10_000010_00",
+  "_name": "FUSHIGIDANE",
+  "_rarity": 1,
+  "_cardType": 1,
+  "_stageType": 1,
+  "_promotionLogo": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_promotionLogoUIPosition": 0,
+  "_serialNumber": 0,
+  "_shadowBoxScale": 1.0,
+  "_energyType": 1,
+  "_cardDesignSettings": {
+    "m_FileID": 2,
+    "m_PathID": -1183825957974491106
+  }
+}

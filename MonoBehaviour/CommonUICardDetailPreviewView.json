@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3732795704703523771
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3681312841441444298
+  },
+  "m_Name": "",
+  "_previewBackground": {
+    "m_FileID": 0,
+    "m_PathID": 6927292684795896901
+  },
+  "_battleEffectCardView": {
+    "m_FileID": 0,
+    "m_PathID": 3510636629130208325
+  },
+  "_skinNameText": {
+    "m_FileID": 0,
+    "m_PathID": -4567560212088888251
+  },
+  "_skinNameRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3396290824550278213
+  },
+  "_battleEffectTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 155982137980478533
+  },
+  "_loadingCardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5963005544593365947
+  },
+  "_cardPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_cardInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": 1507906815856927813
+  },
+  "_openSeName": 1,
+  "_closeSeName": 1
+}

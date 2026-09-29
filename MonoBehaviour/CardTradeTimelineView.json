@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5826938076866551825
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4431983650969902670
+  },
+  "m_Name": "",
+  "_rootDirector": {
+    "m_FileID": 0,
+    "m_PathID": -4385919384851783697
+  },
+  "_animationDirector": {
+    "m_FileID": 0,
+    "m_PathID": 5404973402697097199
+  },
+  "_effectDirector": {
+    "m_FileID": 0,
+    "m_PathID": -2031743046313713681
+  },
+  "_soundDirector": {
+    "m_FileID": 0,
+    "m_PathID": -5464076236561326097
+  },
+  "_systemDirector": {
+    "m_FileID": 0,
+    "m_PathID": -5660586997801361425
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5550296414444446789
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4770628900012882607
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6747163057910441029
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_uiCardAcquireView": {
+    "m_FileID": 0,
+    "m_PathID": -5414279759370984379
+  },
+  "_backgroundTouchBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 4131024653683975237
+  },
+  "_acquireDirector": {
+    "m_FileID": 0,
+    "m_PathID": 2571223955615245381
+  },
+  "_rarityTimelines": [
+    {
+      "_rarityType": 1,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": -5663900066068306875
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -8630113451166276539
+      }
+    },
+    {
+      "_rarityType": 2,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": 5333864881663960133
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": 1217536233390924869
+      }
+    },
+    {
+      "_rarityType": 3,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": 5185023163622024261
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -7827197578227227579
+      }
+    },
+    {
+      "_rarityType": 4,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": -6057860150041975739
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": 2634468826383508549
+      }
+    },
+    {
+      "_rarityType": 5,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": -3804593630037416891
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": 61369205574657093
+      }
+    },
+    {
+      "_rarityType": 10,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": -6826674176361765819
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -1191019995097668539
+      }
+    },
+    {
+      "_rarityType": 7,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": -7321671533990255547
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -6134637946795006907
+      }
+    },
+    {
+      "_rarityType": 8,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": 310217405502841925
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -5203817268656151483
+      }
+    },
+    {
+      "_rarityType": 9,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": -26688907325873083
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -4417824279393213371
+      }
+    },
+    {
+      "_rarityType": 11,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": 6418075032681374789
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": -1161288685268966331
+      }
+    },
+    {
+      "_rarityType": 12,
+      "_uiDirector": {
+        "m_FileID": 0,
+        "m_PathID": 6984919172104250437
+      },
+      "_soundDirector": {
+        "m_FileID": 0,
+        "m_PathID": 7985078549785601093
+      }
+    }
+  ],
+  "_disabledCanvasGroup": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8631022570401489989
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3213046244503446597
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1587097723523228741
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5425305611429616571
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6788894517923406917
+    }
+  ],
+  "_immersiveControlView": {
+    "m_FileID": 0,
+    "m_PathID": -9175656608575855547
+  },
+  "_immersiveCardView": {
+    "m_FileID": 0,
+    "m_PathID": 1195912909387850821
+  },
+  "_grayGradientBg": {
+    "m_FileID": 0,
+    "m_PathID": -4715073629442808763
+  },
+  "_nextButton": {
+    "m_FileID": 0,
+    "m_PathID": 8764115321426338885
+  },
+  "_footerAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3226788767557477445
+  },
+  "_animationClip": {
+    "m_FileID": 5,
+    "m_PathID": 3925239136842831560
+  },
+  "_effectButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1280209846827948987
+  },
+  "_effectButton": {
+    "m_FileID": 0,
+    "m_PathID": 5779859499960951877
+  },
+  "_effectCardRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3732795704703523771
+  },
+  "_effectCardView": {
+    "m_FileID": 0,
+    "m_PathID": 6773258129373127749
+  },
+  "_cardFrameRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 8532989236916249669
+  },
+  "_cardFrameEffectObject": {
+    "m_FileID": 0,
+    "m_PathID": -421165085371538363
+  },
+  "_cardFrameEffectCardNumText": {
+    "m_FileID": 0,
+    "m_PathID": 2807588876675245125
+  }
+}

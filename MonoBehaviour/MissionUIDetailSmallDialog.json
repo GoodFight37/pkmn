@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6196992554476164222
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5581539158914548551
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 7353400107140721538
+  },
+  "_rewards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6929113924338461570
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3571049115431457918
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4742679718928067458
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8187042779396953214
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4733013730576290942
+    }
+  ],
+  "_rewardEmptyObject": {
+    "m_FileID": 0,
+    "m_PathID": 5742019920508562306
+  },
+  "_descriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 3095621089652190082
+  },
+  "_countNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4779710729712424062
+  },
+  "_gauge": {
+    "m_FileID": 0,
+    "m_PathID": 6252750852797246338
+  },
+  "_completeCheckMark": {
+    "m_FileID": 0,
+    "m_PathID": 6612789938739620738
+  },
+  "_missionTypeImageView": {
+    "m_FileID": 0,
+    "m_PathID": 877386740416457602
+  },
+  "_activityImageButtonObject": {
+    "m_FileID": 0,
+    "m_PathID": -1716730408472597630
+  },
+  "_activityImageButton": {
+    "m_FileID": 0,
+    "m_PathID": -7911038845803943038
+  },
+  "_completeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2037631947446233986
+  }
+}

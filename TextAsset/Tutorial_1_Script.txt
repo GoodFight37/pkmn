@@ -1,0 +1,67 @@
+############
+# ステージ1: ポケモンをセット
+############
+- sys_wait: OnWipeEnd
+
+# > バトルの準備をしよう
+- title: battle_tutorial_preparation_telop_001
+
+# TODO:rijicho ナビキャラを入れる場合、ここだけナビキャラダイアログ
+#              入れない場合はメッセージごと不要
+# > トレーニングステージへようこそ！
+# > ここでは実際にバトルしながらあそびかたを学んでいくよ
+# > いっしょにがんばろう！
+# - msg_c:
+#     - battle_tutorial_preparation_message_00110
+#     - battle_tutorial_preparation_message_00210
+#     - battle_tutorial_preparation_message_00310
+
+# > バトルを始める前にポケモンのセットをしましょう。
+- msg_c: battle_tutorial_preparation_message_00400
+
+# > まずはバトル場に手札のポケモンをセットします。
+- msg_b: battle_tutorial_preparation_message_00500
+  focus: SelfActiveField
+
+# > 手札のカードをよく見てください。
+- msg_b: battle_tutorial_preparation_message_00600
+
+# 手札のカード詳細を開く
+- open_hand_detail: Auto
+
+# > たね　と書いてあるポケモンのカードをセットできます。
+- msg_b: battle_tutorial_preparation_message_00700
+  focus: HandCardDetailBaseIcon
+
+- sys_neutral:
+
+# > たねポケモンをバトル場にセットしてみましょう。
+- msg_b: battle_tutorial_preparation_message_00800
+
+- prepare_field: [ Auto, SelfActiveField ]
+
+# > バトル場のセットが終わったら、次はベンチのセットです。
+- msg_b: battle_tutorial_preparation_message_00900
+
+# > ベンチはセットしなくてもOKです。
+# > 今回はせっかくなのでセットしてみましょう。
+- msg_c:
+    - battle_tutorial_preparation_message_01000
+    - battle_tutorial_preparation_message_01100
+  focus: SelfBench
+
+# > バトル場と同じく　たねポケモンをセットしてみましょう。
+- msg_b: battle_tutorial_preparation_message_01200
+
+- prepare_field: [ Auto, SelfBench ]
+
+# > ポケモンのセットが終わったら準備完了をタップしましょう。
+- msg_b: battle_tutorial_preparation_message_01300
+
+- input: [ Auto, OnCompleteInputWithAction, Control_PrepareField ]
+  tap: [ PrepareFieldButton, Center, TopRight ]
+
+# > これでバトルの準備は終わりです。
+- msg_c: battle_tutorial_preparation_message_01400
+
+# NOTE: 実際にバトル開始はせず終了

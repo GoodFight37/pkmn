@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3579094382851287289
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4182141025754169258
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": -1954008735844636423
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": -5380326538330740487
+  },
+  "_lwAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 7778303480674871545
+  },
+  "_coinContainer": {
+    "m_FileID": 0,
+    "m_PathID": 7333825637697218809
+  },
+  "_flipCoinAppearAnimationTrigger": "C_Battle_Cointoss_appear",
+  "_touchMotion": {
+    "m_FileID": 2,
+    "m_PathID": 2167940127861126223
+  },
+  "_tossClipVariationNumber": 5
+}

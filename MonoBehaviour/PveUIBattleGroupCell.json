@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1992348887599865976
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6016871896882051786
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2234952662384779144
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_badgeNew": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_badgeLock": {
+    "m_FileID": 0,
+    "m_PathID": 8267956243041755016
+  },
+  "_badgeClosingShortly": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_eventName": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_stepUpNamePlate": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_stepUpEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_stepUpName": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_randomName": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_bannerImage": {
+    "m_FileID": 0,
+    "m_PathID": 7043277348402569096
+  },
+  "_clearedBattlesNum": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_allClearText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_battleTryElm": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_completedBattleTryNum": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_typeIcons": [],
+  "_exchangeElement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_limitDate": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

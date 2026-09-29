@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7618583048325490189
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8444055322780268368
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 8563252492102343155
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_opponentNameText": {
+    "m_FileID": 0,
+    "m_PathID": 717885902985828851
+  },
+  "_opponentIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8817082011881498125
+  },
+  "_cardEditButton": {
+    "m_FileID": 0,
+    "m_PathID": -7687473251501270541
+  },
+  "_cardButton": {
+    "m_FileID": 0,
+    "m_PathID": -9161139719763650061
+  },
+  "_cardView": {
+    "m_FileID": 0,
+    "m_PathID": -3965015453437257229
+  },
+  "_desireCardIconObject": {
+    "m_FileID": 0,
+    "m_PathID": -8029025415090595341
+  },
+  "_opponentIconForWishCard": {
+    "m_FileID": 0,
+    "m_PathID": -5195897640821450253
+  },
+  "_giveCardButton": {
+    "m_FileID": 0,
+    "m_PathID": -8028840352957916685
+  },
+  "_giveCardInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": 1715002905035217395
+  },
+  "_cardDetailPreviewView": {
+    "m_FileID": 0,
+    "m_PathID": 6781940744458607091
+  },
+  "_cardAmountBeforeText": {
+    "m_FileID": 0,
+    "m_PathID": -7763121878644155917
+  },
+  "_cardAmountAfterText": {
+    "m_FileID": 0,
+    "m_PathID": -1826844376327382541
+  },
+  "_returnButton": {
+    "m_FileID": 0,
+    "m_PathID": 8563252492102343155
+  }
+}

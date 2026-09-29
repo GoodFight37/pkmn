@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5947388167468348925
+  },
+  "m_Name": "fuction-tutorial_trade_2",
+  "_pages": [
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_01",
+      "_imagePath": "function_trade_a_01",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_02",
+      "_imagePath": "function_trade_a_02",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_03",
+      "_imagePath": "function_trade_a_03",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_04",
+      "_imagePath": "function_trade_a_04",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_05",
+      "_imagePath": "function_trade_a_05",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_06",
+      "_imagePath": "function_trade_a_06",
+      "_isLocalizeImage": 0
+    },
+    {
+      "_localizationFileName": "LocalizeUIFunctionTutorial",
+      "_localizeLabelId": "function_tutorial_dialog_20_page_07",
+      "_imagePath": "function_trade_a_07",
+      "_isLocalizeImage": 0
+    }
+  ]
+}

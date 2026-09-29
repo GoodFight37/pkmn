@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2408568783229112613
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 94481157233231429
+  },
+  "m_Name": "",
+  "_initializeOnAwake": 0,
+  "_layerType": 102
+}

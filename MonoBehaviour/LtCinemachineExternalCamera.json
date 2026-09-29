@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3385636580437676325
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -643078784968901193
+  },
+  "m_Name": "",
+  "m_ExcludedPropertiesInInspector": [
+    "m_Script"
+  ],
+  "m_LockStageInInspector": [],
+  "m_StreamingVersion": 20170927,
+  "m_Priority": 10,
+  "m_StandbyUpdate": 2,
+  "m_LookAt": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_BlendHint": 0
+}

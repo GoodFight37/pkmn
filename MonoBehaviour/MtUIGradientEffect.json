@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6573984871048813035
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2006464291080159556
+  },
+  "m_Name": "",
+  "direction": 3,
+  "color1": {
+    "r": 0.94509804,
+    "g": 0.96862745,
+    "b": 0.98039216,
+    "a": 1.0
+  },
+  "color2": {
+    "r": 0.90588236,
+    "g": 0.9372549,
+    "b": 0.9647059,
+    "a": 1.0
+  },
+  "color3": {
+    "r": 0.94509804,
+    "g": 0.96862745,
+    "b": 0.98039216,
+    "a": 1.0
+  },
+  "color4": {
+    "r": 0.90588236,
+    "g": 0.9372549,
+    "b": 0.9647059,
+    "a": 1.0
+  },
+  "color5": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "color6": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "color7": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "rotation": 0.0,
+  "offset1": 0.0,
+  "offset2": 0.0,
+  "gradientStyle": 1,
+  "offsetOption": 0,
+  "midColor3PositionFactor": 0.1,
+  "midColor4PositionFactor": 0.2,
+  "midColor5PositionFactor": 0.3,
+  "midColor6PositionFactor": 0.4,
+  "midColor7PositionFactor": 0.5
+}

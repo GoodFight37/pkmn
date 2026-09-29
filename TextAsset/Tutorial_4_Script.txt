@@ -1,0 +1,55 @@
+############
+# ステージ4: 手札のポケモンをベンチに出す
+############
+
+# 勝手にドローが始まらないように演出の進行を止める
+- pause_progress: Auto
+
+- sys_wait: OnWipeEnd
+
+# > 手札のポケモンをバトル場に出そう！
+- title: battle_tutorial_bench_telop_001
+
+# > まず自分の番のはじめに、山札からカードを1枚引きます。
+- msg_b: battle_tutorial_bench_message_00100
+
+# 演出再開
+- resume_progress: Auto
+
+- sys_wait: OnStable
+
+# > 手札のカードは、あなたの番に使う事ができます。
+# > 手札のピカチュウをベンチに出してみましょう。
+- msg_c:
+    - battle_tutorial_bench_message_00200
+    - battle_tutorial_bench_message_00300
+  focus: SelfHand
+
+- play_pokemon: [ Auto, 2 ]
+
+# > 自分の場にポケモンがいなくなると、ポイント数に関係なく敗北となってしまいます。
+# > これでバトル場のポケモンがきぜつしても安心です。
+- msg_b:
+    - battle_tutorial_bench_message_00400
+    - battle_tutorial_bench_message_00500
+
+# 攻撃してターン終了
+- attack: Auto
+
+# 相手の攻撃でバトルポケモンが気絶したら、入れ替えるポケモンを選択
+- sys_wait: OnEnterToSelectBenchOnKnockedOut
+
+# > バトル場のイーブイがきぜつしてしまいました。
+- msg_c: battle_tutorial_bench_message_00600
+# > 次にバトルするポケモンをベンチから選びましょう。
+- msg_c: battle_tutorial_bench_message_00700
+  focus: SelfBench2Field
+
+- input: [ Auto, OnCompleteInputWithAction, Control_SelectField ]
+  tap: [ SelfBench2Field, Center, TopLeft ]
+
+# エネ付与・攻撃して終了
+- attach_energy: [ OnSelfTurnPlayPhaseBegin, SelfActiveField ]
+- attack: OnAttachEnergyFromPool
+
+- sys_end

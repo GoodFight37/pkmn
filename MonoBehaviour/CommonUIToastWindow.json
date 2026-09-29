@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2894414111812839179
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5835459596389124038
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 2,
+  "_closeSeName": 0,
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": 7090766898498856715
+  },
+  "_bgBlack": {
+    "m_FileID": 0,
+    "m_PathID": -1812789808435206389
+  },
+  "_bgGreen": {
+    "m_FileID": 0,
+    "m_PathID": 8589782909826459403
+  }
+}

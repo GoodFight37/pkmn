@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3398853997667151747
+  },
+  "m_Name": "CinemachineShot(Clone)(Clone)(Clone)(Clone)",
+  "DisplayName": "Default",
+  "VirtualCamera": {
+    "exposedName": "254777784",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  }
+}

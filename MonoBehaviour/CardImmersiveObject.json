@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1143538621751526421
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6538526902809877894
+  },
+  "m_Name": "",
+  "IllustAlpha": 1.0,
+  "TextAlpha": 1.0,
+  "EmitSwitch": 0.0,
+  "EmitIntensity": 1.0,
+  "Darkness": 0.0
+}

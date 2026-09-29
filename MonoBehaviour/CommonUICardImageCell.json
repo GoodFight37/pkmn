@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 978587006153382823
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6345282249083535657
+  },
+  "m_Name": "",
+  "_loadedContentsObject": {
+    "m_FileID": 0,
+    "m_PathID": -6392798513439843417
+  },
+  "_placeHolderObject": {
+    "m_FileID": 0,
+    "m_PathID": 2921000566410828711
+  },
+  "_acquiredCardImage": {
+    "m_FileID": 0,
+    "m_PathID": -5618942706033239129
+  },
+  "_unacquiredCardImage": {
+    "m_FileID": 0,
+    "m_PathID": -5089985417274336345
+  },
+  "_rentalLogoElement": {
+    "m_FileID": 0,
+    "m_PathID": -6952283906678727769
+  }
+}

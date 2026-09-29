@@ -1,0 +1,145 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7572385012416970909
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 658074512406807005
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 2854173657561628515
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -3753349259067654301
+  },
+  "_deckName": {
+    "m_FileID": 0,
+    "m_PathID": -5201527205519491229
+  },
+  "_cornerPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -8479831047629635741
+  },
+  "_cornerMultiple": {
+    "m_FileID": 0,
+    "m_PathID": 4052278276692770659
+  },
+  "_energyTypeIcons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6430468956971007843
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3044289502659739491
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1274908988518629533
+    }
+  ],
+  "_deckCaseCell": {
+    "m_FileID": 0,
+    "m_PathID": -2009169876759871645
+  },
+  "_subCards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2706952529199431523
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6521314549945663645
+    }
+  ],
+  "_subCardElement": {
+    "m_FileID": 0,
+    "m_PathID": -2198252588708987037
+  },
+  "_supplyElement": {
+    "m_FileID": 0,
+    "m_PathID": 7526714124117213027
+  },
+  "_sleeveCell": {
+    "m_FileID": 0,
+    "m_PathID": 1356825693742301027
+  },
+  "_playMatCell": {
+    "m_FileID": 0,
+    "m_PathID": -4674861742935179421
+  },
+  "_coinCell": {
+    "m_FileID": 0,
+    "m_PathID": 4635296235261919075
+  },
+  "_limitNumElement": {
+    "m_FileID": 0,
+    "m_PathID": -5055830729932210333
+  },
+  "_limitNumText": {
+    "m_FileID": 0,
+    "m_PathID": -2995905393550622877
+  },
+  "_notLimitText": {
+    "m_FileID": 0,
+    "m_PathID": 3178352454977191779
+  },
+  "_energyCategoryName": {
+    "m_FileID": 0,
+    "m_PathID": -5870444207674491037
+  },
+  "_mainCardCategoryName": {
+    "m_FileID": 0,
+    "m_PathID": -1276549001609871517
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2379969424586178717
+  },
+  "_saveButton": {
+    "m_FileID": 0,
+    "m_PathID": -7006058965589426333
+  },
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 2854173657561628515
+  }
+}

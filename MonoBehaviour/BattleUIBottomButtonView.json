@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8887269888402973335
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8908329057535114847
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 5229351528303944343
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -5186443012303887721
+  },
+  "_showClip": {
+    "m_FileID": 2,
+    "m_PathID": -767402413044252085
+  },
+  "_hideClip": {
+    "m_FileID": 2,
+    "m_PathID": 7127200570482024025
+  },
+  "_submitButtonAttentionElement": {
+    "m_FileID": 0,
+    "m_PathID": 545953401818833559
+  },
+  "_submitButtonAttentionAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 4401436578071896727
+  },
+  "_submitButtonAttentionIdleAnimClip": {
+    "m_FileID": 2,
+    "m_PathID": -7214735547380510516
+  }
+}

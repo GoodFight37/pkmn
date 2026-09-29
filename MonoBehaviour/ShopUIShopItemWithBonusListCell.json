@@ -1,0 +1,216 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3222954596612535825
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -479495542961436921
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3661562140314007057
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_itemImage": {
+    "m_FileID": 0,
+    "m_PathID": 8124336557173410287
+  },
+  "_itemCell": {
+    "m_FileID": 0,
+    "m_PathID": -5237451627562366481
+  },
+  "_itemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 3609022043255572975
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -2834605931486475793
+  },
+  "_itemNameTxt": {
+    "m_FileID": 0,
+    "m_PathID": 6557609218272299503
+  },
+  "_itemButton": {
+    "m_FileID": 0,
+    "m_PathID": -3661562140314007057
+  },
+  "_limitTimerElm": {
+    "m_FileID": 0,
+    "m_PathID": -7693559157552018961
+  },
+  "_firstLimitBadgeElm": {
+    "m_FileID": 0,
+    "m_PathID": -3438956063427032593
+  },
+  "_newBadgeElm": {
+    "m_FileID": 0,
+    "m_PathID": -400027829007644177
+  },
+  "_freeTxt": {
+    "m_FileID": 0,
+    "m_PathID": -2858449375600539153
+  },
+  "_purchasedTxt": {
+    "m_FileID": 0,
+    "m_PathID": -3328214446765405713
+  },
+  "_priceTxt": {
+    "m_FileID": 0,
+    "m_PathID": -1943632490020697617
+  },
+  "_amountTxt": {
+    "m_FileID": 0,
+    "m_PathID": 3870454257443113455
+  },
+  "_amountTxtColorPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -3633449358339110417
+  },
+  "_paidAmountTxt": {
+    "m_FileID": 0,
+    "m_PathID": -6617783074040542737
+  },
+  "_lockElm": {
+    "m_FileID": 0,
+    "m_PathID": 1259489279354440175
+  },
+  "_resourceImageCell": {
+    "m_FileID": 0,
+    "m_PathID": -4511425542320846353
+  },
+  "_bundleElmObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6155120643911289327
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7143290216671114769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2023400639358531089
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4860651976579385839
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3697796864950438383
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2779824269470829039
+    }
+  ],
+  "_bundleElm1Cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2151755630208584175
+    }
+  ],
+  "_bundleElm2Cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4282354861369554449
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6293441087363577361
+    }
+  ],
+  "_bundleElm3Cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7702532138079319569
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3822509017403197935
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4771309804318788079
+    }
+  ],
+  "_bundleElm4Cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2197549914981627409
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3256266776275945967
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4035467742802572817
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3266283069439642095
+    }
+  ],
+  "_bundleElm5Cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2145193377891453423
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4513786536808642065
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8464055506771741167
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4668005587476777455
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1662512243536398831
+    }
+  ],
+  "_bundleElm6Cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1545068140969883153
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3553073721055152623
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7565663880576792081
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4912340587722148335
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7295220584413296145
+    }
+  ],
+  "_bundleBackground": {
+    "m_FileID": 0,
+    "m_PathID": -6722130445790508561
+  },
+  "_bonusBackground": {
+    "m_FileID": 0,
+    "m_PathID": -3673897711178118673
+  }
+}

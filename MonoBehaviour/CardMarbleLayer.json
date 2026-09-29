@@ -1,0 +1,162 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8293861666595900145
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4230923715243013735
+  },
+  "m_Name": "",
+  "_renderer": {
+    "m_FileID": 0,
+    "m_PathID": -7844632967537068785
+  },
+  "_tiltPower": 1.0,
+  "_useMarbleDelay": 1,
+  "_delayTime2": 0.1,
+  "_pointAccel": 0.6,
+  "_shearAccel": 0.9,
+  "_dorodoroDistance": 0.25,
+  "_resistancePower": 4.0,
+  "_minDorodoroCoef": 0.05,
+  "_maxPointSpeed": 0.07,
+  "_minPointSpeed": 0.003,
+  "_goalThreshold": 0.003,
+  "_pointMoveByTilt": 0.1,
+  "_pointForceChangeByTilt": 1.0,
+  "_points": [
+    {
+      "DefaultPosition": {
+        "x": 0.19,
+        "y": 0.98
+      },
+      "TiltMovePosition": {
+        "x": 0.84,
+        "y": 0.23
+      },
+      "RotationWithTilt": 1.0,
+      "DefaultForce": 0.25,
+      "TiltForce": -0.0135
+    },
+    {
+      "DefaultPosition": {
+        "x": -1.2,
+        "y": -0.33
+      },
+      "TiltMovePosition": {
+        "x": -0.05,
+        "y": 0.05
+      },
+      "RotationWithTilt": 1.0,
+      "DefaultForce": 0.09,
+      "TiltForce": -0.01755
+    },
+    {
+      "DefaultPosition": {
+        "x": 0.12,
+        "y": -0.19
+      },
+      "TiltMovePosition": {
+        "x": 0.87,
+        "y": -0.97
+      },
+      "RotationWithTilt": 1.0,
+      "DefaultForce": 0.3,
+      "TiltForce": -0.0675
+    },
+    {
+      "DefaultPosition": {
+        "x": 0.13,
+        "y": 0.36
+      },
+      "TiltMovePosition": {
+        "x": -1.0,
+        "y": 1.0
+      },
+      "RotationWithTilt": 1.0,
+      "DefaultForce": -0.22,
+      "TiltForce": 0.045
+    }
+  ],
+  "_defaultNoiseRemapSettings": {
+    "CurveLabel": "_DefaultNoiseRemapCurveTexture",
+    "Resolution": 7,
+    "DefaultRemapCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.22974318,
+          "inSlope": 1.5687689,
+          "outSlope": 1.5687689,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.49099445,
+          "value": 1.0,
+          "inSlope": 1.5687689,
+          "outSlope": 1.5687689,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "TiltRemapCurve": {
+      "m_Curve": [
+        {
+          "time": 0.14063664,
+          "value": 0.0,
+          "inSlope": 2.333428,
+          "outSlope": 2.333428,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.5691907,
+          "value": 1.0,
+          "inSlope": 2.333428,
+          "outSlope": 2.333428,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "RemapRemapCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 2.1955023,
+          "outSlope": 2.1955023,
+          "weightedMode": 0,
+          "inWeight": 0.06290674,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  }
+}

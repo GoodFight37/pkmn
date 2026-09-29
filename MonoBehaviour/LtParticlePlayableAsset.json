@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 582254176588785798
+  },
+  "m_Name": "LtParticlePlayableAsset",
+  "sourceGameObject": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "prefabGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5835367288724393925
+  },
+  "_constraint": {
+    "_boneName": "OpB1",
+    "_positionOffset": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.15
+    },
+    "_rotationOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "_scaleOffset": {
+      "x": 0.7,
+      "y": 0.7,
+      "z": 0.7
+    },
+    "_ignoreParentRotation": 0,
+    "_followLayer": 0
+  },
+  "_ignoreConstraint": 0,
+  "_instanceUpdater": {
+    "exposedName": "0",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "particleRandomSeed": 833,
+  "UpdateDirector": 0,
+  "postPlayback": 2
+}

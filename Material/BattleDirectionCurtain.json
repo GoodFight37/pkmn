@@ -1,0 +1,135 @@
+{
+  "m_Shader": {
+    "m_FileID": 0,
+    "m_PathID": 2688252960834175027,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaClip": 0.0,
+      "_AlphaToMask": 0.0,
+      "_Blend": 0.0,
+      "_BlendOp": 0.0,
+      "_BumpScale": 1.0,
+      "_CameraOffset": 0.1,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DstBlend": 10.0,
+      "_DstBlendAlpha": 10.0,
+      "_EnvironmentReflections": 1.0,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_Metallic": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_SampleGI": 0.0,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 5.0,
+      "_SrcBlendAlpha": 1.0,
+      "_Surface": 1.0,
+      "_WorkflowMode": 1.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.39607844
+      },
+      "_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.39607844
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OppCenterX": {
+        "r": 0.0,
+        "g": 0.7,
+        "b": 0.0,
+        "a": -0.7
+      },
+      "_OppCenterY": {
+        "r": 0.75,
+        "g": 1.925,
+        "b": 1.925,
+        "a": 1.925
+      },
+      "_OppFill": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OppSizeX": {
+        "r": 0.3075,
+        "g": 0.3075,
+        "b": 0.3075,
+        "a": 0.3075
+      },
+      "_OppSizeY": {
+        "r": 0.42,
+        "g": 0.42,
+        "b": 0.42,
+        "a": 0.42
+      },
+      "_QuadScale": {
+        "r": 30.0,
+        "g": 30.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SlfCenterX": {
+        "r": 0.0,
+        "g": -0.7,
+        "b": 0.0,
+        "a": 0.7
+      },
+      "_SlfCenterY": {
+        "r": -0.75,
+        "g": -1.925,
+        "b": -1.925,
+        "a": -1.925
+      },
+      "_SlfFill": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SlfSizeX": {
+        "r": 0.3075,
+        "g": 0.3075,
+        "b": 0.3075,
+        "a": 0.3075
+      },
+      "_SlfSizeY": {
+        "r": 0.42,
+        "g": 0.42,
+        "b": 0.42,
+        "a": 0.42
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "BattleDirectionCurtain",
+  "Name": "BattleDirectionCurtain"
+}

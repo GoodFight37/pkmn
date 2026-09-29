@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7735612363494052461
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2116693015497481667
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -6935254751133749869
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_unlockText": {
+    "m_FileID": 0,
+    "m_PathID": -1217859419513606765
+  },
+  "_deckMissionObject": {
+    "m_FileID": 0,
+    "m_PathID": 2623600108453506451
+  },
+  "_battleObject": {
+    "m_FileID": 0,
+    "m_PathID": -8763859018507670125
+  },
+  "_boardObject": {
+    "m_FileID": 0,
+    "m_PathID": 7494936802940890515
+  },
+  "_fileObject": {
+    "m_FileID": 0,
+    "m_PathID": -7510508170662957677
+  },
+  "_getChallengeObject": {
+    "m_FileID": 0,
+    "m_PathID": 1891678577998245267
+  },
+  "_tradeObject": {
+    "m_FileID": 0,
+    "m_PathID": 7095196473125645715
+  },
+  "_otherUnlockText": {
+    "m_FileID": 0,
+    "m_PathID": 3797937065260035475
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": -6935254751133749869
+  }
+}

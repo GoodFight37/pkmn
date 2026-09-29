@@ -1,0 +1,165 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1606252293082529895
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2220072061793648420
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 0,
+  "_closeSeName": 0,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hasBackgroundTouch": 0,
+  "IsBackKeyEnabled": 1,
+  "_headerBrightSandNumText": {
+    "m_FileID": 0,
+    "m_PathID": -367116871004471399
+  },
+  "_headerBrightSandDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -8903839161692471399
+  },
+  "_staminaElement": {
+    "m_FileID": 0,
+    "m_PathID": -2975143884658458727
+  },
+  "_staminaAddButton": {
+    "m_FileID": 0,
+    "m_PathID": -7794297003258626151
+  },
+  "_tutorialButton": {
+    "m_FileID": 0,
+    "m_PathID": 7909237454345781145
+  },
+  "_tutorialNewBadge": {
+    "m_FileID": 0,
+    "m_PathID": 2015439660751568793
+  },
+  "_eventStatusRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4754927800028151705
+  },
+  "_eventDateTimeText": {
+    "m_FileID": 0,
+    "m_PathID": -3407887066492256359
+  },
+  "_eventInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": -7599782821493686375
+  },
+  "_tradeStatusRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4165655502486552473
+  },
+  "_txtBeforeTrade": {
+    "m_FileID": 0,
+    "m_PathID": -4948613948333506663
+  },
+  "_bgBeforeTrade": {
+    "m_FileID": 0,
+    "m_PathID": -1950865718498050151
+  },
+  "_bgWaitAnswer": {
+    "m_FileID": 0,
+    "m_PathID": -8990200622680457319
+  },
+  "_bgHasRequest": {
+    "m_FileID": 0,
+    "m_PathID": -3716123799773855847
+  },
+  "_bgTradeFinished": {
+    "m_FileID": 0,
+    "m_PathID": 6586031475568590745
+  },
+  "_newBadge": {
+    "m_FileID": 0,
+    "m_PathID": 1633404590194081689
+  },
+  "_notificationBadge": {
+    "m_FileID": 0,
+    "m_PathID": -7638133963024515175
+  },
+  "_notificationText": {
+    "m_FileID": 0,
+    "m_PathID": -4365382643338395751
+  },
+  "_notificationBgPaletteSetter": {
+    "m_FileID": 0,
+    "m_PathID": -2041181088830537831
+  },
+  "_tradeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5678081616960274329
+  },
+  "_tradeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": -7474949845135081575
+  },
+  "_tradeButtonEffect": {
+    "m_FileID": 0,
+    "m_PathID": 5269939250204426137
+  },
+  "_userElement": {
+    "m_FileID": 0,
+    "m_PathID": -1973610283655184487
+  },
+  "_imageCell": {
+    "m_FileID": 0,
+    "m_PathID": -6443172846752448615
+  },
+  "_playerName": {
+    "m_FileID": 0,
+    "m_PathID": -2967662260244922471
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8370837831539867545
+  },
+  "_historyButton": {
+    "m_FileID": 0,
+    "m_PathID": 8814599090901335961
+  },
+  "_settingButton": {
+    "m_FileID": 0,
+    "m_PathID": 5310983339200855961
+  },
+  "_autoRejectBadge": {
+    "m_FileID": 0,
+    "m_PathID": -7606452248323965031
+  }
+}

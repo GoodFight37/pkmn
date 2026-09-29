@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4360952826133801106
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5017342209671344135
+  },
+  "m_Name": "",
+  "_detentMode": 0,
+  "_detentHeights": {
+    "_largeRatio": 0.95,
+    "_mediumRatio": 0.8,
+    "_smallRatio": 0.05
+  },
+  "_ignoreHeader": 0,
+  "_ignoreTitle": 0,
+  "_detents": 6,
+  "_initDetent": 2,
+  "_closeOption": 5,
+  "_scrollRectOption": {
+    "_ignoreAnchorBottom": 0
+  },
+  "_moveElasticity": 0.15,
+  "_openElasticity": 0.12,
+  "_closeElasticity": 0.06,
+  "_touchGroupId": 100
+}

@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1591682988840482356
+  },
+  "m_Name": "BloomVolume",
+  "active": 1,
+  "_bufferSize": {
+    "m_OverrideState": 1,
+    "m_Value": 256
+  },
+  "_downSamplingCount": {
+    "m_OverrideState": 1,
+    "m_Value": 5
+  },
+  "_scatter": {
+    "m_OverrideState": 1,
+    "m_Value": 0.5
+  },
+  "_intensity": {
+    "m_OverrideState": 1,
+    "m_Value": 1.0
+  }
+}

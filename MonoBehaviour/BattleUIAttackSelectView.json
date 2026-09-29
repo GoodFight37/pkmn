@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8891777300016418532
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7049740986088321226
+  },
+  "m_Name": "",
+  "_abilityButton": {
+    "m_FileID": 0,
+    "m_PathID": -8106000147908112668
+  },
+  "_attackButtonViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3793596614234321180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8908872679214330140
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6571996598657659164
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6918343464614776548
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7997289333715284252
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4854718396972093156
+    }
+  ],
+  "_retreatButtonView": {
+    "m_FileID": 0,
+    "m_PathID": -6723601338939584796
+  },
+  "_cardImageView": {
+    "m_FileID": 0,
+    "m_PathID": 5666534241044811492
+  },
+  "_cardStatusView": {
+    "m_FileID": 0,
+    "m_PathID": -286215856468570396
+  },
+  "_attachedEnergyView": {
+    "m_FileID": 0,
+    "m_PathID": 462152875516841700
+  },
+  "_hudAdvantageView": {
+    "m_FileID": 0,
+    "m_PathID": -2530805418406818076
+  },
+  "_hudWeaknessView": {
+    "m_FileID": 0,
+    "m_PathID": 786606286511558372
+  },
+  "_pokemonToolViewPlaceHolder": {
+    "m_FileID": 0,
+    "m_PathID": 6228016685513002724
+  },
+  "_buttonLayoutGroup": {
+    "m_FileID": 0,
+    "m_PathID": 1869462573718785764
+  },
+  "_canvasGroupToSyncAlpha": {
+    "m_FileID": 0,
+    "m_PathID": 7744649861567762148
+  },
+  "_cardRect": {
+    "m_FileID": 0,
+    "m_PathID": 7908523259497172708
+  },
+  "_cardDistanceCenter": 3.0,
+  "_cardDistanceDefault": 3.7,
+  "_cardLocalRotationDefault": {
+    "x": 0.082224384,
+    "y": -0.0336942,
+    "z": -0.1915471,
+    "w": -0.97745264
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 5499521222013701860
+  },
+  "_showClip": {
+    "m_FileID": 4,
+    "m_PathID": -5980155357836209006
+  },
+  "_scrollShowClip": {
+    "m_FileID": 4,
+    "m_PathID": 1563346206097228403
+  },
+  "_hideClip": {
+    "m_FileID": 4,
+    "m_PathID": -8986685015759097204
+  },
+  "_scrollContent": {
+    "m_FileID": 0,
+    "m_PathID": -8820508694670651676
+  },
+  "_scrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 905974425761304292
+  },
+  "_buttonControllerRectTrans": {
+    "m_FileID": 0,
+    "m_PathID": -8851558080079900956
+  },
+  "_scrollRectTrams": {
+    "m_FileID": 0,
+    "m_PathID": -527094277302300956
+  },
+  "_scrollObjectRectTrams": {
+    "m_FileID": 0,
+    "m_PathID": 1869462573718785764
+  },
+  "_scrollGroup": {
+    "m_FileID": 0,
+    "m_PathID": -2185431072671510812
+  },
+  "_scrollMask": {
+    "m_FileID": 0,
+    "m_PathID": -8209380152415990044
+  },
+  "_scrollObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 231148811865116388
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1305846300340801252
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7310467361823764764
+    }
+  ],
+  "_scrollObjHeightAdjustment": 0.0,
+  "_retreatButtonSpase": 10.0,
+  "_scrollMaxLower": -152.0
+}

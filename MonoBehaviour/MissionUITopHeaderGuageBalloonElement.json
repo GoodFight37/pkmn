@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3981104401230745284
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7156055179022985275
+  },
+  "m_Name": "",
+  "_balloonButton": {
+    "m_FileID": 0,
+    "m_PathID": 1931343632701305148
+  },
+  "_clearCountText": {
+    "m_FileID": 0,
+    "m_PathID": -2845045226550349508
+  },
+  "_idleObject": {
+    "m_FileID": 0,
+    "m_PathID": 4926181790018351420
+  },
+  "_receivableObject": {
+    "m_FileID": 0,
+    "m_PathID": -6842319366398234308
+  },
+  "_receivedObject": {
+    "m_FileID": 0,
+    "m_PathID": -7269354490703859396
+  },
+  "_rewardItemCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3686965532577255108
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5622878947734892860
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 766725157713129788
+    }
+  ],
+  "_receivedDisableRewardObject": {
+    "m_FileID": 0,
+    "m_PathID": -3127140761257135812
+  },
+  "_balloonIdleAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 234829505254043964
+  },
+  "_balloonIdleScaleAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -5985169277696364228
+  },
+  "_balloonRewardingAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -8642181020800667332
+  },
+  "_balloonIdleAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": 2139156784905942998
+  },
+  "_balloonIdleScaleAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": -5662016403274807383
+  },
+  "_balloonRewardingAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": 6616385014413391765
+  },
+  "_balloonIdleToRewardingAnimationClip": {
+    "m_FileID": 6,
+    "m_PathID": 5482000029797782246
+  }
+}

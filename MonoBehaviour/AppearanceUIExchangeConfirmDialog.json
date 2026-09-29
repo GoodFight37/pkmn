@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2073349825646354142
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5362348756401293509
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 8805489335214137054
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 8805489335214137054
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 2158513239510081246
+  },
+  "_notNeededRarityCheckButton": {
+    "m_FileID": 0,
+    "m_PathID": 4233973003596783326
+  },
+  "_confirmRarityRootGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3247125013843992286
+  },
+  "_confirmUsedRootGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2501786323363963170
+  },
+  "_bodyText": {
+    "m_FileID": 0,
+    "m_PathID": -2284000531644424482
+  },
+  "_rarityBodyText": {
+    "m_FileID": 0,
+    "m_PathID": 6745231582726446814
+  },
+  "_rarityListText": {
+    "m_FileID": 0,
+    "m_PathID": 1030787579326160606
+  }
+}

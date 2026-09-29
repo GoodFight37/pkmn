@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3376933957667474614
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1709961564312891031
+  },
+  "m_Name": "",
+  "_settings": {
+    "m_FileID": 35,
+    "m_PathID": 4344838477251992114
+  },
+  "_animStartDegree": 10.0,
+  "_animTimeScale": 1.0,
+  "_animDuration": 2.3,
+  "_endAnimDuration": 0.5,
+  "_stopAnimTiming": 0.7,
+  "_timeOffset": 1.5,
+  "_intensityNoiseSpeed": 2.5,
+  "_reflectFlipBookMaxSpeed": 0.26,
+  "_reflectStartBane": 22.0,
+  "_reflectStartNensei": 10.0,
+  "_reflectEndBane": 10.0,
+  "_reflectEndNensei": 18.0,
+  "_checkRotatingTime": 0.3,
+  "_rotatingEndThreshold": 0.01,
+  "_rotatingStartThreshold": 0.1,
+  "_disappearBane": 48.0,
+  "_disappearNensei": 10.0,
+  "_appearBane": 48.0,
+  "_appearNensei": 10.0,
+  "_isAnimationStopped": 0
+}

@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1561541470197601145
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8932020954742915587
+  },
+  "m_Name": "",
+  "ScrollableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2665728771575295111
+    }
+  ],
+  "CellIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 6978804865558860665
+  },
+  "_resourceItemImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 6514985277089796985
+  },
+  "_resourceNumText": {
+    "m_FileID": 0,
+    "m_PathID": -4690514445382167687
+  },
+  "_unTradeObject": {
+    "m_FileID": 0,
+    "m_PathID": 5237010398647112569
+  },
+  "_selectedObject": {
+    "m_FileID": 0,
+    "m_PathID": 3510391496262964089
+  },
+  "_hasVisualEffectIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1993481461737761927
+  },
+  "_countText": {
+    "m_FileID": 0,
+    "m_PathID": -820219315107441799
+  },
+  "_cardImageCell": {
+    "m_FileID": 0,
+    "m_PathID": 152530396005618553
+  },
+  "_favoriteGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7578924740608545657
+  },
+  "_wishGameObject": {
+    "m_FileID": 0,
+    "m_PathID": -802238069228088455
+  },
+  "_playerIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 4470228867478541177
+  }
+}

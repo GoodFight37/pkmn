@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6037662151697631185
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1528270815603033230
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1433868124907309009
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_expansionLogo": {
+    "m_FileID": 0,
+    "m_PathID": -25056775578122287
+  },
+  "_numText": {
+    "m_FileID": 0,
+    "m_PathID": 5836625098038314961
+  },
+  "_gauge": {
+    "m_FileID": 0,
+    "m_PathID": 2858476007250986961
+  },
+  "_messageRoot": {
+    "m_FileID": 0,
+    "m_PathID": -5196521359374809135
+  },
+  "_message": {
+    "m_FileID": 0,
+    "m_PathID": -3555532790064347183
+  },
+  "_rarityImage01": {
+    "m_FileID": 0,
+    "m_PathID": 7402396807103776721
+  },
+  "_rarityImage02": {
+    "m_FileID": 0,
+    "m_PathID": -833618370233497647
+  },
+  "_rarityImage03": {
+    "m_FileID": 0,
+    "m_PathID": 6106317592634197969
+  },
+  "_rarityImage04": {
+    "m_FileID": 0,
+    "m_PathID": 3373087607242360785
+  },
+  "_outlineGoldRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6549960361046509521
+  },
+  "_baseGoldRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5299300147942852561
+  },
+  "_baseSilverRoot": {
+    "m_FileID": 0,
+    "m_PathID": -531318719215826991
+  },
+  "_okButton": {
+    "m_FileID": 0,
+    "m_PathID": 1433868124907309009
+  },
+  "_badgeAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 2608632539124467665
+  },
+  "_badgeShowClip": {
+    "m_FileID": 2,
+    "m_PathID": -7854396071380706660
+  },
+  "_badgeHideClip": {
+    "m_FileID": 2,
+    "m_PathID": -641514026126787135
+  }
+}

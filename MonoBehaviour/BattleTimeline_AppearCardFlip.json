@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5038369675663816281
+  },
+  "m_Name": "BattleTimeline_AppearCardFlip",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4850088117106811945
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2405631500971582505
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6246457834273940521
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3795361252693400535
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7863228453859337257
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1229773699452937257
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1970375094051625943
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -797970053410020311
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -371694732405595095
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7022756927055027159
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0,
+    "m_ScenePreview": 1
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

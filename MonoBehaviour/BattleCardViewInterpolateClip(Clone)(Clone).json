@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -817122849322124719
+  },
+  "m_Name": "BattleCardViewInterpolateClip(Clone)(Clone)",
+  "_delayFramePerTarget": 0,
+  "_durationFramePerTarget": 20,
+  "_skipRemainingOnLastFinished": 0,
+  "_destination": {
+    "exposedName": "1627018472",
+    "defaultValue": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_audioCue": {
+    "_value": ""
+  },
+  "_isInterpolatedReverseOrder": 0
+}

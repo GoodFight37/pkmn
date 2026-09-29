@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4917045539541188751
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3420604135755787382
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": 1926516028448079729
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_menuButton": {
+    "m_FileID": 0,
+    "m_PathID": 6038056953373949809
+  },
+  "_languageListCells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 577284938421600113
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7137521949852991345
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6606607501993148273
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7943134691573203087
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6535741967614246769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4897523261958357135
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6047707256421384049
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8933701658466877583
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2031633719308943503
+    }
+  ],
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": -2538057246782488719
+  },
+  "_cardViewerHiddenGameObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7284505891829809295
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -170861005728743567
+    }
+  ]
+}

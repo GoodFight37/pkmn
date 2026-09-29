@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6338762418714634942
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -9148042323936428577
+  },
+  "m_Name": "",
+  "_focusTargetPositionSetter": {
+    "m_FileID": 0,
+    "m_PathID": -7057441844273670846
+  },
+  "_guardPositionSetter": {
+    "m_FileID": 0,
+    "m_PathID": 3390533708917052738
+  },
+  "_backgroundCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -7372803437216852670
+  },
+  "_minWidth": 130.0,
+  "_minHeight": 130.0
+}

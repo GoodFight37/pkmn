@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3277655301869308956
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1157956522223050940
+  },
+  "m_Name": "",
+  "customSafeAreaTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OnStartShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndShowing": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnStartHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnEndHiding": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_overrideCanvasGroupForSystemControl": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withInSafeArea": 1,
+  "_openSeName": 1,
+  "_closeSeName": 1,
+  "_backBehaviourButton": {
+    "m_FileID": 0,
+    "m_PathID": -8520519350581431324
+  },
+  "_hasBackgroundTouch": 1,
+  "IsBackKeyEnabled": 1,
+  "_playGuideButton": {
+    "m_FileID": 0,
+    "m_PathID": 1949114939920839652
+  },
+  "_eventDetailButton": {
+    "m_FileID": 0,
+    "m_PathID": 3741789236691891172
+  },
+  "_promotionLineupButton": {
+    "m_FileID": 0,
+    "m_PathID": -7060734318115261468
+  },
+  "_goToMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": -9074393818788432924
+  },
+  "_newBadgeForMissionButton": {
+    "m_FileID": 0,
+    "m_PathID": 7203203740810048484
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": -8520519350581431324
+  },
+  "_bottomSheets": {
+    "m_FileID": 0,
+    "m_PathID": 2753113806177334244
+  },
+  "_shopTicketButton": {
+    "m_FileID": 0,
+    "m_PathID": 9194851870606193636
+  },
+  "_shopRewardTicketNumText": {
+    "m_FileID": 0,
+    "m_PathID": 237899867103327204
+  }
+}
