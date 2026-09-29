@@ -1,0 +1,16 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -2646869007466365342,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": {},
+    "m_Floats": {},
+    "m_Colors": {}
+  },
+  "m_Name": "OuterStencil",
+  "Name": "OuterStencil"
+}

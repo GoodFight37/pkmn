@@ -1,0 +1,187 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 904886703495107247,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -1483775793831651656,
+          "Name": "card_trainers_rule_frame_goods_Full_Holo",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramFrontMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 1619038872084986729,
+          "Name": "card_trainers_rule_frame_mask_Full",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -1417585622159944988,
+          "Name": "Phase_Mirror_Rule",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 5049902741030919565,
+          "Name": "RMP_MASK_Mirror",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -4494621249803383948,
+          "Name": "Mirror_TR_Goods_RMP32",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 1.0,
+      "_BaseColorIntensity": 0.7,
+      "_BlendSrcColor": 1.0,
+      "_ChangeSpeed": 5.6,
+      "_CullMode": 0.0,
+      "_CutOut": 0.01,
+      "_DiffractionIntensity": 1.1,
+      "_DiffractionPower": 13.0,
+      "_DiffuseIntensity": 1.0,
+      "_FrontMaskPower": 64.0,
+      "_HoloAlphaBlend": 0.18,
+      "_IsPreMultiply": 1.0,
+      "_MaskEmissive": 0.0,
+      "_MaxDiffractionIntensity": 0.5,
+      "_MaxSaturation": 1.0,
+      "_MetallicUseR": 0.0,
+      "_MinDiffractionIntensity": 0.5,
+      "_MinSaturation": 0.0,
+      "_OrientationU": 1.0,
+      "_OrientationV": -0.087,
+      "_PhaseRotate": 0.0,
+      "_PhaseScale": 1.0,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.47,
+      "_RampRepeat": 0.8,
+      "_RampRotate": 0.0,
+      "_RampScale": 1.0,
+      "_RampSpeed": 0.8,
+      "_RampUVOffset": 0.0,
+      "_RampUVTiltOffset": 0.0,
+      "_RemoveMetallic": 0.0,
+      "_SatTiltIntensity": 1.0,
+      "_SatTiltOffset": 0.0,
+      "_SatTiltPower": 1.0,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.43,
+      "_TiltDiffractionEnabled": 0.0,
+      "_TiltIntensity": 1.0,
+      "_TiltOffset": 0.0,
+      "_TiltPower": 1.0,
+      "_TiltSaturationEnabled": 0.0,
+      "_UseDiffuseColor": 0.0,
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_OffDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Panel_Trainers_Rule_Goods_Mirror",
+  "Name": "Panel_Trainers_Rule_Goods_Mirror"
+}

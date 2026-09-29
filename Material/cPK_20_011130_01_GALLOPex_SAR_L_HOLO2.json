@@ -1,0 +1,127 @@
+{
+  "m_Shader": {
+    "m_FileID": 23,
+    "m_PathID": -4614034991828446706,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_HologramFrontMaskTex": {
+        "m_Texture": {
+          "m_FileID": 13,
+          "m_PathID": -3532243195504275552,
+          "Name": "SSA_IllustMask_BG_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 28,
+          "m_PathID": -9150978617882077634,
+          "Name": "Phase_SAR_ILL_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 20,
+          "m_PathID": 8822097263579192623,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 15,
+          "m_PathID": -4743403780876198726,
+          "Name": "SSA_RMP_ILL_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 0.0,
+      "_CutOut": 0.0,
+      "_DiffractionIntensity": 0.85,
+      "_DiffractionPower": 36.0,
+      "_MaskPower": 8.0,
+      "_PhaseRotate": 0.0,
+      "_PhaseScale": 1.0,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.293,
+      "_RampRepeat": 1.0,
+      "_RampRotate": 0.0,
+      "_RampScale": 1.0,
+      "_RampSpeed": 3.0,
+      "_RampUVOffset": 0.0,
+      "_RampUVTiltOffset": 0.0,
+      "_StencilRef": 1.0,
+      "_UseAlphaAsAlphaBlendMask": 0.0,
+      "_UseMaskUv": 0.0,
+      "_UseReflectionAlpha": 0.0,
+      "_UseUv": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_011130_01_GALLOPex_SAR_L_HOLO2",
+  "Name": "cPK_20_011130_01_GALLOPex_SAR_L_HOLO2"
+}

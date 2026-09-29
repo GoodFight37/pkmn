@@ -1,0 +1,138 @@
+{
+  "m_Shader": {
+    "m_FileID": 30,
+    "m_PathID": 4889011790250279620,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AuraMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -6591310758439642223,
+          "Name": "cPK_20_020810_00_MEGARAYQUAZAex_SR_L_AURAMASK",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FBMTex": {
+        "m_Texture": {
+          "m_FileID": 18,
+          "m_PathID": -226510259740242032,
+          "Name": "fbm_u14v14_x0y0_2",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlowTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -5836850773249959041,
+          "Name": "cPK_20_020810_00_MEGARAYQUAZAex_SR_L_AURAFLOW",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 1.0,
+      "_AuraAlphaIntensity": 5.0,
+      "_AuraCol4Threshold": 1.0,
+      "_AuraCol4ThresholdWidth": 1.0,
+      "_AuraColorIntensity": 7.0,
+      "_AuraDetail": 2.0,
+      "_AuraEdgeBorder": 0.1,
+      "_AuraEdgeBorderSmooth": 0.1,
+      "_AuraEdgePow": 1.0,
+      "_AuraMask2Power": 1.69,
+      "_AuraMaskNoiseDetail": 3.9,
+      "_AuraMaskNoiseSpeed": 2.0,
+      "_AuraMaskOffset": 0.5,
+      "_AuraMaskPower": 3.0,
+      "_AuraMowamowaPower": 6.4,
+      "_AuraSpeed": 0.24,
+      "_BaseTransparency": 0.0,
+      "_BlendFlowMapUpVector": 0.2,
+      "_BureNoiseDetail": 0.0,
+      "_BureNoiseIntensity": 0.0,
+      "_BureNoiseSpeed": 0.0,
+      "_EmissiveIntensity": 0.3,
+      "_FlowIntensity": 0.5,
+      "_NoiseMoveUpSpeed": 0.1,
+      "_Stencil": 2.0,
+      "_Transparency": 0.0,
+      "_UpVectorNoiseDetail": 6.3,
+      "_UpVectorNoiseSpeed": 0.92,
+      "_UpVectorNoiseStrength": 1.0,
+      "_UseCol4": 0.0,
+      "_UseOldNoise": 0.0,
+      "_VisualizeAuraMask": 0.0,
+      "_VisualizeUpVector": 0.0,
+      "_ZOffset": 0.0,
+      "_ZTest": 4.0
+    },
+    "m_Colors": {
+      "_AuraPosOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_AuraScale": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Col1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.058823533,
+        "a": 1.0
+      },
+      "_Col2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.058823533,
+        "a": 1.0
+      },
+      "_Col3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.058823533,
+        "a": 1.0
+      },
+      "_Col4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_020810_00_MEGARAYQUAZAex_SR_L_FULLAURA",
+  "Name": "cPK_20_020810_00_MEGARAYQUAZAex_SR_L_FULLAURA"
+}

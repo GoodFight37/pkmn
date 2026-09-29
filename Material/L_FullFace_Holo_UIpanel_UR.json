@@ -1,0 +1,189 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3567610437707568368,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4408330918281824566,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DynamicUITex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FakeSpecularMask": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 7844133610490198636,
+          "Name": "UR_LensFlare_EX",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -1138694547396766852,
+          "Name": "mask_white",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseMaskTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -1138694547396766852,
+          "Name": "mask_white",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -8723800673380480769,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 7490438917109954014,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": -9191389286460929728,
+          "Name": "ALL_RMP_EX",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BaseColorIntensity": 0.75,
+      "_ChangeSpeed": 1.0,
+      "_DarknessEnabled": 1.0,
+      "_DarknessOffset": 0.0,
+      "_DiffractionIntensity": 0.8,
+      "_DiffractionPower": 20.0,
+      "_DiffuseIntensity": 0.75,
+      "_FakeSpecularCornerPower": 0.0,
+      "_FakeSpecularEnabled": 1.0,
+      "_FakeSpecularIntensity": 1.45,
+      "_FakeSpecularMaskScale": 1.0,
+      "_FakeSpecularNotCornerOffset": 0.0,
+      "_FakeSpecularPower": 1.7,
+      "_OrientationU": 0.5,
+      "_OrientationV": -0.7,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.216,
+      "_RampRepeat": 3.0,
+      "_RampSpeed": 1.0,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.75,
+      "_UseDynamicUI": 1.0,
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_DarknessColor": {
+        "r": 0.745283,
+        "g": 0.72337884,
+        "b": 0.6503649,
+        "a": 0.0
+      },
+      "_FakeSpecularColor": {
+        "r": 0.4433962,
+        "g": 0.4019847,
+        "b": 0.2739854,
+        "a": 0.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "L_FullFace_Holo_UIpanel_UR",
+  "Name": "L_FullFace_Holo_UIpanel_UR"
+}

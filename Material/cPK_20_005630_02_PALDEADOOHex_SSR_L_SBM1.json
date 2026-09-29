@@ -1,0 +1,198 @@
+{
+  "m_Shader": {
+    "m_FileID": 24,
+    "m_PathID": -7649023482242642590,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 25,
+          "m_PathID": -8377037043627977208,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -7252344298770406084,
+          "Name": "cPK_20_005630_02_PALDEADOOHex_SSR_L_AM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 4818973324833585061,
+          "Name": "cPK_20_005630_02_PALDEADOOHex_SSR_L_HM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -5983860336850070181,
+          "Name": "cPK_20_005630_02_PALDEADOOHex_SSR_L_NM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -5243880963453509693,
+          "Name": "cPK_20_005630_02_PALDEADOOHex_SSR_L_HPH",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex2": {
+        "m_Texture": {
+          "m_FileID": 26,
+          "m_PathID": -5381469233902706053,
+          "Name": "Phase_SSR_S_Pokemon_naname_L",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex2": {
+        "m_Texture": {
+          "m_FileID": 27,
+          "m_PathID": 999560049969982579,
+          "Name": "RMP_MASK_S_SSR_Border_Highlight",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 28,
+          "m_PathID": -6920046290330736249,
+          "Name": "SSR_Outline_RMP",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex2": {
+        "m_Texture": {
+          "m_FileID": 29,
+          "m_PathID": -7481947564312647108,
+          "Name": "SR_RMP_BG_SB",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_ChangeSpeed": 1.1,
+      "_DiffractionIntensity": 1.0,
+      "_DiffractionIntensity2": 0.5,
+      "_DiffractionPower": 3.0,
+      "_DiffractionPower2": 30.0,
+      "_DiffuseIntensity": 0.65,
+      "_OrientationU": 1.0,
+      "_OrientationV": -0.9,
+      "_OutlineNormalFilterThreshold": 0.05,
+      "_RampInterval2": 0.0,
+      "_RampOffset": -0.5,
+      "_RampOffset2": 0.205,
+      "_RampRepeat2": 3.0,
+      "_RampSpeed2": 2.0,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.15,
+      "_Stencil": 2.0,
+      "_TiltEnabled": 1.0,
+      "_TiltIntensity": 3.0,
+      "_TiltOffset": 0.0,
+      "_TiltPower": 2.0,
+      "_UseOutlineNormalFilter": 1.0,
+      "_UsePositionAsUV": 1.0
+    },
+    "m_Colors": {
+      "_OutlineColor": {
+        "r": 0.20000002,
+        "g": 0.20000002,
+        "b": 0.20000002,
+        "a": 0.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_005630_02_PALDEADOOHex_SSR_L_SBM1",
+  "Name": "cPK_20_005630_02_PALDEADOOHex_SSR_L_SBM1"
+}

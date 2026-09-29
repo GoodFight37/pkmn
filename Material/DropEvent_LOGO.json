@@ -1,0 +1,36 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -7670412818071714871,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 3798950666842338308,
+          "Name": "DropEvent_AM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "DropEvent_LOGO",
+  "Name": "DropEvent_LOGO"
+}

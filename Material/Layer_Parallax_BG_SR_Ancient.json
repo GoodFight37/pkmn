@@ -1,0 +1,197 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 183461332386314860,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -6241389446088770491,
+          "Name": "Ancient_BG",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AddColorIntensity": 0.5,
+      "_AlphaClip": 0.0,
+      "_AlphaToMask": 0.0,
+      "_AuraAlphaIntensity": 1.7,
+      "_AuraColorIntensity": 2.4,
+      "_AuraDetail": 10.0,
+      "_AuraEdgeBorder": 0.0,
+      "_AuraEdgeBorderSmooth": 0.1,
+      "_AuraEdgePow": 1.0,
+      "_AuraMask2Power": 1.2,
+      "_AuraMaskNoiseDetail": 1.6,
+      "_AuraMaskNoiseSpeed": 1.1,
+      "_AuraMaskOffset": -1.0,
+      "_AuraMaskPower": 3.0,
+      "_AuraMowamowaPower": 1.4,
+      "_AuraSpeed": 0.0,
+      "_BaseTransparency": 0.0,
+      "_Blend": 0.0,
+      "_BlendFlowMapUpVector": 0.0,
+      "_BlendMode": 0.0,
+      "_BlendModePreserveSpecular": 1.0,
+      "_BumpScale": 1.0,
+      "_BureNoiseDetail": 4.9,
+      "_BureNoiseIntensity": 0.11,
+      "_BureNoiseSpeed": 0.4,
+      "_ClackNoiseScale": 59.4,
+      "_ClackPow": 276.0,
+      "_ClackY1": 0.815,
+      "_ClackY2": 0.623,
+      "_ClackY3": 0.374,
+      "_ClackY4": 0.177,
+      "_ClackY5": 0.0,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_DstBlendAlpha": 0.0,
+      "_DstFactor": 10.0,
+      "_DstFactorA": 10.0,
+      "_EnvironmentReflections": 1.0,
+      "_FakeCameraHeight": 0.0,
+      "_FlowIntensity": 0.127,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_Height": 0.0,
+      "_HeightPower": 0.0,
+      "_LayerNum": 5.0,
+      "_Metallic": 0.0,
+      "_NoiseMoveUpSpeed": 0.02,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.005,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_SandIntensity": 3.0,
+      "_SandPow": 2.2,
+      "_SandSmokeNoiseScale": 6.2,
+      "_Scale": 1.0,
+      "_Scroll1": 0.701,
+      "_Scroll2": -0.5,
+      "_Scroll3": 0.9,
+      "_Scroll4": -0.8,
+      "_Scroll5": 0.5,
+      "_Scroll6": -0.3,
+      "_ScrollDirSeed": 42.0,
+      "_ScrollLength": 0.814,
+      "_ShakeAFrequency": 0.02,
+      "_ShakeAFrequencyHorizontalRatio": 0.08,
+      "_ShakeAIntensity": 0.037,
+      "_ShakeBFrequency": 30.0,
+      "_ShakeBFrequencyHorizontalRatio": 1.0,
+      "_ShakeBIntensity": 0.041,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendAlpha": 1.0,
+      "_SrcFactor": 5.0,
+      "_SrcFactorA": 0.0,
+      "_StencilRef": 1.0,
+      "_Surface": 0.0,
+      "_Transparency": 0.0,
+      "_UpVectorNoiseDetail": 5.5,
+      "_UpVectorNoiseSpeed": 0.0001,
+      "_UpVectorNoiseStrength": 0.846,
+      "_UseUv": 0.0,
+      "_VisualizeAuraMask": 0.0,
+      "_VisualizeUpVector": 0.0,
+      "_WorkflowMode": 1.0,
+      "_ZOffset": 0.08,
+      "_ZTest": 4.0,
+      "_ZWrite": 1.0,
+      "_thre": 0.5
+    },
+    "m_Colors": {
+      "_AddColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_AuraPosOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_AuraScale": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Col1": {
+        "r": 0.5568628,
+        "g": 0.5175499,
+        "b": 0.16078429,
+        "a": 1.0
+      },
+      "_Col2": {
+        "r": 0.5176471,
+        "g": 0.3694867,
+        "b": 0.23921569,
+        "a": 1.0
+      },
+      "_Col3": {
+        "r": 0.39,
+        "g": 0.29151517,
+        "b": 0.12606062,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CrackColor": {
+        "r": 0.5754717,
+        "g": 0.16640022,
+        "b": 0.16015486,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Layer_Parallax_BG_SR_Ancient",
+  "Name": "Layer_Parallax_BG_SR_Ancient"
+}

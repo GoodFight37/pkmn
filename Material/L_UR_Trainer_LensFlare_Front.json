@@ -1,0 +1,138 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -6862042248905613889,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -1835944704192778803,
+          "Name": "UR_LensFlare_texture",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlareVAT": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -7587107187686341784,
+          "Name": "UR_LensFlareVAT",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_Adjust": 1.0,
+      "_AdjustX": 1.0,
+      "_AdjustY": 1.0,
+      "_AlphaClip": 0.0,
+      "_BaseColorRGBIntensity": 1.5,
+      "_Blend": 0.0,
+      "_BumpScale": 1.0,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_CornerPower": 11.9,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DepthOcclusionTestZBias": -0.001,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissivePattern": 1.0,
+      "_EndFadeinDistanceWorldUnit": 0.5,
+      "_EnvironmentReflections": 1.0,
+      "_FlickResultIntensityLowestPoint": 0.85,
+      "_FlickerAnimSpeed": 3.0,
+      "_FlickerTimeDelay": 1.0,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_IsBack": 0.0,
+      "_IsFront": 0.0,
+      "_LightSourceViewSpaceRadius": 0.03,
+      "_MapScale": 0.0,
+      "_Metallic": 0.0,
+      "_NotCornerOffset": 0.228,
+      "_OcclusionStrength": 1.0,
+      "_Offset": 0.36,
+      "_Parallax": 0.005,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_RemoveTextureArtifact": 0.0,
+      "_ScaleX": 0.89,
+      "_ScaleY": 0.86,
+      "_ShouldDoFlicker": 1.0,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_StartFadeinDistanceWorldUnit": 0.05,
+      "_Surface": 0.0,
+      "_TestRad": 0.0,
+      "_TexPixelsX": 1024.0,
+      "_TexPixelsY": 1024.0,
+      "_TexScale": 0.88,
+      "_TiltFlickerAnimSpeed": 3.0,
+      "_TiltPower": 1.68,
+      "_TiltThreshold": 0.83,
+      "_UsePreMultiplyAlpha": 0.0,
+      "_WorkflowMode": 1.0,
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 0.931459,
+        "b": 0.58018,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_EmissiveColor": {
+        "r": 0.7,
+        "g": 0.5350785,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "L_UR_Trainer_LensFlare_Front",
+  "Name": "L_UR_Trainer_LensFlare_Front"
+}

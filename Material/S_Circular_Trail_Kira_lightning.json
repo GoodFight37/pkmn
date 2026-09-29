@@ -1,0 +1,117 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 3418664917731838456,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -170001845844960947,
+          "Name": "trail_rainbow",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AdjustAddAlpha": 0.515,
+      "_AdjustAddMinAlpha": 0.3,
+      "_AdjustAlphaBlendAlpha": 0.93,
+      "_AdjustAlphaBlendColor": 0.75,
+      "_AdjustRadius": 1.0,
+      "_AdjustRadiusScale": 0.38,
+      "_AlphaClip": 0.0,
+      "_AlphaToMask": 0.0,
+      "_BaseColorIntensity": 2.0,
+      "_BaseScale": 2.0,
+      "_BaseScaleAdjust": 0.4,
+      "_Blend": 0.0,
+      "_BlendDstColor": 1.0,
+      "_BlendModePreserveSpecular": 1.0,
+      "_BlendSrcColor": 4.0,
+      "_BlightnessPower": 1.0,
+      "_BrightnessAffectIntensity": 0.0,
+      "_BrightnessPower": 1.3,
+      "_BumpScale": 1.0,
+      "_CenterMoveByTilt": 0.0,
+      "_CircularDefaultAngle": 35.0,
+      "_CircularRadius": 1.0,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DistancePower": 5.0,
+      "_DivideCount": 0.0,
+      "_DstBlend": 0.0,
+      "_DstBlendAlpha": 0.0,
+      "_EmissiveIntensity": 1.5,
+      "_EnvironmentReflections": 1.0,
+      "_FlickerScale": 0.14,
+      "_FlickerSpeed": 1.0,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_MeshDivideCount": 200.0,
+      "_Metallic": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.005,
+      "_PrimCount": 0.0,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendAlpha": 1.0,
+      "_Surface": 0.0,
+      "_ThicknessPower": 0.94,
+      "_UVOffset": 0.0,
+      "_UseNewBlend": 1.0,
+      "_WorkflowMode": 1.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "S_Circular_Trail_Kira_lightning",
+  "Name": "S_Circular_Trail_Kira_lightning"
+}

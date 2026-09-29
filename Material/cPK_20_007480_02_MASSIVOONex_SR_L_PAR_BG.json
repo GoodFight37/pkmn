@@ -1,0 +1,250 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 5408654229050402091,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -650294630797688969,
+          "Name": "cPK_20_007480_02_MASSIVOONex_SR_L_BG_RELIEF_AM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2981748595759331699,
+          "Name": "BG_RELIEF_HM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_OutlineShadowTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2981748595759331699,
+          "Name": "BG_RELIEF_HM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 1247196617231042108,
+          "Name": "Full_HPH",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex2": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -5937532967480845044,
+          "Name": "Phase_SR_BG",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex2": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -5292559525388007056,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": -2945662807380746234,
+          "Name": "SR_RMP_SB_Outline_RELIEF",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex2": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": -7481947564312647108,
+          "Name": "SR_RMP_BG_SB",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShadowLayer": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -8003063205478685160,
+          "Name": "cPK_20_007480_02_MASSIVOONex_SR_L_RELIEF_SHADOWS",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BaseColorIntensity": 0.825,
+      "_ChangeSpeed": 0.3,
+      "_DecayRate": 1.0,
+      "_DiffractionIntensity": 1.0,
+      "_DiffractionIntensity2": 0.9,
+      "_DiffractionPower": 2.0,
+      "_DiffractionPower2": 50.0,
+      "_DiffuseIntensity": 0.134,
+      "_FakeCameraHeight": 0.0,
+      "_Height": -1.0,
+      "_HeightPower": 0.07,
+      "_HoloCoverPower": 4.6,
+      "_LayerTexScale": 1.192,
+      "_MainTexScale": 1.03,
+      "_MetallicShininess": 2.0,
+      "_MetallicSpecularIntensity": 0.135,
+      "_OrientationU": 0.75,
+      "_OrientationV": -1.0,
+      "_OutlineHeight": 0.002,
+      "_OutlineHoloCoverPower": 1.8,
+      "_OutlineShadowIntensity": 0.5,
+      "_RampInterval2": 0.0,
+      "_RampOffset": -0.12,
+      "_RampOffset2": 0.179,
+      "_RampRepeat2": 3.0,
+      "_RampSpeed2": 2.0,
+      "_Scale": 1.1,
+      "_ShadowDecay": 0.0,
+      "_Shininess": 60.0,
+      "_SpecularIntensity": 0.15,
+      "_StencilRef": 0.0,
+      "_TiltEnabled": 0.0,
+      "_TiltIntensity": 1.0,
+      "_TiltOffset": 0.0,
+      "_TiltPower": 2.0,
+      "_UseMetallicAtNonOutline": 1.0,
+      "_UsePositionAsUV": 0.0,
+      "_UseShadowLayerG": 1.0,
+      "_UseShadowLayerR": 1.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_OutlineShadowUVOffset": {
+        "r": -0.0015,
+        "g": 0.0015,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShadowColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShadowIntensity": {
+        "r": 0.14,
+        "g": 0.43,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ShadowLayerHeight": {
+        "r": 0.175,
+        "g": 0.125,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_007480_02_MASSIVOONex_SR_L_PAR_BG",
+  "Name": "cPK_20_007480_02_MASSIVOONex_SR_L_PAR_BG"
+}

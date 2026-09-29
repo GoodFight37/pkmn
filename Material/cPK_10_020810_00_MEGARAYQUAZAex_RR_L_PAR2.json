@@ -1,0 +1,99 @@
+{
+  "m_Shader": {
+    "m_FileID": 32,
+    "m_PathID": 4085261867850344489,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_ChangeColorTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -8806354752148680002,
+          "Name": "cPK_10_020810_00_MEGARAYQUAZAex_RR_L_PAR2_ON",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlashMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 3012042794598412522,
+          "Name": "cPK_10_020810_00_MEGARAYQUAZAex_RR_L_PAR2_LM",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -434077322074927494,
+          "Name": "cPK_10_020810_00_MEGARAYQUAZAex_RR_L_PAR2_OFF",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BlendMode": 0.0,
+      "_ChangeColor": 0.0,
+      "_DstFactor": 10.0,
+      "_DstFactorA": 10.0,
+      "_FakeCameraHeight": 0.1905,
+      "_FlashIntensity": 1.2,
+      "_GradationPower": 2.3,
+      "_Height": -0.2,
+      "_HeightPower": 0.12,
+      "_LightAreaAlphaBlend": 0.0,
+      "_LightEmitIntensity": 0.0,
+      "_LightPower": 1.0,
+      "_Scale": 1.26,
+      "_SrcFactor": 1.0,
+      "_SrcFactorA": 0.0,
+      "_StencilRef": 0.0,
+      "_Transparent": 0.0,
+      "_UseUv": 1.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_FlashBrightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FlashDarkColor": {
+        "r": 0.96862745,
+        "g": 0.9647059,
+        "b": 0.047058824,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_10_020810_00_MEGARAYQUAZAex_RR_L_PAR2",
+  "Name": "cPK_10_020810_00_MEGARAYQUAZAex_RR_L_PAR2"
+}

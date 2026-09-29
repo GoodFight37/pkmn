@@ -1,0 +1,179 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7286864420773527812,
+    "Name": "Lettuce/Common/CardNew/ShadowBox/UI/Card_ShadowBoxUI_Transparent_Rainbow",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AdditionalDynamicUITex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DynamicUITex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RainbowBGTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 1194162536455162222,
+          "Name": "ALL_RMP_MegaEvolutionTag_BG",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 20.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.6
+        }
+      },
+      "_RainbowBGTintMask": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -2030125973747593984,
+          "Name": "RainbowTagBGTintMask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RainbowOutlineTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 2326332569849762492,
+          "Name": "ALL_RMP_MegaEvolutionTag_Outline",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": -0.15,
+          "Y": 0.0
+        }
+      },
+      "_RainbowTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 7343703918009151904,
+          "Name": "ALL_RMP_MegaEvolutionTag_Base",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.8,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RainbowTintMask": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -4137125116236265299,
+          "Name": "RainbowTagTintMask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 0.0,
+      "_BaseColorIntensity": 1.0,
+      "_ChangeSpeed": 5.6,
+      "_DiffractionIntensity": 0.0,
+      "_DiffractionPower": 20.0,
+      "_DiffuseIntensity": 0.75,
+      "_EmitMasking": 1.0,
+      "_OrientationU": 1.0,
+      "_OrientationV": 1.0,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.216,
+      "_RampRepeat": 3.0,
+      "_RampSpeed": 1.0,
+      "_Shininess": 256.0,
+      "_SpecularIntensity": 0.0,
+      "_UseDynamicUI": 1.0,
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_RainbowAnimationScale": {
+        "r": 0.4,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RainbowBGAnimationScale": {
+        "r": 1.0,
+        "g": -0.4,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RainbowOutlineAnimationScale": {
+        "r": -0.4,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RainbowTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.6
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "L_CategoryTag_MegaEvolution",
+  "Name": "L_CategoryTag_MegaEvolution"
+}

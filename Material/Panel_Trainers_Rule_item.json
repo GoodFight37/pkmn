@@ -1,0 +1,46 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 1611494417526887254,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -8778788507399246448,
+          "Name": "card_trainers_rule_frame_item",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_ChangeSpeed": 5.6,
+      "_CullMode": 0.0,
+      "_DiffractionIntensity": 0.8,
+      "_DiffractionPower": 16.0,
+      "_DiffuseIntensity": 1.0,
+      "_EmitMasking": 0.0,
+      "_OrientationU": 1.0,
+      "_OrientationV": -0.087,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.1,
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "Panel_Trainers_Rule_item",
+  "Name": "Panel_Trainers_Rule_item"
+}

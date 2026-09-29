@@ -1,0 +1,183 @@
+{
+  "m_Shader": {
+    "m_FileID": 42,
+    "m_PathID": 1642448172641222702,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 22,
+          "m_PathID": -4408330918281824566,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FakeSpecularMask": {
+        "m_Texture": {
+          "m_FileID": 34,
+          "m_PathID": -2734525066322097532,
+          "Name": "UR_LensFlare_Uzumaki_BgPlate",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 31,
+          "m_PathID": -2177236627439446286,
+          "Name": "UR_UzumakiPlate_C_mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 36,
+          "m_PathID": 2127652163311713218,
+          "Name": "UR_UzumakiPlate_C",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseMaskTex": {
+        "m_Texture": {
+          "m_FileID": 35,
+          "m_PathID": -1138694547396766852,
+          "Name": "mask_white",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 32,
+          "m_PathID": 4338309680434403942,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 27,
+          "m_PathID": -1650704598873027419,
+          "Name": "UR_RMPmask_UR_SB_Uzumaki",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 33,
+          "m_PathID": 4120545396957883377,
+          "Name": "UR_RMP_UR_uzumaki",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BaseColorIntensity": 1.0,
+      "_DarknessOffset": 0.0,
+      "_DiffractionIntensity": 1.0,
+      "_DiffractionPower": 13.0,
+      "_FakeCameraHeight": 0.1,
+      "_FakeSpecularCornerPower": 15.0,
+      "_FakeSpecularIntensity": 0.8,
+      "_FakeSpecularMaskScale": 0.74,
+      "_FakeSpecularNotCornerOffset": 0.8,
+      "_FakeSpecularPower": 1.0,
+      "_Height": 0.0,
+      "_HeightPower": 0.25,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.186,
+      "_RampRepeat": 1.0,
+      "_RampSpeed": 1.5,
+      "_RemoveMetalic": 0.75,
+      "_Scale": 1.29,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.2,
+      "_StencilRef": 1.0,
+      "_UseUv2": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_DarknessColor": {
+        "r": 0.8000001,
+        "g": 0.7686275,
+        "b": 0.69803923,
+        "a": 0.0
+      },
+      "_FakeSpecularColor": {
+        "r": 1.0,
+        "g": 0.9294118,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_004000_02_DIALGAex_UR_L_Uzumaki",
+  "Name": "cPK_20_004000_02_DIALGAex_UR_L_Uzumaki"
+}

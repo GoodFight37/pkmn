@@ -1,0 +1,151 @@
+{
+  "m_Shader": {
+    "m_FileID": 29,
+    "m_PathID": -2803090270879666180,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AdditiveTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -7990400349654232671,
+          "Name": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR_L_RLOGO_GLOW",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramFrontMaskTex": {
+        "m_Texture": {
+          "m_FileID": 26,
+          "m_PathID": 7649223364179375653,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -5288233267550036349,
+          "Name": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR_L_RLOGO_MASK",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -8728328782198355862,
+          "Name": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR_L_RLOGO_BASE",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 6620071759568749720,
+          "Name": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR_L_RLOGO_PHASE",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 31,
+          "m_PathID": 7093875013367692687,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 24,
+          "m_PathID": 2978917775142531399,
+          "Name": "SR_RMP_RLOGO",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_DiffractionIntensity": 0.55,
+      "_DiffractionPower": 14.0,
+      "_FakeCameraHeight": 0.0,
+      "_FrontMaskPower": 64.0,
+      "_Height": 0.0,
+      "_HeightPower": 0.0,
+      "_PhaseRotate": 116.0,
+      "_PhaseScale": 1.5,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.141,
+      "_RampRepeat": 1.0,
+      "_RampRotate": 116.0,
+      "_RampScale": 0.5,
+      "_RampSpeed": 0.4,
+      "_Scale": 0.985,
+      "_StencilRef": 2.0,
+      "_UseHologram": 1.0,
+      "_UseMaskUv": 0.0,
+      "_UseUv": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR_L_RLOGO",
+  "Name": "cPK_20_021360_00_ROCKETDANNOTHUNDERex_SR_L_RLOGO"
+}

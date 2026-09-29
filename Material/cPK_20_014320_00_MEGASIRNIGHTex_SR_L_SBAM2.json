@@ -1,0 +1,195 @@
+{
+  "m_Shader": {
+    "m_FileID": 23,
+    "m_PathID": 2362128481372052300,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DistanceMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -7803129519943654369,
+          "Name": "cPK_20_014320_00_MEGASIRNIGHTex_SR_L_AURAMASK",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FBMTex": {
+        "m_Texture": {
+          "m_FileID": 24,
+          "m_PathID": -226510259740242032,
+          "Name": "fbm_u14v14_x0y0_2",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlowMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 7612860579482513793,
+          "Name": "cPK_20_014320_00_MEGASIRNIGHTex_SR_L_PARTICLEFLOW",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlowTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 658576803397354446,
+          "Name": "cPK_20_014320_00_MEGASIRNIGHTex_SR_L_AURAFLOW",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ParticleShapeMask": {
+        "m_Texture": {
+          "m_FileID": 25,
+          "m_PathID": 5583123275420042728,
+          "Name": "FlowParticle_shape_mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ParticleTex": {
+        "m_Texture": {
+          "m_FileID": 26,
+          "m_PathID": 1396464245351795959,
+          "Name": "FlowParticle",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 0.258,
+      "_AuraAlphaIntensity": 0.93,
+      "_AuraAreaMasking": 5.21,
+      "_AuraBaseTransparency": 0.1,
+      "_AuraCol4Threshold": 1.0,
+      "_AuraCol4ThresholdWidth": 1.0,
+      "_AuraColorIntensity": 10.0,
+      "_AuraDetail": 4.4,
+      "_AuraDistancePower": 1.2,
+      "_AuraEmissiveIntensity": 0.0,
+      "_AuraFlowIntensity": 0.378,
+      "_AuraMowamowaPower": 4.0,
+      "_AuraSpeed": 0.22,
+      "_BlendAuraFlowMapByShape": 0.525,
+      "_BlendFlowMapUpVector": 0.162,
+      "_BureNoiseDetail": 0.0,
+      "_BureNoiseIntensity": 0.2,
+      "_BureNoiseSpeed": 0.0,
+      "_NoiseMaskDetail": 3.0,
+      "_NoiseMaskIntensity": 3.0,
+      "_NoiseMaskOffset": 0.01,
+      "_NoiseMaskPower": 1.0,
+      "_NoiseMaskSpeed": 0.73,
+      "_NoiseMoveUpSpeed": 0.02,
+      "_ParticleAlphaBlend": 0.0,
+      "_ParticleBaseTransparency": 0.074,
+      "_ParticleColorIntensity": 20.0,
+      "_ParticleDetail": 2.2,
+      "_ParticleDistancePower": 5.0,
+      "_ParticleEmissiveIntensity": 1.5,
+      "_ParticleFlowIntensity": 0.45,
+      "_ParticleMove": 0.05,
+      "_ParticleShapeDetail": 6.0,
+      "_ParticleSpeed": 0.25,
+      "_Stencil": 1.0,
+      "_UpVectorNoiseDetail": 14.6,
+      "_UpVectorNoiseSpeed": 1.0,
+      "_UpVectorNoiseStrength": 0.0,
+      "_UseCol4": 0.0,
+      "_UseOldNoise": 1.0,
+      "_VisualizeNoiseMask": 0.0,
+      "_VisualizeUpVector": 0.0,
+      "_ZOffset": 1.0,
+      "_ZTest": 4.0
+    },
+    "m_Colors": {
+      "_Col1": {
+        "r": 1.0,
+        "g": 0.89019614,
+        "b": 0.003921569,
+        "a": 1.0
+      },
+      "_Col2": {
+        "r": 1.0,
+        "g": 0.89019614,
+        "b": 0.003921569,
+        "a": 1.0
+      },
+      "_Col3": {
+        "r": 0.95294124,
+        "g": 0.7686275,
+        "b": 0.003921569,
+        "a": 1.0
+      },
+      "_Col4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ParticleColor": {
+        "r": 0.9803922,
+        "g": 1.0,
+        "b": 0.882353,
+        "a": 1.0
+      },
+      "_ParticleUVOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_014320_00_MEGASIRNIGHTex_SR_L_SBAM2",
+  "Name": "cPK_20_014320_00_MEGASIRNIGHTex_SR_L_SBAM2"
+}

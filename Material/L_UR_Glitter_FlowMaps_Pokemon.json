@@ -1,0 +1,195 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7420289119115703173,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_ABaseTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -8085617618305828996,
+          "Name": "Glitter_A_TexBase_9000_sca19_1024",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ALightTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -1325560716055799204,
+          "Name": "Glitter_A_TexLight_9000_sca19_1024",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BBaseTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -908249725547305055,
+          "Name": "Glitter_B_TexBase_10000_sca17_1024",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BLightTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -2701397616064190602,
+          "Name": "Glitter_B_TexLight_10000_sca17_1024",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlowAMap": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 413254100755789328,
+          "Name": "Glitter_A_FlowMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FlowBMap": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2338329833907679217,
+          "Name": "Glitter_B_FlowMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaClip": 0.0,
+      "_Blend": 0.0,
+      "_BumpScale": 1.0,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_EmitThreshold": 0.08,
+      "_EnvironmentReflections": 1.0,
+      "_FadeDuration": 0.2,
+      "_FakeCameraHeight": 0.0,
+      "_FakeCameraHeightB": 0.0,
+      "_FlowAPower": 0.1,
+      "_FlowASpeed": 1.0,
+      "_FlowBPower": 0.1,
+      "_FlowBSpeed": 1.0,
+      "_FlowPower": 0.2,
+      "_FlowScale": 1.35,
+      "_FlowScaleB": 1.35,
+      "_FlowSpeed": 1.0,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_Height": 0.0,
+      "_HeightB": 0.0,
+      "_HeightPower": 0.6,
+      "_HeightPowerB": 0.5,
+      "_LightSpeed": 1.0,
+      "_LightTime": 0.06,
+      "_Metallic": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.005,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_RotateSpeedA": 0.2,
+      "_RotateSpeedB": -0.15,
+      "_Scale": 0.675,
+      "_ScaleB": 0.6,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_StencilRef": 0.0,
+      "_Surface": 0.0,
+      "_WorkflowMode": 1.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_LightColor": {
+        "r": 1.0,
+        "g": 0.9749375,
+        "b": 0.7688679,
+        "a": 1.0
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "L_UR_Glitter_FlowMaps_Pokemon",
+  "Name": "L_UR_Glitter_FlowMaps_Pokemon"
+}

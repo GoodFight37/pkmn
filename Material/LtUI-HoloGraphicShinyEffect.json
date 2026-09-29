@@ -1,0 +1,101 @@
+{
+  "m_Shader": {
+    "m_FileID": 6,
+    "m_PathID": 1629800959128877609,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_HoloTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": -5876402568555679396,
+          "Name": "ALL_RMP_RareMark_Igaiga",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ParamTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_Angle": 30.6,
+      "_ColorMask": 15.0,
+      "_Direction": 30.0,
+      "_Duration": 1.6,
+      "_HoloPower": 0.11,
+      "_Location": 0.0,
+      "_ManualTime": 0.0,
+      "_MaskAngle": 114.0,
+      "_MaskSpeed": 6.0,
+      "_Offset": 0.0,
+      "_Span": 0.0,
+      "_Speed": 0.0,
+      "_Stencil": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilOp": 0.0,
+      "_StencilReadMask": 255.0,
+      "_StencilWriteMask": 255.0,
+      "_UVMode": 0.0,
+      "_UseHolo": 1.0,
+      "_UseManualTime": 0.0,
+      "_UseUIAlphaClip": 0.0,
+      "_Width": 0.3
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpriteRectInfo": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "LtUI-HoloGraphicShinyEffect",
+  "Name": "LtUI-HoloGraphicShinyEffect"
+}

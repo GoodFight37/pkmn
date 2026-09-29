@@ -1,0 +1,134 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 3691811751576115235,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -8395824456968563632,
+          "Name": "prism_ssr_A",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AdjustAlphaIntensity": 3.5,
+      "_AlphaClip": 0.0,
+      "_AlphaToMask": 0.0,
+      "_AnglePower": 0.0,
+      "_Blend": 0.0,
+      "_BlendDstColor": 1.0,
+      "_BlendMode": 0.0,
+      "_BlendModePreserveSpecular": 1.0,
+      "_BlendSrcColor": 4.0,
+      "_BumpScale": 1.0,
+      "_CenterMoveIntensity": -0.07,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_ColorIntensity": 0.7,
+      "_ColoringMethod": 0.0,
+      "_Cull": 2.0,
+      "_CullMode": 0.0,
+      "_Cutoff": 0.5,
+      "_DepthOffset": 0.0,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DstBlend": 0.0,
+      "_DstBlendAlpha": 0.0,
+      "_DstFactor": 10.0,
+      "_DstFactorA": 10.0,
+      "_Edge": 0.0,
+      "_EmissiveIntensity": 0.0,
+      "_EnvironmentReflections": 1.0,
+      "_Expand": 1.0,
+      "_ExpandAlphaPower": 0.5,
+      "_ExpandScale": 1.0,
+      "_ExpandTiming": 0.75,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_Layer": 0.0,
+      "_MainPower": 1.0,
+      "_MaskPower": 0.0,
+      "_Metallic": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_OkLabBlend": 1.0,
+      "_OklabBlend": 1.0,
+      "_Parallax": 0.005,
+      "_Progress": 0.0,
+      "_QueueOffset": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_RotateSpeed": 0.0,
+      "_Shift": 0.032,
+      "_ShiftDynamic": 0.0,
+      "_ShiftTiming": 10.0,
+      "_ShiftU": 0.0,
+      "_ShiftUByTilt": 1.0,
+      "_ShiftUByTiltIntensity": 0.05,
+      "_ShiftUNoise": 0.0,
+      "_ShiftUOffsetByTilt": 1.0,
+      "_ShiftUOffsetIntensity": 0.0,
+      "_ShiftV": 0.01,
+      "_ShiftVOffsetByTilt": 1.0,
+      "_ShiftVOffsetIntensity": 0.003,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendAlpha": 1.0,
+      "_SrcFactor": 5.0,
+      "_SrcFactorA": 0.0,
+      "_Stencil": 0.0,
+      "_Surface": 0.0,
+      "_UseGradationMap": 0.0,
+      "_UseRotate": 0.0,
+      "_UseViewMask": 0.0,
+      "_WorkflowMode": 1.0,
+      "_ZTest": 7.0,
+      "_ZWrite": 0.0,
+      "_ZWriteParam": 0.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Prism_SSR_A",
+  "Name": "Prism_SSR_A"
+}

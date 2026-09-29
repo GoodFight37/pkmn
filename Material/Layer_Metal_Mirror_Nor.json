@@ -1,0 +1,105 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3392042766667377368,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MetalMaskTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 698654201443267223,
+          "Name": "card_frame_mask_Mirror",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 0.0,
+      "_BaseColorIntensity": 0.55,
+      "_ChangeSpeed": 5.6,
+      "_CutOut": 0.0,
+      "_DiffractionIntensity": 1.0,
+      "_DiffractionPower": 16.0,
+      "_FakeCameraHeight": 0.0,
+      "_Height": 0.0,
+      "_HeightPower": 0.0,
+      "_Layer1BaseColorIntensity": 0.8,
+      "_Layer1DiffractionIntensity": 0.4,
+      "_Layer1DiffractionPower": 70.0,
+      "_Layer1Shininess": 2.0,
+      "_Layer1SpecularIntensity": 0.2,
+      "_MaskPower": 64.0,
+      "_MetalMaskIntensity": 1.0,
+      "_OrientationU": 1.0,
+      "_OrientationV": 1.0,
+      "_PhaseRotate": 0.0,
+      "_PhaseScale": 1.0,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.0,
+      "_RampOffset2": 0.0,
+      "_RampRepeat": 7.0,
+      "_RampRotate": 0.0,
+      "_RampScale": 1.0,
+      "_RampSpeed": 2.0,
+      "_RampUVOffset": 0.0,
+      "_RampUVTiltOffset": 0.0,
+      "_RemoveMetallic": 0.0,
+      "_Scale": 1.0,
+      "_Shininess": 78.0,
+      "_SpecularIntensity": 0.58,
+      "_StencilRef": 1.0,
+      "_UseAlphaAsAlphaBlendMask": 0.0,
+      "_UseGradationMap": 0.0,
+      "_UseMaskUv": 0.0,
+      "_UseReflectionAlpha": 1.0,
+      "_UseUv": 0.0,
+      "_UseUv2": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_HologramBaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Layer_Metal_Mirror_Nor",
+  "Name": "Layer_Metal_Mirror_Nor"
+}

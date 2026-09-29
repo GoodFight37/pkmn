@@ -1,0 +1,229 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 6844407672983261996,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_FaceTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 8588858337919807788,
+          "Name": "tmp_gradient",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 4844346167338499664,
+          "Name": "FOT-NewRodinPro-EB SDF Atlas",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_Ambient": 1.0,
+      "_Bevel": 1.0,
+      "_BevelClamp": 0.609,
+      "_BevelOffset": 0.6,
+      "_BevelRoundness": 0.501,
+      "_BevelThreshold": 0.131,
+      "_BevelWidth": -0.021,
+      "_BumpFace": 0.0,
+      "_BumpOutline": 0.0,
+      "_BumpWeight": -0.69,
+      "_ColorMask": 15.0,
+      "_CullMode": 0.0,
+      "_Diffuse": 0.0,
+      "_FaceDilate": -0.002,
+      "_FaceTexRotation": 0.0,
+      "_FaceTexScale": 0.5,
+      "_FaceUVSpeedX": 0.0,
+      "_FaceUVSpeedY": 0.0,
+      "_FattenEnable": 1.0,
+      "_FattenFactor": 0.0,
+      "_GlowInner": 0.0,
+      "_GlowOffset": 0.195,
+      "_GlowOuter": 0.0,
+      "_GlowPower": 1.0,
+      "_GradationRotation": 3.1416,
+      "_GradientScale": 10.0,
+      "_LightAngle": 3.87,
+      "_MaskSoftnessX": 0.0,
+      "_MaskSoftnessY": 0.0,
+      "_Multiplier": 1.0,
+      "_OutlineSoftness": 0.0,
+      "_OutlineUVSpeedX": 0.0,
+      "_OutlineUVSpeedY": 0.0,
+      "_OutlineWidth": 0.306,
+      "_PerspectiveFilter": 0.875,
+      "_Point1": 0.0,
+      "_Point2": 0.25,
+      "_Point3": 0.5,
+      "_Point4": 0.75,
+      "_Reflectivity": 15.0,
+      "_ScaleRatioA": 0.9,
+      "_ScaleRatioB": 0.65025,
+      "_ScaleRatioC": 0.73305,
+      "_ScaleX": 1.0,
+      "_ScaleY": 1.0,
+      "_ShaderFlags": 0.0,
+      "_Sharpness": 0.0,
+      "_SpecularPower": 4.0,
+      "_Stencil": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilOp": 0.0,
+      "_StencilReadMask": 255.0,
+      "_StencilWriteMask": 255.0,
+      "_TextureHeight": 1024.0,
+      "_TextureWidth": 1024.0,
+      "_UnderlayDilate": 0.0,
+      "_UnderlayOffsetX": 0.182,
+      "_UnderlayOffsetY": -0.303,
+      "_UnderlaySoftness": 0.49,
+      "_UseFaceTexture": 0.0,
+      "_VertexOffsetX": 0.0,
+      "_VertexOffsetY": 0.0,
+      "_WeightBold": 0.75,
+      "_WeightNormal": 0.0
+    },
+    "m_Colors": {
+      "_BottomColor": {
+        "r": 0.0,
+        "g": 0.16470623,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ClipRect": {
+        "r": -32767.0,
+        "g": -32767.0,
+        "b": 32767.0,
+        "a": 32767.0
+      },
+      "_Color1": {
+        "r": 0.9137255,
+        "g": 0.8039216,
+        "b": 0.22352941,
+        "a": 1.0
+      },
+      "_Color2": {
+        "r": 0.9137255,
+        "g": 0.7137255,
+        "b": 0.15294118,
+        "a": 1.0
+      },
+      "_Color3": {
+        "r": 1.0,
+        "g": 0.9490196,
+        "b": 0.09411765,
+        "a": 1.0
+      },
+      "_Color4": {
+        "r": 1.0,
+        "g": 0.9764706,
+        "b": 0.7411765,
+        "a": 1.0
+      },
+      "_EnvMatrixRotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_FaceColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FaceTexRotationCenter": {
+        "r": 2.2,
+        "g": -1.8,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_GlowColor": {
+        "r": 0.14215687,
+        "g": 0.10784314,
+        "b": 0.004901961,
+        "a": 1.0
+      },
+      "_GradationRotationCenter": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MaskCoord": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 32767.0,
+        "a": 32767.0
+      },
+      "_Offset": {
+        "r": 0.0,
+        "g": -0.01,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.4509804,
+        "g": 0.37254903,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ReflectFaceColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ReflectOutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 0.9647059,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TopColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_UnderlayColor": {
+        "r": 0.0,
+        "g": 0.21568628,
+        "b": 0.5137255,
+        "a": 0.4
+      }
+    }
+  },
+  "m_Name": "FOT-NewRodinPro-EB-SDF-Emblem_Anniv",
+  "Name": "FOT-NewRodinPro-EB-SDF-Emblem_Anniv"
+}

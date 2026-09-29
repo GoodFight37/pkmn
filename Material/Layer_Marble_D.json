@@ -1,0 +1,238 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7556975018971663688,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseRampTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7280606361529113296,
+          "Name": "marble_AandD",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoisyMask": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2037178967021838551,
+          "Name": "UB_BG_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.6,
+          "Y": 0.6
+        },
+        "m_Offset": {
+          "X": 0.2,
+          "Y": 0.2
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_": 1.0,
+      "_AlphaClip": 0.0,
+      "_AlphaToMask": 0.0,
+      "_AvoidPointDist": 0.0,
+      "_BaseColorIntensity": 0.9,
+      "_Blend": 0.0,
+      "_BlendModePreserveSpecular": 1.0,
+      "_BumpScale": 1.0,
+      "_ClearCoatMask": 0.0,
+      "_ClearCoatSmoothness": 0.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DebugCompositeMaskOnly": 0.0,
+      "_DebugFogOnly": 0.0,
+      "_DebugNoisyMaskOnly": 0.0,
+      "_DebugTinyNoiseOnly": 0.0,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DistLimit": 2.0,
+      "_DistPower": 0.5,
+      "_DstBlend": 0.0,
+      "_DstBlendAlpha": 0.0,
+      "_EmissiveByForceLoopCount": 2.0,
+      "_EmissiveByForcePower": 10.0,
+      "_EmissiveIntensity": 3.0,
+      "_EmissiveIntensityTiltPower": 0.58,
+      "_EnvironmentReflections": 1.0,
+      "_FlowPower": 0.0,
+      "_FlowRotation": 0.0,
+      "_FlowScale": 0.65,
+      "_FlowTiltRotation": 1.0,
+      "_FogScrollScale": 1.0,
+      "_FogTiltPower": 7.0,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_MagneticMoveMax": 0.97,
+      "_MagneticMovePower": 5.0,
+      "_MagneticRange": 0.61,
+      "_Metallic": 0.0,
+      "_NearCap": 1.0,
+      "_NearCapDist": 0.0,
+      "_NearCapStrength": 5.0,
+      "_NoisyMaskScale": 0.55,
+      "_OcclusionStrength": 1.0,
+      "_OutsideEndRadius": 0.72,
+      "_OutsideRelax": 0.7,
+      "_OutsideRelaxPower": 1.0,
+      "_OutsideStartRadius": 0.45,
+      "_Parallax": 0.005,
+      "_PlacementDebug": 0.0,
+      "_QueueOffset": 0.0,
+      "_RadialShearOffsetX": 0.35,
+      "_RadialShearOffsetY": -0.12,
+      "_RadialShearStrength": 1.0,
+      "_RadialShearTiltStrength": 1.0,
+      "_ReceiveShadows": 1.0,
+      "_RelaxLD": 0.0,
+      "_RelaxLU": 0.0,
+      "_RelaxRD": 0.0,
+      "_RelaxRU": 0.0,
+      "_RepulsionMoveMax": 0.01,
+      "_RepulsionMovePower": 6.0,
+      "_RepulsionRange": 1.3,
+      "_ReverseFogPower": 0.0,
+      "_ShearDefaultDegree": 250.0,
+      "_ShearStrength": -0.9,
+      "_ShearTiltDegree": -10.0,
+      "_Shininess": 10.0,
+      "_Smoothness": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SoftMaskScale": 0.7,
+      "_SpecularHighlights": 1.0,
+      "_SpecularIntensity": 0.5,
+      "_SpherizeOffsetX": -0.13,
+      "_SpherizeOffsetY": 0.45,
+      "_SpherizeStrength": 13.0,
+      "_SrcBlend": 1.0,
+      "_SrcBlendAlpha": 1.0,
+      "_StrengthMultiply": 3.5,
+      "_StrengthOffset": 0.29,
+      "_Surface": 0.0,
+      "_ThresholdTest": 0.0,
+      "_TinyNoiseAnimationScale": 1.0,
+      "_TinyNoiseMode": 0.0,
+      "_UseBlackFog": 1.0,
+      "_UseDistLimit": 1.0,
+      "_UseEmissive": 1.0,
+      "_UseEmissiveByForce": 1.0,
+      "_UseFlow": 0.0,
+      "_UseMagnetic": 1.0,
+      "_UseOutsideRelax": 0.0,
+      "_UseRadialShear": 1.0,
+      "_UseRepulsion": 0.0,
+      "_UseShear": 1.0,
+      "_UseSpherize": 1.0,
+      "_WorkflowMode": 1.0,
+      "_WorldFrontPower": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DefaultFogRemapParams": {
+        "r": 0.0,
+        "g": 0.06,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FogRemapMinMax": {
+        "r": -5.95,
+        "g": 1.15,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_FogScrollScale": {
+        "r": 8.2,
+        "g": 11.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_FogTransitionRemapParams": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RadialShearCenterDefault": {
+        "r": 0.06,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RadialShearCenterTiltMove": {
+        "r": 0.3,
+        "g": -0.63,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SpecColor": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "_TiltFogRemapParams": {
+        "r": 0.0,
+        "g": -2.07,
+        "b": 0.65,
+        "a": 0.0
+      },
+      "_TinyNoiseScale": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Layer_Marble_D",
+  "Name": "Layer_Marble_D"
+}

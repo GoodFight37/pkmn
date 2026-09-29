@@ -1,0 +1,33 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -129040418415349609,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -52072742301818620,
+          "Name": "DECKSHIELD_100260_RED_PIKACHU_DeckShield_PAR1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {},
+    "m_Colors": {}
+  },
+  "m_Name": "DECKSHIELD_100260_RED_PIKACHU_DeckShield_M",
+  "Name": "DECKSHIELD_100260_RED_PIKACHU_DeckShield_M"
+}

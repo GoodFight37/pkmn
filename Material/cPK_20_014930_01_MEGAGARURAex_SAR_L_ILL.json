@@ -1,0 +1,48 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 9208903488593729229,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 998193714362398134,
+          "Name": "cPK_20_014930_01_MEGAGARURAex_SAR_L_ILL",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BlendMode": 0.0,
+      "_DstFactor": 10.0,
+      "_DstFactorA": 10.0,
+      "_FakeCameraHeight": 0.0,
+      "_Height": 0.0,
+      "_HeightPower": 0.0,
+      "_Scale": 1.0,
+      "_SrcFactor": 1.0,
+      "_SrcFactorA": 0.0,
+      "_StencilRef": 1.0,
+      "_UVAspectRatio": 0.0,
+      "_UseUv": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "cPK_20_014930_01_MEGAGARURAex_SAR_L_ILL",
+  "Name": "cPK_20_014930_01_MEGAGARURAex_SAR_L_ILL"
+}

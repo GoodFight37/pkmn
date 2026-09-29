@@ -1,0 +1,175 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -2814824103247948085,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4408330918281824566,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DynamicUITex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MetalMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2803638625724009533,
+          "Name": "Phase_Tag_Paradox_Pokemon",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 7490438917109954014,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 5776900070289007123,
+          "Name": "UB_RMP_CategoryTag_UR",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_AlphaBlend": 0.0,
+      "_BaseColorIntensity": 0.75,
+      "_ChangeSpeed": 5.6,
+      "_DarknessOffset": 0.0,
+      "_DiffractionIntensity": 1.1,
+      "_DiffractionPower": 40.0,
+      "_DiffuseIntensity": 0.75,
+      "_FakeSpecularCornerPower": 0.0,
+      "_FakeSpecularIntensity": 1.45,
+      "_FakeSpecularMaskScale": 1.0,
+      "_FakeSpecularNotCornerOffset": 0.0,
+      "_FakeSpecularPower": 1.7,
+      "_MetallicMaskPower": 1.0,
+      "_OrientationU": 1.0,
+      "_OrientationV": 1.0,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.021,
+      "_RampRepeat": 2.0,
+      "_RampSpeed": 1.0,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.75,
+      "_USE_DYNAMIC_UI_AS_HOLO_MASK": 1.0,
+      "_USE_DYNAMIC_UI_AS_METALLIC_MASK": 1.0,
+      "_UseDynamicUI": 1.0,
+      "_ZTest": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_DarknessColor": {
+        "r": 0.74509805,
+        "g": 0.72156864,
+        "b": 0.6509804,
+        "a": 0.0
+      },
+      "_FakeSpecularColor": {
+        "r": 0.4431373,
+        "g": 0.4039216,
+        "b": 0.27450982,
+        "a": 0.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "L_FullFace_Holo_CategoryTag_Paradox_UR",
+  "Name": "L_FullFace_Holo_CategoryTag_Paradox_UR"
+}

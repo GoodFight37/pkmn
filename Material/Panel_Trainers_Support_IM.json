@@ -1,0 +1,211 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 7535980877961637181,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -1677853547573672181,
+          "Name": "card_trainers_panel_support",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -4408330918281824566,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HologramMaskTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 2794546419259542326,
+          "Name": "card_trainers_panel_support_URgoods_mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ImmersiveEffectMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 4332598221581587860,
+          "Name": "Phase_IM_Support_UI",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -1100327942441422489,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": -5207518254218910877,
+          "Name": "IM_Support_UI_RMP",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_BaseColorIntensity": 0.3,
+      "_BlendSrcColor": 5.0,
+      "_ChangeSpeed": 5.6,
+      "_CullMode": 0.0,
+      "_DarknessEnabled": 1.0,
+      "_DarknessOffset": 0.0,
+      "_DiffractionIntensity": 1.1,
+      "_DiffractionPower": 11.0,
+      "_DiffuseIntensity": 1.0,
+      "_EmissivePattern": 1.0,
+      "_FakeSpecularCornerPower": 0.0,
+      "_FakeSpecularEnabled": 1.0,
+      "_FakeSpecularIntensity": 1.45,
+      "_FakeSpecularMaskScale": 1.0,
+      "_FakeSpecularNotCornerOffset": 0.0,
+      "_FakeSpecularPower": 1.7,
+      "_MaxDiffractionIntensity": 1.5,
+      "_MaxSaturation": 1.0,
+      "_MinDiffractionIntensity": 1.0,
+      "_MinSaturation": 0.0,
+      "_OrientationU": 1.0,
+      "_OrientationV": -0.087,
+      "_PhaseRotate": 0.0,
+      "_PhaseScale": 1.0,
+      "_RampInterval": 0.0,
+      "_RampMaskRotation": 1.08,
+      "_RampMaskScale": 0.66,
+      "_RampOffset": -0.198,
+      "_RampRepeat": 2.0,
+      "_RampRotate": 55.0,
+      "_RampScale": 0.6,
+      "_RampSpeed": 0.3,
+      "_RampUVOffset": 0.0,
+      "_RampUVTiltOffset": 0.0,
+      "_RemoveMetalic": 0.827,
+      "_RemoveMetallic": 0.0,
+      "_SatTiltIntensity": 1.0,
+      "_SatTiltOffset": 0.0,
+      "_SatTiltPower": 1.0,
+      "_Shininess": 2.0,
+      "_SpecularIntensity": 0.3,
+      "_TiltDiffractionEnabled": 0.0,
+      "_TiltIntensity": 1.0,
+      "_TiltOffset": 0.0,
+      "_TiltPower": 1.0,
+      "_TiltSaturationEnabled": 0.0,
+      "_UseDiffuseColor": 0.0,
+      "_UseSimpleRampMaskAndRotation": 1.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_DarknessColor": {
+        "r": 0.745283,
+        "g": 0.72337884,
+        "b": 0.6503649,
+        "a": 0.0
+      },
+      "_EmissiveColor": {
+        "r": 0.38679248,
+        "g": 0.34744334,
+        "b": 0.23171058,
+        "a": 1.0
+      },
+      "_FakeSpecularColor": {
+        "r": 0.4433962,
+        "g": 0.4019847,
+        "b": 0.2739854,
+        "a": 0.0
+      },
+      "_OffDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Rotation": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Panel_Trainers_Support_IM",
+  "Name": "Panel_Trainers_Support_IM"
+}

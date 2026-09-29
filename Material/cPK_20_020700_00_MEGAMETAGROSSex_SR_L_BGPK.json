@@ -1,0 +1,112 @@
+{
+  "m_Shader": {
+    "m_FileID": 40,
+    "m_PathID": 8147289495056524436,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 414915702178915568,
+          "Name": "cPK_20_020700_00_MEGAMETAGROSSex_SR_L_BGPK",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PhaseTex": {
+        "m_Texture": {
+          "m_FileID": 12,
+          "m_PathID": -5937532967480845044,
+          "Name": "Phase_SR_BG",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMaskTex": {
+        "m_Texture": {
+          "m_FileID": 13,
+          "m_PathID": -5292559525388007056,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 14,
+          "m_PathID": -7481947564312647108,
+          "Name": "SR_RMP_BG_SB",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {},
+    "m_Floats": {
+      "_DiffractionIntensity": 0.4,
+      "_DiffractionPower": 50.0,
+      "_FakeCameraHeight": 0.0,
+      "_Height": 0.0,
+      "_HeightPower": 0.0,
+      "_RampInterval": 0.0,
+      "_RampOffset": 0.39,
+      "_RampRepeat": 3.0,
+      "_RampSpeed": 2.0,
+      "_Scale": 1.25,
+      "_StencilRef": 2.0,
+      "_Translate": 0.0,
+      "_TranslateDir": 122.0,
+      "_TranslateDist": 0.28,
+      "_Transparency": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_CanvasPixel": {
+        "r": 1835.0,
+        "g": 2560.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_PixelOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "cPK_20_020700_00_MEGAMETAGROSSex_SR_L_BGPK",
+  "Name": "cPK_20_020700_00_MEGAMETAGROSSex_SR_L_BGPK"
+}
